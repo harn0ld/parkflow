@@ -36,6 +36,8 @@ przypisywać sektory z wystarczającymi danymi. Zatwierdź zmiany przyciskami po
 a następnie pobierz CSV przypisań dla wybranego sezonu i bloku lub katalog wszystkich grup.
 Edycja jest zachowana w sesji przy zmianie sezonu i godzin; nie zmienia taryf ani poziomów modelu.
 Po zakończeniu sesji zmiany pozostają wyłącznie w pobranych plikach.
+Przełącznik **Przepływ w ciągu dnia** na mapie odtwarza dzień 7→19 (suwak i ▶). Sektory płynnie
+przechodzą między czterema blokami, a przejścia są interpolacją wizualną, nie danymi godzinowymi.
 Na mapie podpowiedzi zawierają rekomendowane taryfy, a osobna zakładka **Wyliczenia taryf** pokazuje wyliczenia
 dla wybranego sektora: poziom P, korektę okresu preferencyjnego i koszt 1, 2 oraz 3 godzin postoju.
 To propozycje modelu, nie obowiązujący cennik SPP.

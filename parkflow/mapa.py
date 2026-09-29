@@ -4,7 +4,7 @@ from collections.abc import Iterable
 
 import pandas as pd
 
-from parkflow.model import ZA_MALO_DANYCH
+from parkflow.model import BLOKI, ZA_MALO_DANYCH
 
 POZIOM = "poziom"
 ZA_MALO = "za_malo_danych"
@@ -33,3 +33,15 @@ def stan_kodow(kody: Iterable[str], komorki: pd.DataFrame, wylaczone: dict[str, 
     df.loc[wyl, ["poziom", "adnotacja"]] = ""
     df["adnotacja"] = df["adnotacja"].fillna("")
     return df[["kod", "stan", "poziom", "adnotacja", "opis", "spp", "percentyl"]]
+
+
+def profil_dnia(tabela: pd.DataFrame, sezon: str) -> pd.DataFrame:
+    """Tabela P jednego sezonu → kod × blok (kolejność `BLOKI`) z percentylem; NaN = „za mało danych”.
+
+    Wejście dla odtwarzania dnia na mapie: przejścia między blokami interpoluje dopiero widok.
+    """
+    sel = tabela[tabela["sezon"] == sezon]
+    percentyl = sel["percentyl"].where(sel["adnotacja"] != ZA_MALO_DANYCH)
+    return (sel.assign(percentyl=percentyl)
+            .pivot(index="kod", columns="blok", values="percentyl")
+            .reindex(columns=list(BLOKI)))

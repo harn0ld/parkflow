@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<script src="https://unpkg.com/deck.gl@9.1.14/dist.min.js"></script>
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet">
+<style>
+  html, body { margin: 0; height: 100%; font-family: Inter, system-ui, sans-serif; color: #0f172a; background: #f8fafc; }
+  #mapa { position: absolute; inset: 0; }
+  .panel {
+    position: absolute; left: 12px; right: 12px; top: 12px; z-index: 2;
+    display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px;
+    background: rgba(255, 255, 255, .94); border: 1px solid #e2e8f0; border-radius: 14px;
+    box-shadow: 0 6px 24px rgba(15, 23, 42, .12); padding: 10px 14px;
+  }
+  button.play {
+    width: 40px; height: 40px; border-radius: 50%; border: 0; cursor: pointer;
+    background: #2563eb; color: #fff; font-size: 16px; flex: none;
+  }
+  button.play:hover { background: #1d4ed8; }
+  .zegar { font-size: 26px; font-weight: 750; font-variant-numeric: tabular-nums; min-width: 78px; }
+  .suwak { flex: 1 1 260px; display: flex; flex-direction: column; gap: 4px; }
+  .suwak input { width: 100%; accent-color: #2563eb; }
+  .bloki { display: flex; }
+  .bloki span {
+    flex: 1; text-align: center; font-size: 11px; color: #64748b; cursor: pointer;
+    border-top: 3px solid #e2e8f0; padding-top: 3px; transition: color .2s, border-color .2s;
+  }
+  .bloki span.aktywny { color: #0f172a; font-weight: 700; border-color: #2563eb; }
+  .opcje { display: flex; gap: 10px; align-items: center; font-size: 12px; color: #475569; }
+  .opcje select { font: inherit; border: 1px solid #cbd5e1; border-radius: 6px; padding: 2px 4px; }
+  .legenda {
+    position: absolute; left: 12px; bottom: 28px; z-index: 2; font-size: 11px; color: #475569;
+    background: rgba(255, 255, 255, .92); border-radius: 10px; padding: 8px 10px; border: 1px solid #e2e8f0;
+  }
+  .pasek { width: 200px; height: 10px; border-radius: 5px; margin: 4px 0 2px; }
+  .skala { display: flex; justify-content: space-between; width: 200px; }
+</style>
+</head>
+<body>
+<div id="mapa"></div>
+<div class="panel">
+  <button class="play" id="play" title="Odtwórz dzień" aria-label="Odtwórz dzień">▶</button>
+  <div class="zegar" id="zegar">10:00</div>
+  <div class="suwak">
+    <input id="czas" type="range" min="420" max="1140" step="any" aria-label="Godzina (pn–pt)">
+    <div class="bloki" id="bloki"></div>
+  </div>
+  <div class="opcje">
+    <label>Tempo <select id="tempo">
+      <option value="0.5">0,5×</option><option value="1" selected>1×</option><option value="2">2×</option>
+    </select></label>
+    <label><input type="checkbox" id="trojwymiar" checked> 3D</label>
+  </div>
+</div>
+<div class="legenda">
+  Presja (percentyl) · wysokość = presja
+  <div class="pasek" id="pasek"></div>
+  <div class="skala"><span>P1</span><span>P2</span><span>P3</span><span>P4</span></div>
+</div>
+<script>
+const D = __DANE__;
+const { MapboxOverlay, GeoJsonLayer } = deck;
+
+// Kolor poziomu w środku jego przedziału percentyli: P1 ≤ 40 < P2 ≤ 70 < P3 ≤ 90 < P4.
+const PRZYSTANKI = [[20, D.kolory.P1], [55, D.kolory.P2], [80, D.kolory.P3], [95, D.kolory.P4]];
+const lerp = (a, b, t) => a + (b - a) * t;
+
+function kolorPercentyla(p) {
+  if (p <= PRZYSTANKI[0][0]) return PRZYSTANKI[0][1];
+  for (let i = 1; i < PRZYSTANKI.length; i++) {
+    const [p0, c0] = PRZYSTANKI[i - 1], [p1, c1] = PRZYSTANKI[i];
+    if (p <= p1) { const t = (p - p0) / (p1 - p0); return c0.map((v, k) => lerp(v, c1[k], t)); }
+  }
+  return PRZYSTANKI[PRZYSTANKI.length - 1][1];
+}
+
+// Monotoniczna krzywa sześcienna (Fritsch–Carlson) przez punkty (x, y): gładka, bez „schodków”
+// przy środkach bloków i bez przestrzelenia poza wartości sąsiednich bloków.
+function krzywa(x, y) {
+  const n = x.length, d = [], m = new Array(n).fill(0);
+  for (let i = 0; i < n - 1; i++) d.push((y[i + 1] - y[i]) / (x[i + 1] - x[i]));
+  for (let i = 1; i < n - 1; i++) m[i] = d[i - 1] * d[i] > 0 ? 2 / (1 / d[i - 1] + 1 / d[i]) : 0;
+  return h => {
+    if (h <= x[0]) return y[0];
+    if (h >= x[n - 1]) return y[n - 1];
+    let i = 0;
+    while (h > x[i + 1]) i++;
+    const dx = x[i + 1] - x[i], t = (h - x[i]) / dx, t2 = t * t, t3 = t2 * t;
+    return (2 * t3 - 3 * t2 + 1) * y[i] + (t3 - 2 * t2 + t) * dx * m[i]
+      + (-2 * t3 + 3 * t2) * y[i + 1] + (t3 - t2) * dx * m[i + 1];
+  };
+}
+
+// Wartość sektora o godzinie h: w środku bloku dokładnie dane bloku, pomiędzy środkami płynne przejście.
+// „Za mało danych” = P1 (jak w modelu), blado i bez wysokości. Krzywe liczymy raz na sektor.
+for (const f of D.geojson.features) {
+  const p = f.properties.p;
+  f.properties.krzywaP = krzywa(D.srodki, p.map(v => v ?? 0));
+  f.properties.krzywaA = krzywa(D.srodki, p.map(v => v == null ? D.alfa.za_malo : D.alfa.poziom));
+}
+const wartosc = (pr, h) => ({ p: Math.max(0, Math.min(100, pr.krzywaP(h))), a: pr.krzywaA(h) });
+
+const esc = s => String(s).replace(/[&<>"']/g, c => `&#${c.charCodeAt(0)};`);
+const indeksBloku = h => Math.min(D.bloki.length - 1, Math.max(0, Math.floor((h - 7) / 3)));
+const zegar = m => `${String(Math.floor(m / 60)).padStart(2, "0")}:${String(Math.floor(m % 60)).padStart(2, "0")}`;
+
+// `minuty` = godzina na mapie, `cel` = godzina z suwaka; mapa dopływa do celu płynnie.
+let minuty = D.start * 60, cel = minuty, gra = false, tempo = 1, trojwymiar = true;
+
+function warstwaSektorow() {
+  const h = minuty / 60, w = new Map();
+  const odczyt = f => w.get(f) ?? w.set(f, wartosc(f.properties, h)).get(f);
+  return new GeoJsonLayer({
+    id: "sektory", data: D.geojson, pickable: true, stroked: true, filled: true,
+    extruded: trojwymiar, wireframe: false,
+    getLineColor: [255, 255, 255, 160], lineWidthMinPixels: 0.5,
+    getFillColor: f => {
+      if (f.properties.wylaczony) return [...D.kolory.neutralny, D.alfa.wylaczony];
+      const { p, a } = odczyt(f);
+      return [...kolorPercentyla(p), a];
+    },
+    getElevation: f => f.properties.wylaczony ? 0 : Math.pow(odczyt(f).p / 100, 2) * 900,
+    material: { ambient: 0.55, diffuse: 0.5, shininess: 20 },
+    updateTriggers: { getFillColor: minuty, getElevation: minuty },
+    autoHighlight: true, highlightColor: [37, 99, 235, 90],
+  });
+}
+
+function tooltip({ object }) {
+  if (!object) return null;
+  const pr = object.properties, akt = indeksBloku(minuty / 60);
+  const wiersze = D.bloki.map((b, i) =>
+    `<div style="display:flex;justify-content:space-between;gap:16px;${i === akt ? "font-weight:700" : "color:#64748b"}">`
+    + `<span>${b}</span><span>${pr.poziomy[i]}</span></div>`).join("");
+  return {
+    html: `<div style="font-size:18px;font-weight:750">Sektor ${pr.kod}</div>`
+      + `<div style="font-size:12px;color:#64748b;margin-bottom:8px">${esc(pr.ulice)}</div>`
+      + (pr.wylaczony ? `<div>${esc(pr.opis)}</div>` : wiersze),
+    style: { backgroundColor: "#fff", color: "#0f172a", padding: "12px 14px", borderRadius: "12px",
+             border: "1px solid #e2e8f0", boxShadow: "0 8px 30px rgba(15,23,42,.18)", fontSize: "13px",
+             maxWidth: "280px" },
+  };
+}
+
+// Podkład jak w mapie pydeck (map_style="light"): wektorowy Positron z CARTO.
+const mapa = new maplibregl.Map({
+  container: "mapa", style: "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json",
+  center: [19.46, 51.765], zoom: 12.2, pitch: 45, bearing: -12, maxPitch: 60,
+});
+const nakladka = new MapboxOverlay({ layers: [warstwaSektorow()], getTooltip: tooltip });
+mapa.addControl(nakladka);
+
+const suwak = document.getElementById("czas"), przycisk = document.getElementById("play");
+const blokiEl = document.getElementById("bloki");
+D.bloki.forEach((b, i) => {
+  const el = document.createElement("span");
+  el.textContent = b;
+  el.onclick = () => przesun(D.srodki[i] * 60);
+  blokiEl.appendChild(el);
+});
+document.getElementById("pasek").style.background = "linear-gradient(to right,"
+  + [0, 20, 40, 55, 70, 80, 90, 95, 100].map(p => `rgb(${kolorPercentyla(p).map(Math.round)}) ${p}%`).join(",") + ")";
+
+function rysuj() {
+  document.getElementById("zegar").textContent = zegar(minuty);
+  const akt = indeksBloku(minuty / 60);
+  [...blokiEl.children].forEach((el, i) => el.classList.toggle("aktywny", i === akt));
+  nakladka.setProps({ layers: [warstwaSektorow()] });
+}
+
+// Jedna pętla klatek: „play” przesuwa cel (1× = godzina na sekundę, dzień 7–19 w 12 s, potem od początku),
+// a mapa dochodzi do celu wykładniczo (~150 ms), więc szarpnięcie suwakiem też wygląda jak przepływ.
+const WYGLADZANIE_MS = 150;
+let ostatnio = null, petla = false;
+function klatka(t) {
+  const dt = ostatnio == null ? 16 : Math.min(t - ostatnio, 100);
+  ostatnio = t;
+  if (gra) {
+    cel += dt / 1000 * 60 * tempo;
+    if (cel > 1140) { cel = 420; minuty = cel; }
+    suwak.value = cel;
+  }
+  minuty += (cel - minuty) * (1 - Math.exp(-dt / WYGLADZANIE_MS));
+  if (Math.abs(cel - minuty) < 0.05) minuty = cel;
+  rysuj();
+  if (gra || minuty !== cel) requestAnimationFrame(klatka);
+  else { petla = false; ostatnio = null; }
+}
+function uruchom() {
+  if (!petla) { petla = true; requestAnimationFrame(klatka); }
+}
+function przesun(m) {
+  cel = m;
+  suwak.value = m;
+  uruchom();
+}
+
+przycisk.onclick = () => {
+  gra = !gra;
+  przycisk.textContent = gra ? "❚❚" : "▶";
+  przycisk.title = gra ? "Pauza" : "Odtwórz dzień";
+  uruchom();
+};
+suwak.oninput = () => przesun(Number(suwak.value));
+document.getElementById("tempo").onchange = e => { tempo = Number(e.target.value); };
+document.getElementById("trojwymiar").onchange = e => {
+  trojwymiar = e.target.checked;
+  mapa.easeTo({ pitch: trojwymiar ? 45 : 0, bearing: trojwymiar ? -12 : 0, duration: 600 });
+  rysuj();
+};
+suwak.value = minuty;
+rysuj();
+</script>
+</body>
+</html>

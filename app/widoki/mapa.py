@@ -17,7 +17,7 @@ import streamlit as st
 from app.kontekst import (CURB_SENSITIVE, ETYKIETY_BLOKOW, ETYKIETY_SEZONOW, KOLOR_NEUTRALNY, KOLORY_POZIOMOW,
                           TYPY_WIZYT, WNIOSKI_TYPOW, Kontekst,
                           NAZWY_USLUG)
-from app.widoki import mapa_warstwy, wyliczenia
+from app.widoki import mapa_warstwy, przeplyw, wyliczenia
 from parkflow.dane import KODY_GEOJSON, KODY_ULICE, kody_wylaczone, wczytaj_kody_ulice
 from parkflow.mapa import WYLACZONY, ZA_MALO, stan_kodow
 from parkflow.model import POZIOMY
@@ -252,6 +252,24 @@ def render(ctx: Kontekst) -> None:
         st.caption(f"Sektory pasujące do filtrów: {len(stan)}.")
         if stan.empty:
             st.info("Brak sektorów spełniających filtry. Zmniejsz próg udziału lub zmień typy wizyt.")
+    odtwarzanie = st.toggle(
+        "Przepływ w ciągu dnia (odtwarzanie 7→19)", key="mapa_przeplyw",
+        help="Suwak i przycisk ▶ przesuwają godzinę; sektory płynnie przechodzą między blokami 7–10, 10–13, 13–16, 16–19.",
+    )
+    if odtwarzanie:
+        nazwy = _kody_ulice()["ulice"].to_dict()
+        przeplyw.render(
+            ctx, _kody_geojson()["features"], stan, {k: _skroc(str(v), 4) for k, v in nazwy.items()},
+            alfa={"poziom": ALFA_POZIOMU, "za_malo": ALFA_ZA_MALO, "wylaczony": ALFA_WYLACZONY},
+        )
+        st.caption(
+            "Odtwarzanie pokazuje presję sektorów SPP w wybranym sezonie od 7:00 do 19:00 (pn–pt). "
+            "W środku każdego bloku (8:30, 11:30, 14:30, 17:30) kolor i wysokość odpowiadają danym bloku; "
+            "przejścia między nimi są interpolacją wizualną, a nie pomiarem godzinowym. "
+            "Poziomy P i taryfy obowiązują w całych blokach. Blado: za mało danych (P1). "
+            "Parkomaty i podpowiedzi z taryfami są dostępne po wyłączeniu odtwarzania."
+        )
+        return
     warstwy = [kody]
     opisy = []
     if WARSTWY:
