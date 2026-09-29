@@ -1,0 +1,31 @@
+nazwa,uklad,px_x,px_y,ulica1,ulica2,numer,x_2180,y_2180,uwagi
+Kilińskiego × Północna,mapa,3415,552,Kilińskiego,Północna,,,,
+Nowomiejska × Północna,mapa,2445,705,Nowomiejska,Północna,,,,dwa punkty osi PRG: centroid
+Gdańska × Legionów,mapa,1584,1322,Gdańska,Legionów,,,,
+Żeligowskiego × Legionów,mapa,249,2032,Żeligowskiego,Legionów,,,,
+Kilińskiego × Narutowicza,mapa,3714,2367,Kilińskiego,Narutowicza,,,,dwa punkty osi PRG: centroid
+Kościuszki × Zielona,mapa,2385,2570,Kościuszki,Zielona,,,,dwa punkty osi PRG: centroid
+Żeligowskiego × 6 Sierpnia,mapa,437,3292,Żeligowskiego,6 Sierpnia,,,,
+Targowa × Tuwima,mapa,4815,3312,Targowa,Tuwima,,,,
+Kilińskiego × Tuwima,mapa,4080,3427,Kilińskiego,Tuwima,,,,
+Pogonowskiego × Struga,mapa,1092,3898,Pogonowskiego,Struga,,,,
+Sienkiewicza × Nawrot,mapa,3614,4212,Sienkiewicza,Nawrot,,,,
+Piotrkowska × Piłsudskiego,mapa,3130,4953,Piotrkowska,Piłsudskiego,,,,
+Kilińskiego × Wigury,mapa,4690,5310,Kilińskiego,Wigury,,,,wschodnia krawędź zasłonięta napisem
+Wólczańska × Żwirki,mapa,2643,5785,Wólczańska,Żwirki,,,,
+Piotrkowska × Radwańska,mapa,3349,6381,Piotrkowska,Radwańska,,,,
+Piotrkowska × Czerwona,mapa,3577,7835,Piotrkowska,Czerwona,,,,
+Politechniki × Wróblewskiego,mapa,2207,8235,Politechniki,Wróblewskiego,,,,cztery punkty osi PRG: centroid
+Piotrkowska × Sieradzka,mapa,3742,8900,Piotrkowska,Sieradzka,,,,dwa punkty osi PRG: centroid
+parkomat 12A,mapa,,,,,12A,,,współrzędne z XLSX ZDiT; piksel = środek kropki
+parkomat 13B,mapa,,,,,13B,,,
+parkomat 14B,mapa,,,,,14B,,,
+parkomat 17B,mapa,,,,,17B,,,
+parkomat 18B,mapa,,,,,18B,,,
+parkomat 19B,mapa,,,,,19B,,,
+parkomat 20B,mapa,,,,,20B,,,
+parkomat 21B,mapa,,,,,21B,,,
+parkomat 22B,mapa,,,,,22B,,,
+Łagiewnicka × Org. WiN,wstawka,660,285,Łagiewnicka,"Organizacji ""Wolność i Niezawisłość""",,,,wstawka Rynek Bałucki
+Łagiewnicka × Zawiszy Czarnego,wstawka,660,465,Łagiewnicka,Zawiszy Czarnego,,,,wstawka Rynek Bałucki
+Zgierska × Bałucki Rynek (płd.),wstawka,395,462,Zgierska,Bałucki Rynek,,531185,435685,"wstawka; PRG daje dwa punkty, bierzemy południowy (x_2180/y_2180 z osi PRG)"

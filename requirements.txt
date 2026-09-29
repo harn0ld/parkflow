@@ -1,0 +1,15 @@
+pyspark>=4.0,<4.1
+pyarrow
+pandas
+pytest
+streamlit
+pydeck
+geopandas>=1.0
+shapely>=2.1
+pyproj
+pyogrio
+scipy
+openpyxl
+# digitalizacja parkomatów (scripts/digitalizuj_parkomaty.py, wymaga też binarki tesseract)
+opencv-python-headless
+pytesseract

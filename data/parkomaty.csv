@@ -1,0 +1,619 @@
+numer,podstrefa,podstrefa_2024,lat,lon,ulica,kod_pocztowy,odl_adres_m,status_lokalizacji,zrodlo_numeru,px_x,px_y
+1A,A,A,51.778647,19.452952,Ogrodowa,91-062,6.5,mapa_2024,manual,2297,763
+4A,A,A,51.778091,19.461765,Płk Jana Kilińskiego,91-421,15.8,mapa_2024,manual,3487,860
+5A,A,A,51.778203,19.459951,Solna,91-423,11.6,mapa_2024,manual,3242,841
+6A,A,A,51.778991,19.459518,Solna,91-423,25.5,mapa_2024,manual,3180,670
+7A,A,A,51.777634,19.457287,Wschodnia,91-417,17.4,mapa_2024,manual,2885,972
+8A,A,A,51.778442,19.457109,Wschodnia,91-417,19.3,mapa_2024,manual,2858,796
+9A,A,A,51.778071,19.45448,Nowomiejska,91-414,10.8,mapa_2024,manual,2505,884
+10A,A,A,51.778032,19.454241,Nowomiejska,91-061,8.5,mapa_2024,ocr,2473,894
+11A,A,A,51.777455,19.451639,Zachodnia,91-063,2.8,mapa_2024,ocr,2125,1026
+12A,A,A,51.7763,19.44939,Legionów,90-701,10.0,wspolrzedne_zdit,manual,1908,1282
+13B,B,B,51.77558,19.44557,Legionów,90-702,17.5,wspolrzedne_zdit,manual,1365,1386
+14B,B,B,51.77556,19.44486,Legionów,90-702,9.8,wspolrzedne_zdit,manual,1198,1486
+16A,A,A,51.776889,19.447357,Gdańska,91-066,3.7,mapa_2024,ocr,1550,1162
+17B,B,B,51.77435,19.44141,Legionów,90-401,10.3,wspolrzedne_zdit,ocr,810,1718
+18B,B,B,51.77466,19.44212,Legionów,91-070,14.3,wspolrzedne_zdit,ocr,833,1658
+19B,B,B,51.77391,19.44,Legionów,91-070,8.1,wspolrzedne_zdit,manual,521,1844
+20B,B,B,51.77399,19.44042,Legionów,90-703,9.7,wspolrzedne_zdit,manual,594,1846
+21B,B,B,51.77336,19.43866,Legionów,90-762,10.2,wspolrzedne_zdit,ocr,407,1957
+22B,B,B,51.77342,19.43862,Legionów,91-072,13.8,wspolrzedne_zdit,ocr,388,1924
+23B,B,B,51.772389,19.437577,Gen. Lucjana Żeligowskiego,90-752,21.0,mapa_2024,manual,250,2169
+24B,B,B,51.772334,19.437822,Gen. Lucjana Żeligowskiego,90-753,16.1,mapa_2024,manual,283,2180
+25B,B,B,51.77165,19.437736,Gen. Lucjana Żeligowskiego,90-752,6.4,mapa_2024,ocr,274,2329
+26B,B,B,51.771498,19.437991,Gen. Lucjana Żeligowskiego,90-752,26.1,mapa_2024,manual,309,2361
+27B,B,B,51.77133,19.439167,Aleja 1 Maja,90-756,10.2,mapa_2024,ocr,468,2395
+28B,B,B,51.771781,19.440601,Aleja 1 Maja,90-741,15.2,mapa_2024,manual,660,2293
+29B,B,B,51.7729,19.441712,Kpt. Stefana Pogonowskiego,90-746,9.9,mapa_2024,manual,805,2046
+30B,B,B,51.773656,19.441418,Kpt. Stefana Pogonowskiego,90-569,12.7,mapa_2024,manual,762,1882
+31B,B,B,51.772402,19.442611,Aleja 1 Maja,90-741,13.6,mapa_2024,manual,928,2152
+32B,B,B,51.772714,19.444234,Aleja 1 Maja,90-718,5.5,mapa_2024,manual,1146,2079
+33B,B,B,51.773138,19.443406,Lipowa,90-742,12.0,mapa_2024,manual,1032,1989
+34B,B,B,51.773792,19.443958,dr Adama Próchnika,90-712,7.4,mapa_2024,manual,1104,1846
+35B,B,B,51.774572,19.444371,Stefana Żeromskiego,90-710,2.2,mapa_2024,ocr,1157,1674
+36B,B,B,51.774461,19.444734,Stefana Żeromskiego,90-710,10.4,mapa_2024,manual,1206,1698
+37B,B,B,51.773394,19.444982,Stefana Żeromskiego,90-711,0.8,mapa_2024,manual,1244,1929
+38B,B,B,51.773325,19.445214,Stefana Żeromskiego,90-711,18.2,mapa_2024,manual,1276,1944
+39B,B,B,51.773969,19.445905,dr Adama Próchnika,90-712,15.3,mapa_2024,manual,1366,1801
+40B,B,B,51.774047,19.446878,dr Adama Próchnika,90-712,10.9,mapa_2024,ocr,1497,1782
+41B,B,B,51.772894,19.446399,Aleja 1 Maja,90-718,7.8,mapa_2024,ocr,1437,2034
+42A,A,A,51.774798,19.447773,Gdańska,90-706,4.6,mapa_2024,ocr,1614,1616
+43A,A,A,51.775036,19.447918,Gdańska,90-707,19.9,mapa_2024,manual,1633,1564
+44A,A,A,51.773607,19.448018,Gdańska,90-715,7.6,mapa_2024,ocr,1652,1874
+45A,A,A,51.773619,19.448207,Gdańska,90-716,15.7,mapa_2024,ocr,1678,1871
+46A,A,A,51.773317,19.449843,Aleja 1 Maja,90-717,12.3,mapa_2024,ocr,1899,1932
+47A,A,A,51.773739,19.45073,Wólczańska,90-720,7.6,mapa_2024,ocr,2017,1838
+48A,A,A,51.774249,19.449387,dr Adama Próchnika,90-708,8.7,mapa_2024,ocr,1834,1731
+49A,A,A,51.774446,19.451497,dr Adama Próchnika,90-708,16.5,mapa_2024,ocr,2118,1682
+50A,A,A,51.773321,19.451067,Wólczańska,90-720,19.8,mapa_2024,manual,2064,1928
+51A,A,A,51.772864,19.451184,Wólczańska,90-720,21.5,mapa_2024,manual,2082,2028
+52A,A,A,51.775221,19.452129,Zachodnia,90-402,2.6,mapa_2024,manual,2200,1512
+53A,A,A,51.77582,19.452002,Zachodnia,90-402,2.3,mapa_2024,manual,2180,1382
+54A,A,A,51.774968,19.452634,Zachodnia,90-403,16.5,mapa_2024,ocr,2269,1565
+55A,A,A,51.774671,19.453994,dr Adama Próchnika,90-408,9.2,mapa_2024,manual,2454,1626
+56A,A,A,51.77489,19.456474,Rewolucji 1905 r.,90-273,13.0,mapa_2024,manual,2787,1572
+57A,A,A,51.775616,19.45772,Wschodnia,90-271,12.4,mapa_2024,manual,2952,1410
+58A,A,A,51.776407,19.457553,Wschodnia,90-271,12.8,mapa_2024,manual,2926,1238
+59A,A,A,51.775097,19.45891,Rewolucji 1905 r.,90-207,11.3,mapa_2024,manual,3114,1520
+60A,A,A,51.775281,19.460972,Rewolucji 1905 r.,90-207,9.8,mapa_2024,manual,3392,1474
+61A,A,A,51.774901,19.462234,Płk Jana Kilińskiego,90-208,15.9,mapa_2024,manual,3563,1553
+62A,A,A,51.775506,19.463529,Rewolucji 1905 r.,90-213,12.5,mapa_2024,ocr,3735,1418
+63A,A,A,51.775637,19.465043,Rewolucji 1905 r.,90-213,9.1,mapa_2024,manual,3939,1385
+64A,A,A,51.77577,19.466676,Rewolucji 1905 r.,90-213,24.6,mapa_2024,manual,4158,1351
+65A,A,A,51.775867,19.467943,Rewolucji 1905 r.,90-215,26.9,mapa_2024,manual,4329,1327
+66A,A,A,51.775366,19.469012,Dr Seweryna Sterlinga,90-212,9.6,mapa_2024,ocr,4475,1433
+67A,A,A,51.77494,19.469417,Dr Seweryna Sterlinga,90-212,38.0,mapa_2024,manual,4531,1524
+68A,A,A,51.774197,19.469563,Dr Seweryna Sterlinga,90-251,26.2,mapa_2024,manual,4554,1686
+69A,A,A,51.773623,19.467225,Stefana Jaracza,90-249,28.4,mapa_2024,manual,4241,1817
+70A,A,A,51.77414,19.466012,Polskiej Organizacji Wojskowej,90-255,30.6,mapa_2024,ocr,4076,1708
+71A,A,A,51.77494,19.465938,Polskiej Organizacji Wojskowej,90-255,27.1,mapa_2024,ocr,4062,1534
+72A,A,A,51.773438,19.46529,Stefana Jaracza,90-252,21.2,mapa_2024,ocr,3981,1863
+73A,A,A,51.773332,19.463957,Stefana Jaracza,90-259,11.9,mapa_2024,manual,3802,1890
+74A,A,A,51.773081,19.461014,Stefana Jaracza,90-261,7.6,mapa_2024,manual,3406,1953
+75A,A,A,51.772969,19.459868,Stefana Jaracza,90-261,7.4,mapa_2024,manual,3252,1980
+76A,A,A,51.773393,19.458219,Wschodnia,90-263,12.6,mapa_2024,manual,3028,1892
+77A,A,A,51.774475,19.457969,Wschodnia,90-272,14.5,mapa_2024,manual,2990,1658
+78A,A,A,51.772763,19.457513,Stefana Jaracza,90-264,3.4,mapa_2024,manual,2936,2032
+79A,A,A,51.772689,19.456611,Stefana Jaracza,90-264,12.2,mapa_2024,manual,2814,2050
+80A,A,A,51.772529,19.454546,płk. dr. St. Więckowskiego,90-722,6.2,mapa_2024,manual,2537,2091
+81A,A,A,51.773377,19.453037,Zachodnia,90-403,23.7,mapa_2024,manual,2330,1910
+82A,A,A,51.773811,19.452436,Zachodnia,90-402,3.1,mapa_2024,ocr,2247,1818
+83A,A,A,51.77228,19.45201,płk. dr. St. Więckowskiego,90-722,7.9,mapa_2024,manual,2196,2152
+84A,A,A,51.772145,19.450407,płk. dr. St. Więckowskiego,90-728,13.6,mapa_2024,manual,1980,2186
+85A,A,A,51.772037,19.449406,płk. dr. St. Więckowskiego,90-728,12.0,mapa_2024,manual,1846,2212
+86A,A,A,51.772432,19.448489,Gdańska,90-715,25.0,mapa_2024,ocr,1721,2129
+87A,A,A,51.772521,19.448258,Gdańska,90-715,6.8,mapa_2024,manual,1689,2110
+88B,B,B,51.771839,19.447297,płk. dr. St. Więckowskiego,90-734,6.1,mapa_2024,manual,1562,2261
+89B,B,B,51.771884,19.446207,płk. dr. St. Więckowskiego,90-734,11.2,mapa_2024,manual,1415,2255
+90B,B,B,51.772164,19.44543,Stefana Żeromskiego,90-711,23.1,mapa_2024,manual,1309,2196
+91B,B,B,51.772407,19.445112,Stefana Żeromskiego,90-711,11.4,mapa_2024,manual,1266,2144
+92B,B,B,51.771538,19.444273,płk. dr. St. Więckowskiego,90-735,7.2,mapa_2024,manual,1156,2335
+93B,B,B,51.772178,19.443657,Lipowa,90-742,17.9,mapa_2024,manual,1070,2198
+94B,B,B,51.771425,19.442975,płk. dr. St. Więckowskiego,90-735,5.3,mapa_2024,manual,981,2364
+95B,B,B,51.771899,19.442027,Kpt. Stefana Pogonowskiego,90-745,19.3,mapa_2024,manual,852,2263
+96B,B,B,51.770959,19.441147,płk. dr. St. Więckowskiego,90-748,8.5,mapa_2024,manual,737,2470
+97B,B,B,51.771289,19.440167,28 Pułku Strzelców Kaniowskich,90-749,16.0,mapa_2024,manual,603,2401
+98B,B,B,51.770442,19.438953,płk. dr. St. Więckowskiego,90-747,9.5,mapa_2024,manual,443,2589
+99B,B,B,51.770354,19.439299,płk. dr. St. Więckowskiego,90-758,4.6,mapa_2024,manual,490,2607
+100B,B,B,51.77054,19.438231,Gen. Lucjana Żeligowskiego,90-753,10.5,mapa_2024,manual,345,2569
+101B,B,B,51.770552,19.43798,Gen. Lucjana Żeligowskiego,90-753,24.1,mapa_2024,manual,312,2567
+102B,B,B,51.7696,19.438159,Gen. Lucjana Żeligowskiego,90-752,17.4,mapa_2024,ocr,340,2774
+103B,B,B,51.769465,19.438478,Gen. Lucjana Żeligowskiego,90-752,21.9,mapa_2024,manual,383,2803
+104B,B,B,51.769193,19.439905,Zielona,90-635,8.2,mapa_2024,ocr,576,2858
+105B,B,B,51.770261,19.440407,28 Pułku Strzelców Kaniowskich,90-749,15.6,mapa_2024,manual,640,2624
+106B,B,B,51.769623,19.440574,28 Pułku Strzelców Kaniowskich,90-750,12.7,mapa_2024,manual,665,2762
+107B,B,B,51.769989,19.442246,Kpt. Stefana Pogonowskiego,90-745,15.9,mapa_2024,ocr,889,2678
+108B,B,B,51.770969,19.442028,Kpt. Stefana Pogonowskiego,90-745,6.8,mapa_2024,manual,856,2465
+109B,B,B,51.770393,19.443853,Lipowa,90-743,10.5,mapa_2024,ocr,1104,2586
+110B,B,B,51.770856,19.443739,Lipowa,90-743,20.8,mapa_2024,ocr,1087,2485
+111B,B,B,51.771331,19.443807,Lipowa,90-743,31.3,mapa_2024,ocr,1094,2382
+112B,B,B,51.769858,19.444162,Lipowa,90-743,15.5,mapa_2024,manual,1148,2701
+113B,B,B,51.770747,19.445503,Stefana Żeromskiego,90-736,0.8,mapa_2024,ocr,1325,2504
+114B,B,B,51.770362,19.445867,Stefana Żeromskiego,90-737,11.6,mapa_2024,ocr,1376,2587
+115B,B,B,51.769873,19.447107,Zielona,90-602,7.6,mapa_2024,ocr,1545,2690
+116B,B,B,51.769952,19.447969,Zielona,90-602,8.0,mapa_2024,ocr,1660,2670
+117A,A,A,51.771327,19.44853,Gdańska,90-729,14.1,mapa_2024,ocr,1730,2369
+118A,A,A,51.771353,19.448713,Gdańska,90-730,10.1,mapa_2024,manual,1755,2363
+119A,A,A,51.770573,19.448849,Gdańska,90-730,11.1,mapa_2024,ocr,1777,2533
+120A,A,A,51.77176,19.451346,Wólczańska,90-515,18.0,mapa_2024,ocr,2108,2267
+121A,A,A,51.771207,19.453035,Zachodnia,90-723,8.8,mapa_2024,manual,2338,2383
+122A,A,A,51.771285,19.453436,Zachodnia,90-725,14.9,mapa_2024,manual,2392,2365
+123A,A,A,51.77082,19.457659,Prezydenta Gabriela Narutowicza,90-135,14.1,mapa_2024,ocr,2963,2454
+124A,A,A,51.771461,19.45849,Wschodnia,90-266,10.6,mapa_2024,ocr,3073,2312
+125A,A,A,51.772181,19.45831,Wschodnia,90-266,1.2,mapa_2024,ocr,3045,2156
+126A,A,A,51.770857,19.461864,Prezydenta Gabriela Narutowicza,90-117,1.7,mapa_2024,ocr,3530,2434
+127A,A,A,51.771406,19.464601,Prezydenta Gabriela Narutowicza,90-135,23.9,mapa_2024,ocr,3896,2307
+128A,A,A,51.772793,19.464787,Grzegorza Piramowicza,90-254,3.8,mapa_2024,ocr,3916,2005
+129A,A,A,51.771502,19.465589,Prezydenta Gabriela Narutowicza,90-135,19.4,mapa_2024,ocr,4029,2284
+130A,A,A,51.772672,19.466323,Polskiej Organizacji Wojskowej,90-248,16.2,mapa_2024,ocr,4124,2027
+131A,A,A,51.771735,19.467836,Prezydenta Gabriela Narutowicza,90-136,9.5,mapa_2024,ocr,4331,2226
+132A,A,A,51.771542,19.46779,Prezydenta Gabriela Narutowicza,90-125,3.1,mapa_2024,manual,4326,2269
+133A,A,A,51.773067,19.468917,Plac Gen. Jana Henryka Dąbrowskiego,90-249,19.3,mapa_2024,ocr,4472,1934
+134A,A,A,51.771807,19.470821,Prezydenta Gabriela Narutowicza,90-130,7.6,mapa_2024,ocr,4733,2202
+135A,A,A,51.77281,19.470745,Plac Gen. Jana Henryka Dąbrowskiego,90-249,29.7,mapa_2024,ocr,4719,1984
+136A,A,A,51.773211,19.470568,Plac Gen. Jana Henryka Dąbrowskiego,90-249,9.7,mapa_2024,ocr,4693,1898
+137A,A,A,51.771217,19.472055,Składowa,90-127,23.1,mapa_2024,ocr,4902,2328
+138A,A,A,51.771141,19.470308,Witolda Knychalskiego,90-127,26.7,mapa_2024,ocr,4667,2349
+139A,A,A,51.770696,19.469372,Składowa,90-127,18.5,mapa_2024,ocr,4543,2448
+140A,A,A,51.77091,19.467002,Polskiej Organizacji Wojskowej,90-123,22.2,mapa_2024,ocr,4222,2408
+141C,B,C,51.768692,19.466599,Wojciecha Hasa,90-119,56.9,mapa_2024,ocr,4177,2893
+142C,B,C,51.768846,19.470137,Krzysztofa Kieślowskiego,90-022,97.2,mapa_2024,ocr,4653,2849
+143C,B,C,51.768726,19.467261,Wojciecha Hasa,90-119,43.1,mapa_2024,manual,4266,2883
+144C,B,C,51.768871,19.470742,Krzysztofa Kieślowskiego,90-022,79.1,mapa_2024,ocr,4735,2842
+145C,B,C,51.769159,19.472808,Aleja Rodziny Scheiblerów,90-022,91.9,mapa_2024,manual,5012,2773
+146C,B,C,51.769172,19.472609,Krzysztofa Kieślowskiego,90-022,91.2,mapa_2024,manual,4985,2771
+147A,A,A,51.769071,19.46352,Gen. Romualda Traugutta,90-113,29.9,mapa_2024,ocr,3760,2819
+149A,A,A,51.76895,19.461701,Gen. Romualda Traugutta,90-114,43.7,mapa_2024,ocr,3516,2850
+150A,A,A,51.769586,19.460655,Henryka Sienkiewicza,90-113,9.1,mapa_2024,ocr,3372,2715
+151A,A,A,51.773989,19.460249,Włókiennicza,90-260,8.9,mapa_2024,ocr,3299,1757
+155A,A,A,51.769205,19.453781,Aleja Tadeusza Kościuszki,90-419,21.8,mapa_2024,manual,2447,2817
+156A,A,A,51.769137,19.453293,Aleja Tadeusza Kościuszki,90-418,18.2,mapa_2024,ocr,2382,2833
+157A,A,A,51.768459,19.45281,6 Sierpnia,90-646,7.6,mapa_2024,ocr,2319,2982
+158A,A,A,51.768657,19.45208,Wólczańska,90-607,17.2,mapa_2024,manual,2220,2941
+159A,A,A,51.769552,19.451908,Wólczańska,90-607,11.8,mapa_2024,ocr,2193,2746
+160A,A,A,51.768288,19.451006,6 Sierpnia,90-416,17.7,mapa_2024,ocr,2077,3024
+161A,A,A,51.768152,19.450386,6 Sierpnia,90-416,4.3,mapa_2024,ocr,1994,3056
+162A,A,A,51.768499,19.449345,Gdańska,90-612,14.6,mapa_2024,ocr,1852,2983
+163A,A,A,51.769064,19.448981,Gdańska,90-612,12.5,mapa_2024,ocr,1800,2861
+164B,B,B,51.768087,19.448385,6 Sierpnia,90-616,8.0,mapa_2024,ocr,1724,3075
+165B,B,B,51.767995,19.447241,6 Sierpnia,90-623,17.5,mapa_2024,manual,1570,3098
+166B,B,B,51.768278,19.446341,Stefana Żeromskiego,90-502,5.7,mapa_2024,manual,1448,3039
+167B,B,B,51.769304,19.445793,Stefana Żeromskiego,90-624,1.5,mapa_2024,ocr,1370,2818
+168B,B,B,51.767838,19.44526,6 Sierpnia,90-617,6.5,mapa_2024,ocr,1304,3138
+169B,B,B,51.768701,19.444464,Lipowa,90-629,13.3,mapa_2024,manual,1193,2952
+170B,B,B,51.768381,19.444331,Lipowa,90-629,29.9,mapa_2024,ocr,1176,3022
+172B,B,B,51.767691,19.44371,6 Sierpnia,90-617,13.6,mapa_2024,manual,1096,3174
+173B,B,B,51.76812,19.442885,Kpt. Stefana Pogonowskiego,90-618,19.6,mapa_2024,manual,982,3083
+174B,B,B,51.768875,19.442689,Kpt. Stefana Pogonowskiego,90-618,13.3,mapa_2024,manual,953,2920
+175B,B,B,51.768392,19.442611,Kpt. Stefana Pogonowskiego,90-618,3.4,mapa_2024,manual,944,3025
+176B,B,B,51.76755,19.441935,6 Sierpnia,90-636,8.4,mapa_2024,manual,857,3210
+177B,B,B,51.767829,19.440762,28 Pułku Strzelców Kaniowskich,90-636,13.4,mapa_2024,manual,698,3153
+178B,B,B,51.768349,19.440835,28 Pułku Strzelców Kaniowskich,90-639,18.6,mapa_2024,ocr,705,3039
+179B,B,B,51.76738,19.440048,6 Sierpnia,90-646,19.1,mapa_2024,manual,603,3252
+180B,B,B,51.767895,19.43881,Gen. Lucjana Żeligowskiego,90-643,23.0,mapa_2024,manual,434,3144
+181B,B,B,51.76666,19.438831,Gen. Lucjana Żeligowskiego,90-644,17.0,mapa_2024,manual,442,3412
+182B,B,B,51.766605,19.439077,Gen. Lucjana Żeligowskiego,90-644,12.3,mapa_2024,manual,475,3424
+183B,B,B,51.765898,19.439229,Gen. Lucjana Żeligowskiego,90-644,18.9,mapa_2024,ocr,499,3577
+184B,B,B,51.764852,19.439449,Gen. Lucjana Żeligowskiego,90-644,36.8,mapa_2024,manual,532,3804
+185B,B,B,51.764832,19.439232,Gen. Lucjana Żeligowskiego,90-644,25.4,mapa_2024,manual,503,3809
+186B,B,B,51.765169,19.441597,28 Pułku Strzelców Kaniowskich,90-640,12.7,mapa_2024,manual,821,3729
+187B,B,B,51.76532,19.441284,28 Pułku Strzelców Kaniowskich,90-640,10.6,mapa_2024,ocr,778,3697
+188B,B,B,51.766334,19.441339,28 Pułku Strzelców Kaniowskich,90-640,8.4,mapa_2024,ocr,781,3476
+189B,B,B,51.766608,19.441023,28 Pułku Strzelców Kaniowskich,90-640,22.7,mapa_2024,ocr,738,3418
+190B,B,B,51.764239,19.442983,Andrzeja Struga,90-567,9.3,mapa_2024,ocr,1011,3928
+191B,B,B,51.765371,19.443239,Kpt. Stefana Pogonowskiego,90-619,8.5,mapa_2024,ocr,1041,3681
+192B,B,B,51.766607,19.442994,Kpt. Stefana Pogonowskiego,90-619,12.4,mapa_2024,ocr,1003,3412
+193B,B,B,51.766811,19.443154,Kpt. Stefana Pogonowskiego,90-619,14.9,mapa_2024,ocr,1024,3368
+194B,B,B,51.766086,19.443314,Kpt. Stefana Pogonowskiego,90-619,9.7,mapa_2024,manual,1049,3525
+195B,B,B,51.765147,19.443508,Kpt. Stefana Pogonowskiego,90-569,18.5,mapa_2024,manual,1078,3729
+196B,B,B,51.764372,19.444462,Andrzeja Struga,90-567,5.3,mapa_2024,manual,1210,3895
+197B,B,B,51.765495,19.444984,Lipowa,90-546,11.0,mapa_2024,ocr,1276,3649
+198B,B,B,51.766941,19.444633,Lipowa,90-630,11.1,mapa_2024,manual,1223,3335
+199B,B,B,51.766226,19.444973,Lipowa,90-630,14.4,mapa_2024,manual,1272,3490
+200B,B,B,51.76451,19.446116,Andrzeja Struga,90-567,11.6,mapa_2024,manual,1433,3860
+201A,A,A,51.764487,19.450156,Gdańska,90-507,18.2,mapa_2024,manual,1977,3854
+202B,B,B,51.765486,19.446717,Stefana Żeromskiego,90-625,2.2,mapa_2024,manual,1510,3646
+203B,B,B,51.766788,19.446406,Stefana Żeromskiego,90-625,4.4,mapa_2024,ocr,1463,3364
+204B,B,B,51.767043,19.446613,Stefana Żeromskiego,90-626,11.8,mapa_2024,manual,1489,3307
+205B,B,B,51.765703,19.446907,Stefana Żeromskiego,90-626,13.2,mapa_2024,manual,1534,3598
+206B,B,B,51.764809,19.448156,Andrzeja Struga,90-631,9.9,mapa_2024,manual,1706,3790
+207A,A,A,51.7664,19.449579,Gdańska,90-613,26.0,mapa_2024,ocr,1892,3439
+208A,A,A,51.767294,19.449401,Gdańska,90-613,18.9,mapa_2024,manual,1864,3245
+209A,A,A,51.767113,19.449614,Gdańska,90-613,13.7,mapa_2024,ocr,1894,3284
+210A,A,A,51.76575,19.449907,Gdańska,90-613,9.7,mapa_2024,manual,1939,3580
+212A,A,A,51.764642,19.451737,Andrzeja Struga,90-513,21.8,mapa_2024,ocr,2190,3816
+213A,A,A,51.7645,19.449934,Gdańska,90-507,8.5,mapa_2024,ocr,1947,3852
+214B,B,B,51.763832,19.44883,Marii Skłodowskiej-Curie,90-505,9.9,mapa_2024,ocr,1801,4000
+215B,B,B,51.76325,19.447518,Stefana Żeromskiego,90-502,14.2,mapa_2024,ocr,1627,4131
+216B,B,B,51.764119,19.447286,Stefana Żeromskiego,90-502,9.0,mapa_2024,manual,1592,3942
+217B,B,B,51.764069,19.447008,Stefana Żeromskiego,90-502,13.1,mapa_2024,ocr,1555,3954
+218B,B,B,51.763007,19.446183,Marii Skłodowskiej-Curie,90-505,5.7,mapa_2024,ocr,1448,4187
+219B,B,B,51.763658,19.445583,Lipowa,90-568,18.2,mapa_2024,ocr,1364,4047
+220B,B,B,51.763963,19.445312,Lipowa,90-568,19.5,mapa_2024,ocr,1326,3982
+221B,B,B,51.762537,19.444885,Marii Skłodowskiej-Curie,90-571,6.2,mapa_2024,manual,1275,4293
+222B,B,B,51.763532,19.443892,Kpt. Stefana Pogonowskiego,90-569,14.6,mapa_2024,ocr,1137,4080
+223B,B,B,51.763887,19.443612,Kpt. Stefana Pogonowskiego,90-569,5.3,mapa_2024,manual,1098,4003
+224B,B,B,51.763016,19.443775,Kpt. Stefana Pogonowskiego,90-569,6.3,mapa_2024,ocr,1123,4192
+225B,B,B,51.761904,19.44319,Marii Skłodowskiej-Curie,90-571,5.5,mapa_2024,manual,1049,4436
+226B,B,B,51.762051,19.443101,Marii Skłodowskiej-Curie,90-570,20.6,mapa_2024,manual,1036,4404
+227B,B,B,51.762343,19.442164,28 Pułku Strzelców Kaniowskich,90-559,15.2,mapa_2024,manual,908,4343
+228B,B,B,51.762581,19.441925,28 Pułku Strzelców Kaniowskich,90-558,24.1,mapa_2024,ocr,875,4292
+229B,B,B,51.763598,19.441645,28 Pułku Strzelców Kaniowskich,90-558,16.7,mapa_2024,ocr,834,4071
+230B,B,B,51.763709,19.439011,Łąkowa,90-562,39.3,mapa_2024,ocr,478,4054
+231B,B,B,51.762667,19.439833,Łąkowa,90-562,26.4,mapa_2024,ocr,593,4279
+232B,B,B,51.762048,19.440495,Łąkowa,90-563,24.6,mapa_2024,ocr,685,4412
+233B,B,B,51.760366,19.442122,Łąkowa,90-554,14.7,mapa_2024,manual,911,4774
+234B,B,B,51.760687,19.442459,Łąkowa,90-554,28.1,mapa_2024,manual,955,4703
+235B,B,B,51.760393,19.443689,Mikołaja Kopernika,90-552,6.2,mapa_2024,manual,1122,4763
+236B,B,B,51.760651,19.443869,Mikołaja Kopernika,90-552,3.9,mapa_2024,ocr,1145,4707
+237B,B,B,51.760985,19.445181,Mikołaja Kopernika,90-552,12.4,mapa_2024,ocr,1321,4630
+238B,B,B,51.761226,19.445245,Mikołaja Kopernika,90-552,21.4,mapa_2024,manual,1328,4578
+239B,B,B,51.762289,19.445639,Lipowa,90-568,7.1,mapa_2024,manual,1377,4345
+240B,B,B,51.761059,19.446124,Lipowa,90-552,33.2,mapa_2024,ocr,1448,4612
+241B,B,B,51.761542,19.446562,Mikołaja Kopernika,90-545,6.4,mapa_2024,ocr,1505,4505
+242B,B,B,51.76275,19.447285,Stefana Żeromskiego,90-502,5.6,mapa_2024,ocr,1597,4240
+243B,B,B,51.762791,19.447656,Stefana Żeromskiego,90-502,19.6,mapa_2024,manual,1647,4230
+244B,B,B,51.762382,19.449001,Mikołaja Kopernika,90-503,8.8,mapa_2024,manual,1830,4316
+245B,B,B,51.762711,19.449542,Mikołaja Kopernika,90-503,22.4,mapa_2024,ocr,1902,4242
+246A,A,A,51.7636,19.450126,Gdańska,90-507,26.4,mapa_2024,ocr,1977,4047
+247A,A,A,51.763426,19.450393,Gdańska,90-508,12.8,mapa_2024,manual,2014,4084
+248A,A,A,51.763035,19.451211,Mikołaja Kopernika,90-509,10.4,mapa_2024,manual,2126,4167
+249A,A,A,51.763275,19.452042,Mikołaja Kopernika,90-509,5.1,mapa_2024,ocr,2237,4113
+250A,A,A,51.763542,19.452438,Mikołaja Kopernika,90-509,21.3,mapa_2024,manual,2289,4053
+251A,A,A,51.763066,19.453282,Wólczańska,90-516,8.6,mapa_2024,manual,2405,4155
+252A,A,A,51.764518,19.452953,Wólczańska,90-515,13.3,mapa_2024,manual,2354,3840
+253A,A,A,51.766057,19.452584,Wólczańska,90-608,12.6,mapa_2024,manual,2298,3506
+254A,A,A,51.766769,19.452439,Wólczańska,90-608,16.0,mapa_2024,manual,2276,3351
+255A,A,A,51.767298,19.452134,Wólczańska,90-608,11.8,mapa_2024,manual,2233,3236
+256A,A,A,51.767754,19.452225,Wólczańska,90-608,8.6,mapa_2024,manual,2243,3137
+257A,A,A,51.765702,19.45403,Aleja Tadeusza Kościuszki,90-418,9.3,mapa_2024,manual,2495,3579
+258A,A,A,51.766682,19.453811,Aleja Tadeusza Kościuszki,90-418,10.8,mapa_2024,manual,2461,3366
+259A,A,A,51.767626,19.453611,Aleja Tadeusza Kościuszki,90-418,9.3,mapa_2024,ocr,2430,3161
+260A,A,A,51.767835,19.454058,Aleja Tadeusza Kościuszki,90-419,31.1,mapa_2024,ocr,2490,3114
+261A,A,A,51.767083,19.454233,Aleja Tadeusza Kościuszki,90-419,11.8,mapa_2024,ocr,2516,3278
+262A,A,A,51.765925,19.45447,Aleja Tadeusza Kościuszki,90-419,12.2,mapa_2024,ocr,2553,3529
+263A,A,A,51.765416,19.456527,Andrzeja Struga,90-426,6.4,mapa_2024,ocr,2832,3634
+264A,A,A,51.765567,19.459121,Juliana Tuwima,90-003,29.4,mapa_2024,ocr,3182,3594
+265A,A,A,51.765714,19.460598,Juliana Tuwima,90-003,27.8,mapa_2024,manual,3380,3558
+267A,A,A,51.765415,19.460695,Henryka Sienkiewicza,90-009,55.6,mapa_2024,manual,3394,3623
+270A,A,A,51.766621,19.461324,Henryka Sienkiewicza,90-114,9.0,mapa_2024,manual,3474,3358
+271A,A,A,51.767684,19.461071,Henryka Sienkiewicza,90-114,10.4,mapa_2024,manual,3436,3128
+272A,A,A,51.768198,19.459908,Stanisława Moniuszki,90-111,22.4,mapa_2024,manual,3277,3019
+273B,B,B,51.766113,19.462762,Juliana Tuwima,90-002,16.6,mapa_2024,manual,3670,3465
+274B,B,B,51.765941,19.462992,Juliana Tuwima,90-010,3.2,mapa_2024,manual,3702,3502
+275B,B,B,51.766039,19.464234,Juliana Tuwima,90-002,25.8,mapa_2024,manual,3869,3477
+276B,B,B,51.76632,19.467329,Juliana Tuwima,90-015,4.5,mapa_2024,ocr,4285,3407
+277B,B,B,51.766396,19.468219,Juliana Tuwima,90-015,5.3,mapa_2024,ocr,4405,3388
+278B,B,B,51.766543,19.469821,Juliana Tuwima,90-020,3.0,mapa_2024,ocr,4620,3352
+279B,B,B,51.766745,19.47225,Juliana Tuwima,90-025,20.2,mapa_2024,ocr,4947,3300
+280B,B,B,51.765963,19.471506,Targowa,90-042,7.9,mapa_2024,ocr,4850,3473
+281B,B,B,51.765252,19.471488,Targowa,90-042,35.9,mapa_2024,ocr,4850,3628
+282B,B,B,51.764386,19.471921,Targowa,90-042,9.9,mapa_2024,manual,4912,3815
+283B,B,B,51.763475,19.470892,Nawrot,90-018,15.0,mapa_2024,manual,4777,4016
+284B,B,B,51.763657,19.469763,Dowborczyków,90-019,4.2,mapa_2024,ocr,4624,3980
+285B,B,B,51.76489,19.469495,Dowborczyków,90-019,10.2,mapa_2024,ocr,4583,3712
+286B,B,B,51.765654,19.469318,Dowborczyków,90-019,9.4,mapa_2024,ocr,4556,3546
+287B,B,B,51.763256,19.468348,Nawrot,90-014,10.1,mapa_2024,manual,4435,4071
+288B,B,B,51.764766,19.466393,Płk Jana Kilińskiego,90-011,13.1,mapa_2024,manual,4165,3748
+289B,B,B,51.763078,19.466234,Nawrot,90-055,11.8,mapa_2024,manual,4151,4116
+290B,B,B,51.762131,19.466862,Ojca Stefana Miecznikowskiego,90-011,10.3,mapa_2024,ocr,4239,4320
+291B,B,B,51.762253,19.46684,Ojca Stefana Miecznikowskiego,90-011,22.4,mapa_2024,manual,4236,4294
+292B,B,B,51.762633,19.465292,Ojca Tomasza Rostworowskiego,90-061,16.0,mapa_2024,ocr,4026,4216
+293B,B,B,51.762855,19.463531,Nawrot,90-055,15.7,mapa_2024,manual,3787,4172
+294A,A,A,51.763533,19.461957,Henryka Sienkiewicza,90-009,11.0,mapa_2024,ocr,3572,4029
+295A,A,A,51.762515,19.459271,Nawrot,90-060,17.4,mapa_2024,manual,3214,4258
+296A,A,A,51.762713,19.455181,Aleja Tadeusza Kościuszki,90-428,7.6,mapa_2024,ocr,2662,4226
+297A,A,A,51.764013,19.454874,Aleja Tadeusza Kościuszki,90-427,12.3,mapa_2024,ocr,2615,3944
+298A,A,A,51.763933,19.454463,Aleja Tadeusza Kościuszki,90-514,18.8,mapa_2024,ocr,2560,3963
+299A,A,A,51.763178,19.454638,Aleja Tadeusza Kościuszki,90-514,9.4,mapa_2024,ocr,2587,4126
+300A,A,A,51.761934,19.452463,Ludwika Zamenhofa,90-510,15.0,mapa_2024,manual,2299,4404
+301A,A,A,51.761864,19.451549,Ludwika Zamenhofa,90-510,11.3,mapa_2024,manual,2176,4421
+302A,A,A,51.762364,19.450635,Gdańska,90-508,12.8,mapa_2024,manual,2050,4315
+303A,A,A,51.762323,19.450469,Gdańska,90-507,16.4,mapa_2024,manual,2028,4324
+304B,B,B,51.761735,19.449811,Ludwika Zamenhofa,90-511,7.6,mapa_2024,manual,1942,4454
+305B,B,B,51.761629,19.448717,Ludwika Zamenhofa,90-511,11.2,mapa_2024,ocr,1795,4480
+306B,B,B,51.760315,19.448071,Stefana Żeromskiego,90-550,33.4,mapa_2024,manual,1713,4768
+307B,B,B,51.759719,19.448218,Stefana Żeromskiego,90-550,34.4,mapa_2024,manual,1735,4898
+308B,B,B,51.760808,19.447522,Stefana Żeromskiego,90-550,38.0,mapa_2024,manual,1637,4662
+309B,B,B,51.760069,19.447747,Stefana Żeromskiego,90-550,37.3,mapa_2024,ocr,1670,4823
+310B,B,B,51.758927,19.447945,Stefana Żeromskiego,90-550,51.1,mapa_2024,ocr,1702,5071
+311B,B,B,51.75846,19.445803,Łąkowa,90-554,93.4,mapa_2024,manual,1415,5178
+312B,B,B,51.758961,19.444654,Łąkowa,90-554,45.6,mapa_2024,manual,1258,5072
+313B,B,B,51.758363,19.445137,Łąkowa,90-554,49.7,mapa_2024,manual,1325,5201
+314B,B,B,51.759295,19.443386,Łąkowa,90-554,18.9,mapa_2024,ocr,1086,5003
+315B,B,B,51.758099,19.443964,Łąkowa,90-554,27.2,mapa_2024,ocr,1168,5262
+316B,B,B,51.757467,19.443656,Łąkowa,90-554,46.9,mapa_2024,ocr,1129,5401
+317B,B,B,51.757658,19.444875,Aleja Adama Mickiewicza,90-554,32.8,mapa_2024,ocr,1293,5356
+318A,A,A,51.759851,19.451009,Gdańska,90-519,23.7,mapa_2024,ocr,2111,4861
+319A,A,A,51.760845,19.450803,Gdańska,90-519,8.1,mapa_2024,ocr,2079,4645
+320A,A,A,51.761397,19.450833,Gdańska,90-520,16.7,mapa_2024,ocr,2081,4525
+321A,A,A,51.759486,19.45129,Gdańska,90-520,12.3,mapa_2024,ocr,2150,4940
+322A,A,A,51.759893,19.453968,Wólczańska,90-522,10.1,mapa_2024,ocr,2510,4844
+323A,A,A,51.761215,19.453685,Wólczańska,90-522,7.5,mapa_2024,manual,2466,4557
+324A,A,A,51.761482,19.454985,Aleja Tadeusza Kościuszki,90-436,8.2,mapa_2024,ocr,2641,4495
+325A,A,A,51.760101,19.45526,Aleja Tadeusza Kościuszki,90-436,8.0,mapa_2024,manual,2683,4795
+326A,A,A,51.758809,19.454938,Aleja Adama Mickiewicza,90-443,21.7,mapa_2024,ocr,2645,5077
+327A,A,A,51.760692,19.459,Prezydenta Franklina Delano Roosevelta,90-056,7.5,mapa_2024,ocr,3185,4656
+328A,A,A,51.760848,19.461143,Prezydenta Franklina Delano Roosevelta,90-056,7.4,mapa_2024,ocr,3473,4616
+329A,A,A,51.759822,19.460374,Aleja Marszałka Józefa Piłsudskiego,90-051,29.9,mapa_2024,manual,3374,4841
+330A,A,A,51.759875,19.460977,Aleja Marszałka Józefa Piłsudskiego,90-051,23.5,mapa_2024,ocr,3455,4828
+331A,A,A,51.759272,19.460217,Aleja Marszałka Józefa Piłsudskiego,90-368,28.9,mapa_2024,ocr,3355,4961
+332A,A,A,51.759331,19.461249,Aleja Marszałka Józefa Piłsudskiego,90-368,27.9,mapa_2024,ocr,3494,4946
+333B,B,B,51.760098,19.464379,Aleja Marszałka Józefa Piłsudskiego,90-051,49.1,mapa_2024,ocr,3913,4770
+334B,B,B,51.760201,19.466134,Aleja Marszałka Józefa Piłsudskiego,90-051,43.5,mapa_2024,manual,4149,4742
+335B,B,B,51.75987,19.467204,Aleja Marszałka Józefa Piłsudskiego,90-307,13.3,mapa_2024,manual,4295,4812
+336B,B,B,51.760137,19.470734,Aleja Marszałka Józefa Piłsudskiego,90-307,6.6,mapa_2024,manual,4770,4744
+337B,B,B,51.761589,19.470254,Dowborczyków,90-019,23.9,mapa_2024,manual,4699,4429
+338B,B,B,51.762558,19.470041,Dowborczyków,90-019,22.9,mapa_2024,manual,4666,4218
+339B,B,B,51.762573,19.470266,Dowborczyków,90-019,16.0,mapa_2024,manual,4696,4214
+340B,B,B,51.761703,19.470421,Dowborczyków,90-019,13.1,mapa_2024,manual,4721,4403
+341B,B,B,51.760788,19.470927,Aleja Marszałka Józefa Piłsudskiego,90-019,24.7,mapa_2024,manual,4793,4601
+342B,B,B,51.761917,19.472245,Targowa,90-043,14.1,mapa_2024,ocr,4966,4352
+343B,B,B,51.762259,19.472386,Targowa,90-043,4.2,mapa_2024,ocr,4984,4277
+344B,B,B,51.762672,19.47206,Targowa,90-043,10.1,mapa_2024,manual,4938,4188
+345B,B,B,51.758687,19.468445,Orla,90-317,5.4,mapa_2024,manual,4467,5066
+346B,B,B,51.758069,19.465888,Orla,90-317,6.2,mapa_2024,ocr,4125,5208
+347B,B,B,51.757165,19.468783,Stanisława Wigury,90-319,8.8,mapa_2024,ocr,4519,5396
+348B,B,B,51.756563,19.465506,Stanisława Wigury,90-319,13.0,mapa_2024,manual,4079,5536
+349A,A,A,51.75627,19.46201,Stanisława Wigury,90-302,22.5,mapa_2024,ocr,3609,5610
+350A,A,A,51.756065,19.459975,Stanisława Wigury,90-368,30.5,mapa_2024,manual,3336,5660
+351A,A,A,51.756498,19.459307,Piotrkowska,90-368,11.8,mapa_2024,ocr,3244,5568
+352A,A,A,51.757581,19.459027,Piotrkowska,90-368,18.3,mapa_2024,manual,3202,5333
+353A,A,A,51.758605,19.458845,Piotrkowska,90-368,11.6,mapa_2024,ocr,3173,5110
+354A,A,A,51.758058,19.458601,Piotrkowska,90-447,4.6,mapa_2024,ocr,3142,5230
+355A,A,A,51.757176,19.458804,Piotrkowska,90-447,10.4,mapa_2024,manual,3173,5422
+356A,A,A,51.755934,19.458098,Kpt Pilota Franciszka Żwirki,90-448,9.2,mapa_2024,manual,3083,5694
+357A,A,A,51.756381,19.456692,Aleja Tadeusza Kościuszki,90-446,28.6,mapa_2024,ocr,2892,5601
+358A,A,A,51.756945,19.45656,Aleja Tadeusza Kościuszki,90-441,49.8,mapa_2024,ocr,2871,5478
+359A,A,A,51.757839,19.45631,Aleja Tadeusza Kościuszki,90-418,41.4,mapa_2024,ocr,2834,5284
+360A,A,A,51.758369,19.454367,Wólczańska,90-527,8.6,mapa_2024,manual,2570,5174
+361A,A,A,51.757451,19.454564,Wólczańska,90-527,11.0,mapa_2024,ocr,2600,5374
+362A,A,A,51.756668,19.454503,Wólczańska,90-525,6.5,mapa_2024,ocr,2595,5544
+363A,A,A,51.755409,19.453589,Kpt Pilota Franciszka Żwirki,90-528,10.6,mapa_2024,manual,2477,5821
+364A,A,A,51.756158,19.452047,Gdańska,90-536,18.3,mapa_2024,ocr,2266,5662
+365A,A,A,51.756909,19.451877,Gdańska,90-536,11.2,mapa_2024,manual,2240,5499
+366A,A,A,51.756724,19.451702,Gdańska,90-536,18.1,mapa_2024,manual,2217,5540
+367A,A,A,51.756033,19.451849,Gdańska,90-536,8.7,mapa_2024,ocr,2240,5690
+368B,B,B,51.755222,19.451414,Kpt Pilota Franciszka Żwirki,90-539,7.8,mapa_2024,ocr,2184,5868
+369B,B,B,51.755282,19.450811,Kpt Pilota Franciszka Żwirki,90-539,13.7,mapa_2024,manual,2103,5856
+370B,B,B,51.755113,19.450042,Kpt Pilota Franciszka Żwirki,90-539,24.1,mapa_2024,ocr,2000,5895
+371B,B,B,51.753334,19.449706,Stefana Żeromskiego,90-543,60.9,mapa_2024,ocr,1962,6284
+372B,B,B,51.751735,19.447286,Radwańska,93-574,11.5,mapa_2024,ocr,1642,6638
+373B,B,B,51.75158,19.445607,Radwańska,93-574,11.3,mapa_2024,ocr,1416,6677
+374B,B,B,51.751449,19.444078,Radwańska,93-574,15.2,mapa_2024,ocr,1210,6710
+375B,B,B,51.751185,19.442864,Radwańska,93-574,9.1,mapa_2024,ocr,1048,6770
+376B,B,B,51.751419,19.445376,Radwańska,93-574,10.8,mapa_2024,manual,1386,6713
+377B,B,B,51.751544,19.446865,Radwańska,93-574,3.9,mapa_2024,ocr,1586,6681
+378B,B,B,51.750411,19.443668,Rajmunda Rembielińskiego,93-575,19.2,mapa_2024,ocr,1159,6937
+379B,B,B,51.7506,19.445772,Rajmunda Rembielińskiego,93-575,9.8,mapa_2024,ocr,1442,6890
+380B,B,B,51.750752,19.447708,Rajmunda Rembielińskiego,93-575,27.3,mapa_2024,manual,1703,6851
+381B,B,B,51.751626,19.450016,Aleje Politechniki,93-590,59.8,mapa_2024,manual,2010,6655
+382B,B,B,51.750966,19.453195,prof. Bohdana Stefanowskiego,90-537,24.7,mapa_2024,manual,2442,6789
+383B,B,B,51.749651,19.453576,prof. Bohdana Stefanowskiego,90-532,69.3,mapa_2024,ocr,2499,7075
+384B,B,B,51.750111,19.454568,Jerzego Potza,90-537,76.9,mapa_2024,ocr,2630,6972
+385B,B,B,51.750899,19.456013,Wólczańska,90-531,24.6,mapa_2024,manual,2822,6796
+386B,B,B,51.751529,19.455616,Wólczańska,90-531,24.5,mapa_2024,manual,2766,6660
+387A,A,A,51.753105,19.455241,Wólczańska,90-515,6.7,mapa_2024,ocr,2709,6318
+388A,A,A,51.753397,19.455435,Wólczańska,90-515,41.6,mapa_2024,ocr,2734,6254
+389A,A,A,51.754275,19.454995,Wólczańska,90-530,5.3,mapa_2024,manual,2671,6064
+390A,A,A,51.754133,19.456589,Aleja Tadeusza Kościuszki,90-530,50.1,mapa_2024,ocr,2887,6090
+391A,A,A,51.755318,19.456349,Aleja Tadeusza Kościuszki,90-441,33.4,mapa_2024,ocr,2850,5833
+392A,A,A,51.754765,19.457057,Aleja Tadeusza Kościuszki,90-451,29.5,mapa_2024,manual,2947,5952
+393A,A,A,51.753976,19.457246,Aleja Tadeusza Kościuszki,90-418,37.0,mapa_2024,ocr,2976,6123
+394A,A,A,51.753207,19.457477,Aleja Tadeusza Kościuszki,90-451,35.4,mapa_2024,manual,3010,6290
+395B,B,B,51.751974,19.457512,Radwańska,90-453,58.5,mapa_2024,manual,3020,6558
+396A,A,A,51.753792,19.459548,Piotrkowska,90-451,4.9,mapa_2024,ocr,3287,6156
+397A,A,A,51.754864,19.459335,Piotrkowska,90-451,15.4,mapa_2024,ocr,3254,5924
+398A,A,A,51.754866,19.459676,Piotrkowska,90-369,29.2,mapa_2024,ocr,3300,5922
+399A,A,A,51.753635,19.459951,Piotrkowska,90-360,11.3,mapa_2024,manual,3342,6190
+400A,A,A,51.752953,19.461423,Brzeźna,90-303,10.8,mapa_2024,ocr,3543,6334
+401A,A,A,51.753063,19.462858,Brzeźna,90-303,13.4,mapa_2024,ocr,3736,6306
+402A,A,A,51.754388,19.464208,Henryka Sienkiewicza,90-357,19.9,mapa_2024,ocr,3913,6014
+403B,B,B,51.751526,19.46006,Piotrkowska,90-456,23.5,mapa_2024,ocr,3365,6648
+404B,B,B,51.751544,19.4604,Piotrkowska,90-360,11.2,mapa_2024,ocr,3411,6644
+405B,B,B,51.750348,19.460322,Piotrkowska,90-456,8.2,mapa_2024,manual,3406,6904
+406B,B,B,51.750557,19.460621,Piotrkowska,90-361,21.8,mapa_2024,manual,3445,6858
+407B,B,B,51.749461,19.458952,Ks. Harcmistrza Ignacego Skorupki,90-458,10.8,mapa_2024,ocr,3224,7101
+408B,B,B,51.749301,19.457095,Ks. Harcmistrza Ignacego Skorupki,90-458,15.5,mapa_2024,manual,2975,7141
+409B,B,B,51.749177,19.455431,Ks. Harcmistrza Ignacego Skorupki,90-532,45.9,mapa_2024,ocr,2751,7173
+410B,B,B,51.749128,19.45727,Ks. Harcmistrza Ignacego Skorupki,90-458,30.0,mapa_2024,ocr,2999,7178
+411B,B,B,51.748645,19.458083,Św. Stanisława Kostki,90-457,27.3,mapa_2024,ocr,3110,7281
+412B,B,B,51.748333,19.459788,Św. Stanisława Kostki,90-457,6.9,mapa_2024,ocr,3342,7344
+413B,B,B,51.749209,19.46092,Piotrkowska,90-457,33.4,mapa_2024,ocr,3491,7150
+414B,B,B,51.749147,19.462974,Ks. Biskupa Wincentego Tymienieckiego,90-365,40.3,mapa_2024,ocr,3768,7158
+415B,B,B,51.748782,19.462215,Ks. Biskupa Wincentego Tymienieckiego,90-365,69.8,mapa_2024,ocr,3667,7240
+416B,B,B,51.747265,19.461363,Piotrkowska,90-361,7.0,mapa_2024,ocr,3558,7572
+417B,B,B,51.747453,19.46097,Piotrkowska,90-457,10.6,mapa_2024,ocr,3505,7532
+418B,B,B,51.745769,19.459712,Czerwona,93-005,21.7,mapa_2024,ocr,3342,7903
+419B,B,B,51.745647,19.458358,Czerwona,93-005,22.1,mapa_2024,ocr,3160,7933
+420B,B,B,51.747033,19.456839,Wólczańska,93-005,12.5,mapa_2024,manual,2949,7636
+421B,B,B,51.748498,19.456548,Wólczańska,90-515,67.4,mapa_2024,ocr,2904,7318
+422B,B,B,51.744779,19.455785,Walerego Wróblewskiego,93-566,14.0,mapa_2024,manual,2816,8129
+423B,B,B,51.74465,19.454273,Walerego Wróblewskiego,93-578,32.0,mapa_2024,manual,2613,8162
+424B,B,B,51.744355,19.45337,Walerego Wróblewskiego,93-578,14.8,mapa_2024,ocr,2492,8228
+425B,B,B,51.745328,19.461438,Piotrkowska,93-004,14.2,mapa_2024,manual,3577,7994
+426B,B,B,51.744178,19.461695,Piotrkowska,90-004,52.1,mapa_2024,manual,3616,8244
+427B,B,B,51.745119,19.461831,Piotrkowska,93-034,13.8,mapa_2024,ocr,3630,8038
+428B,B,B,51.743542,19.46223,Piotrkowska,93-034,34.4,mapa_2024,ocr,3691,8380
+429B,B,B,51.742996,19.462758,Stanisława Przybyszewskiego,93-188,37.0,mapa_2024,manual,3764,8498
+430B,B,B,51.742267,19.462886,Rzgowska,93-034,23.1,mapa_2024,manual,3784,8656
+431B,B,B,51.742078,19.462158,Piotrkowska,93-004,23.2,mapa_2024,ocr,3687,8699
+432B,B,B,51.741935,19.462546,Piotrkowska,93-004,13.7,mapa_2024,manual,3740,8730
+433B,B,B,51.741664,19.463755,Rzgowska,93-002,14.3,mapa_2024,manual,3904,8785
+434B,B,B,51.741715,19.464027,Rzgowska,93-002,4.8,mapa_2024,manual,3940,8773
+435B,B,B,51.741319,19.463504,Sieradzka,93-171,9.2,mapa_2024,manual,3872,8861
+436B,B,B,51.741116,19.462939,Sieradzka,93-004,31.5,mapa_2024,manual,3796,8907
+437B,B,B,51.739749,19.46463,Plac Niepodległości,93-029,33.5,mapa_2024,ocr,4030,9200
+438B,B,B,51.739608,19.464864,Plac Niepodległości,93-029,13.2,mapa_2024,manual,4062,9230
+439D,C,D,51.787439,19.45406,Bałucki Rynek,91-449,28.2,mapa_2024_wstawka,manual,631,304
+440D,C,D,51.786781,19.453379,Bałucki Rynek,91-445,46.6,mapa_2024_wstawka,ocr,541,439
+2A,,A,,,,,,lokalizacja nieznana,,,
+3A,,A,,,,,,lokalizacja nieznana,,,
+13A,,A,,,,,,lokalizacja nieznana,,,
+14A,,A,,,,,,lokalizacja nieznana,,,
+15A,,A,,,,,,lokalizacja nieznana,,,
+148A,,A,,,,,,lokalizacja nieznana,,,
+152A,,A,,,,,,lokalizacja nieznana,,,
+153A,,A,,,,,,lokalizacja nieznana,,,
+154A,,A,,,,,,lokalizacja nieznana,,,
+171B,,B,,,,,,lokalizacja nieznana,,,
+211A,,A,,,,,,lokalizacja nieznana,,,
+266A,,A,,,,,,lokalizacja nieznana,,,
+268A,,A,,,,,,lokalizacja nieznana,,,
+269A,,A,,,,,,lokalizacja nieznana,,,
+312,,,,,,,,lokalizacja nieznana,,,
+441,,,,,,,,lokalizacja nieznana,,,
+442,,,,,,,,lokalizacja nieznana,,,
+443,,,,,,,,lokalizacja nieznana,,,
+444,,,,,,,,lokalizacja nieznana,,,
+445,,,,,,,,lokalizacja nieznana,,,
+446,,,,,,,,lokalizacja nieznana,,,
+447,,,,,,,,lokalizacja nieznana,,,
+448,,,,,,,,lokalizacja nieznana,,,
+449,,,,,,,,lokalizacja nieznana,,,
+450,,,,,,,,lokalizacja nieznana,,,
+451,,,,,,,,lokalizacja nieznana,,,
+452,,,,,,,,lokalizacja nieznana,,,
+453,,,,,,,,lokalizacja nieznana,,,
+454,,,,,,,,lokalizacja nieznana,,,
+455,,,,,,,,lokalizacja nieznana,,,
+456,,,,,,,,lokalizacja nieznana,,,
+457,,,,,,,,lokalizacja nieznana,,,
+458,,,,,,,,lokalizacja nieznana,,,
+459,,,,,,,,lokalizacja nieznana,,,
+460,,,,,,,,lokalizacja nieznana,,,
+461,,,,,,,,lokalizacja nieznana,,,
+462,,,,,,,,lokalizacja nieznana,,,
+463,,,,,,,,lokalizacja nieznana,,,
+464,,,,,,,,lokalizacja nieznana,,,
+465,,,,,,,,lokalizacja nieznana,,,
+466,,,,,,,,lokalizacja nieznana,,,
+467,,,,,,,,lokalizacja nieznana,,,
+468,,,,,,,,lokalizacja nieznana,,,
+469,,,,,,,,lokalizacja nieznana,,,
+470,,,,,,,,lokalizacja nieznana,,,
+471,,,,,,,,lokalizacja nieznana,,,
+472,,,,,,,,lokalizacja nieznana,,,
+473,,,,,,,,lokalizacja nieznana,,,
+474,,,,,,,,lokalizacja nieznana,,,
+475,,,,,,,,lokalizacja nieznana,,,
+476,,,,,,,,lokalizacja nieznana,,,
+477,,,,,,,,lokalizacja nieznana,,,
+478,,,,,,,,lokalizacja nieznana,,,
+479,,,,,,,,lokalizacja nieznana,,,
+480,,,,,,,,lokalizacja nieznana,,,
+481,,,,,,,,lokalizacja nieznana,,,
+482,,,,,,,,lokalizacja nieznana,,,
+483,,,,,,,,lokalizacja nieznana,,,
+484,,,,,,,,lokalizacja nieznana,,,
+485,,,,,,,,lokalizacja nieznana,,,
+486,,,,,,,,lokalizacja nieznana,,,
+487,,,,,,,,lokalizacja nieznana,,,
+488,,,,,,,,lokalizacja nieznana,,,
+489,,,,,,,,lokalizacja nieznana,,,
+490,,,,,,,,lokalizacja nieznana,,,
+491,,,,,,,,lokalizacja nieznana,,,
+492,,,,,,,,lokalizacja nieznana,,,
+493,,,,,,,,lokalizacja nieznana,,,
+494,,,,,,,,lokalizacja nieznana,,,
+495,,,,,,,,lokalizacja nieznana,,,
+496,,,,,,,,lokalizacja nieznana,,,
+497,,,,,,,,lokalizacja nieznana,,,
+498,,,,,,,,lokalizacja nieznana,,,
+499,,,,,,,,lokalizacja nieznana,,,
+500,,,,,,,,lokalizacja nieznana,,,
+501,,,,,,,,lokalizacja nieznana,,,
+502,,,,,,,,lokalizacja nieznana,,,
+503,,,,,,,,lokalizacja nieznana,,,
+504,,,,,,,,lokalizacja nieznana,,,
+505,,,,,,,,lokalizacja nieznana,,,
+506,,,,,,,,lokalizacja nieznana,,,
+507,,,,,,,,lokalizacja nieznana,,,
+508,,,,,,,,lokalizacja nieznana,,,
+509,,,,,,,,lokalizacja nieznana,,,
+510,,,,,,,,lokalizacja nieznana,,,
+511,,,,,,,,lokalizacja nieznana,,,
+512,,,,,,,,lokalizacja nieznana,,,
+513,,,,,,,,lokalizacja nieznana,,,
+514,,,,,,,,lokalizacja nieznana,,,
+515,,,,,,,,lokalizacja nieznana,,,
+516,,,,,,,,lokalizacja nieznana,,,
+517,,,,,,,,lokalizacja nieznana,,,
+518,,,,,,,,lokalizacja nieznana,,,
+519,,,,,,,,lokalizacja nieznana,,,
+520,,,,,,,,lokalizacja nieznana,,,
+521,,,,,,,,lokalizacja nieznana,,,
+522,,,,,,,,lokalizacja nieznana,,,
+523,,,,,,,,lokalizacja nieznana,,,
+524,,,,,,,,lokalizacja nieznana,,,
+525,,,,,,,,lokalizacja nieznana,,,
+526,,,,,,,,lokalizacja nieznana,,,
+527,,,,,,,,lokalizacja nieznana,,,
+528,,,,,,,,lokalizacja nieznana,,,
+529,,,,,,,,lokalizacja nieznana,,,
+530,,,,,,,,lokalizacja nieznana,,,
+531,,,,,,,,lokalizacja nieznana,,,
+532,,,,,,,,lokalizacja nieznana,,,
+533,,,,,,,,lokalizacja nieznana,,,
+534,,,,,,,,lokalizacja nieznana,,,
+535,,,,,,,,lokalizacja nieznana,,,
+536,,,,,,,,lokalizacja nieznana,,,
+537,,,,,,,,lokalizacja nieznana,,,
+538,,,,,,,,lokalizacja nieznana,,,
+539,,,,,,,,lokalizacja nieznana,,,
+540,,,,,,,,lokalizacja nieznana,,,
+541,,,,,,,,lokalizacja nieznana,,,
+542,,,,,,,,lokalizacja nieznana,,,
+543,,,,,,,,lokalizacja nieznana,,,
+544,,,,,,,,lokalizacja nieznana,,,
+545,,,,,,,,lokalizacja nieznana,,,
+546,,,,,,,,lokalizacja nieznana,,,
+547,,,,,,,,lokalizacja nieznana,,,
+548,,,,,,,,lokalizacja nieznana,,,
+549,,,,,,,,lokalizacja nieznana,,,
+550,,,,,,,,lokalizacja nieznana,,,
+551,,,,,,,,lokalizacja nieznana,,,
+552,,,,,,,,lokalizacja nieznana,,,
+553,,,,,,,,lokalizacja nieznana,,,
+554,,,,,,,,lokalizacja nieznana,,,
+555,,,,,,,,lokalizacja nieznana,,,
+556,,,,,,,,lokalizacja nieznana,,,
+557,,,,,,,,lokalizacja nieznana,,,
+558,,,,,,,,lokalizacja nieznana,,,
+559,,,,,,,,lokalizacja nieznana,,,
+560,,,,,,,,lokalizacja nieznana,,,
+561,,,,,,,,lokalizacja nieznana,,,
+562,,,,,,,,lokalizacja nieznana,,,
+563,,,,,,,,lokalizacja nieznana,,,
+564,,,,,,,,lokalizacja nieznana,,,
+565,,,,,,,,lokalizacja nieznana,,,
+566,,,,,,,,lokalizacja nieznana,,,
+567,,,,,,,,lokalizacja nieznana,,,
+568,,,,,,,,lokalizacja nieznana,,,
+569,,,,,,,,lokalizacja nieznana,,,
+570,,,,,,,,lokalizacja nieznana,,,
+571,,,,,,,,lokalizacja nieznana,,,
+572,,,,,,,,lokalizacja nieznana,,,
+573,,,,,,,,lokalizacja nieznana,,,
+574,,,,,,,,lokalizacja nieznana,,,
+575,,,,,,,,lokalizacja nieznana,,,
+576,,,,,,,,lokalizacja nieznana,,,
+577,,,,,,,,lokalizacja nieznana,,,
+578,,,,,,,,lokalizacja nieznana,,,
+579,,,,,,,,lokalizacja nieznana,,,
+580,,,,,,,,lokalizacja nieznana,,,
+581,,,,,,,,lokalizacja nieznana,,,
+582,,,,,,,,lokalizacja nieznana,,,
+583,,,,,,,,lokalizacja nieznana,,,
+585,,,,,,,,lokalizacja nieznana,,,
+586,,,,,,,,lokalizacja nieznana,,,
+587,,,,,,,,lokalizacja nieznana,,,
+589,,,,,,,,lokalizacja nieznana,,,
+590,,,,,,,,lokalizacja nieznana,,,
+591,,,,,,,,lokalizacja nieznana,,,
+592,,,,,,,,lokalizacja nieznana,,,
+593,,,,,,,,lokalizacja nieznana,,,
+594,,,,,,,,lokalizacja nieznana,,,
+595,,,,,,,,lokalizacja nieznana,,,
+596,,,,,,,,lokalizacja nieznana,,,
+597,,,,,,,,lokalizacja nieznana,,,
+598,,,,,,,,lokalizacja nieznana,,,
+599,,,,,,,,lokalizacja nieznana,,,
+600,,,,,,,,lokalizacja nieznana,,,
+601,,,,,,,,lokalizacja nieznana,,,
+602,,,,,,,,lokalizacja nieznana,,,
+603,,,,,,,,lokalizacja nieznana,,,
+604,,,,,,,,lokalizacja nieznana,,,
+605,,,,,,,,lokalizacja nieznana,,,
+606,,,,,,,,lokalizacja nieznana,,,
+607,,,,,,,,lokalizacja nieznana,,,
+608,,,,,,,,lokalizacja nieznana,,,
+609,,,,,,,,lokalizacja nieznana,,,
+610,,,,,,,,lokalizacja nieznana,,,
+611,,,,,,,,lokalizacja nieznana,,,
+612,,,,,,,,lokalizacja nieznana,,,
+613,,,,,,,,lokalizacja nieznana,,,
+614,,,,,,,,lokalizacja nieznana,,,
+615,,,,,,,,lokalizacja nieznana,,,
+616,,,,,,,,lokalizacja nieznana,,,
+617,,,,,,,,lokalizacja nieznana,,,

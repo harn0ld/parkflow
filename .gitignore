@@ -1,0 +1,44 @@
+# --- Dane Visa na poziomie karty: NIGDY do repo (SPEC §7) ---
+# Do repo trafiają tylko agregaty z progiem ≥ 30 kart (data/agg/, data/sample/).
+datasprint_sample_data.parquet
+datasprint*/
+*datasprint*.parquet
+data/interim/
+
+# Wyniki Sparka i metadane
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+_SUCCESS
+
+# --- Sekrety i konfiguracja lokalna ---
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.claude/settings.local.json
+
+# Robocze notatki agentów (kanoniczny stan jest w GitHub Issues)
+.scratch/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# --- Edytory i system ---
+.DS_Store
+.vscode/
+.idea/
+*.swp

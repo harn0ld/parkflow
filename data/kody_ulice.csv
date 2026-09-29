@@ -1,0 +1,1615 @@
+kod,ulice,ulice_pelne,liczba_ulic,liczba_adresow,lat,lon
+90-000,al. Książąt Polskich,Aleja Książąt Polskich,1,1,51.747441,19.554241
+90-001,Welta; Tuwima,Moryca Welta; Juliana Tuwima,2,37,51.751742,19.553824
+90-002,Tuwima,Juliana Tuwima,1,8,51.766266,19.463411
+90-003,Tuwima,Juliana Tuwima,1,8,51.766031,19.459662
+90-004,Piotrkowska,Piotrkowska,1,36,51.755843,19.458957
+90-006,Piotrkowska,Piotrkowska,1,7,51.76302,19.458091
+90-007,Komuny Paryskiej; Piotrkowska,Komuny Paryskiej; Piotrkowska,2,8,51.764554,19.459859
+90-008,Nawrot,Nawrot,1,6,51.763027,19.46528
+90-009,Sienkiewicza,Henryka Sienkiewicza,1,18,51.764031,19.46195
+90-010,Tuwima,Juliana Tuwima,1,6,51.765778,19.463387
+90-011,Kilińskiego,Płk Jana Kilińskiego,1,20,51.767808,19.465603
+90-012,Kilińskiego,Płk Jana Kilińskiego,1,15,51.764698,19.466889
+90-013,Kilińskiego,Płk Jana Kilińskiego,1,8,51.762199,19.468116
+90-014,Nawrot,Nawrot,1,10,51.763264,19.468768
+90-015,Tuwima,Juliana Tuwima,1,2,51.766331,19.467718
+90-018,Nawrot,Nawrot,1,8,51.763504,19.471149
+90-019,Dowborczyków,Dowborczyków,1,36,51.76405,19.469863
+90-020,Tuwima,Juliana Tuwima,1,4,51.766561,19.470306
+90-021,Tuwima,Juliana Tuwima,1,7,51.766582,19.468188
+90-022,Targowa,Targowa,1,17,51.764004,19.471824
+90-023,Wysoka; Złota,Wysoka; Złota,2,20,51.765836,19.477629
+90-024,Wodna,Wodna,1,30,51.765968,19.475261
+90-025,Tuwima,Juliana Tuwima,1,16,51.766923,19.474667
+90-026,Tuwima,Juliana Tuwima,1,8,51.767262,19.475541
+90-028,Nawrot,Nawrot,1,4,51.764179,19.481307
+90-029,Nawrot,Nawrot,1,1,51.764664,19.483301
+90-030,Nowa; Dobra; Przędzalniana,Nowa; Dobra; Przędzalniana,3,35,51.761487,19.482733
+90-031,Nowa; Tuwima,Juliana Tuwima; Nowa,2,34,51.766637,19.482412
+90-032,Kopcińskiego,Dr Stefana Kopcińskiego,1,17,51.765901,19.484381
+90-033,Kopcińskiego,Dr Stefana Kopcińskiego,1,5,51.763556,19.483967
+90-034,Przędzalniana,Przędzalniana,1,24,51.765843,19.480121
+90-035,Przędzalniana,Przędzalniana,1,12,51.76323,19.480705
+90-036,Wysoka,Wysoka,1,13,51.765019,19.478388
+90-037,Wysoka,Wysoka,1,10,51.762917,19.4785
+90-038,Miedziana,Miedziana,1,18,51.762177,19.479102
+90-039,Nawrot,Nawrot,1,7,51.763987,19.479368
+90-040,Nawrot,Nawrot,1,9,51.76437,19.480419
+90-042,Targowa,Targowa,1,16,51.765029,19.471623
+90-043,Targowa,Targowa,1,14,51.76219,19.472208
+90-045,Nawrot,Nawrot,1,9,51.763791,19.473854
+90-046,Wodna; Nawrot,Wodna; Nawrot,2,23,51.762891,19.475976
+90-047,Plac Zwycięstwa,Plac Zwycięstwa,1,7,51.761436,19.474313
+90-049,Kilińskiego,Płk Jana Kilińskiego,1,7,51.762232,19.467036
+90-050,al. Mickiewicza,Aleja Adama Mickiewicza,1,3,51.757284,19.442474
+90-051,al. Piłsudskiego,Aleja Marszałka Józefa Piłsudskiego,1,16,51.761317,19.478762
+90-054,al. Piłsudskiego,Aleja Marszałka Józefa Piłsudskiego,1,1,51.759982,19.460024
+90-055,Nawrot,Nawrot,1,11,51.763074,19.464543
+90-056,Roosevelta,Prezydenta Franklina Delano Roosevelta,1,23,51.760873,19.460477
+90-057,Sienkiewicza,Henryka Sienkiewicza,1,6,51.761423,19.462314
+90-058,Sienkiewicza,Henryka Sienkiewicza,1,6,51.76153,19.462972
+90-060,Nawrot,Nawrot,1,14,51.762543,19.46026
+90-061,Nawrot,Nawrot,1,11,51.762805,19.464595
+90-062,Piotrkowska,Piotrkowska,1,12,51.761616,19.458502
+90-063,Piotrkowska,Piotrkowska,1,3,51.760262,19.458801
+90-101,Moniuszki,Stanisława Moniuszki,1,7,51.768059,19.459011
+90-102,Piotrkowska,Piotrkowska,1,8,51.76769,19.457126
+90-103,Piotrkowska,Piotrkowska,1,7,51.766305,19.457311
+90-105,Piotrkowska; Narutowicza,Piotrkowska; Prezydenta Gabriela Narutowicza,2,16,51.770217,19.459414
+90-106,Traugutta,Gen. Romualda Traugutta,1,5,51.768882,19.459296
+90-107,Traugutta,Gen. Romualda Traugutta,1,7,51.769045,19.458881
+90-110,Moniuszki,Stanisława Moniuszki,1,2,51.768276,19.458164
+90-111,Moniuszki,Stanisława Moniuszki,1,4,51.768277,19.458345
+90-113,Sienkiewicza; Traugutta,Henryka Sienkiewicza; Gen. Romualda Traugutta,2,14,51.769642,19.461155
+90-114,Sienkiewicza,Henryka Sienkiewicza,1,18,51.767766,19.46116
+90-117,Narutowicza,Prezydenta Gabriela Narutowicza,1,7,51.770648,19.461243
+90-118,Kilińskiego,Płk Jana Kilińskiego,1,4,51.769648,19.464693
+90-119,Kilińskiego; Hasa,Płk Jana Kilińskiego; Wojciecha Hasa,2,16,51.76792,19.465691
+90-123,Polskiej Organizacji Wojskowej,Polskiej Organizacji Wojskowej,1,4,51.770921,19.467229
+90-124,Narutowicza,Prezydenta Gabriela Narutowicza,1,1,51.771415,19.463924
+90-125,Narutowicza,Prezydenta Gabriela Narutowicza,1,5,51.771553,19.468039
+90-127,Składowa,Składowa,1,12,51.770919,19.470208
+90-128,Plac Bronisława Sałacińskiego,Plac Bronisława Sałacińskiego,1,1,51.769395,19.467465
+90-130,Narutowicza,Prezydenta Gabriela Narutowicza,1,8,51.771697,19.470118
+90-131,Lindleya; Narutowicza; al. Rodziny Scheiblerów,Williama H. Lindleya; Prezydenta Gabriela Narutowicza; Aleja Rodziny Scheiblerów,3,9,51.771454,19.473937
+90-132,Tramwajowa; Narutowicza,Tramwajowa; Prezydenta Gabriela Narutowicza,2,25,51.771177,19.476597
+90-133,Wierzbowa,Wierzbowa,1,24,51.771297,19.479676
+90-135,Narutowicza; Polskiej Organizacji Wojskowej,Prezydenta Gabriela Narutowicza; Polskiej Organizacji Wojskowej,2,20,51.771201,19.461341
+90-136,Narutowicza,Prezydenta Gabriela Narutowicza,1,6,51.772045,19.469759
+90-137,Uniwersytecka,Uniwersytecka,1,5,51.773156,19.474308
+90-138,Narutowicza,Prezydenta Gabriela Narutowicza,1,9,51.772665,19.479468
+90-139,Narutowicza,Prezydenta Gabriela Narutowicza,1,16,51.772971,19.48354
+90-141,Narutowicza,Prezydenta Gabriela Narutowicza,1,2,51.773363,19.483735
+90-142,Kopcińskiego,Dr Stefana Kopcińskiego,1,2,51.774223,19.482058
+90-143,Kopcińskiego,Dr Stefana Kopcińskiego,1,14,51.771183,19.482311
+90-145,Narutowicza,Prezydenta Gabriela Narutowicza,1,43,51.773404,19.490151
+90-146,Narutowicza,Prezydenta Gabriela Narutowicza,1,21,51.774295,19.495691
+90-147,Zelwerowicza,Aleksandra Zelwerowicza,1,67,51.772235,19.488268
+90-148,Zelwerowicza,Aleksandra Zelwerowicza,1,21,51.773047,19.495563
+90-149,Krzywickiego,Ludwika Krzywickiego,1,26,51.772141,19.493614
+90-150,Konstytucyjna,Konstytucyjna,1,9,51.773373,19.498082
+90-151,Muszyńskiego,Dr Jana Muszyńskiego,1,6,51.774969,19.490343
+90-153,Kopcińskiego,Dr Stefana Kopcińskiego,1,2,51.774203,19.482893
+90-154,Kopcińskiego,Dr Stefana Kopcińskiego,1,18,51.771128,19.48362
+90-155,Edukacyjna; Konstytucyjna,Edukacyjna; Konstytucyjna,2,19,51.772382,19.49745
+90-156,Tkacka,Tkacka,1,81,51.77117,19.488899
+90-157,Tkacka,Tkacka,1,16,51.771732,19.496171
+90-158,Małachowskiego,Stanisława Małachowskiego,1,49,51.770293,19.489405
+90-159,Małachowskiego,Stanisława Małachowskiego,1,12,51.770934,19.496714
+90-160,Małachowskiego,Stanisława Małachowskiego,1,3,51.770322,19.498626
+90-201,Pomorska,Pomorska,1,257,51.778906,19.573721
+90-202,Pomorska,Pomorska,1,12,51.777013,19.459128
+90-203,Pomorska,Pomorska,1,8,51.777454,19.464298
+90-204,Pomorska,Pomorska,1,5,51.777778,19.467752
+90-205,Kilińskiego,Płk Jana Kilińskiego,1,7,51.776337,19.461958
+90-206,Rewolucji 1905 r.,Rewolucji 1905 r.,1,17,51.775199,19.464087
+90-207,Rewolucji 1905 r.,Rewolucji 1905 r.,1,10,51.775292,19.460327
+90-208,Kilińskiego,Płk Jana Kilińskiego,1,2,51.774757,19.461795
+90-209,Kilińskiego,Płk Jana Kilińskiego,1,9,51.776228,19.462636
+90-211,Włókiennicza,Włókiennicza,1,10,51.774228,19.460563
+90-212,Sterlinga,Dr Seweryna Sterlinga,1,5,51.775117,19.469085
+90-213,Rewolucji 1905 r.,Rewolucji 1905 r.,1,14,51.775715,19.464834
+90-214,Rewolucji 1905 r.,Rewolucji 1905 r.,1,1,51.775173,19.463594
+90-215,Rewolucji 1905 r.,Rewolucji 1905 r.,1,6,51.775482,19.46745
+90-216,Rewolucji 1905 r.,Rewolucji 1905 r.,1,3,51.775983,19.47162
+90-217,Sterlinga,Dr Seweryna Sterlinga,1,14,51.776721,19.468858
+90-218,Pomorska,Pomorska,1,3,51.777431,19.469871
+90-219,Kamińskiego,Harcmistrza Aleksandra Kamińskiego,1,4,51.775516,19.475245
+90-220,Kamińskiego,Harcmistrza Aleksandra Kamińskiego,1,5,51.775909,19.475555
+90-221,Rewolucji 1905 r.,Rewolucji 1905 r.,1,6,51.776179,19.473894
+90-222,Rewolucji 1905 r.,Rewolucji 1905 r.,1,6,51.776362,19.470659
+90-223,Rewolucji 1905 r.,Rewolucji 1905 r.,1,7,51.776562,19.473977
+90-224,Pomorska,Pomorska,1,11,51.777909,19.472384
+90-225,Pomorska,Pomorska,1,6,51.778561,19.476436
+90-226,Rewolucji 1905 r.,Rewolucji 1905 r.,1,4,51.776568,19.476322
+90-227,Wierzbowa; Plac Pokoju,Wierzbowa; Plac Pokoju,2,11,51.777552,19.477632
+90-228,Zacisze,Zacisze,1,10,51.777565,19.476215
+90-229,Kamińskiego,Harcmistrza Aleksandra Kamińskiego,1,15,51.777451,19.474981
+90-231,Sempołowskiej; Siewierskiego; Pilarskiego; Jaracza,Mieczysława Siewierskiego; Stefanii Sempołowskiej; Józefa Pilarskiego; Stefana Jaracza,4,29,51.775672,19.481594
+90-232,Kopcińskiego,Dr Stefana Kopcińskiego,1,2,51.776619,19.482672
+90-233,Uniwersytecka; Pomorska,Uniwersytecka; Pomorska,2,14,51.777714,19.479277
+90-234,Pomorska,Pomorska,1,3,51.778719,19.479462
+90-235,Pomorska,Pomorska,1,2,51.778427,19.484699
+90-236,Pomorska,Pomorska,1,16,51.777387,19.492307
+90-237,Matejki; Banacha,Jana Matejki; Stefana Banacha,2,10,51.776152,19.485956
+90-238,Banacha,Stefana Banacha,1,1,51.776569,19.486699
+90-241,Kamińskiego,Harcmistrza Aleksandra Kamińskiego,1,1,51.775147,19.475739
+90-242,Kopcińskiego,Dr Stefana Kopcińskiego,1,4,51.776581,19.481072
+90-243,Uniwersytecka; Jaracza; Plac Pokoju,Uniwersytecka; Stefana Jaracza; Plac Pokoju,3,11,51.77463,19.475797
+90-244,Jaracza,Stefana Jaracza,1,16,51.774765,19.480245
+90-245,Wierzbowa,Wierzbowa,1,11,51.774861,19.478561
+90-248,Polskiej Organizacji Wojskowej; Narutowicza,Polskiej Organizacji Wojskowej; Prezydenta Gabriela Narutowicza,2,13,51.772388,19.46652
+90-249,Jaracza; Plac Gen. Jana Henryka Dąbrowskiego,Stefana Jaracza; Plac Gen. Jana Henryka Dąbrowskiego,2,13,51.773476,19.469037
+90-251,Jaracza,Stefana Jaracza,1,19,51.774193,19.472554
+90-252,Jaracza,Stefana Jaracza,1,11,51.773589,19.464878
+90-253,Kilińskiego,Płk Jana Kilińskiego,1,8,51.774233,19.462915
+90-254,Piramowicza,Grzegorza Piramowicza,1,12,51.772541,19.464735
+90-255,Polskiej Organizacji Wojskowej,Polskiej Organizacji Wojskowej,1,3,51.774592,19.465961
+90-256,Kilińskiego,Płk Jana Kilińskiego,1,2,51.774001,19.462501
+90-257,Kilińskiego,Płk Jana Kilińskiego,1,6,51.772442,19.462822
+90-258,Kilińskiego,Płk Jana Kilińskiego,1,7,51.770423,19.46428
+90-259,Jaracza,Stefana Jaracza,1,1,51.773287,19.4638
+90-260,Włókiennicza,Włókiennicza,1,10,51.774017,19.460819
+90-261,Jaracza,Stefana Jaracza,1,10,51.772981,19.460384
+90-262,Jaracza,Stefana Jaracza,1,12,51.773261,19.460502
+90-263,Wschodnia; Włókiennicza,Wschodnia; Włókiennicza,2,3,51.77369,19.458572
+90-264,Jaracza,Stefana Jaracza,1,5,51.772703,19.457126
+90-265,Piotrkowska,Piotrkowska,1,10,51.771748,19.456084
+90-266,Wschodnia,Wschodnia,1,13,51.771785,19.458521
+90-267,Wschodnia,Wschodnia,1,3,51.773412,19.457995
+90-268,Jaracza,Stefana Jaracza,1,4,51.772922,19.457319
+90-269,Piotrkowska,Piotrkowska,1,10,51.773793,19.455762
+90-270,Piotrkowska,Piotrkowska,1,5,51.775543,19.455149
+90-271,Wschodnia; Włókiennicza,Wschodnia; Włókiennicza,2,12,51.775273,19.45798
+90-272,Wschodnia,Wschodnia,1,16,51.775186,19.457543
+90-273,Rewolucji 1905 r.,Rewolucji 1905 r.,1,11,51.774834,19.456426
+90-301,Sienkiewicza; Wigury,Henryka Sienkiewicza; Stanisława Wigury,2,14,51.757173,19.462727
+90-302,Sienkiewicza; Wigury,Henryka Sienkiewicza; Stanisława Wigury,2,21,51.754864,19.463001
+90-303,Brzeźna; 10 Lutego,Brzeźna; 10 Lutego,2,18,51.753356,19.462232
+90-306,al. Piłsudskiego,Aleja Marszałka Józefa Piłsudskiego,1,1,51.759552,19.464939
+90-307,al. Piłsudskiego,Aleja Marszałka Józefa Piłsudskiego,1,16,51.759992,19.469747
+90-312,Plac Zwycięstwa,Plac Zwycięstwa,1,3,51.759606,19.476341
+90-315,Kilińskiego,Płk Jana Kilińskiego,1,5,51.758414,19.469095
+90-316,Kilińskiego,Płk Jana Kilińskiego,1,3,51.759273,19.469785
+90-317,Orla,Orla,1,17,51.758144,19.466277
+90-318,Sienkiewicza,Henryka Sienkiewicza,1,2,51.758013,19.463482
+90-319,Wigury,Stanisława Wigury,1,13,51.756984,19.466559
+90-322,Kilińskiego,Płk Jana Kilińskiego,1,13,51.757131,19.470559
+90-323,Targowa,Targowa,1,8,51.758651,19.472913
+90-324,Targowa; Tylna,Targowa; Tylna,2,14,51.75445,19.473127
+90-325,Fabryczna,Fabryczna,1,5,51.755913,19.472209
+90-326,Fabryczna,Fabryczna,1,1,51.755889,19.473152
+90-328,Popowskiego,Stanisława Popowskiego,1,5,51.759433,19.482846
+90-329,al. Piłsudskiego,Aleja Marszałka Józefa Piłsudskiego,1,7,51.761012,19.483612
+90-330,al. Piłsudskiego,Aleja Marszałka Józefa Piłsudskiego,1,5,51.761621,19.482265
+90-331,Fabryczna,Fabryczna,1,4,51.758425,19.484343
+90-332,Żelazna,Żelazna,1,11,51.759303,19.485898
+90-333,Przędzalniana,Przędzalniana,1,7,51.759507,19.481789
+90-336,al. Śmigłego-Rydza,Aleja Marszałka Edwarda Śmigłego-Rydza,1,4,51.755592,19.488919
+90-337,Tymienieckiego,Ks. Biskupa Wincentego Tymienieckiego,1,32,51.752609,19.478364
+90-338,Przędzalniana,Przędzalniana,1,7,51.755373,19.483595
+90-339,Wilcza,Wilcza,1,12,51.756188,19.485029
+90-340,Gołębia,Gołębia,1,9,51.75658,19.486791
+90-341,Fabryczna,Fabryczna,1,1,51.757775,19.484282
+90-344,Fabryczna,Fabryczna,1,6,51.757072,19.479425
+90-345,Księży Młyn,Księży Młyn,1,16,51.755189,19.481563
+90-347,Przędzalniana,Przędzalniana,1,11,51.755636,19.482928
+90-348,Tylna; Kilińskiego,Tylna; Płk Jana Kilińskiego,2,13,51.753281,19.471091
+90-349,Tymienieckiego,Ks. Biskupa Wincentego Tymienieckiego,1,12,51.752138,19.473221
+90-350,Tymienieckiego,Ks. Biskupa Wincentego Tymienieckiego,1,8,51.753541,19.481007
+90-351,Księży Młyn,Księży Młyn,1,1,51.754286,19.482456
+90-353,Kilińskiego,Płk Jana Kilińskiego,1,4,51.755645,19.470456
+90-354,Kilińskiego,Płk Jana Kilińskiego,1,7,51.754751,19.471718
+90-355,Abramowskiego,Edwarda Abramowskiego,1,41,51.754646,19.467748
+90-357,Sienkiewicza,Henryka Sienkiewicza,1,6,51.754322,19.464481
+90-360,Piotrkowska,Piotrkowska,1,7,51.752644,19.460316
+90-361,Piotrkowska,Piotrkowska,1,20,51.747884,19.46194
+90-363,Sienkiewicza,Henryka Sienkiewicza,1,10,51.751366,19.463775
+90-364,Tylna,Tylna,1,23,51.752435,19.467585
+90-365,Tymienieckiego,Ks. Biskupa Wincentego Tymienieckiego,1,14,51.750789,19.467186
+90-368,Piotrkowska; al. Piłsudskiego,Piotrkowska; Aleja Marszałka Józefa Piłsudskiego,2,15,51.757947,19.460035
+90-369,Piotrkowska,Piotrkowska,1,7,51.754529,19.460066
+90-401,Legionów,Legionów,1,9,51.775561,19.448881
+90-402,Zachodnia,Zachodnia,1,20,51.775729,19.452098
+90-403,Zachodnia,Zachodnia,1,10,51.774887,19.452872
+90-404,Próchnika,dr Adama Próchnika,1,9,51.77443,19.453156
+90-406,Piotrkowska,Piotrkowska,1,11,51.774813,19.454933
+90-407,Piotrkowska,Piotrkowska,1,2,51.773992,19.455006
+90-408,Próchnika,dr Adama Próchnika,1,6,51.774699,19.453744
+90-410,Piotrkowska,Piotrkowska,1,12,51.771834,19.455534
+90-411,Więckowskiego,płk. dr. St. Więckowskiego,1,8,51.77234,19.451637
+90-413,Piotrkowska,Piotrkowska,1,10,51.769644,19.455979
+90-414,Zielona,Zielona,1,8,51.770449,19.454791
+90-415,6 Sierpnia,6 Sierpnia,1,8,51.767456,19.444752
+90-416,6 Sierpnia,6 Sierpnia,1,4,51.768095,19.450615
+90-418,al. Kościuszki,Aleja Tadeusza Kościuszki,1,25,51.764638,19.454459
+90-419,al. Kościuszki,Aleja Tadeusza Kościuszki,1,14,51.767418,19.454404
+90-420,Struga,Andrzeja Struga,1,6,51.764579,19.449106
+90-422,Piotrkowska,Piotrkowska,1,7,51.768163,19.45603
+90-423,Piotrkowska,Piotrkowska,1,10,51.766529,19.456737
+90-425,Piotrkowska,Piotrkowska,1,7,51.764677,19.457104
+90-426,Struga,Andrzeja Struga,1,4,51.765263,19.455756
+90-427,al. Kościuszki,Aleja Tadeusza Kościuszki,1,5,51.76432,19.45515
+90-428,al. Kościuszki,Aleja Tadeusza Kościuszki,1,4,51.763132,19.455368
+90-430,Piotrkowska,Piotrkowska,1,8,51.763257,19.457293
+90-431,Zamenhofa,Ludwika Zamenhofa,1,7,51.762128,19.45578
+90-432,al. Kościuszki,Aleja Tadeusza Kościuszki,1,2,51.761817,19.455417
+90-434,Piotrkowska,Piotrkowska,1,10,51.761405,19.457679
+90-436,al. Kościuszki,Aleja Tadeusza Kościuszki,1,13,51.760503,19.455018
+90-437,al. Kościuszki,Aleja Tadeusza Kościuszki,1,3,51.760522,19.456518
+90-440,Piotrkowska,Piotrkowska,1,4,51.760385,19.458027
+90-441,al. Kościuszki,Aleja Tadeusza Kościuszki,1,10,51.756773,19.455864
+90-442,al. Kościuszki,Aleja Tadeusza Kościuszki,1,5,51.757876,19.457071
+90-443,al. Mickiewicza,Aleja Adama Mickiewicza,1,6,51.758364,19.453956
+90-446,al. Kościuszki,Aleja Tadeusza Kościuszki,1,3,51.756635,19.457461
+90-447,Piotrkowska,Piotrkowska,1,14,51.757329,19.458511
+90-448,Żwirki,Kpt Pilota Franciszka Żwirki,1,8,51.755833,19.453564
+90-450,Żwirki,Kpt Pilota Franciszka Żwirki,1,7,51.755654,19.456952
+90-451,Piotrkowska; al. Kościuszki,Piotrkowska; Aleja Tadeusza Kościuszki,2,20,51.754422,19.458785
+90-452,Radwańska,Radwańska,1,9,51.752655,19.457388
+90-453,Radwańska,Radwańska,1,7,51.752459,19.457517
+90-456,Piotrkowska,Piotrkowska,1,13,51.750722,19.459796
+90-457,Piotrkowska; Kostki,Piotrkowska; Św. Stanisława Kostki,2,13,51.74769,19.460387
+90-458,Skorupki,Ks. Harcmistrza Ignacego Skorupki,1,8,51.74948,19.458279
+90-501,Struga,Andrzeja Struga,1,7,51.76468,19.448343
+90-502,Żeromskiego,Stefana Żeromskiego,1,20,51.763623,19.44743
+90-503,Kopernika,Mikołaja Kopernika,1,18,51.761869,19.447188
+90-505,Skłodowskiej-Curie,Marii Skłodowskiej-Curie,1,14,51.763623,19.447805
+90-507,Gdańska,Gdańska,1,18,51.764614,19.449662
+90-508,Gdańska,Gdańska,1,13,51.76287,19.450827
+90-509,Kopernika,Mikołaja Kopernika,1,10,51.763397,19.451792
+90-510,Zamenhofa,Ludwika Zamenhofa,1,10,51.761862,19.451988
+90-511,Zamenhofa,Ludwika Zamenhofa,1,5,51.761726,19.449057
+90-513,Struga,Andrzeja Struga,1,8,51.764834,19.45211
+90-514,al. Kościuszki,Aleja Tadeusza Kościuszki,1,10,51.763574,19.454414
+90-515,Wólczańska,Wólczańska,1,31,51.754965,19.454858
+90-516,Wólczańska,Wólczańska,1,9,51.763612,19.453248
+90-519,Gdańska,Gdańska,1,11,51.760153,19.450517
+90-520,Gdańska,Gdańska,1,6,51.760412,19.451225
+90-521,Wólczańska,Wólczańska,1,11,51.760378,19.453555
+90-522,Wólczańska,Wólczańska,1,10,51.760356,19.453942
+90-525,Wólczańska,Wólczańska,1,15,51.757041,19.454229
+90-526,Wólczańska,Wólczańska,1,1,51.756896,19.454377
+90-527,Wólczańska,Wólczańska,1,12,51.757305,19.454675
+90-528,Żwirki,Kpt Pilota Franciszka Żwirki,1,9,51.755568,19.4537
+90-530,Wólczańska,Wólczańska,1,11,51.754494,19.455172
+90-531,Wólczańska,Wólczańska,1,15,51.750757,19.455956
+90-532,Skorupki,Ks. Harcmistrza Ignacego Skorupki,1,6,51.749061,19.454585
+90-536,Gdańska,Gdańska,1,18,51.756934,19.451789
+90-537,Stefanowskiego,prof. Bohdana Stefanowskiego,1,14,51.75235,19.453194
+90-539,Żwirki,Kpt Pilota Franciszka Żwirki,1,4,51.755268,19.45091
+90-540,Radwańska,Radwańska,1,5,51.752404,19.454066
+90-541,Radwańska,Radwańska,1,5,51.752107,19.453917
+90-542,Żeromskiego,Stefana Żeromskiego,1,4,51.754541,19.444514
+90-543,Żeromskiego,Stefana Żeromskiego,1,2,51.754665,19.44933
+90-545,Kopernika,Mikołaja Kopernika,1,7,51.761726,19.446833
+90-546,Lipowa,Lipowa,1,4,51.763346,19.445254
+90-547,Zamenhofa,Ludwika Zamenhofa,1,8,51.761525,19.449262
+90-549,Żeromskiego,Stefana Żeromskiego,1,5,51.760827,19.447259
+90-550,Żeromskiego,Stefana Żeromskiego,1,7,51.759975,19.448592
+90-552,Kopernika,Mikołaja Kopernika,1,15,51.760839,19.444632
+90-553,Kopernika,Mikołaja Kopernika,1,30,51.758384,19.43836
+90-554,Józefa Poniatowskiego; Łąkowa,Księcia Józefa Poniatowskiego; Łąkowa,2,44,51.771082,19.412343
+90-556,al. Włókniarzy,Aleja Włókniarzy,1,16,51.762808,19.433063
+90-557,Struga,Andrzeja Struga,1,11,51.762482,19.436365
+90-558,28 Pułku Strzelców Kaniowskich,28 Pułku Strzelców Kaniowskich,1,10,51.763534,19.441412
+90-559,28 Pułku Strzelców Kaniowskich,28 Pułku Strzelców Kaniowskich,1,5,51.763289,19.442145
+90-560,Karolewska,Karolewska,1,28,51.759571,19.43782
+90-561,Karolewska,Karolewska,1,8,51.75903,19.437744
+90-562,Łąkowa,Łąkowa,1,25,51.76211,19.438134
+90-563,Łąkowa,Łąkowa,1,6,51.762364,19.440726
+90-567,Struga,Andrzeja Struga,1,8,51.764338,19.444546
+90-568,Lipowa,Lipowa,1,15,51.762837,19.445616
+90-569,Pogonowskiego,Kpt. Stefana Pogonowskiego,1,15,51.76634,19.443464
+90-570,Skłodowskiej-Curie,Marii Skłodowskiej-Curie,1,4,51.762378,19.443744
+90-571,Skłodowskiej-Curie,Marii Skłodowskiej-Curie,1,12,51.761923,19.443395
+90-601,Zielona,Zielona,1,11,51.770127,19.450552
+90-602,Zielona,Zielona,1,9,51.769958,19.447144
+90-604,Łagiewnicka; Zielona,Łagiewnicka; Zielona,2,74,51.807205,19.455025
+90-606,6 Sierpnia,6 Sierpnia,1,2,51.768476,19.451078
+90-607,Wólczańska,Wólczańska,1,10,51.769336,19.451776
+90-608,Wólczańska,Wólczańska,1,19,51.766666,19.452404
+90-609,Struga,Andrzeja Struga,1,5,51.765237,19.452492
+90-612,Gdańska,Gdańska,1,14,51.768878,19.449124
+90-613,Gdańska; Struga,Gdańska; Andrzeja Struga,2,24,51.766426,19.449667
+90-615,Mała; Plac Norberta Barlickiego,Mała; Plac Norberta Barlickiego,2,8,51.768871,19.447569
+90-616,6 Sierpnia,6 Sierpnia,1,7,51.768169,19.448549
+90-617,6 Sierpnia,6 Sierpnia,1,7,51.767818,19.444373
+90-618,Pogonowskiego,Kpt. Stefana Pogonowskiego,1,9,51.768559,19.442658
+90-619,Pogonowskiego,Kpt. Stefana Pogonowskiego,1,19,51.765941,19.443276
+90-623,6 Sierpnia,6 Sierpnia,1,10,51.767838,19.447801
+90-624,Żeromskiego; Zielona,Stefana Żeromskiego; Zielona,2,8,51.768827,19.445898
+90-625,Żeromskiego,Stefana Żeromskiego,1,15,51.766505,19.446391
+90-626,Żeromskiego,Stefana Żeromskiego,1,10,51.76626,19.446923
+90-629,Lipowa,Lipowa,1,11,51.768527,19.444488
+90-630,Lipowa,Lipowa,1,26,51.7661,19.44499
+90-631,Struga,Andrzeja Struga,1,7,51.764904,19.448344
+90-632,Struga,Andrzeja Struga,1,4,51.764705,19.446119
+90-635,Zielona,Zielona,1,5,51.769146,19.440195
+90-636,6 Sierpnia,6 Sierpnia,1,3,51.767685,19.441401
+90-637,6 Sierpnia,6 Sierpnia,1,6,51.767605,19.444578
+90-638,6 Sierpnia,6 Sierpnia,1,4,51.767349,19.442078
+90-639,28 Pułku Strzelców Kaniowskich,28 Pułku Strzelców Kaniowskich,1,10,51.768295,19.440813
+90-640,28 Pułku Strzelców Kaniowskich; Struga,28 Pułku Strzelców Kaniowskich; Andrzeja Struga,2,21,51.765555,19.441834
+90-642,al. Włókniarzy,Aleja Włókniarzy,1,2,51.76197,19.42976
+90-643,Żeligowskiego,Gen. Lucjana Żeligowskiego,1,3,51.768247,19.438854
+90-644,Żeligowskiego,Gen. Lucjana Żeligowskiego,1,21,51.765587,19.439076
+90-645,6 Sierpnia,6 Sierpnia,1,4,51.766862,19.435741
+90-646,6 Sierpnia,6 Sierpnia,1,23,51.766221,19.43842
+90-647,Plac gen. Józefa Hallera,Plac gen. Józefa Hallera,1,6,51.768052,19.435724
+90-648,Struga,Andrzeja Struga,1,2,51.763215,19.436597
+90-701,Legionów,Legionów,1,12,51.776107,19.449651
+90-702,Legionów,Legionów,1,10,51.775693,19.445738
+90-703,Legionów,Legionów,1,6,51.774411,19.441881
+90-706,Gdańska,Gdańska,1,6,51.775054,19.447532
+90-707,Gdańska,Gdańska,1,9,51.77494,19.448361
+90-708,Próchnika,dr Adama Próchnika,1,16,51.774274,19.449873
+90-710,Żeromskiego,Stefana Żeromskiego,1,12,51.774471,19.444902
+90-711,Żeromskiego,Stefana Żeromskiego,1,7,51.773028,19.445131
+90-712,Próchnika,dr Adama Próchnika,1,9,51.773975,19.445424
+90-713,Próchnika,dr Adama Próchnika,1,10,51.77376,19.445598
+90-715,Gdańska; Próchnika,Gdańska; dr Adama Próchnika,2,7,51.773367,19.448102
+90-716,Gdańska,Gdańska,1,2,51.773209,19.448516
+90-717,al. 1 Maja; 3 Maja,Aleja 1 Maja; 3 Maja,2,24,51.751214,19.448175
+90-718,al. 1 Maja,Aleja 1 Maja,1,11,51.772861,19.446555
+90-720,Wólczańska,Wólczańska,1,6,51.773346,19.450959
+90-721,Więckowskiego,płk. dr. St. Więckowskiego,1,4,51.77243,19.45188
+90-722,Więckowskiego,płk. dr. St. Więckowskiego,1,8,51.772377,19.453577
+90-723,Zachodnia,Zachodnia,1,7,51.771414,19.452908
+90-725,Zachodnia,Zachodnia,1,4,51.771405,19.453673
+90-727,Więckowskiego,płk. dr. St. Więckowskiego,1,6,51.772257,19.449921
+90-728,Więckowskiego,płk. dr. St. Więckowskiego,1,6,51.772064,19.450041
+90-729,Gdańska,Gdańska,1,3,51.771003,19.448342
+90-730,Gdańska,Gdańska,1,7,51.771037,19.449077
+90-731,Wólczańska,Wólczańska,1,5,51.770935,19.451324
+90-732,Wólczańska,Wólczańska,1,2,51.771285,19.451663
+90-734,Więckowskiego,płk. dr. St. Więckowskiego,1,11,51.771905,19.446777
+90-735,Więckowskiego,płk. dr. St. Więckowskiego,1,11,51.771534,19.443821
+90-736,Żeromskiego,Stefana Żeromskiego,1,8,51.77078,19.445417
+90-737,Żeromskiego,Stefana Żeromskiego,1,7,51.770722,19.445923
+90-739,al. 1 Maja,Aleja 1 Maja,1,9,51.772883,19.44442
+90-740,al. 1 Maja,Aleja 1 Maja,1,8,51.772024,19.440294
+90-741,al. 1 Maja; 3 Maja,Aleja 1 Maja; 3 Maja,2,9,51.75986,19.443171
+90-742,Lipowa,Lipowa,1,6,51.773091,19.443323
+90-743,Lipowa; Zielona,Lipowa; Zielona,2,13,51.770342,19.444079
+90-745,Pogonowskiego,Kpt. Stefana Pogonowskiego,1,17,51.771652,19.441673
+90-746,Pogonowskiego,Kpt. Stefana Pogonowskiego,1,12,51.771107,19.442378
+90-747,Więckowskiego,płk. dr. St. Więckowskiego,1,9,51.770803,19.439884
+90-748,Więckowskiego,płk. dr. St. Więckowskiego,1,3,51.770823,19.440883
+90-749,28 Pułku Strzelców Kaniowskich,28 Pułku Strzelców Kaniowskich,1,5,51.770167,19.440221
+90-750,28 Pułku Strzelców Kaniowskich; Zielona,28 Pułku Strzelców Kaniowskich; Zielona,2,4,51.769813,19.440842
+90-752,Żeligowskiego,Gen. Lucjana Żeligowskiego,1,4,51.77101,19.437831
+90-753,Żeligowskiego,Gen. Lucjana Żeligowskiego,1,5,51.770841,19.438367
+90-754,Żeligowskiego,Gen. Lucjana Żeligowskiego,1,1,51.769629,19.438767
+90-755,al. 1 Maja,Aleja 1 Maja,1,13,51.77033,19.434846
+90-756,al. 1 Maja,Aleja 1 Maja,1,18,51.770374,19.436633
+90-757,Więckowskiego,płk. dr. St. Więckowskiego,1,12,51.769551,19.43601
+90-758,Więckowskiego,płk. dr. St. Więckowskiego,1,8,51.769958,19.43826
+90-759,Zielona,Zielona,1,2,51.769304,19.434657
+90-762,Legionów,Legionów,1,7,51.773366,19.438944
+90-763,Legionów,Legionów,1,7,51.772402,19.4363
+90-764,Legionów,Legionów,1,19,51.770249,19.43059
+90-765,Zielona,Zielona,1,4,51.76941,19.430466
+90-766,al. 1 Maja,Aleja 1 Maja,1,10,51.768076,19.429089
+90-767,Więckowskiego,płk. dr. St. Więckowskiego,1,1,51.766582,19.428981
+90-768,al. Włókniarzy,Aleja Włókniarzy,1,9,51.765591,19.427326
+90-960,Karolewska,Karolewska,1,4,51.758401,19.434707
+91-001,Wojska Polskiego,Wojska Polskiego,1,5,51.78478,19.459199
+91-002,Drewnowska; Zgierska; Plac Kościelny,Drewnowska; Zgierska; Plac Kościelny,3,75,51.786728,19.446525
+91-003,Piwna; Żytnia,Piwna; Żytnia,2,35,51.783046,19.443894
+91-004,Lutomierska,Lutomierska,1,22,51.783901,19.444556
+91-005,Zachodnia,Zachodnia,1,4,51.782385,19.451085
+91-006,Podrzeczna,Podrzeczna,1,18,51.78106,19.45237
+91-008,Odolanowska; Drewnowska,Odolanowska; Drewnowska,2,32,51.780925,19.433777
+91-009,Pietrusińskiego; Okrzei,Jana Pietrusińskiego; Stefana Okrzei,2,36,51.778698,19.430461
+91-010,Stolarska; Floriańska,Stolarska; Floriańska,2,12,51.782149,19.429563
+91-012,Gandhiego; Odolanowska,Mahatmy Gandhiego; Odolanowska,2,26,51.783757,19.433761
+91-013,Czarnkowska; Lutomierska; Kutrzeby,Czarnkowska; Lutomierska; Generała Tadeusza Kutrzeby,3,18,51.784769,19.435729
+91-015,Gandhiego,Mahatmy Gandhiego,1,19,51.783963,19.427189
+91-016,Kutrzeby,Generała Tadeusza Kutrzeby,1,8,51.784716,19.429023
+91-017,Kasprzaka,Marcina Kasprzaka,1,7,51.78286,19.426826
+91-018,Powstańców Wielkopolskich,Powstańców Wielkopolskich,1,8,51.784956,19.423544
+91-020,Inowrocławska,Inowrocławska,1,8,51.78779,19.416432
+91-021,Pułaskiego,Gen. Kazimierza Pułaskiego,1,5,51.789508,19.417741
+91-022,Żubardzka,Żubardzka,1,2,51.787603,19.416411
+91-023,Żubardzka,Żubardzka,1,1,51.787008,19.417443
+91-024,Uniejowska; Wielkopolska,Uniejowska; Wielkopolska,2,16,51.791623,19.41621
+91-025,Turoszowska,Turoszowska,1,25,51.790199,19.41275
+91-026,Wielkopolska,Wielkopolska,1,8,51.790929,19.415785
+91-027,Limanowskiego; Uniejowska,Bolesława Limanowskiego; Uniejowska,2,24,51.79205,19.42034
+91-028,Pola; Limanowskiego,Wincentego Pola; Bolesława Limanowskiego,2,14,51.793312,19.411604
+91-029,Wielkopolska,Wielkopolska,1,15,51.792421,19.410746
+91-030,Woronicza; Gorzowska; Narodowa,Ks. Abp Jana Pawła Woronicza; Gorzowska; Narodowa,3,32,51.791584,19.409438
+91-031,Limanowskiego,Bolesława Limanowskiego,1,1,51.792634,19.413878
+91-032,Żubardzka; Pułaskiego,Żubardzka; Gen. Kazimierza Pułaskiego,2,19,51.787005,19.415077
+91-033,Inowrocławska,Inowrocławska,1,11,51.785746,19.416472
+91-034,Mokra; Limanowskiego; al. Włókniarzy,Mokra; Bolesława Limanowskiego; Aleja Włókniarzy,3,31,51.789341,19.423747
+91-035,Lutomierska; Powstańców Wielkopolskich,Lutomierska; Powstańców Wielkopolskich,2,13,51.788837,19.422914
+91-036,Bydgoska; Klonowa,Bydgoska; Klonowa,2,34,51.787636,19.426889
+91-037,Szamotulska; Lutomierska,Szamotulska; Lutomierska,2,13,51.787199,19.424838
+91-038,Antoniego Padewskiego; Limanowskiego,św. Antoniego Padewskiego; Bolesława Limanowskiego,2,7,51.790152,19.426882
+91-039,Sprawiedliwa; Obornicka; Klonowa,Sprawiedliwa; Obornicka; Klonowa,3,49,51.78845,19.430434
+91-040,Powstańców Wielkopolskich,Powstańców Wielkopolskich,1,18,51.786235,19.428597
+91-041,Lutomierska; Limanowskiego,Lutomierska; Bolesława Limanowskiego,2,19,51.788395,19.430631
+91-042,Sierakowskiego; Limanowskiego; Obornicka,Gen. Zygmunta Sierakowskiego; Bolesława Limanowskiego; Obornicka,3,25,51.78881,19.43504
+91-043,Kutrzeby; Malinowa; Wrześnieńska; Lutomierska; Powstańców Wielkopolskich,Generała Tadeusza Kutrzeby; Malinowa; Wrześnieńska; Lutomierska; Powstańców Wielkopolskich,5,23,51.786538,19.432238
+91-044,Kutrzeby,Generała Tadeusza Kutrzeby,1,2,51.785583,19.433594
+91-045,Wrześnieńska; Popiela,Wrześnieńska; Popiela,2,21,51.787332,19.436186
+91-046,Gnieźnieńska; Kołodziejska; Lutomierska; Modra,Gnieźnieńska; Kołodziejska; Lutomierska; Modra,4,46,51.786274,19.437935
+91-048,Piwna; Lutomierska; Wrześnieńska; Gnieźnieńska,Piwna; Lutomierska; Wrześnieńska; Gnieźnieńska,4,40,51.786012,19.441783
+91-049,Limanowskiego; Wrześnieńska,Bolesława Limanowskiego; Wrześnieńska,2,20,51.787673,19.441659
+91-050,Wróbla; Pawia,Wróbla; Pawia,2,32,51.785965,19.441516
+91-051,Rybna; Wrześnieńska,Rybna; Wrześnieńska,2,22,51.785279,19.445891
+91-052,Wrocławska; Limanowskiego; Osiedlowa,Wrocławska; Bolesława Limanowskiego; Osiedlowa,3,22,51.786334,19.444912
+91-053,Bazarowa,Bazarowa,1,11,51.784264,19.448396
+91-054,Lutomierska; Graficzna,Lutomierska; Graficzna,2,4,51.784543,19.444011
+91-055,Rybna; Zachodnia,Rybna; Zachodnia,2,44,51.785524,19.44803
+91-056,Limanowskiego; Lutomierska,Bolesława Limanowskiego; Lutomierska,2,9,51.785795,19.448502
+91-058,Zachodnia; Lutomierska; Krótka,Zachodnia; Lutomierska; Krótka,3,28,51.783762,19.451253
+91-059,Zgierska; Limanowskiego,Zgierska; Bolesława Limanowskiego,2,21,51.785174,19.452235
+91-061,Nowomiejska,Nowomiejska,1,7,51.777985,19.454231
+91-062,Ogrodowa,Ogrodowa,1,5,51.777918,19.448856
+91-063,Zachodnia; Legionów,Zachodnia; Legionów,2,13,51.777227,19.451938
+91-064,Zachodnia,Zachodnia,1,1,51.77943,19.451207
+91-065,Ogrodowa,Ogrodowa,1,15,51.778159,19.446854
+91-066,Gdańska,Gdańska,1,12,51.777088,19.447376
+91-067,Mielczarskiego,Romualda Mielczarskiego,1,35,51.77639,19.444111
+91-068,Cmentarna,Cmentarna,1,10,51.775255,19.441006
+91-069,Legionów,Legionów,1,21,51.77615,19.447479
+91-070,Legionów,Legionów,1,9,51.774235,19.440572
+91-071,Ogrodowa; Karskiego,Ogrodowa; Jana Karskiego,2,21,51.77694,19.439227
+91-072,Jerzego; Legionów; Artyleryjska,Św. Jerzego; Legionów; Artyleryjska,3,28,51.773958,19.437196
+91-073,Legionów; al. Włókniarzy; Naftowa,Legionów; Aleja Włókniarzy; Naftowa,3,17,51.771129,19.428682
+91-074,Srebrzyńska; Pietrusińskiego,Srebrzyńska; Jana Pietrusińskiego,2,27,51.774555,19.427635
+91-075,Okrzei; Waryńskiego,Stefana Okrzei; Ludwika Waryńskiego,2,25,51.776757,19.429566
+91-076,Gazowa; Długosza,Gazowa; Długosza,2,20,51.775695,19.42959
+91-078,Kasprzaka,Marcina Kasprzaka,1,49,51.776396,19.427534
+91-079,Długosza,Długosza,1,6,51.776452,19.427527
+91-080,Górna,Górna,1,29,51.777586,19.428556
+91-082,Srebrzyńska; Augustyniaka,Srebrzyńska; Jana Augustyniaka,2,9,51.773534,19.425886
+91-083,Lorentza; Długosza; Kasprzaka,Zygmunta Lorentza; Długosza; Marcina Kasprzaka,3,21,51.774818,19.425958
+91-084,Bardowskiego,Piotra Bardowskiego,1,28,51.778627,19.425553
+91-085,Drewnowska,Drewnowska,1,7,51.780167,19.422825
+91-087,Wapienna; Srebrzyńska,Wapienna; Srebrzyńska,2,61,51.776142,19.422536
+91-088,Ciepła; Długosza; Zimna; Zana,Ciepła; Długosza; Zimna; Tomasza Zana,4,36,51.778389,19.419993
+91-089,Ossowskiego; al. Włókniarzy; Rychlińskiego,Michała Ossowskiego; Aleja Włókniarzy; Tomasza Rychlińskiego,3,53,51.777719,19.423254
+91-103,Łanowa,Łanowa,1,25,51.793145,19.40214
+91-104,Plantowa,Plantowa,1,20,51.791332,19.404258
+91-110,Łanowa,Łanowa,1,22,51.794329,19.397821
+91-111,Traktorowa,Traktorowa,1,28,51.796018,19.394579
+91-116,Traktorowa,Traktorowa,1,27,51.78699,19.393042
+91-117,Traktorowa; Klaretyńska,Traktorowa; Klaretyńska,2,18,51.791459,19.395554
+91-120,Aleksandrowska; Lipiec Reymontowskich,Aleksandrowska; Lipiec Reymontowskich,2,34,51.798018,19.390502
+91-127,Rojna,Rojna,1,14,51.794574,19.374384
+91-128,Rojna,Rojna,1,6,51.792263,19.389487
+91-129,Cedry; Traktorowa,Krzysztofa Cedry; Traktorowa,2,32,51.787177,19.390361
+91-130,Traktorowa,Traktorowa,1,2,51.791596,19.392815
+91-134,Rojna; Judyma; al. Brynickiej; Wiernej Rzeki; al. Odrowąża,Rojna; Tomasza Judyma; Aleja Salomei Brynickiej; Aleja Józefa Odrowąża; Wiernej Rzeki,5,148,51.795125,19.366496
+91-140,al. Pasjonistów; Grabieniec; Radka,Aleja Pasjonistów; Grabieniec; Andrzeja Radka,3,32,51.79487,19.388468
+91-141,Parcelacyjna,Parcelacyjna,1,11,51.794052,19.391668
+91-142,Rojna,Rojna,1,12,51.793249,19.390353
+91-144,al. Harcerzy - Zatorowców; Traktorowa,Aleja Harcerzy - Zatorowców; Traktorowa,2,12,51.794973,19.39239
+91-148,Traktorowa,Traktorowa,1,6,51.796337,19.393112
+91-149,Grabieniec,Grabieniec,1,7,51.796642,19.389591
+91-150,Wici,Wici,1,2,51.797141,19.383436
+91-151,Aleksandrowska,Aleksandrowska,1,6,51.799236,19.383819
+91-154,Aleksandrowska,Aleksandrowska,1,1,51.804724,19.360049
+91-155,Aleksandrowska,Aleksandrowska,1,35,51.809976,19.343886
+91-156,Klinowa; Plonowa; Tatarczana; Bylinowa; Alzacka; Toskańska,Klinowa; Plonowa; Tatarczana; Bylinowa; Alzacka; Toskańska,6,199,51.803359,19.350686
+91-157,Wici,Wici,1,51,51.797124,19.372226
+91-158,Lniana,Lniana,1,39,51.796689,19.380416
+91-159,Lniana,Lniana,1,1,51.796324,19.383303
+91-160,Micińskiego,Tadeusza Micińskiego,1,47,51.79589,19.368835
+91-161,Mencla; Piętaka,Bernarda Wojciecha Mencla; Stanisława Piętaka,2,86,51.795699,19.367082
+91-162,Banachiewicza; Sztaudyngera; Jasne Błonia; Wolińska,Prof. Tadeusza Banachiewicza; Jana Izydora Sztaudyngera; Jasne Błonia; Wolińska,4,182,51.794284,19.364862
+91-163,Kotarbińskiego; Majewskiego,Prof. Tadeusza Kotarbińskiego; Hilarego Majewskiego,2,50,51.792049,19.36815
+91-164,Telewizyjna; Cebertowicza,Telewizyjna; Prof. Romualda Cebertowicza,2,100,51.793167,19.365313
+91-165,Romera; Laserowa,Prof. Eugeniusza Romera; Laserowa,2,65,51.791949,19.368252
+91-166,Komputerowa,Komputerowa,1,13,51.794021,19.365495
+91-167,Geodezyjna; Kosmiczna; Rojna,Geodezyjna; Kosmiczna; Rojna,3,51,51.793506,19.366336
+91-168,Fizyczna; Chemiczna,Fizyczna; Chemiczna,2,45,51.793537,19.368234
+91-169,Dylika; Wernera,Prof. Jana Dylika; Prof. Jerzego Wernera,2,34,51.793688,19.36926
+91-170,Baczyńskiego; Przybosia,Krzysztofa Kamila Baczyńskiego; Juliana Przybosia,2,162,51.796923,19.364493
+91-171,Kąkolowa; Sokołowska; Szałwiowa; Drozdowa,Kąkolowa; Sokołowska; Szałwiowa; Drozdowa,4,241,51.823052,19.356457
+91-172,Zimna Woda,Zimna Woda,1,94,51.821237,19.350504
+91-173,Spadkowa,Spadkowa,1,4,51.814665,19.358664
+91-174,Romanowska; Ogrody Romanów,Romanowska; Ogrody Romanów,2,227,51.80495,19.330585
+91-175,Skwarczyńskiej; Sikiryckiego,Stefanii Skwarczyńskiej; Igora Sikiryckiego,2,24,51.808524,19.345585
+91-176,Kędry; Jażdżewskiego,Władysława Kędry; Konrada Jażdżewskiego,2,15,51.806773,19.346448
+91-177,Safrina; Kondka,Horacego Safrina; Wacława Kondka,2,52,51.804639,19.350783
+91-179,Białych Róż; Czerwonych Maków; Kwitnącej Wiśni,Białych Róż; Czerwonych Maków; Kwitnącej Wiśni,3,51,51.798655,19.359535
+91-180,Belgijska; Masłochów; Flamandzka; Czcibora; Flandryjska,Belgijska; Lone i Lucjana Masłochów; Flamandzka; Czcibora; Flandryjska,5,135,51.800005,19.349681
+91-181,Walońska; Grechuty; Holenderska; Luksemburska,Walońska; Marka Grechuty; Holenderska; Luksemburska,4,37,51.796122,19.351189
+91-182,Toeplitza,Jerzego Toeplitza,1,20,51.800284,19.336548
+91-183,Normandzka; Szarej Piechoty; Brukselska,Normandzka; Szarej Piechoty; Brukselska,3,39,51.799226,19.354646
+91-184,Sycylijska; Włoska,Sycylijska; Włoska,2,24,51.802646,19.357957
+91-185,Szuberta,Profesora Wacława Szuberta,1,6,51.799694,19.347631
+91-186,Fogga,Mieczysława Fogga,1,15,51.800124,19.357261
+91-187,Niemena,Czesława Niemena,1,12,51.80153,19.347144
+91-188,Kaczmarskiego,Jacka Kaczmarskiego,1,1,51.8024,19.347452
+91-189,Ciechowskiego,Grzegorza Ciechowskiego,1,3,51.802928,19.347597
+91-201,Aleksandrowska,Aleksandrowska,1,2,51.796965,19.400041
+91-202,Cepowa; Sierpowa; Koprowa; Warecka; Chłopska,Cepowa; Sierpowa; Koprowa; Warecka; Chłopska,5,97,51.80248,19.399489
+91-203,Traktorowa; Ludowa; Wersalska; Warecka; Teofilowska,Traktorowa; Ludowa; Wersalska; Warecka; Teofilowska,5,61,51.804926,19.392752
+91-204,Duńska; Traktorowa; Juliusza,Duńska; Traktorowa; Juliusza,3,30,51.801062,19.39698
+91-205,Aleksandrowska,Aleksandrowska,1,17,51.80281,19.371622
+91-210,Duńska; Ziemniaczana,Duńska; Ziemniaczana,2,6,51.801521,19.391334
+91-211,Rydzowa; Szparagowa,Rydzowa; Szparagowa,2,37,51.799462,19.375972
+91-212,Wersalska,Wersalska,1,17,51.808854,19.378918
+91-213,Wici,Wici,1,14,51.798797,19.380879
+91-214,Kaczeńcowa,Kaczeńcowa,1,33,51.799398,19.387367
+91-215,Rydzowa,Rydzowa,1,1,51.796993,19.376013
+91-218,Traktorowa,Traktorowa,1,14,51.813167,19.395368
+91-219,"Pabianka; Żabieniec; Kieratowa; Zapustna; Fieldorfa ""Nila""; Krynicka; Samopomocy; Żeńców","Pabianka; Żabieniec; Kieratowa; Zapustna; Generała Augusta Emila Fieldorfa ""Nila""; Krynicka; Samopomocy; Żeńców",8,114,51.814505,19.401482
+91-220,Liściasta,Liściasta,1,76,51.81989,19.397584
+91-221,Krajowa; Piaskowiec,Krajowa; Piaskowiec,2,15,51.819316,19.401732
+91-222,Szczecińska; Teresy od Dzieciątka Jezus,Szczecińska; św. Teresy od Dzieciątka Jezus,2,120,51.809445,19.381254
+91-223,Morgowa; Tytoniowa,Morgowa; Tytoniowa,2,31,51.804582,19.37197
+91-224,Aleksandrowska,Aleksandrowska,1,25,51.800839,19.371686
+91-225,Selerowa; Marzanny; Słomiana; Jaglana; Skibowa; Gruntowa; Nowożeńców,Selerowa; Marzanny; Słomiana; Jaglana; Skibowa; Gruntowa; Nowożeńców,7,87,51.815316,19.386977
+91-226,Planetarna; Pastelowa; Liryczna,Planetarna; Pastelowa; Liryczna,3,43,51.817915,19.409146
+91-227,Akwarelowa; Arktyczna; Okręglik; Na Uboczu; Bliska,Akwarelowa; Arktyczna; Okręglik; Na Uboczu; Bliska,5,46,51.818899,19.409495
+91-228,"Sianokosy; Okulickiego ""Niedźwiadka""","Sianokosy; Gen. Leopolda Okulickiego ""Niedźwiadka""",2,42,51.826664,19.412892
+91-229,Aleksandrowska,Aleksandrowska,1,13,51.806601,19.354842
+91-230,Chochoła; Uprawna; Lechicka; Hektarowa; Kujawska; Konopna; Rodła; Kłosowa,Chochoła; Uprawna; Lechicka; Hektarowa; Kujawska; Konopna; Rodła; Kłosowa,8,371,51.809232,19.364272
+91-231,Nasienna; Morgowa; Ratajska; Warzywna; Hodowlana; Żyzna,Nasienna; Morgowa; Ratajska; Warzywna; Hodowlana; Żyzna,6,92,51.810621,19.37217
+91-232,Zagonowa; Glebowa; Arachidowa; Bruzdowa; Kompostowa; Spadkowa; Pistacjowa; Wierzb Płaczących,Zagonowa; Glebowa; Arachidowa; Bruzdowa; Kompostowa; Spadkowa; Pistacjowa; Wierzb Płaczących,8,175,51.811175,19.359551
+91-233,Kozia; Wronia,Kozia; Wronia,2,18,51.823096,19.36831
+91-301,Snycerska,Snycerska,1,1,51.787743,19.448532
+91-302,Limanowskiego; Snycerska,Bolesława Limanowskiego; Snycerska,2,16,51.787571,19.449151
+91-303,Zgierska,Zgierska,1,14,51.790734,19.449074
+91-304,Urzędnicza; Sędziowska; Profesorska,Urzędnicza; Sędziowska; Profesorska,3,20,51.793555,19.443579
+91-305,Adwokacka; Zgierska,Adwokacka; Zgierska,2,11,51.792646,19.44596
+91-308,Ciesielska,Ciesielska,1,29,51.789027,19.447443
+91-309,Limanowskiego,Bolesława Limanowskiego,1,7,51.787828,19.445171
+91-310,Kominiarska; Wrocławska,Kominiarska; Wrocławska,2,13,51.790356,19.44584
+91-311,Drukarska,Drukarska,1,20,51.789102,19.445554
+91-312,Urzędnicza,Urzędnicza,1,27,51.789653,19.443588
+91-314,Piekarska,Piekarska,1,17,51.789509,19.442033
+91-315,Prusa; Brzóski; Kaszubska,Bolesława Prusa; ks. Stanisława Brzóski; Kaszubska,3,54,51.790328,19.439785
+91-316,Sierakowskiego; Srebrna; Warmińska,Gen. Zygmunta Sierakowskiego; Srebrna; Warmińska,3,31,51.791818,19.436839
+91-318,Głucha,Głucha,1,3,51.789864,19.443137
+91-320,Olsztyńska; Zgierska,Olsztyńska; Zgierska,2,5,51.794949,19.441146
+91-321,Brzóski; Sierakowskiego; Żeglarska; Sędziowska; Zduńska,ks. Stanisława Brzóski; Gen. Zygmunta Sierakowskiego; Żeglarska; Sędziowska; Zduńska,5,61,51.794834,19.440597
+91-322,Pojezierska,Pojezierska,1,5,51.797242,19.440356
+91-323,Pojezierska; Piotrowiczowej; Olsztyńska,Pojezierska; Marii Piotrowiczowej; Olsztyńska,3,19,51.797638,19.439616
+91-324,Sierakowskiego; Hipoteczna; Brzóski,Gen. Zygmunta Sierakowskiego; Hipoteczna; ks. Stanisława Brzóski,3,27,51.796628,19.437857
+91-327,Rajska; Olsztyńska,Rajska; Olsztyńska,2,31,51.795385,19.436319
+91-328,Polna; Malborska; Pojezierska; Srebrna,Polna; Malborska; Pojezierska; Srebrna,4,42,51.79223,19.43538
+91-329,Limanowskiego,Bolesława Limanowskiego,1,19,51.789209,19.437947
+91-333,Limanowskiego,Bolesława Limanowskiego,1,1,51.79031,19.430854
+91-334,Srebrna; Limanowskiego; Mackiewicza; Kwidzyńska,Srebrna; Bolesława Limanowskiego; Antoniego Mackiewicza; Kwidzyńska,4,47,51.792765,19.431841
+91-335,Grunwaldzka; Kilara; Hipoteczna; Radłowa,Grunwaldzka; Wojciecha Kilara; Hipoteczna; Radłowa,4,100,51.795256,19.429177
+91-336,Gliniana; Rumuńska; Fredry; Ogórkowa; Oliwska,Gliniana; Rumuńska; Aleksandra Fredry; Ogórkowa; Oliwska,5,154,51.795768,19.425152
+91-337,Grunwaldzka,Grunwaldzka,1,54,51.79987,19.430403
+91-338,Pojezierska,Pojezierska,1,37,51.798797,19.428664
+91-340,Limanowskiego,Bolesława Limanowskiego,1,31,51.793013,19.418174
+91-341,Brukowa; Pojezierska; Teresy od Dzieciątka Jezus; Orna; Szpinakowa,Brukowa; Pojezierska; św. Teresy od Dzieciątka Jezus; Orna; Szpinakowa,5,145,51.80644,19.414011
+91-342,Helska; Zbąszyńska; Grudziądzka; Swojska,Helska; Zbąszyńska; Grudziądzka; Swojska,4,87,51.795599,19.41497
+91-345,Gdyńska,Gdyńska,1,8,51.7976,19.434263
+91-346,Zgierska,Zgierska,1,1,51.806663,19.438866
+91-347,Kniaziewicza; Sierakowskiego; Brzóski,Gen. Karola Kniaziewicza; Gen. Zygmunta Sierakowskiego; ks. Stanisława Brzóski,3,51,51.799411,19.437492
+91-348,Teresy od Dzieciątka Jezus; Kalinowa; Morwowa; Osinowa; Nad Sokołówką; Pancerna; al. Włókniarzy,św. Teresy od Dzieciątka Jezus; Kalinowa; Morwowa; Osinowa; Nad Sokołówką; Pancerna; Aleja Włókniarzy,7,106,51.802112,19.433663
+91-349,Mackiewicza; Gdyńska,Antoniego Mackiewicza; Gdyńska,2,21,51.796425,19.434835
+91-350,Jana,Jana,1,29,51.79884,19.43791
+91-351,al. Włókniarzy,Aleja Włókniarzy,1,1,51.803041,19.42607
+91-355,Zgierska,Zgierska,1,15,51.813546,19.435205
+91-356,Kruszynowa; Koniczynowa; Truskawkowa; Turzycowa; Moczarowa; Storczykowa; Szuwarowa,Kruszynowa; Koniczynowa; Truskawkowa; Turzycowa; Moczarowa; Storczykowa; Szuwarowa,7,143,51.810311,19.43485
+91-357,Liściasta; Jagoszewskiego; Szwajcera; Osadnicza; Smolika; Aldridge'a; Lewa; Dereniowa; Czereśniowa; al. Włókniarzy,Liściasta; Mieczysława Jagoszewskiego; Abrahama Szwajcera; Osadnicza; Przecława Smolika; Iry Aldridge'a; Lewa; Dereniowa; Czereśniowa; Aleja Włókniarzy,10,491,51.808162,19.424313
+91-358,Jeziorna; Złocieniowa; Stawowa; Anyżowa; Migdałowa; Niezapominajki; Biedronkowa,Jeziorna; Złocieniowa; Stawowa; Anyżowa; Migdałowa; Niezapominajki; Biedronkowa,7,165,51.816293,19.428535
+91-359,Liściasta; Pojezierska; Sitowie,Liściasta; Pojezierska; Sitowie,3,3,51.809904,19.430499
+91-360,Jaspisowa; Nefrytowa; Topazowa; Amazonitowa; Boksytowa; Agatowa; Berylowa; Malachitowa; Gipsowa; Jantarowa; Opalowa; Onyksowa; al. Włókniarzy,Jaspisowa; Nefrytowa; Topazowa; Amazonitowa; Boksytowa; Agatowa; Berylowa; Malachitowa; Gipsowa; Jantarowa; Opalowa; Onyksowa; Aleja Włókniarzy,13,339,51.814635,19.417943
+91-362,Jagiellońska; Motylowa; Zgierska; Pasieczna,Jagiellońska; Motylowa; Zgierska; Pasieczna,4,39,51.819802,19.429437
+91-363,Jesionowa; Gruszowa; Tarninowa,Jesionowa; Gruszowa; Tarninowa,3,24,51.820708,19.42813
+91-364,Trawiasta; Ziołowa; Lawendowa; Podbiałowa; Nagietkowa; Piołunowa; Rumiankowa; Zgierska; Żywokostowa,Trawiasta; Ziołowa; Lawendowa; Podbiałowa; Nagietkowa; Piołunowa; Rumiankowa; Zgierska; Żywokostowa,9,122,51.822765,19.42401
+91-365,Brzoskwiniowa; Cyprysowa; Agrestowa,Brzoskwiniowa; Cyprysowa; Agrestowa,3,130,51.824528,19.4232
+91-366,"Okulickiego ""Niedźwiadka""; Helenówek","Gen. Leopolda Okulickiego ""Niedźwiadka""; Helenówek",2,18,51.827852,19.420999
+91-370,11 Listopada,11 Listopada,1,25,51.816687,19.422592
+91-371,11 Listopada,11 Listopada,1,33,51.818873,19.420018
+91-372,11 Listopada,11 Listopada,1,7,51.820964,19.418869
+91-373,11 Listopada,11 Listopada,1,1,51.825805,19.418649
+91-402,Strykowska; Matejki; Lubeckiego; Pomorska; al. Palki,Strykowska; Jana Matejki; Franciszka Lubeckiego; Pomorska; Aleja Grzegorza Palki,5,62,51.799252,19.503501
+91-403,Tamka; Pomorska,Tamka; Pomorska,2,27,51.779552,19.488918
+91-404,Styrska; Lumumby; Pomorska; Strajku Łódzkich Studentów w 1981 r.; Dniestrzańska; Poranna,Styrska; Patrice Lumumby; Pomorska; Strajku Łódzkich Studentów w 1981 r.; Dniestrzańska; Poranna,6,64,51.779436,19.492787
+91-408,Pomorska,Pomorska,1,12,51.778076,19.466575
+91-409,Pomorska; al. Anstadta,Pomorska; Aleja Karola Anstadta,2,20,51.778949,19.473308
+91-410,Wierzbowa,Wierzbowa,1,9,51.779615,19.477942
+91-414,Nowomiejska,Nowomiejska,1,5,51.778128,19.45461
+91-415,Plac Wolności,Plac Wolności,1,12,51.776825,19.45444
+91-416,Pomorska,Pomorska,1,9,51.777327,19.457617
+91-417,Wschodnia,Wschodnia,1,14,51.778159,19.457201
+91-420,Północna,Północna,1,16,51.779054,19.458248
+91-421,Kilińskiego,Płk Jana Kilińskiego,1,6,51.778311,19.461723
+91-422,Pomorska,Pomorska,1,2,51.777509,19.460687
+91-423,Solna,Solna,1,9,51.778419,19.459841
+91-425,Północna; Sterlinga,Północna; Dr Seweryna Sterlinga,2,29,51.779946,19.470989
+91-426,Wierzbowa,Wierzbowa,1,13,51.780002,19.477021
+91-427,Kamińskiego; Kołłątaja,Harcmistrza Aleksandra Kamińskiego; Ks. Hugona Kołłątaja,2,27,51.779697,19.475067
+91-430,Konstadta; Majzela; Jakuba,Hermana Konstadta; Eliasza Chaima Majzela; Jakuba,3,8,51.782081,19.458623
+91-431,Franciszkańska; Bojowników Getta Warszawskiego,Franciszkańska; Bojowników Getta Warszawskiego,2,25,51.784516,19.459965
+91-432,Wojska Polskiego,Wojska Polskiego,1,7,51.785304,19.464617
+91-433,Smugowa; Franciszkańska,Smugowa; Franciszkańska,2,25,51.782377,19.463114
+91-434,Wolborska,Wolborska,1,4,51.781009,19.458966
+91-437,Kościelna; Podrzeczna,Kościelna; Podrzeczna,2,6,51.782341,19.455155
+91-438,Bojowników Getta Warszawskiego; Plac Stary Rynek,Bojowników Getta Warszawskiego; Plac Stary Rynek,2,13,51.782667,19.457327
+91-439,Wojska Polskiego; Majzela,Wojska Polskiego; Eliasza Chaima Majzela,2,11,51.783492,19.456568
+91-440,Wojska Polskiego; Konstadta,Wojska Polskiego; Hermana Konstadta,2,8,51.783912,19.458522
+91-441,Franciszkańska,Franciszkańska,1,5,51.784061,19.460181
+91-444,Kościelna; Plac Kościelny,Kościelna; Plac Kościelny,2,3,51.782575,19.454399
+91-445,Łagiewnicka; Bałucki Rynek,Łagiewnicka; Bałucki Rynek,2,11,51.785628,19.453803
+91-446,Zgierska,Zgierska,1,21,51.786737,19.452045
+91-449,Ceglana; Bałucki Rynek,Ceglana; Bałucki Rynek,2,23,51.788777,19.452575
+91-450,Tokarska,Tokarska,1,10,51.790541,19.453237
+91-455,Żurawia; Dolna,Żurawia; Dolna,2,3,51.791692,19.453127
+91-456,Łagiewnicka,Łagiewnicka,1,12,51.796814,19.455454
+91-457,Krzyżowa; Żabia; Gęsia,Krzyżowa; Żabia; Gęsia,3,17,51.793252,19.453688
+91-458,Chopina; Stefana,Fryderyka Chopina; Stefana,2,11,51.797212,19.453774
+91-459,Dzika,Dzika,1,6,51.797204,19.454593
+91-462,Wspólna,Wspólna,1,1,51.795494,19.449161
+91-463,Stefana; Łagiewnicka; Żurawia; Zgierska; Goplańska; Dolna,Stefana; Łagiewnicka; Żurawia; Zgierska; Goplańska; Dolna,6,57,51.792776,19.45107
+91-464,Wspólna; Bolesława Chrobrego; Pocztowa,Wspólna; Króla Bolesława Chrobrego; Pocztowa,3,21,51.795168,19.448915
+91-465,Murarska; Sadowa; Zgierska,Murarska; Sadowa; Zgierska,3,28,51.796187,19.448692
+91-468,Zgierska,Zgierska,1,2,51.796544,19.445421
+91-469,Kochanowskiego; Murarska,Jana Kochanowskiego; Murarska,2,25,51.797179,19.450609
+91-470,Blacharska; Marcina; Chopina; Stefana,Blacharska; Marcina; Fryderyka Chopina; Stefana,4,9,51.796137,19.452167
+91-471,Łagiewnicka,Łagiewnicka,1,6,51.799253,19.455396
+91-473,Julianowska; Skarbowa; Biegańskiego; Orzeszkowej; Akacjowa; Zgierska; Cisowa; Łagiewnicka,Julianowska; Skarbowa; Dr Władysława Biegańskiego; Elizy Orzeszkowej; Akacjowa; Zgierska; Cisowa; Łagiewnicka,8,138,51.799778,19.448481
+91-474,Biegańskiego; Głogowa; Żarnowcowa; Malwowa,Dr Władysława Biegańskiego; Głogowa; Żarnowcowa; Malwowa,4,35,51.800742,19.451359
+91-475,Biegańskiego; Owocowa; Skrzypowa,Dr Władysława Biegańskiego; Owocowa; Skrzypowa,3,19,51.801285,19.45457
+91-478,Krzewowa; Pogodna; Karłowicza; Zgierska; Zdrojowa,Krzewowa; Pogodna; Mieczysława Karłowicza; Zgierska; Zdrojowa,5,62,51.801742,19.446142
+91-479,Orzeszkowej; Głogowa; Żarnowcowa; Malwowa; Wrzosowa,Elizy Orzeszkowej; Głogowa; Żarnowcowa; Malwowa; Wrzosowa,5,50,51.802148,19.449904
+91-480,Hortensji; Makowa; Przyrodnicza; Jaskrowa; Chabrowa; Bzowa; Jałowcowa,Hortensji; Makowa; Przyrodnicza; Jaskrowa; Chabrowa; Bzowa; Jałowcowa,7,96,51.80358,19.452125
+91-481,Folwarczna; Włościańska; Litewska; Bukowa; Łagiewnicka; Olszowa; Biegańskiego,Folwarczna; Włościańska; Litewska; Bukowa; Łagiewnicka; Olszowa; Dr Władysława Biegańskiego,7,111,51.803795,19.457102
+91-485,Sowińskiego,Gen. Józefa Sowińskiego,1,95,51.811473,19.448368
+91-486,Laurowa; Leszczynowa; Wiązowa; Jarzębinowa,Laurowa; Leszczynowa; Wiązowa; Jarzębinowa,4,56,51.810234,19.449221
+91-487,Folwarczna; Kasztanowa; Łagiewnicka; Pawilońska; Jodłowa; Strumykowa; Modrzewiowa; Świerkowa,Folwarczna; Kasztanowa; Łagiewnicka; Pawilońska; Jodłowa; Strumykowa; Modrzewiowa; Świerkowa,8,259,51.809096,19.454804
+91-488,al. Róż; Jaśminowa; Jaskrowa; Jaworowa; Zgierska; Cedrowa,Aleja Róż; Jaśminowa; Jaskrowa; Jaworowa; Zgierska; Cedrowa,6,111,51.80616,19.452475
+91-489,Syrenki,Syrenki,1,3,51.820513,19.446161
+91-490,Sasanek; Przedwiośnie; Zgierska; Świetlana,Sasanek; Przedwiośnie; Zgierska; Świetlana,4,210,51.812692,19.444492
+91-491,Łucji; Słoneczna; Łagiewnicka,Łucji; Słoneczna; Łagiewnicka,3,116,51.81792,19.452349
+91-492,Bema,Gen. Józefa Bema,1,88,51.815455,19.446276
+91-493,Kleeberga; Gontyny; Jasińskiego; Czarnoleska; Koronna; Zbijewskiej; Konarowa; Szczęśliwa; Światowida,Gen. Franciszka Kleeberga; Gontyny; Gen. Jakuba Jasińskiego; Czarnoleska; Koronna; Julii Zbijewskiej; Konarowa; Szczęśliwa; Światowida,9,274,51.815117,19.447169
+91-495,Sitowie; Trzcinowa; Wiklinowa; Tatarakowa; Zgierska; Brzegowa; Urocza,Sitowie; Trzcinowa; Wiklinowa; Tatarakowa; Zgierska; Brzegowa; Urocza,7,78,51.825744,19.432356
+91-496,Nastrojowa; Świtezianki; Poziomkowa; Łozowa; Jabłoniowa; Syrenki; Borówkowa; Pstrągowa; Aroniowa; Podleśna; Zgierska; Łososiowa,Nastrojowa; Świtezianki; Poziomkowa; Łozowa; Jabłoniowa; Syrenki; Borówkowa; Pstrągowa; Aroniowa; Podleśna; Zgierska; Łososiowa,12,345,51.825336,19.436749
+91-497,Sikorskiego; Zgierska,Aleje gen. Władysława Sikorskiego; Zgierska,2,9,51.817662,19.440792
+91-498,Herlinga-Grudzińskiego; Okoniowa; Telimeny; Wodnika; Wiankowa; Sobótki; Julii; Helińskiego; Kaskadowa,Gustawa Herlinga-Grudzińskiego; Okoniowa; Telimeny; Wodnika; Wiankowa; Sobótki; Julii; Franciszka Helińskiego; Kaskadowa,9,87,51.819234,19.439297
+91-502,Centralna; Roślinna; Tęczowa; Góralska; Barbary; Eterowa; Akademicka; Mosiężna; Metalowa,Centralna; Roślinna; Tęczowa; Góralska; Barbary; Eterowa; Akademicka; Mosiężna; Metalowa,9,247,51.807771,19.47828
+91-503,Warszawska; Strusia; Kasztelańska; Szpacza; Skrzydlata; Jeża; Dojazdowa; Słowicza; Rysia; Centralna; Jastrzębia,Warszawska; Strusia; Kasztelańska; Szpacza; Skrzydlata; Jeża; Dojazdowa; Słowicza; Rysia; Centralna; Jastrzębia,11,309,51.812007,19.477771
+91-504,Łabędzia; Owcza; Zajęcza; Kacza; Promienna; Kogucia; Tlenowa; Miodowa; Żucza; Krasnoludków; Jagodowa; Jodowa; Piliczna; Bażancia,Łabędzia; Owcza; Zajęcza; Kacza; Promienna; Kogucia; Tlenowa; Miodowa; Żucza; Krasnoludków; Jagodowa; Jodowa; Piliczna; Bażancia,14,179,51.817381,19.473465
+91-505,Marczyńskich; Królowej Lasu,Kazimiery i Jana Marczyńskich; Królowej Lasu,2,28,51.832789,19.446315
+91-506,Tajnego Nauczania,Tajnego Nauczania,1,16,51.830137,19.451502
+91-509,Łagiewnicka,Łagiewnicka,1,98,51.823821,19.459827
+91-510,Krecia; Skowrończa; Klasztorna,Krecia; Skowrończa; Klasztorna,3,158,51.822074,19.452264
+91-511,Pszczelna; Czapli; Przepiórcza; Poziomkowa,Pszczelna; Czapli; Przepiórcza; Poziomkowa,4,237,51.831711,19.458129
+91-512,Jaskółcza; Mrówcza; Sójki; Świetlików; Kuropatwia; Szczygla,Jaskółcza; Mrówcza; Sójki; Świetlików; Kuropatwia; Szczygla,6,171,51.839577,19.461546
+91-513,Studencka,Studencka,1,8,51.823734,19.474171
+91-518,Wycieczkowa,Wycieczkowa,1,79,51.815675,19.487114
+91-519,Nowaka-Jeziorańskiego; Rogowska; Wiewiórcza; Bociania; Królewny Śnieżki; Lisia; Godlewskiego; Kiwi,Jana Nowaka-Jeziorańskiego; Rogowska; Wiewiórcza; Bociania; Królewny Śnieżki; Lisia; Kiwi; o. Leona Godlewskiego,8,71,51.821164,19.492307
+91-520,Okólna; Żółwiowa; Serwituty; Renesansowa; Barokowa; Turkusowa; Gotycka; Romańska; Przyklasztorze; Godlewskiego; Łagiewnicka,Okólna; Żółwiowa; Serwituty; Renesansowa; Barokowa; Turkusowa; Gotycka; Romańska; Przyklasztorze; o. Leona Godlewskiego; Łagiewnicka,11,363,51.843335,19.495605
+91-521,Antyczna; Secesyjna,Antyczna; Secesyjna,2,2,51.849369,19.463456
+91-522,Gadomskiego,Jana Gadomskiego,1,4,51.840447,19.525446
+91-523,Zaścianek Bohatyrowicze,Zaścianek Bohatyrowicze,1,15,51.822321,19.521303
+91-524,Orzelskiej,Justyny Orzelskiej,1,4,51.820338,19.524411
+91-526,Okólna; Balsamowa,Okólna; Balsamowa,2,81,51.832701,19.521537
+91-527,Łukaszewska; Łodzianka; Łupkowa; Strykowska; Bzury; Chromowa,Łukaszewska; Łodzianka; Łupkowa; Strykowska; Bzury; Chromowa,6,305,51.81796,19.522341
+91-528,Kryształowa; Kobaltowa; Rubinowa; Szmaragdowa; Szafirowa; Wajdy; Książka; Pirytowa; Łupkowa,Kryształowa; Kobaltowa; Rubinowa; Szmaragdowa; Andrzeja Wajdy; Szafirowa; Antoniego Książka; Pirytowa; Łupkowa,9,212,51.814071,19.498057
+91-529,Rogowska; Diamentowa; Książka; Piaskowa; Boruty,Rogowska; Diamentowa; Antoniego Książka; Piaskowa; Boruty,5,65,51.818189,19.497363
+91-530,Moskule,Moskule,1,110,51.839994,19.527521
+91-531,Strykowska; Bursztynowa; Aksamitna; Sapieżyńska,Strykowska; Bursztynowa; Aksamitna; Sapieżyńska,4,234,51.833215,19.546087
+91-533,Korczyńskiego,Andrzeja Korczyńskiego,1,2,51.815827,19.53328
+91-534,Jana i Cecylii,Jana i Cecylii,1,9,51.827299,19.542582
+91-535,Sawickiego,Józefa Sawickiego,1,14,51.83233,19.529383
+91-601,Księżycowa; Platynowa; Fiołkowa; Piliczna; Tlenowa; Kogucia; Centralna,Księżycowa; Platynowa; Fiołkowa; Piliczna; Tlenowa; Kogucia; Centralna,7,104,51.810091,19.482877
+91-602,Warszawska,Warszawska,1,15,51.811934,19.483857
+91-603,Woskowa; Promienna; Książka; Wycieczkowa; Cynowa; Uranowa; Mineralna,Woskowa; Promienna; Antoniego Książka; Wycieczkowa; Cynowa; Uranowa; Mineralna,7,133,51.809767,19.489002
+91-604,Opolska; Moskuliki; Herbowa; Łodzianka; Ametystowa; Koniakowska; Strykowska; Pejzażowa; Barytowa; Brylantowa; Okólna; Stasia; Porfirowa; Magiczna; Padokowa; Zielonego Wzgórza,Opolska; Moskuliki; Herbowa; Łodzianka; Ametystowa; Koniakowska; Strykowska; Pejzażowa; Barytowa; Brylantowa; Okólna; Stasia; Porfirowa; Magiczna; Padokowa; Zielonego Wzgórza,16,516,51.811925,19.517485
+91-605,Dworzaczka; Rżewskiego; Mikowa; Zajączkowskiego; Jeziorańskiego; Oxińskiego; Taczanowskiego; Rosickiego; Krajobrazowa; Jakubowicza; Wawrzyniaka; Cyrkonii,Józefa Dworzaczka; Aleksego Rżewskiego; Mikowa; Józefa Zajączkowskiego; Gen. Antoniego Jeziorańskiego; Gen. Edmunda Taczanowskiego; Mjr Józefa Oxińskiego; Andrzeja Rosickiego; Krajobrazowa; Księdza Wojciecha Jakubowicza; Ks. Piotra Wawrzyniaka; Cyrkonii,12,159,51.812166,19.494969
+91-606,Nad Niemnem,Nad Niemnem,1,44,51.815019,19.546947
+91-610,Beskidzka; Budy; Zjazdowa; Marmurowa; Dolina Łódki; Karkonoska; Krzemowa,Beskidzka; Budy; Zjazdowa; Marmurowa; Dolina Łódki; Karkonoska; Krzemowa,7,436,51.80059,19.536377
+91-611,Beskidzka; Wydmowa; Pagórkowa; Okrętowa,Beskidzka; Wydmowa; Pagórkowa; Okrętowa,4,99,51.798927,19.518367
+91-612,Beskidzka; Spiska; Kierpcowa; Kobzowa,Beskidzka; Spiska; Kierpcowa; Kobzowa,4,78,51.797496,19.501282
+91-613,Kraterowa; Jarowa; Mateusza; Sabały; Ekologiczna,Kraterowa; Jarowa; Mateusza; Jana Sabały; Ekologiczna,5,146,51.799903,19.491915
+91-614,Ołowiana; Kwarcowa; Strzeleckiego; Widokowa; Wypoczynkowa; Strykowska; Wakacyjna; Babiego Lata; Magnoliowa; Wycieczkowa; Działkowa,Ołowiana; Kwarcowa; Pawła Strzeleckiego; Widokowa; Wypoczynkowa; Strykowska; Wakacyjna; Babiego Lata; Magnoliowa; Wycieczkowa; Działkowa,11,318,51.803251,19.489892
+91-615,Uzdrowiskowa; Turystyczna; Klimczaka; Klimatyczna; Wczasowa,Uzdrowiskowa; Turystyczna; Henryka Józefa Klimczaka; Klimatyczna; Wczasowa,5,187,51.807107,19.491359
+91-616,Urlopowa,Urlopowa,1,8,51.806525,19.493218
+91-701,Boya Żeleńskiego,Boya Żeleńskiego,1,1,51.790614,19.477286
+91-702,Sporna,Sporna,1,5,51.792169,19.477652
+91-703,Bracka,Bracka,1,5,51.79221,19.476218
+91-704,Przemysłowa; Boya Żeleńskiego,Przemysłowa; Boya Żeleńskiego,2,26,51.791706,19.476408
+91-705,Górnicza; Mostowskiego,Górnicza; Tadeusza Mostowskiego,2,15,51.794211,19.473895
+91-708,Sporna,Sporna,1,10,51.790877,19.479234
+91-709,Bracka,Bracka,1,7,51.792473,19.480594
+91-710,Harcerska,Harcerska,1,11,51.791228,19.481198
+91-711,Wojska Polskiego,Wojska Polskiego,1,6,51.790059,19.481418
+91-712,Nowopolska,Nowopolska,1,5,51.791472,19.48257
+91-713,Libelta; Nowopolska,Karola Libelta; Nowopolska,2,8,51.791386,19.480248
+91-716,Nowopolska,Nowopolska,1,8,51.791604,19.483088
+91-717,Bracka,Bracka,1,5,51.793191,19.483982
+91-718,Chryzantem,Chryzantem,1,10,51.791938,19.484599
+91-719,Zmienna,Zmienna,1,20,51.793171,19.485999
+91-720,Wojska Polskiego,Wojska Polskiego,1,7,51.790642,19.48459
+91-725,Oświatowa; Ściegiennego; Strykowska; Popularna; Produkcyjna; Setna; al. Palki,Oświatowa; Ks. Piotra Ściegiennego; Strykowska; Popularna; Produkcyjna; Setna; Aleja Grzegorza Palki,7,122,51.796001,19.49133
+91-726,Łomnicka; Wojska Polskiego,Łomnicka; Wojska Polskiego,2,55,51.791837,19.493752
+91-727,Doły,Doły,1,43,51.785945,19.491675
+91-728,Bystrzycka; Drwęcka; Telefoniczna,Bystrzycka; Drwęcka; Telefoniczna,3,132,51.784825,19.494612
+91-729,Smutna,Smutna,1,28,51.78889,19.495095
+91-734,Głowackiego,Wojciecha Głowackiego,1,8,51.78913,19.471001
+91-735,Źródłowa,Źródłowa,1,35,51.782787,19.47236
+91-736,Dwernickiego,Gen. Józefa Dwernickiego,1,1,51.780995,19.475204
+91-737,al. Palki,Aleja Grzegorza Palki,1,1,51.779374,19.480754
+91-738,Sporna; Czeremoska; Pankiewicza,Sporna; Czeremoska; Bł. Anastazego Pankiewicza,3,32,51.784189,19.478646
+91-739,Brzeska,Brzeska,1,25,51.786741,19.476093
+91-743,Wojska Polskiego,Wojska Polskiego,1,12,51.788642,19.476058
+91-744,Sucharskiego,mjr. Henryka Sucharskiego,1,5,51.789434,19.473976
+91-745,Reja; Brauna,Mikołaja Reja; Mieczysława Brauna,2,8,51.789352,19.475399
+91-746,Staszica,Ks. Stanisława Staszica,1,13,51.78954,19.471971
+91-747,Boya Żeleńskiego,Boya Żeleńskiego,1,8,51.790227,19.475299
+91-748,Przemysłowa; Plater; Sporna,Przemysłowa; Emilii Plater; Sporna,3,15,51.789467,19.475533
+91-754,Starosikawska,Starosikawska,1,7,51.787376,19.468774
+91-755,Wojska Polskiego,Wojska Polskiego,1,3,51.787272,19.473329
+91-756,Oblęgorska,Oblęgorska,1,6,51.785867,19.469787
+91-757,Widok,Widok,1,6,51.785664,19.468369
+91-761,Boya Żeleńskiego,Boya Żeleńskiego,1,6,51.790647,19.473438
+91-762,Plater,Emilii Plater,1,11,51.792601,19.473884
+91-763,Staszica,Ks. Stanisława Staszica,1,5,51.791595,19.47262
+91-764,Bracka,Bracka,1,4,51.792288,19.474426
+91-765,Górnicza,Górnicza,1,11,51.7947,19.473215
+91-766,Mostowskiego,Tadeusza Mostowskiego,1,4,51.793819,19.475086
+91-801,"Organizacji ""Wolność i Niezawisłość""","Organizacji ""Wolność i Niezawisłość""",1,2,51.788191,19.459933
+91-802,Marysińska,Marysińska,1,5,51.788327,19.465618
+91-803,Marynarska,Marynarska,1,37,51.788374,19.464282
+91-804,Obrońców Warszawy; Złotnicza,Obrońców Warszawy; Złotnicza,2,4,51.789444,19.46427
+91-805,"Organizacji ""Wolność i Niezawisłość""","Organizacji ""Wolność i Niezawisłość""",1,8,51.788505,19.465368
+91-806,"Sojczyńskiego ""Warszyca""; Komunardów","Kpt. Stanisława Sojczyńskiego ""Warszyca""; Komunardów",2,16,51.78754,19.46562
+91-809,Wojska Polskiego,Wojska Polskiego,1,19,51.786449,19.467428
+91-810,Kolektywna,Kolektywna,1,3,51.786767,19.466224
+91-811,"Obrońców Westerplatte; Organizacji ""Wolność i Niezawisłość""","Obrońców Westerplatte; Organizacji ""Wolność i Niezawisłość""",2,30,51.788301,19.467774
+91-812,"Mianowskiego; Sojczyńskiego ""Warszyca""; Tokarzewskiego; Obrońców Warszawy","Józefa Mianowskiego; Gen. Michała Tokarzewskiego; Kpt. Stanisława Sojczyńskiego ""Warszyca""; Obrońców Warszawy",4,25,51.78966,19.466792
+91-815,Franciszkańska,Franciszkańska,1,15,51.786018,19.459937
+91-816,Wojska Polskiego,Wojska Polskiego,1,12,51.785398,19.46291
+91-817,Zielna,Zielna,1,14,51.786562,19.463082
+91-818,"Zawiszy Czarnego; Szendzielarza ""Łupaszki""","Zawiszy Czarnego; Mjr Zygmunta Szendzielarza ""Łupaszki""",2,14,51.786852,19.460803
+91-819,"Współzawodnicza; Skury-Skoczyńskiego ""Robotnika""","Współzawodnicza; Por. Bronisława Skury-Skoczyńskiego ""Robotnika""",2,12,51.786176,19.462138
+91-822,Wojska Polskiego,Wojska Polskiego,1,3,51.784593,19.459027
+91-823,Młynarska,Młynarska,1,26,51.786846,19.458255
+91-824,Zawiszy Czarnego,Zawiszy Czarnego,1,3,51.786764,19.458676
+91-825,"Organizacji ""Wolność i Niezawisłość""; Franciszkańska","Organizacji ""Wolność i Niezawisłość""; Franciszkańska",2,20,51.787645,19.456953
+91-826,Pasterska; Spacerowa,Pasterska; Spacerowa,2,12,51.788529,19.456734
+91-829,Zawiszy Czarnego,Zawiszy Czarnego,1,13,51.786701,19.455996
+91-830,Joselewicza,Berka Joselewicza,1,13,51.785755,19.456058
+91-831,Berlińskiego,Hersza Berlińskiego,1,19,51.784961,19.456388
+91-832,Wojska Polskiego,Wojska Polskiego,1,7,51.784033,19.456703
+91-833,Łagiewnicka,Łagiewnicka,1,7,51.786186,19.454486
+91-836,"Krawiecka; Organizacji ""Wolność i Niezawisłość""; al. Pierwszej Dywizji; Złotnicza; Zielna","Krawiecka; Organizacji ""Wolność i Niezawisłość""; Aleja Pierwszej Dywizji; Złotnicza; Zielna",5,59,51.788352,19.461948
+91-837,Franciszkańska; Romskich Ofiar Getta Łódzkiego; Racjonalizatorów,Franciszkańska; Romskich Ofiar Getta Łódzkiego; Racjonalizatorów,3,25,51.789263,19.460445
+91-838,Franciszkańska; Młynarska; Spacerowa,Franciszkańska; Młynarska; Spacerowa,3,32,51.789862,19.458461
+91-839,Wawelska; Łagiewnicka,Wawelska; Łagiewnicka,2,40,51.790607,19.455918
+91-842,Tokarzewskiego,Gen. Michała Tokarzewskiego,1,22,51.791288,19.460339
+91-843,Młynarska; Kowalska; Okopowa; Kaletnicza,Młynarska; Kowalska; Okopowa; Kaletnicza,4,47,51.794054,19.459057
+91-844,Zbożowa; Koszykowa; Czarnieckiego; Szklana,Zbożowa; Koszykowa; Stefana Czarnieckiego; Szklana,4,32,51.792399,19.46274
+91-845,Franciszkańska,Franciszkańska,1,46,51.794062,19.46046
+91-848,Inflancka; Górnicza; Radlińskiej,Inflancka; Górnicza; Heleny Radlińskiej,3,74,51.799761,19.471321
+91-849,Okopowa; Zagajnikowa; Kaufmana; Niemojewskiego; Przelotna; Kolińskiego; Miarki; Gibalskiego; Marysińska; Jonschera; Próżna; Dekerta; Brudzińskiego,Okopowa; Zagajnikowa; Dr Mieczysława Kaufmana; Andrzeja Niemojewskiego; Przelotna; Dr Józefa Kolińskiego; Karola Miarki; Edwarda Gibalskiego; Marysińska; dr. Karola Jonschera; Próżna; Jana Dekerta; Józefa Brudzińskiego,13,222,51.79754,19.4734
+91-850,Marysińska; Marynarska; Obrońców Warszawy,Marysińska; Marynarska; Obrońców Warszawy,3,56,51.791758,19.465285
+91-851,Marysińska; Szklarska; Malarska,Marysińska; Szklarska; Malarska,3,32,51.798825,19.463461
+91-852,Franciszkańska; Inflancka; Okopowa,Franciszkańska; Inflancka; Okopowa,3,34,51.798494,19.462174
+91-853,Niemojewskiego,Andrzeja Niemojewskiego,1,1,51.796685,19.475674
+91-854,Marysińska,Marysińska,1,5,51.795933,19.463766
+91-855,Łagiewnicka; Rysownicza; Sukiennicza; Szewska,Łagiewnicka; Rysownicza; Sukiennicza; Szewska,4,64,51.797797,19.457381
+91-857,Admiralska; Astrów; Inflancka; Korzenna; Irysowa; Rysownicza; Franciszkańska,Admiralska; Astrów; Inflancka; Korzenna; Irysowa; Rysownicza; Franciszkańska,7,211,51.801577,19.46661
+91-858,Narcyzowa; Czysta; Deczyńskiego; Żołędziowa; Bluszczowa; Powojowa,Narcyzowa; Czysta; Kazimierza Deczyńskiego; Żołędziowa; Bluszczowa; Powojowa,6,173,51.802974,19.469861
+91-859,Stalowa; Warszawska; Cementowa; Konwaliowa; al. Pamięci Ofiar Litzmannstadt Getto,Stalowa; Warszawska; Cementowa; Konwaliowa; Aleja Pamięci Ofiar Litzmannstadt Getto,5,176,51.803857,19.471495
+91-860,Łagiewnicka,Łagiewnicka,1,1,51.799249,19.456708
+91-862,Warszawska,Warszawska,1,65,51.804304,19.464801
+91-863,Łagiewnicka,Łagiewnicka,1,54,51.807192,19.458145
+91-864,Morelowa; Stokrotki; Mimozy; Tulipanowa; Zawilcowa; Robotnicza; Liliowa; Daliowa,Morelowa; Stokrotki; Mimozy; Tulipanowa; Zawilcowa; Robotnicza; Liliowa; Daliowa,8,178,51.810258,19.459511
+91-865,Wałbrzyska; Łagiewnicka; Kasztelańska,Wałbrzyska; Łagiewnicka; Kasztelańska,3,124,51.81042,19.46487
+91-866,Zaliwskiego; Miętowa; Czeremchy; Dziewanny; Perlicza,Józefa Zaliwskiego; Miętowa; Czeremchy; Dziewanny; Perlicza,5,137,51.808517,19.465583
+91-867,Porzeczkowa; Kryzysowa; Pierwiosnków; Cała; Śliwowa; Honorowa; Deczyńskiego; Powojowa; Rybacka,Porzeczkowa; Kryzysowa; Pierwiosnków; Cała; Śliwowa; Honorowa; Kazimierza Deczyńskiego; Powojowa; Rybacka,9,273,51.805714,19.463219
+92-001,Skalna,Skalna,1,1,51.778458,19.530293
+92-002,Skalna; Giewont; Ostrołęcka; Potokowa,Skalna; Giewont; Ostrołęcka; Potokowa,4,109,51.779471,19.531838
+92-003,Zbocze; Pieniny; Alpejska,Zbocze; Pieniny; Alpejska,3,84,51.77767,19.529466
+92-005,Wichrowa; Turnie,Wichrowa; Turnie,2,124,51.78152,19.534797
+92-006,Halna; Listopadowa; Hyrna; Stroma; Dębowskiego,Halna; Listopadowa; Hyrna; Stroma; Jana Dębowskiego,5,253,51.780459,19.540655
+92-007,Skalna; Jędrowizna; Rysy,Skalna; Jędrowizna; Rysy,3,168,51.775903,19.540328
+92-008,Saneczkowa; Podgórze; Dunajec; Gorce; Juhasowa,Saneczkowa; Podgórze; Dunajec; Gorce; Juhasowa,5,98,51.774308,19.542371
+92-009,Krzemieniowa; Wierchowa; Bazaltowa; Dolina Kościeliska,Krzemieniowa; Wierchowa; Bazaltowa; Dolina Kościeliska,4,37,51.775004,19.537951
+92-010,Henrykowska; Lawinowa; Pomorska; Arniki,Henrykowska; Lawinowa; Pomorska; Arniki,4,282,51.769197,19.540257
+92-013,Szarotki; Pomorska; Pszczyńska; Zrębowa,Szarotki; Pomorska; Pszczyńska; Zrębowa,4,87,51.776755,19.519919
+92-014,Weselna; Sądecka; Janosika,Weselna; Sądecka; Janosika,3,227,51.781479,19.520913
+92-015,Gazdy; Jesienna; Limbowa,Gazdy; Jesienna; Limbowa,3,167,51.782048,19.517669
+92-016,Telefoniczna; Zaspowa; Żlebowa,Telefoniczna; Zaspowa; Żlebowa,3,63,51.781115,19.511499
+92-017,Czorsztyńska; Lawinowa,Czorsztyńska; Lawinowa,2,44,51.780213,19.510169
+92-018,Wodospadowa; Chmurna,Wodospadowa; Chmurna,2,103,51.781483,19.513776
+92-101,Krokusowa; Graniowa; Kasjopei; Telefoniczna,Krokusowa; Graniowa; Kasjopei; Telefoniczna,4,115,51.780787,19.527513
+92-102,Janosika; Strążyska; Szczawnicka; Spartakusa,Janosika; Strążyska; Szczawnicka; Spartakusa,4,76,51.789189,19.521186
+92-103,Brzezińska; Śnieżna,Brzezińska; Śnieżna,2,225,51.7962,19.563651
+92-104,Stokowska; Taternicza; Kerna; Zbójnicka,Stokowska; Taternicza; Andrzeja Kerna; Zbójnicka,4,226,51.792367,19.517226
+92-107,Morskie Oko; Wyżynna; Jadwigi,Morskie Oko; Wyżynna; Jadwigi,3,114,51.789122,19.526122
+92-108,Janosika; Wiślicka; Wąwozowa,Janosika; Wiślicka; Wąwozowa,3,109,51.790595,19.525265
+92-109,Chałubińskiego; Herberta; Junacka; Bacowa; Prezydenta,Tytusa Chałubińskiego; Zbigniewa Herberta; Junacka; Bacowa; Prezydenta,5,193,51.792566,19.526578
+92-110,Miłosza; Raszyńska; Połoniny,Czesława Miłosza; Raszyńska; Połoniny,3,66,51.794235,19.52783
+92-111,Brzezińska; Krasińskiego; Powstańców Śląskich,Brzezińska; Zygmunta Krasińskiego; Powstańców Śląskich,3,108,51.794609,19.526664
+92-114,Górska; Szczytowa; Przełęcz,Górska; Szczytowa; Przełęcz,3,43,51.781043,19.528129
+92-115,Telefoniczna; Pieniny,Telefoniczna; Pieniny,2,3,51.782665,19.526025
+92-116,Giewont; Spartakusa; Kalatówki; Gubałówka; Czecha; Czerwone Wierchy,Giewont; Spartakusa; Kalatówki; Gubałówka; Bronisława Czecha; Czerwone Wierchy,6,270,51.788094,19.530094
+92-117,Listopadowa; Kiepury; Tadeusza; Reglowa,Listopadowa; Jana Kiepury; Tadeusza; Reglowa,4,163,51.788684,19.539359
+92-118,Brzezińska,Brzezińska,1,18,51.796114,19.54317
+92-119,Olkuska; Kamykowa; Horyzontalna; Obłoczna; Galaktyczna; Oriona; Krupówki; Andromedy; Wielkiej Niedźwiedzicy; Pisarska,Olkuska; Kamykowa; Horyzontalna; Obłoczna; Galaktyczna; Oriona; Krupówki; Andromedy; Wielkiej Niedźwiedzicy; Pisarska,10,128,51.785211,19.551962
+92-120,Śpiących Rycerzy,Śpiących Rycerzy,1,6,51.791488,19.533604
+92-121,Harnasia; Szałasowa,Harnasia; Szałasowa,2,6,51.792318,19.533454
+92-122,Krzeptowskiego,Józefa Krzeptowskiego,1,8,51.792909,19.534011
+92-123,Bachledy,Klimka Bachledy,1,9,51.786139,19.536179
+92-202,Neonowa; al. Piłsudskiego,Neonowa; Aleja Marszałka Józefa Piłsudskiego,2,14,51.763356,19.498778
+92-203,Konstytucyjna,Konstytucyjna,1,7,51.764584,19.501331
+92-204,Józefa,Józefa,1,5,51.765831,19.501125
+92-207,Szpitalna; Józefa,Szpitalna; Józefa,2,16,51.765659,19.504276
+92-208,Niciarniana; Stylonowa,Niciarniana; Stylonowa,2,10,51.766636,19.506178
+92-209,Pomorska,Pomorska,1,3,51.777793,19.504263
+92-210,Poronińska,Poronińska,1,5,51.777422,19.506812
+92-213,Pomorska,Pomorska,1,3,51.775251,19.50859
+92-215,Mazowiecka; Ormiańska,Mazowiecka; Ormiańska,2,12,51.773658,19.512882
+92-216,Czechosłowacka; Wayne'a,Czechosłowacka; Johna Wayne'a,2,14,51.77153,19.510542
+92-219,Antoniewska; Wilanowska; Czechosłowacka,Antoniewska; Wilanowska; Czechosłowacka,3,128,51.770817,19.513124
+92-220,Wodociągowa; Kresowa; Oskardowa,Wodociągowa; Kresowa; Oskardowa,3,95,51.771377,19.515167
+92-221,Mazowiecka; Nowogrodzka,Mazowiecka; Nowogrodzka,2,42,51.768617,19.511378
+92-223,Pograniczna; Białoruska,Pograniczna; Białoruska,2,31,51.769192,19.514981
+92-226,Grodzka; Wagonowa,Grodzka; Wagonowa,2,21,51.766887,19.51934
+92-227,Nowogrodzka; Lewarowa,Nowogrodzka; Lewarowa,2,44,51.768466,19.518883
+92-228,Selekcyjna; Surowcowa; Miechowska,Selekcyjna; Surowcowa; Miechowska,3,53,51.769762,19.5185
+92-229,Edwarda; Widzewska; Lawinowa,Edwarda; Widzewska; Lawinowa,3,76,51.7689,19.517422
+92-230,al. Piłsudskiego,Aleja Marszałka Józefa Piłsudskiego,1,13,51.764495,19.517336
+92-231,Sępia,Sępia,1,2,51.764689,19.514988
+92-232,Czechosłowacka,Czechosłowacka,1,18,51.769501,19.518131
+92-235,Józefa; Szpitalna,Józefa; Szpitalna,2,10,51.765384,19.50719
+92-236,al. Piłsudskiego; Teodora,Aleja Marszałka Józefa Piłsudskiego; Teodora,2,11,51.763714,19.504786
+92-237,Kazimierza,św. Kazimierza,1,7,51.764889,19.508824
+92-238,Niciarniana,Niciarniana,1,13,51.764966,19.507735
+92-301,Stefana Batorego; al. Piłsudskiego; Wałowa,Króla Stefana Batorego; Aleja Marszałka Józefa Piłsudskiego; Wałowa,3,27,51.762614,19.513787
+92-302,Rokicińska,Rokicińska,1,60,51.754129,19.560718
+92-304,Parowozowa; Maszynowa,Parowozowa; Maszynowa,2,36,51.76285,19.533455
+92-305,Służbowa; Adamieckiego,Służbowa; Karola Adamieckiego,2,41,51.761119,19.547988
+92-306,Jurczyńskiego; Szafera,Juliusza Jurczyńskiego; Prof. Władysława Szafera,2,35,51.760234,19.546989
+92-308,Stefana Batorego; Widzewska; Wiejska,Króla Stefana Batorego; Widzewska; Wiejska,3,106,51.758737,19.517484
+92-309,Turza; Jelenia; Cicha,Turza; Jelenia; Cicha,3,60,51.756898,19.515313
+92-310,Mechaniczna,Mechaniczna,1,34,51.753345,19.517405
+92-311,Emaliowa; Motorowa; Dziewiarska,Emaliowa; Motorowa; Dziewiarska,3,70,51.752876,19.515934
+92-312,Papiernicza; Farbiarska,Papiernicza; Farbiarska,2,44,51.749809,19.514933
+92-313,Lodowa; Przybyszewskiego; Maciejewskiego,Lodowa; Stanisława Przybyszewskiego; Władysława Maciejewskiego,3,31,51.747834,19.520059
+92-314,Przybyszewskiego; Węgierska,Stanisława Przybyszewskiego; Węgierska,2,22,51.753234,19.524418
+92-315,Nowy Świat,Nowy Świat,1,53,51.757831,19.516581
+92-316,Milionowa,Milionowa,1,12,51.750617,19.484438
+92-317,Milionowa,Milionowa,1,14,51.754568,19.518498
+92-318,al. Piłsudskiego,Aleja Marszałka Józefa Piłsudskiego,1,26,51.761709,19.499903
+92-319,Ruska; Paryska,Ruska; Paryska,2,15,51.761397,19.495848
+92-320,Niciarniana,Niciarniana,1,14,51.755998,19.509405
+92-321,Łosiowa; Sobolowa; Bobrowa,Łosiowa; Sobolowa; Bobrowa,3,30,51.761571,19.514057
+92-322,Nowy Świat; al. Piłsudskiego,Nowy Świat; Aleja Marszałka Józefa Piłsudskiego,2,16,51.762343,19.513478
+92-327,Sarnia,Sarnia,1,6,51.761049,19.493288
+92-328,Zbiorcza; Winna,Zbiorcza; Winna,2,50,51.760138,19.492629
+92-331,Sucha; Głęboka,Sucha; Głęboka,2,10,51.760781,19.491408
+92-332,al. Piłsudskiego; Niska,Aleja Marszałka Józefa Piłsudskiego; Niska,2,35,51.761364,19.490063
+92-333,Wydawnicza,Wydawnicza,1,13,51.765282,19.488445
+92-334,Milionowa,Milionowa,1,25,51.756177,19.521716
+92-335,Milionowa,Milionowa,1,3,51.754042,19.522728
+92-336,Milionowa,Milionowa,1,7,51.754953,19.51637
+92-337,Milionowa,Milionowa,1,3,51.754209,19.524205
+92-338,Przybyszewskiego,Stanisława Przybyszewskiego,1,4,51.750407,19.516472
+92-339,Przybyszewskiego,Stanisława Przybyszewskiego,1,1,51.751857,19.533806
+92-340,Bodo; Snowalniana,Eugeniusza Bodo; Snowalniana,2,4,51.750606,19.534697
+92-401,Zakładowa,Zakładowa,1,18,51.739097,19.580539
+92-402,Zakładowa; Dyspozytorska; Blocha; Polskich Kolei Państwowych,Zakładowa; Dyspozytorska; Jana Gottlieba Blocha; Polskich Kolei Państwowych,4,157,51.739168,19.57861
+92-403,Olechowska; Tranzytowa; Satynowa; Perkalowa,Olechowska; Tranzytowa; Satynowa; Perkalowa,4,207,51.732983,19.548045
+92-404,Przewozowa; Przyjazna,Przewozowa; Przyjazna,2,32,51.73908,19.550979
+92-407,Rogowicza; Dorabialskiej; Puchalskiego,Stefana Rogowicza; Alicji Dorabialskiej; Włodzimierza Puchalskiego,3,27,51.739066,19.587361
+92-408,Kaczmarka; Niewiarowskiej; Szwalma,Romana Kaczmarka; Krystyny Niewiarowskiej; Bronisława Szwalma,3,27,51.736708,19.586788
+92-409,Trakcyjna,Trakcyjna,1,9,51.741267,19.595788
+92-410,Janowska; al. Ofiar Terroryzmu 11 Września; Transmisyjna; Informatyczna,Janowska; Aleja Ofiar Terroryzmu 11 Września; Transmisyjna; Informatyczna,4,22,51.744967,19.56647
+92-411,Kosodrzewiny; Augustów,Kosodrzewiny; Augustów,2,168,51.757961,19.576472
+92-412,Rokicińska,Rokicińska,1,42,51.756809,19.565052
+92-413,Bacewicz; Dąbrówki; Ziemowita; Piasta Kołodzieja; Brodatego,Grażyny Bacewicz; Dąbrówki; Ziemowita; Piasta Kołodzieja; Henryka Brodatego,5,212,51.749025,19.554966
+92-414,Szczodrego; Białego; Odnowiciela; Świdnickiego; Anny Jagiellonki; Księżnej Kingi,Bolesława Szczodrego; Leszka Białego; Kazimierza Odnowiciela; Bolka Świdnickiego; Anny Jagiellonki; Księżnej Kingi,6,76,51.738984,19.563832
+92-415,Mieszka I,Mieszka I,1,41,51.743798,19.554892
+92-416,Bolesława Krzywoustego,Bolesława Krzywoustego,1,33,51.744588,19.555305
+92-417,Władysława Opolczyka,Księcia Władysława Opolczyka,1,19,51.73833,19.570794
+92-418,Elżbiety Łokietkówny,Elżbiety Łokietkówny,1,15,51.737052,19.573831
+92-419,Janusza Mazowieckiego,Księcia Janusza Mazowieckiego,1,11,51.736647,19.570406
+92-423,Przybyszewskiego,Stanisława Przybyszewskiego,1,6,51.75185,19.530439
+92-427,Kowalskiego,Rocha Kowalskiego,1,6,51.746104,19.570273
+92-430,Zagłoby,Onufrego Zagłoby,1,16,51.748306,19.566079
+92-431,Ketlinga,Ketlinga,1,31,51.748436,19.569919
+92-432,Skrzetuskiego,Jana Skrzetuskiego,1,18,51.747243,19.565784
+92-433,Kmicica,Andrzeja Kmicica,1,28,51.747319,19.565248
+92-434,Maćka z Bogdańca,Maćka z Bogdańca,1,30,51.75105,19.56546
+92-436,Juranda ze Spychowa,Juranda ze Spychowa,1,4,51.750537,19.568309
+92-437,Billewiczówny,Oleńki Billewiczówny,1,14,51.752541,19.569255
+92-439,Jagienki,Jagienki,1,19,51.753419,19.570458
+92-440,Podbipięty,Longinusa Podbipięty,1,20,51.750092,19.566439
+92-444,al. Hetmańska; Borowieckiego; Bauma,Aleja Hetmańska; Karola Borowieckiego; Maksa Bauma,3,22,51.748104,19.573999
+92-445,Bolesława Śmiałego,Króla Bolesława Śmiałego,1,2,51.744107,19.553404
+92-446,Wojewódzkiego,Wacława Wojewódzkiego,1,36,51.741989,19.573829
+92-447,Cynarskiego,Mariana Cynarskiego,1,11,51.740463,19.575284
+92-501,Haśka,Jarosława Haśka,1,2,51.754265,19.529231
+92-502,Haśka,Jarosława Haśka,1,10,51.754688,19.527416
+92-503,Smetany,Bedricha Smetany,1,14,51.755776,19.52819
+92-504,Elsnera,Józefa Elsnera,1,17,51.756004,19.532049
+92-507,Dostojewskiego,Fiodora Dostojewskiego,1,17,51.75394,19.538595
+92-508,Ćwiklińskiej,Mieczysławy Ćwiklińskiej,1,18,51.754542,19.535961
+92-511,Czajkowskiego; Bartoka,Piotra Czajkowskiego; Beli Bartoka,2,17,51.75411,19.540117
+92-512,Lermontowa,Michała Lermontowa,1,13,51.75636,19.546759
+92-513,Gogola,Mikołaja Gogola,1,15,51.757612,19.543083
+92-515,Chmielowskiego,Św. Brata Alberta Chmielowskiego,1,5,51.757809,19.528796
+92-516,Puszkina,Aleksandra Puszkina,1,16,51.751935,19.534493
+92-517,Sacharowa; Manewrowa,Andrzeja Sacharowa; Manewrowa,2,18,51.754144,19.548023
+92-518,Techniczna; Sacharowa,Techniczna; Andrzeja Sacharowa,2,27,51.746871,19.543836
+92-519,Sacharowa,Andrzeja Sacharowa,1,8,51.757544,19.548259
+92-521,Sacharowa,Andrzeja Sacharowa,1,1,51.758555,19.54522
+92-522,Sacharowa,Andrzeja Sacharowa,1,1,51.756238,19.548671
+92-524,Sacharowa,Andrzeja Sacharowa,1,13,51.758762,19.54085
+92-525,Sacharowa,Andrzeja Sacharowa,1,12,51.757309,19.539415
+92-530,Bartoka,Beli Bartoka,1,4,51.757699,19.534358
+92-531,Bartoka,Beli Bartoka,1,5,51.758415,19.534297
+92-532,Adwentowicza,Karola Adwentowicza,1,8,51.758846,19.532131
+92-533,Bartoka,Beli Bartoka,1,8,51.760357,19.533278
+92-534,Adwentowicza,Karola Adwentowicza,1,4,51.760223,19.532057
+92-536,Adwentowicza,Karola Adwentowicza,1,2,51.760706,19.530274
+92-538,Czernika,Stanisława Czernika,1,7,51.759333,19.527795
+92-539,Czernika,Stanisława Czernika,1,4,51.760968,19.528201
+92-540,Bartoka,Beli Bartoka,1,2,51.761551,19.5287
+92-541,Sacharowa,Andrzeja Sacharowa,1,2,51.757719,19.537807
+92-542,Sacharowa,Andrzeja Sacharowa,1,8,51.75924,19.539938
+92-543,Czernika,Stanisława Czernika,1,6,51.759434,19.525986
+92-544,Czernika,Stanisława Czernika,1,4,51.76109,19.525969
+92-546,Bartoka,Beli Bartoka,1,8,51.761633,19.523921
+92-547,Bartoka,Beli Bartoka,1,16,51.76041,19.523539
+92-548,Tansmana,Aleksandra Tansmana,1,13,51.759006,19.529572
+92-549,Koplowicza,Abrama Koplowicza,1,11,51.756712,19.525271
+92-550,Andrzejewskiej,Jadzi Andrzejewskiej,1,5,51.747168,19.529299
+92-551,Wujaka,Ks. Zdzisława Wujaka,1,8,51.75655,19.538866
+92-601,Rokicińska,Rokicińska,1,2,51.747511,19.591252
+92-602,Taborowa; Rokicińska,Taborowa; Rokicińska,2,82,51.74158,19.61543
+92-603,Serenady,Serenady,1,18,51.73842,19.626808
+92-604,Skrzatów,Skrzatów,1,29,51.741017,19.625609
+92-605,Szafrańska; Sielanki; Szarady,Szafrańska; Sielanki; Szarady,3,44,51.739678,19.624201
+92-606,Zabawna,Zabawna,1,28,51.7423,19.62499
+92-607,Miernicza; Winiarska; Zaścianek,Miernicza; Winiarska; Zaścianek,3,50,51.741604,19.621903
+92-608,Ogińskiego; Kownackiej; Szklarskiego,Michała Kleofasa Ogińskiego; Marii Kownackiej; Alfreda Szklarskiego,3,79,51.743246,19.620912
+92-609,Porazińskiej,Janiny Porazińskiej,1,29,51.743878,19.61917
+92-610,Gajcego,Tadeusza Gajcego,1,268,51.746945,19.621383
+92-611,Słonimskiego,Antoniego Słonimskiego,1,51,51.746144,19.61472
+92-612,Tołstoja; Bartnicza,Lwa Tołstoja; Bartnicza,2,40,51.746371,19.610062
+92-613,Szancera; Gliszczyńskiego,Jana Marcina Szancera; Artura Gliszczyńskiego,2,63,51.74434,19.61023
+92-614,Rokicińska,Rokicińska,1,23,51.734115,19.622789
+92-615,Domowa,Domowa,1,12,51.737911,19.61409
+92-616,Gwarna; Kupały,Gwarna; Kupały,2,29,51.735764,19.615797
+92-617,Szaniawskiego; Boguszewskiej,Jerzego Szaniawskiego; Heleny Boguszewskiej,2,39,51.738476,19.619867
+92-619,Iłłakowiczówny; Wybickiego,Kazimiery Iłłakowiczówny; Gen. Józefa Wybickiego,2,62,51.739494,19.60788
+92-620,Rokicińska; Modrzejewskiej; Osterwy; Żukowskiego,Rokicińska; Heleny Modrzejewskiej; Juliusza Osterwy; Feliksa Żukowskiego,4,253,51.742634,19.606418
+92-621,Walentynowicz,Anny Walentynowicz,1,3,51.743197,19.605097
+92-622,Gminna,Gminna,1,112,51.725309,19.595457
+92-623,Dunikowskiego,Ksawerego Dunikowskiego,1,9,51.744793,19.601323
+92-624,Ozdobna; Kronikarska; Galla Anonima; Idzikowskiej,Ozdobna; Kronikarska; Galla Anonima; Krystyny Idzikowskiej,4,81,51.735698,19.624046
+92-625,Chmielna; Wilgotna,Chmielna; Wilgotna,2,23,51.734917,19.618739
+92-626,Dobrej Wróżki; Szeherezady,Dobrej Wróżki; Szeherezady,2,22,51.743605,19.625168
+92-627,Liczyrzepy,Liczyrzepy,1,11,51.744246,19.624393
+92-629,Szelburg-Zarembiny; Rzepichy; Sędziwoja; Parandowskiego; Wernyhory,Ewy Szelburg-Zarembiny; Rzepichy; Sędziwoja; Jana Parandowskiego; Wernyhory,5,106,51.740081,19.618958
+92-631,Włodarska,Włodarska,1,18,51.735298,19.61735
+92-632,Semaforowa; Wieńcowa,Semaforowa; Wieńcowa,2,38,51.727453,19.612847
+92-633,Andrzejki; Wieśniacza,Andrzejki; Wieśniacza,2,47,51.728489,19.620636
+92-634,Ziarnista; Zosieńki; Zawilskich,Ziarnista; Zosieńki; Zawilskich,3,37,51.725211,19.622096
+92-635,Bolesławów,Bolesławów,1,31,51.725854,19.614909
+92-636,Dworcowa; Żywiczna,Dworcowa; Żywiczna,2,49,51.728623,19.60033
+92-637,Rataja; Feliksińska; Słoneczne Zacisze; Wichrowe Wzgórza; Giemzowska; Żonkilowa,Macieja Rataja; Feliksińska; Słoneczne Zacisze; Wichrowe Wzgórza; Giemzowska; Żonkilowa,6,580,51.743835,19.617225
+92-638,Kątna,Kątna,1,2,51.748045,19.587437
+92-639,Gromadzka,Gromadzka,1,13,51.736627,19.615411
+92-640,Skautów Łódzkich,Skautów Łódzkich,1,94,51.745755,19.61603
+92-641,Nery,Nery,1,16,51.74551,19.590458
+92-642,Niecała,Niecała,1,12,51.736591,19.614552
+92-643,Przedszkolna,Przedszkolna,1,16,51.738,19.619339
+92-644,Przylesie,Przylesie,1,35,51.73052,19.614588
+92-645,Rzeźna; Letnia,Rzeźna; Letnia,2,20,51.726162,19.628278
+92-647,Usługowa,Usługowa,1,15,51.737398,19.614654
+92-648,Kolorowa,Kolorowa,1,10,51.734645,19.620236
+92-649,Relaksowa,Relaksowa,1,9,51.735546,19.610815
+92-650,Czajewskiego; Bakaliowa,Wiktora Czajewskiego; Bakaliowa,2,59,51.719147,19.623557
+92-701,Rynek Nowosolna,Rynek Nowosolna,1,1,51.793576,19.590632
+92-703,Brzezińska; Granatowa; Rynek Nowosolna,Brzezińska; Granatowa; Rynek Nowosolna,3,225,51.795061,19.572358
+92-704,Trzykrotki,Trzykrotki,1,17,51.79267,19.578484
+92-705,Hiacyntowa,Hiacyntowa,1,4,51.794106,19.575729
+92-706,Topolowa,Topolowa,1,36,51.793606,19.577199
+92-707,Ruciana,Ruciana,1,16,51.792647,19.573723
+92-708,Nasturcjowa,Nasturcjowa,1,13,51.792762,19.579875
+92-709,Rodzynkowa,Rodzynkowa,1,46,51.792019,19.57596
+92-710,Ostróżek,Ostróżek,1,9,51.792792,19.581194
+92-711,Jemiołowa,Jemiołowa,1,14,51.792845,19.575026
+92-712,Tymiankowa,Tymiankowa,1,51,51.792592,19.571503
+92-713,Lęborska,Lęborska,1,4,51.787462,19.587531
+92-714,Gryfa Pomorskiego,Gryfa Pomorskiego,1,24,51.786439,19.584909
+92-719,Korsykańska,Korsykańska,1,7,51.788062,19.58291
+92-720,Benoit; Jugosłowiańska,Ludwika Benoit; Jugosłowiańska,2,160,51.788528,19.577426
+92-721,Mirtowa,Mirtowa,1,8,51.791754,19.587354
+92-722,Margaretek,Margaretek,1,6,51.792914,19.583056
+92-723,Goździkowa,Goździkowa,1,6,51.789868,19.579813
+92-724,Majowa,Majowa,1,31,51.791824,19.580978
+92-725,Barwinkowa,Barwinkowa,1,24,51.790867,19.581376
+92-726,Rozmarynowa,Rozmarynowa,1,10,51.790146,19.580432
+92-727,Maciejkowa,Maciejkowa,1,18,51.790055,19.584597
+92-728,Prymulkowa,Prymulkowa,1,8,51.791314,19.582243
+92-729,Wiśniowa; Cypryjska,Wiśniowa; Cypryjska,2,11,51.790389,19.581512
+92-730,Maltańska,Maltańska,1,17,51.788153,19.584956
+92-731,Wendy,Tadeusza Apolinarego Wendy,1,12,51.789163,19.587447
+92-732,Marynarzy Polskich; Amarantowa,Marynarzy Polskich; Amarantowa,2,52,51.787501,19.585833
+92-733,Sardyńska,Sardyńska,1,24,51.786408,19.580299
+92-734,Peoniowa,Peoniowa,1,14,51.790174,19.587272
+92-735,Pomorska; Popielarnia; Śródziemnomorska,Pomorska; Popielarnia; Śródziemnomorska,3,276,51.776957,19.576971
+92-736,Iglasta,Iglasta,1,77,51.774838,19.565594
+92-737,Goryczkowa; Świętokrzyska,Goryczkowa; Świętokrzyska,2,66,51.765142,19.577529
+92-738,Bratkowa; Świętokrzyska,Bratkowa; Świętokrzyska,2,20,51.768032,19.580062
+92-739,Gerberowa,Gerberowa,1,49,51.766453,19.59094
+92-740,Mileszki,Mileszki,1,86,51.770827,19.583523
+92-741,Koperkowa; Pigwowa; Frezjowa,Koperkowa; Pigwowa; Frezjowa,3,34,51.761317,19.581174
+92-742,Sołecka; Świętokrzyska,Sołecka; Świętokrzyska,2,94,51.762094,19.58853
+92-743,Taborowa,Taborowa,1,6,51.751974,19.599016
+92-750,Nenckiego,Marcelego Nenckiego,1,5,51.795439,19.595249
+92-751,Chałasińskiego,Józefa Chałasińskiego,1,13,51.796184,19.596658
+92-752,Raciborskiego,Mariana Raciborskiego,1,18,51.795806,19.598241
+92-753,Tatarkiewicza,Władysława Tatarkiewicza,1,28,51.794869,19.601694
+92-754,Viewegera,Teodora Viewegera,1,26,51.794756,19.599862
+92-760,Wiączyńska; Słoneczne Wzgórza,Wiączyńska; Słoneczne Wzgórza,2,154,51.787051,19.599133
+92-761,Malownicza,Malownicza,1,190,51.762477,19.609836
+92-770,Byszewska,Byszewska,1,156,51.804577,19.606174
+92-771,Ananasowa; Figowa,Ananasowa; Figowa,2,56,51.797541,19.603793
+92-772,Kokosowa,Kokosowa,1,4,51.797839,19.601426
+92-773,Oliwkowa,Oliwkowa,1,7,51.797316,19.600678
+92-774,Pomarańczowa,Pomarańczowa,1,4,51.79839,19.601854
+92-775,Bananowa,Bananowa,1,8,51.798331,19.600765
+92-776,Brzezińska,Brzezińska,1,89,51.793277,19.601727
+92-777,Mandarynkowa; Klementynkowa,Mandarynkowa; Klementynkowa,2,128,51.798853,19.59554
+92-780,Grabińska; Podwodna; Sosnowe Wzgórze; Jasna,Grabińska; Podwodna; Sosnowe Wzgórze; Jasna,4,327,51.80575,19.590191
+92-781,Kasprowicza,Jana Kasprowicza,1,128,51.79963,19.581616
+92-782,Witkacego,Witkacego,1,28,51.806207,19.578352
+93-001,Franciszka z Asyżu,św. Franciszka z Asyżu,1,5,51.72727,19.425666
+93-002,Rzgowska; Sieradzka,Rzgowska; Sieradzka,2,25,51.729205,19.476566
+93-004,Piotrkowska; Geyera,Piotrkowska; Ludwika Geyera,2,13,51.742876,19.461556
+93-005,Wólczańska; Czerwona,Wólczańska; Czerwona,2,26,51.74597,19.457449
+93-008,Rzgowska,Rzgowska,1,32,51.735929,19.46926
+93-009,Bednarska; Unicka; Korsaka,Bednarska; Unicka; Juliana Korsaka,3,19,51.73456,19.467266
+93-010,Sanocka,Sanocka,1,3,51.733004,19.463533
+93-011,Tuszyńska,Tuszyńska,1,19,51.731563,19.46704
+93-014,Szara; Poprzeczna; Miła,Szara; Poprzeczna; Miła,3,35,51.735296,19.467563
+93-015,Piaseczna; Krasickiego,Piaseczna; Księdza Biskupa Ignacego Krasickiego,2,41,51.73342,19.46906
+93-018,Szymonowica; Niemcewicza,Szymona Szymonowica; Juliana Ursyna Niemcewicza,2,37,51.731574,19.470348
+93-019,Łączna,Łączna,1,21,51.731104,19.470186
+93-020,Wójtowska; Tuszyńska; Rzgowska,Wójtowska; Tuszyńska; Rzgowska,3,48,51.731614,19.469992
+93-021,Lokatorska; Sejmowa,Lokatorska; Sejmowa,2,12,51.730351,19.470675
+93-024,Rzgowska; Lokatorska; Sejmowa; Niemcewicza,Rzgowska; Lokatorska; Sejmowa; Juliana Ursyna Niemcewicza,4,29,51.729845,19.473282
+93-025,Korzeniowskiego; Paderewskiego,Józefa Korzeniowskiego; Ignacego Paderewskiego,2,54,51.729034,19.4721
+93-026,Hertza; Tuszyńska; Ukryta,Mieczysława Hertza; Tuszyńska; Ukryta,3,51,51.728148,19.472434
+93-029,Pabianicka; Doroty; Plac Niepodległości,Pabianicka; Doroty; Plac Niepodległości,3,55,51.705279,19.423139
+93-030,Dygasińskiego; Bednarska,Adolfa Dygasińskiego; Bednarska,2,20,51.734446,19.46174
+93-031,Sanocka,Sanocka,1,10,51.733166,19.459531
+93-034,Piotrkowska; Milionowa,Piotrkowska; Milionowa,2,14,51.745373,19.462646
+93-035,Wólczańska; Piotrkowska,Wólczańska; Piotrkowska,2,21,51.73919,19.458515
+93-036,Pabianicka; Skargi,Pabianicka; Ks. Piotra Skargi,2,17,51.737866,19.460535
+93-037,Browarna; Bednarska,Browarna; Bednarska,2,27,51.734558,19.459685
+93-038,Sanocka,Sanocka,1,8,51.732904,19.461231
+93-101,Słowiańska; Brzozowa,Słowiańska; Brzozowa,2,32,51.746272,19.471462
+93-102,Sosnowa; Dębowa; Milionowa; Przybyszewskiego,Sosnowa; Dębowa; Milionowa; Stanisława Przybyszewskiego,4,34,51.745863,19.46797
+93-105,Grabowa; Milionowa,Grabowa; Milionowa,2,29,51.747261,19.472719
+93-106,Kilińskiego,Płk Jana Kilińskiego,1,17,51.747395,19.475146
+93-109,Łęczycka; Rawska,Łęczycka; Rawska,2,23,51.749102,19.484581
+93-110,Przybyszewskiego; Łowicka,Stanisława Przybyszewskiego; Łowicka,2,42,51.748034,19.48745
+93-113,Do Folwarku; Milionowa,Do Folwarku; Milionowa,2,44,51.755796,19.495048
+93-114,Skierniewicka; Przędzalniana; al. Śmigłego-Rydza,Skierniewicka; Przędzalniana; Aleja Marszałka Edwarda Śmigłego-Rydza,3,44,51.749196,19.488326
+93-115,Częstochowska; Tatrzańska,Częstochowska; Tatrzańska,2,45,51.749563,19.491361
+93-118,Wacława; Tatrzańska,Wacława; Tatrzańska,2,58,51.749463,19.496287
+93-119,Chełmska; Nieszawska,Chełmska; Nieszawska,2,23,51.750126,19.495003
+93-120,Przybyszewskiego,Stanisława Przybyszewskiego,1,79,51.74831,19.505547
+93-121,Częstochowska; Milionowa,Częstochowska; Milionowa,2,69,51.751447,19.498188
+93-124,Kilińskiego; Zarzewska,Płk Jana Kilińskiego; Zarzewska,2,10,51.743716,19.476382
+93-126,Przybyszewskiego,Stanisława Przybyszewskiego,1,25,51.745712,19.477514
+93-129,Lubelska; Zarzewska,Lubelska; Zarzewska,2,34,51.742649,19.474399
+93-130,Radomska; Kaliska,Radomska; Kaliska,2,39,51.741683,19.475068
+93-133,Kilińskiego,Płk Jana Kilińskiego,1,17,51.742438,19.477547
+93-134,Poznańska; Płocka,Poznańska; Płocka,2,104,51.742882,19.481807
+93-137,Dąbrowskiego; Siemiradzkiego,Gen. Jarosława Dąbrowskiego; Henryka Siemiradzkiego,2,37,51.738504,19.487505
+93-138,Siedlecka; Kilińskiego; Krzywa,Siedlecka; Płk Jana Kilińskiego; Krzywa,3,51,51.741056,19.481086
+93-139,Chełmońskiego,Józefa Chełmońskiego,1,21,51.739018,19.483203
+93-140,Doroszewskiego,Witolda Doroszewskiego,1,9,51.740158,19.481063
+93-142,Kołowa; Broniewskiego,Kołowa; Władysława Broniewskiego,2,38,51.734397,19.484144
+93-143,Lenartowicza; Siarczana,Teofila Lenartowicza; Siarczana,2,22,51.736467,19.484793
+93-144,Krochmalna; Naruszewicza,Krochmalna; Ks. Adama Naruszewicza,2,6,51.734372,19.485937
+93-148,Wysockiego; Rzgowska,Płk Piotra Wysockiego; Rzgowska,2,23,51.73184,19.476597
+93-149,Mazurska,Mazurska,1,44,51.729786,19.481741
+93-150,Odyńca,Antoniego Odyńca,1,57,51.730581,19.481396
+93-153,Bankowa; Henryka; Rzgowska; Tuszyńska,Bankowa; Henryka; Rzgowska; Tuszyńska,4,54,51.727775,19.474195
+93-154,Malczewskiego; Tetmajera,Jacka Malczewskiego; Kazimierza Tetmajera,2,70,51.729865,19.48517
+93-155,Śląska; Karpia; Orkana; Żwirowa,Śląska; Karpia; Władysława Orkana; Żwirowa,4,133,51.727319,19.494723
+93-156,Żmichowskiej,Narcyzy Żmichowskiej,1,4,51.72677,19.491879
+93-157,Kraszewskiego,Józefa Ignacego Kraszewskiego,1,3,51.732863,19.48247
+93-160,Mochnackiego; Kilińskiego; Rzgowska,Maurycego Mochnackiego; Płk Jana Kilińskiego; Rzgowska,3,25,51.733057,19.477034
+93-161,Kraszewskiego; Naruszewicza,Józefa Ignacego Kraszewskiego; Ks. Adama Naruszewicza,2,49,51.733424,19.481856
+93-162,Broniewskiego; Przyborowskiego,Władysława Broniewskiego; Walerego Przyborowskiego,2,24,51.732451,19.480202
+93-165,Podmiejska; Słowackiego,Podmiejska; Juliusza Słowackiego,2,10,51.735453,19.475246
+93-166,Łączna; Lelewela,Łączna; Joachima Lelewela,2,16,51.733516,19.475809
+93-167,Przyborowskiego,Walerego Przyborowskiego,1,9,51.733598,19.480461
+93-170,Wólczańska,Wólczańska,1,1,51.741164,19.458348
+93-171,Sieradzka,Sieradzka,1,4,51.741166,19.460924
+93-172,Rzgowska; Łukasińskiego,Rzgowska; Mjr Waleriana Łukasińskiego,2,34,51.737083,19.469178
+93-173,Lecznicza; Dąbrowskiego; Kasowa,Lecznicza; Gen. Jarosława Dąbrowskiego; Kasowa,3,18,51.735888,19.472105
+93-176,Łomżyńska; Suwalska,Łomżyńska; Suwalska,2,27,51.741194,19.471109
+93-177,Dąbrowskiego; Jachowicza; Słowackiego,Gen. Jarosława Dąbrowskiego; Stanisława Jachowicza; Juliusza Słowackiego,3,40,51.737367,19.478324
+93-180,Zarzewska,Zarzewska,1,12,51.7423,19.46975
+93-181,Praska; Suwalska,Praska; Suwalska,2,39,51.742236,19.471714
+93-184,Zarzewska,Zarzewska,1,22,51.741675,19.466053
+93-185,Krucza,Krucza,1,28,51.741874,19.467845
+93-188,Przybyszewskiego,Stanisława Przybyszewskiego,1,25,51.743646,19.467463
+93-189,Przybyszewskiego,Stanisława Przybyszewskiego,1,14,51.744363,19.469488
+93-191,Stocka,Stocka,1,16,51.744833,19.466634
+93-192,Senatorska,Senatorska,1,42,51.747822,19.474011
+93-193,Łęczycka; Milionowa,Łęczycka; Milionowa,2,36,51.746224,19.483771
+93-201,Dąbrowskiego,Gen. Jarosława Dąbrowskiego,1,4,51.736088,19.495158
+93-202,Dąbrowskiego,Gen. Jarosława Dąbrowskiego,1,9,51.73626,19.498003
+93-203,Rydla; Deotymy,Lucjana Rydla; Deotymy,2,48,51.735107,19.495992
+93-204,Zapolskiej; Bałuckiego; Skwer Świętego Maksymiliana Marii Kolbego,Gabrieli Zapolskiej; Michała Bałuckiego; Skwer Świętego Maksymiliana Marii Kolbego,3,23,51.734462,19.493417
+93-208,Tatrzańska; Dąbrowskiego,Tatrzańska; Gen. Jarosława Dąbrowskiego,2,43,51.738415,19.497459
+93-209,Kossaka,Juliusza Kossaka,1,7,51.737294,19.500106
+93-212,Zbaraska,Zbaraska,1,15,51.741183,19.500612
+93-213,Kossaka,Juliusza Kossaka,1,22,51.739071,19.500449
+93-217,Grota-Roweckiego; Morcinka; Dedeciusa,Gen. Stefana Grota-Roweckiego; Gustawa Morcinka; Karla Dedeciusa,3,58,51.745481,19.498112
+93-218,Tyrmanda; Strzemińskiego,Leopolda Tyrmanda; Władysława Strzemińskiego,2,20,51.744631,19.500741
+93-219,Tatrzańska; Brzechwy,Tatrzańska; Jana Brzechwy,2,46,51.745156,19.494006
+93-220,Zawodowa,Zawodowa,1,8,51.747509,19.502567
+93-221,Zapadła; Małej Piętnastki,Zapadła; Małej Piętnastki,2,24,51.744683,19.502575
+93-222,"Nurta-Kaszyńskiego; Piwnika ""Ponurego""","mjr. Eugeniusza Nurta-Kaszyńskiego; mjr Jana Piwnika ""Ponurego""",2,21,51.746887,19.507959
+93-224,Podhalańska,Podhalańska,1,27,51.738485,19.503321
+93-225,Zbaraska,Zbaraska,1,10,51.741511,19.504272
+93-228,Wiośniana; Ossendowskiego; Choińska,Wiośniana; Ferdynanda Ossendowskiego; Choińska,3,94,51.736239,19.51626
+93-229,Piechala; Rosseta,Mariana Piechala; Profesora Edwarda Rosseta,2,23,51.729507,19.534347
+93-230,Poetycka,Poetycka,1,29,51.730691,19.532992
+93-231,Tomaszowska; Dąbrowskiego; Dostawcza,Tomaszowska; Gen. Jarosława Dąbrowskiego; Dostawcza,3,80,51.73438,19.525774
+93-232,Lodowa; Bławatna; Sekwestratorska; Ziomkowa,Lodowa; Bławatna; Sekwestratorska; Ziomkowa,4,106,51.732254,19.52504
+93-233,Ordonówny,Hanki Ordonówny,1,2,51.728023,19.516068
+93-235,Tomaszowska,Tomaszowska,1,11,51.725606,19.535652
+93-236,Konspiracyjnego Wojska Polskiego,Konspiracyjnego Wojska Polskiego,1,23,51.729985,19.497303
+93-237,Śląska,Śląska,1,119,51.726841,19.508741
+93-238,Solidarności Walczącej; Bohomolca; Oppmana; Rolnicza,Solidarności Walczącej; Franciszka Bohomolca; Artura Oppmana; Rolnicza,4,76,51.726213,19.499843
+93-239,Karola; Chłędowskiego; Tatrzańska,Karola; Kazimierza Chłędowskiego; Tatrzańska,3,17,51.728007,19.497642
+93-240,Przyjacielska; Sosnowiecka; Mysłowicka; Ujejskiego,Przyjacielska; Sosnowiecka; Mysłowicka; Kornela Ujejskiego,4,48,51.72488,19.515132
+93-241,Poselska; Młynek; Kowalszczyzna,Poselska; Młynek; Kowalszczyzna,3,50,51.724518,19.520077
+93-242,Startowa; Bielska; Kotoniarska,Startowa; Bielska; Kotoniarska,3,66,51.723793,19.525879
+93-243,Szybowa; Wełniana,Szybowa; Wełniana,2,20,51.72336,19.526222
+93-244,Szymańskiego; Ireny,Edwarda Szymańskiego; Ireny,2,18,51.725851,19.503033
+93-245,Przedborska,Przedborska,1,12,51.725328,19.510182
+93-247,Felińskiego; Leśmiana,Alojzego Felińskiego; Bolesława Leśmiana,2,10,51.731848,19.501039
+93-248,Kadłubka; Makuszyńskiego,Wincentego Kadłubka; Kornela Makuszyńskiego,2,17,51.730879,19.501448
+93-249,Gojawiczyńskiej; Ejsmonda,Poli Gojawiczyńskiej; Juliana Ejsmonda,2,26,51.73033,19.501392
+93-252,Felińskiego,Alojzego Felińskiego,1,27,51.732276,19.498497
+93-253,Broniewskiego; Gojawiczyńskiej,Poli Gojawiczyńskiej; Władysława Broniewskiego,2,16,51.732936,19.502763
+93-254,Zapolskiej; Kadłubka,Gabrieli Zapolskiej; Wincentego Kadłubka,2,3,51.731777,19.496617
+93-256,Zapolskiej; Żmichowskiej,Gabrieli Zapolskiej; Narcyzy Żmichowskiej,2,54,51.728739,19.494777
+93-257,Śląska; Smolna,Śląska; Smolna,2,41,51.727424,19.493034
+93-258,Koźmiana; Broniewskiego,Kajetana Koźmiana; Władysława Broniewskiego,2,15,51.729417,19.491624
+93-259,Umińskiego; Gałczyńskiego; Gersona,Władysława Umińskiego; Konstantego Ildefonsa Gałczyńskiego; Wojciecha Gersona,3,32,51.730253,19.491776
+93-262,Anczyca; Nałkowskiej,Władysława Anczyca; Zofii Nałkowskiej,2,23,51.734669,19.500871
+93-263,Kadłubka; Staffa,Wincentego Kadłubka; Leopolda Staffa,2,17,51.734253,19.499366
+93-264,Broniewskiego,Władysława Broniewskiego,1,5,51.733526,19.501127
+93-266,Wyższa; al. Śmigłego-Rydza,Wyższa; Aleja Marszałka Edwarda Śmigłego-Rydza,2,15,51.734148,19.490153
+93-267,Broniewskiego; Deotymy,Władysława Broniewskiego; Deotymy,2,12,51.733928,19.491777
+93-271,Dąbrowskiego,Gen. Jarosława Dąbrowskiego,1,10,51.737067,19.490611
+93-272,Podgórna; al. Śmigłego-Rydza,Podgórna; Aleja Marszałka Edwarda Śmigłego-Rydza,2,31,51.735132,19.487539
+93-273,Bałuckiego; Rydla,Lucjana Rydla; Michała Bałuckiego,2,4,51.735838,19.490886
+93-277,Rodakowskiego; Dąbrowskiego,Henryka Rodakowskiego; Gen. Jarosława Dąbrowskiego,2,30,51.738705,19.491275
+93-278,Podgórna,Podgórna,1,15,51.739125,19.487073
+93-279,Tatrzańska,Tatrzańska,1,25,51.739636,19.493898
+93-280,al. Śmigłego-Rydza; Zbaraska,Aleja Marszałka Edwarda Śmigłego-Rydza; Zbaraska,2,16,51.740102,19.492457
+93-281,al. Śmigłego-Rydza,Aleja Marszałka Edwarda Śmigłego-Rydza,1,29,51.745983,19.490279
+93-285,Ozorkowska,Ozorkowska,1,24,51.744901,19.486591
+93-286,Przędzalniana,Przędzalniana,1,16,51.744094,19.487933
+93-302,Wesoła; Czytelnicza,Wesoła; Czytelnicza,2,91,51.723206,19.478429
+93-303,Pryncypalna; Rzgowska,Pryncypalna; Rzgowska,2,61,51.724563,19.477234
+93-304,Antenowa; Dachowa,Antenowa; Dachowa,2,81,51.724072,19.477588
+93-305,Beniowskiego; Koncertowa; Tuszyńska,Maurycego Beniowskiego; Koncertowa; Tuszyńska,3,95,51.722403,19.478938
+93-308,Studzienna; Bronisławy; Władysława Warneńczyka,Studzienna; Bronisławy; Króla Władysława Warneńczyka,3,159,51.723593,19.486263
+93-309,Komorniki; Grażyny,Komorniki; Grażyny,2,96,51.722419,19.486237
+93-310,Rentowna; Łazowskiego,Rentowna; Klaudiusza Łazowskiego,2,33,51.720743,19.480954
+93-311,Rzgowska,Rzgowska,1,20,51.720792,19.484473
+93-312,Tuszyńska,Tuszyńska,1,11,51.719847,19.478853
+93-313,Chóralna; Społeczna,Chóralna; Społeczna,2,18,51.720677,19.489943
+93-317,Rzgowska,Rzgowska,1,36,51.715656,19.486198
+93-318,Strażacka; Natalii,Strażacka; Natalii,2,11,51.717416,19.482461
+93-319,Królewska; Potulna,Królewska; Potulna,2,17,51.715118,19.483319
+93-320,Sarmacka; Kosynierów Gdyńskich,Sarmacka; Kosynierów Gdyńskich,2,21,51.714111,19.484486
+93-321,Powszechna,Powszechna,1,15,51.715993,19.48835
+93-322,Kurczaki; Błękitna; Mieszczańska,Kurczaki; Błękitna; Mieszczańska,3,98,51.716688,19.491797
+93-323,Serdeczna; Zamknięta; Kurczaki; Skupiona; Codzienna; Strzelecka,Serdeczna; Zamknięta; Kurczaki; Skupiona; Codzienna; Strzelecka,6,33,51.718288,19.489391
+93-324,Maciejowicka; Socjalna; Michała,Maciejowicka; Socjalna; Michała,3,43,51.715901,19.48914
+93-325,Wojciecha; Sternfelda,Świętego Wojciecha; Ary Sternfelda,2,5,51.715353,19.493406
+93-326,Chóralna,Chóralna,1,2,51.721069,19.487094
+93-327,Ireny; Torowa; Kwartalna; Kominowa,Ireny; Torowa; Kwartalna; Kominowa,4,99,51.724204,19.491882
+93-328,Rolnicza; Płaska; Chóralna; Piesza,Rolnicza; Płaska; Chóralna; Piesza,4,58,51.722909,19.495468
+93-329,Konopnickiej; Ogniskowa; Wigilijna,Marii Konopnickiej; Ogniskowa; Wigilijna,3,55,51.721547,19.498393
+93-330,Chłodnikowa; Sąsiedzka; Ideowa,Chłodnikowa; Sąsiedzka; Ideowa,3,133,51.721921,19.502792
+93-331,Zygmunta; Kurczaki; Świetna; Klasowa,Zygmunta; Kurczaki; Świetna; Klasowa,4,151,51.716423,19.508202
+93-332,Bałtycka; Witolda; Powtórna,Bałtycka; Witolda; Powtórna,3,149,51.716579,19.506876
+93-333,Strażnicza; Szumna; Lotna; Nadwodna,Strażnicza; Szumna; Lotna; Nadwodna,4,91,51.717717,19.501704
+93-334,Wdzięczna; Powszechna; Strzelecka; Mulinowicza,Wdzięczna; Powszechna; Strzelecka; Mulinowicza,4,84,51.716336,19.494117
+93-335,Gospodarcza; Łokietka,Gospodarcza; Władysława Łokietka,2,12,51.717401,19.492193
+93-337,al. Matek Polskich,Aleja Matek Polskich,1,15,51.70489,19.476429
+93-338,Rzgowska; Józefowska; Faszynowa,Rzgowska; Józefowska; Faszynowa,3,72,51.700205,19.479635
+93-339,Przednia,Przednia,1,12,51.702012,19.477294
+93-340,Bieszczadzka,Bieszczadzka,1,45,51.707863,19.513631
+93-341,Ustronna; Zygmunta; al. Bartoszewskiego,Ustronna; Zygmunta; Aleja Władysława Bartoszewskiego,3,48,51.703804,19.488158
+93-342,Sczanieckiej,Emilii Sczanieckiej,1,17,51.705394,19.475478
+93-345,Paradna; Kwiecista; Płynna; Przyrzeczna,Paradna; Kwiecista; Płynna; Przyrzeczna,4,39,51.710957,19.476126
+93-346,Cegielniana; Obszerna; Mroźna; Przełomowa; Keniżanki; Przesmyk,Cegielniana; Obszerna; Mroźna; Przełomowa; Władysławy Keniżanki; Przesmyk,6,135,51.709186,19.473542
+93-347,Postępowa; Bajeczna; Leszczyńskiej; Przygodna; Wołodyjowskiego,Postępowa; Bajeczna; Stanisławy Leszczyńskiej; Przygodna; Michała Wołodyjowskiego,5,73,51.708478,19.467531
+93-348,Równa; Daleka; Demokratyczna; Prosta,Równa; Daleka; Demokratyczna; Prosta,4,48,51.70981,19.460688
+93-349,Czerwcowa; Zagadkowa,Czerwcowa; Zagadkowa,2,24,51.70622,19.46486
+93-350,Ustronna; Siostrzana; Zacna,Ustronna; Siostrzana; Zacna,3,25,51.704767,19.468625
+93-351,Tabelowa; Świecka; Rozalii,Tabelowa; Świecka; Rozalii,3,91,51.700195,19.462438
+93-352,Roszkowskiego; Gontowa,Lechosława Roszkowskiego; Gontowa,2,18,51.708673,19.469722
+93-353,Skalskiego,Stanisława Skalskiego,1,3,51.709575,19.47123
+93-354,Łabędzkiego,Tadeusza Łabędzkiego,1,18,51.709479,19.470295
+93-355,Białostocka; Tuszyńska,Białostocka; Tuszyńska,2,50,51.718999,19.481838
+93-356,Gościnna; Budowlana; Opoczyńska,Gościnna; Budowlana; Opoczyńska,3,18,51.716294,19.480099
+93-357,Kosynierów Gdyńskich; Sarmacka,Kosynierów Gdyńskich; Sarmacka,2,56,51.716189,19.47393
+93-358,Trybunalska; Radosna; Ujazd,Trybunalska; Radosna; Ujazd,3,29,51.71554,19.466672
+93-359,Okienna; Czynna; Pałacowa,Okienna; Czynna; Pałacowa,3,20,51.713876,19.465184
+93-360,Obszerna; Paradna; Kozielska,Obszerna; Paradna; Kozielska,3,83,51.71263,19.472647
+93-361,Kwietniowa; Luźna; Wczesna,Kwietniowa; Luźna; Wczesna,3,74,51.713807,19.471456
+93-362,Szkolna; Bułgarska; Starościńska,Szkolna; Bułgarska; Starościńska,3,160,51.715316,19.471419
+93-363,Osobliwa; Żółta,Osobliwa; Żółta,2,40,51.715481,19.469063
+93-364,Rzgowska,Rzgowska,1,25,51.719354,19.485347
+93-365,Musiała,prof. Włodzimierza Musiała,1,20,51.710843,19.469359
+93-367,Okręgowa; Trębacka; Rzgowska,Okręgowa; Trębacka; Rzgowska,3,181,51.724615,19.472663
+93-368,Rycerska; Tuszyńska; Średnia,Rycerska; Tuszyńska; Średnia,3,38,51.724909,19.471947
+93-369,Budziszyńska; Bezpieczna; Kluczowa,Budziszyńska; Bezpieczna; Kluczowa,3,51,51.720488,19.461353
+93-370,Romana; Łagodna; Ruchliwa,Romana; Łagodna; Ruchliwa,3,117,51.720168,19.452357
+93-371,Zgodna; Płytka,Zgodna; Płytka,2,32,51.719302,19.451326
+93-372,Widna; Mylna,Widna; Mylna,2,44,51.718301,19.452256
+93-373,Pryncypalna; Frycza-Modrzewskiego,Pryncypalna; Andrzeja Frycza-Modrzewskiego,2,22,51.719817,19.461743
+93-376,Kongresowa; Tuszyńska,Kongresowa; Tuszyńska,2,25,51.721431,19.476278
+93-377,Żywotna; Zagraniczna; Jutrzenki,Żywotna; Zagraniczna; Jutrzenki,3,25,51.719917,19.475517
+93-378,Przedświt; Gładka; Mieszkalna,Przedświt; Gładka; Mieszkalna,3,76,51.72026,19.472475
+93-379,Pryncypalna; Łazowskiego,Pryncypalna; Klaudiusza Łazowskiego,2,53,51.721767,19.472436
+93-380,Ofiarna,Ofiarna,1,7,51.716949,19.476984
+93-401,Ujście,Ujście,1,2,51.71105,19.42711
+93-402,Zjednoczenia; Pabianicka; Krzywoń; Pawła,Zjednoczenia; Pabianicka; Anieli Krzywoń; Pawła,4,68,51.711916,19.431783
+93-403,Komunalna; Woźnicza; Blokowa; Starorudzka; Rtęciowa; Pokojowa,Komunalna; Woźnicza; Blokowa; Starorudzka; Rtęciowa; Pokojowa,6,115,51.7092,19.43424
+93-404,Heleny; Astronomiczna; Mierzyńskiego; Demokratyczna; Marii,Heleny; Astronomiczna; Dr Zdzisława Mierzyńskiego; Demokratyczna; Marii,5,89,51.708771,19.435848
+93-405,Gombrowicza; Finansowa; Joanny; Skromna; Starorudzka,Witolda Gombrowicza; Finansowa; Joanny; Skromna; Starorudzka,5,50,51.712069,19.437419
+93-406,Przewodnia,Przewodnia,1,20,51.712145,19.441978
+93-408,3 Maja,3 Maja,1,50,51.716878,19.447118
+93-410,Łukowa; Pabianicka; Skwerowa,Łukowa; Pabianicka; Skwerowa,3,64,51.72128,19.443683
+93-411,Opiekuńcza; Życzliwa; Panoramiczna,Opiekuńcza; Życzliwa; Panoramiczna,3,66,51.720228,19.443776
+93-412,Dumna; Korczaka; Alojzego; Barwna,Dumna; Janusza Korczaka; Alojzego; Barwna,4,49,51.716593,19.443805
+93-413,Morska; Dolnośląska; Biskupińska; Świetlicowa,Morska; Dolnośląska; Biskupińska; Świetlicowa,4,38,51.717309,19.450029
+93-414,Dźwiękowa; Zespołowa; Stylowa,Dźwiękowa; Zespołowa; Stylowa,3,104,51.7189,19.446849
+93-415,Dawna,Dawna,1,1,51.715192,19.449569
+93-418,Aleksandra; Starorudzka; Wojewódzka,Aleksandra; Starorudzka; Wojewódzka,3,77,51.713429,19.440737
+93-419,Przewodnia; Rzemieślnicza; Dzwonowa,Przewodnia; Rzemieślnicza; Dzwonowa,3,113,51.712919,19.445027
+93-420,Finansowa; Amatorska; Szczera; Statutowa; Matowa,Finansowa; Amatorska; Szczera; Statutowa; Matowa,5,124,51.711368,19.446841
+93-423,Rudzka; Magdaleny; Municypalna; Trudna; Lubuska,Rudzka; Magdaleny; Municypalna; Trudna; Lubuska,5,108,51.702727,19.437845
+93-424,Starorudzka; Przestrzenna; Miejska; Rudzianka; Falowa; Płomienna,Starorudzka; Przestrzenna; Miejska; Rudzianka; Falowa; Płomienna,6,201,51.704485,19.444364
+93-425,Mierzyńskiego; Rejonowa,Dr Zdzisława Mierzyńskiego; Rejonowa,2,12,51.706761,19.436766
+93-426,Ekonomiczna; Karowa; Miniaturowa; Szymanowskiego; Sygnałowa,Ekonomiczna; Karowa; Miniaturowa; Karola Szymanowskiego; Sygnałowa,5,82,51.70671,19.448527
+93-427,Władysława Jagiełły; Pańska; Godna; Piwowarska,Króla Władysława Jagiełły; Pańska; Godna; Piwowarska,4,91,51.707127,19.45019
+93-428,Graniczna; Treflowa; Kwaterunkowa; Kierowa; Plastyczna; Strefowa,Graniczna; Treflowa; Kwaterunkowa; Kierowa; Plastyczna; Strefowa,6,235,51.704004,19.458882
+93-429,Żwawa; Bierna; Dodatnia; Dzwonowa,Żwawa; Bierna; Dodatnia; Dzwonowa,4,54,51.709532,19.446181
+93-430,Demokratyczna; Bulwarowa; Plenerowa; Duetowa; Leżakowa; Klubowa,Demokratyczna; Bulwarowa; Plenerowa; Duetowa; Leżakowa; Klubowa,6,146,51.709802,19.449966
+93-431,Bilardowa; Skośna,Bilardowa; Skośna,2,28,51.706195,19.455982
+93-432,Okrężna; Przestrzenna,Okrężna; Przestrzenna,2,21,51.704766,19.451705
+93-433,Oazowa,Oazowa,1,12,51.702712,19.45643
+93-434,Przestrzenna; Halki; Pikowa; Feliksy; Pasjansowa; Sławna,Przestrzenna; Halki; Pikowa; Feliksy; Pasjansowa; Sławna,6,108,51.702679,19.443545
+93-435,Brydżowa; Wazów; Kurpińskiego; Swobodna; Wejherowska,Brydżowa; Wazów; Karola Kurpińskiego; Swobodna; Wejherowska,5,71,51.702335,19.448763
+93-436,Scaleniowa; Plażowa; Wirowa,Scaleniowa; Plażowa; Wirowa,3,28,51.699155,19.44183
+93-438,Rudzka; Rodzinna; Popioły; Cienista,Rudzka; Rodzinna; Popioły; Cienista,4,93,51.694993,19.445876
+93-439,Betonowa; Polesie; Altanowa; Białowieska; Purpurowa,Betonowa; Polesie; Altanowa; Białowieska; Purpurowa,5,28,51.692832,19.454866
+93-440,Przyjemna,Przyjemna,1,6,51.692099,19.45216
+93-441,Skrajna; Leśna; Wiekowa; Letniskowa,Skrajna; Leśna; Wiekowa; Letniskowa,4,54,51.691572,19.458456
+93-442,Zastawna; Raduńska; Świerszczyka,Zastawna; Raduńska; Świerszczyka,3,17,51.689293,19.45073
+93-443,Atutowa; Laskowa,Atutowa; Laskowa,2,57,51.701661,19.454152
+93-446,Wyścigowa; Kierunkowa; Iłowa; Długa; Placowa,Wyścigowa; Kierunkowa; Iłowa; Długa; Placowa,5,101,51.699611,19.422499
+93-447,Konna; Sportowa; Pozioma; Profilowa; Kutrowa,Konna; Sportowa; Pozioma; Profilowa; Kutrowa,5,62,51.700236,19.427931
+93-448,Zarzeczna; Farna; Nad Nerem; Bosmańska; Chylońska; Zamulna; Albańska,Zarzeczna; Farna; Nad Nerem; Bosmańska; Chylońska; Zamulna; Albańska,7,126,51.698975,19.431953
+93-449,Niwelacyjna; Wyspowa; Anieli,Niwelacyjna; Wyspowa; Anieli,3,17,51.696569,19.430909
+93-450,Ksawerowska; Masztowa,Ksawerowska; Masztowa,2,100,51.694863,19.417641
+93-451,Orłowska; Promowa; Oksywie; Działowa; Wigerska,Orłowska; Promowa; Oksywie; Działowa; Wigerska,5,86,51.691051,19.426441
+93-452,Patriotyczna; Łużycka; Zastawna; Murawy; Głębinowa,Patriotyczna; Łużycka; Zastawna; Murawy; Głębinowa,5,84,51.692064,19.436937
+93-453,Rafowa; Goplany; Pucka,Rafowa; Goplany; Pucka,3,54,51.689539,19.430229
+93-454,Pabianicka,Pabianicka,1,4,51.696678,19.410301
+93-457,Pabianicka; Rudzka; Narwik; Słupska,Pabianicka; Rudzka; Narwik; Słupska,4,101,51.706966,19.426703
+93-458,Koszalińska; Mierzejowa; Wędkarska; Tczewska; Pogorzel,Koszalińska; Mierzejowa; Wędkarska; Tczewska; Pogorzel,5,158,51.703987,19.426035
+93-459,Ciechocińska; Elbląska; Kuźnicka; Solankowa; Redowa,Ciechocińska; Elbląska; Kuźnicka; Solankowa; Redowa,5,119,51.703372,19.422614
+93-460,Chocianowicka; Łaskowice; Jesiotrowa; Dorszowa; Blokowa; Rozewie,Chocianowicka; Łaskowice; Jesiotrowa; Dorszowa; Blokowa; Rozewie,6,362,51.706517,19.400056
+93-463,Jubileuszowa; Sternicza; Ruczajowa; Jastarnia; Świętojańska; Rozwojowa; Baśniowa; Miłosna,Jubileuszowa; Sternicza; Ruczajowa; Jastarnia; Świętojańska; Rozwojowa; Baśniowa; Miłosna,8,176,51.721717,19.428409
+93-464,Równikowa; Czahary; Reymonta; Podmokła; Kanałowa,Równikowa; Czahary; Władysława Reymonta; Podmokła; Kanałowa,5,33,51.720781,19.420705
+93-465,Dubois; Polarna; Kijanki; Powiatowa; Błotna,Stanisława Dubois; Polarna; Kijanki; Powiatowa; Błotna,5,84,51.720764,19.416785
+93-466,Prądzyńskiego; Pusta; Łódzka,Gen. Ignacego Prądzyńskiego; Pusta; Łódzka,3,122,51.722827,19.419692
+93-467,Lotnicza; Niepołomicka; Denna; Pilska; Portowa,Lotnicza; Niepołomicka; Denna; Pilska; Portowa,5,132,51.724497,19.414163
+93-468,Zamiejska; Spartańska; Zatokowa; Ostowa; Zabrzeżna,Zamiejska; Spartańska; Zatokowa; Ostowa; Zabrzeżna,5,72,51.727907,19.38325
+93-469,Łaskowice; Lublinek; Biwakowa; Latawcowa; Sanitariuszek; Pilotów; Ikara; Szkutnicza; Dedala; Załogowa; Żaglowa; Bystra; Gwarków,Łaskowice; Lublinek; Biwakowa; Latawcowa; Sanitariuszek; Pilotów; Ikara; Szkutnicza; Dedala; Załogowa; Żaglowa; Bystra; Gwarków,13,391,51.720111,19.362666
+93-472,Odrzańska; Uroczysko; Retmańska; Reduta; Notecka,Odrzańska; Uroczysko; Retmańska; Reduta; Notecka,5,97,51.7144,19.422196
+93-473,Hoffmanowej; Przystań; Terenowa; Deltowa; Zuchów; Chachuły,Antoniny Hoffmanowej; Przystań; Terenowa; Deltowa; Zuchów; Chachuły,6,80,51.716274,19.422627
+93-474,Dubois; Reymonta; Holownicza; Prośnieńska; Muszlowa,Stanisława Dubois; Władysława Reymonta; Holownicza; Prośnieńska; Muszlowa,5,144,51.717219,19.424539
+93-475,Mewy; Międzyrzecze,Mewy; Międzyrzecze,2,19,51.71951,19.422891
+93-478,Zamorska; Czahary; Prądzyńskiego; Torfowa; Burtowa; Zalewowa,Zamorska; Czahary; Gen. Ignacego Prądzyńskiego; Torfowa; Burtowa; Zalewowa,6,278,51.725161,19.427413
+93-479,Pustynna; Basenowa; Franciszka z Asyżu; Nizinna; Kołobrzeska; Drzymały; Skarżyńskiego; Daktylowa; Lazurowa; Saharyjska,Pustynna; Basenowa; św. Franciszka z Asyżu; Nizinna; Kołobrzeska; Michała Drzymały; Pilota Płk Stanisława Skarżyńskiego; Daktylowa; Lazurowa; Saharyjska,10,492,51.729874,19.4275
+93-480,Człuchowska; Zenitowa; Szybowcowa; Kawowa; Kaktusowa; Libijska; Szkoły Orląt,Człuchowska; Zenitowa; Szybowcowa; Kawowa; Kaktusowa; Libijska; Szkoły Orląt,7,133,51.72764,19.430548
+93-481,Rozległa; Arabska; Stepowa; Błędowska; Emerytalna,Rozległa; Arabska; Stepowa; Błędowska; Emerytalna,5,166,51.72935,19.43312
+93-482,Regatowa; Eleonory; Magnesowa; Gliwicka; Koralowa; Kotwiczna,Regatowa; Eleonory; Magnesowa; Gliwicka; Koralowa; Kotwiczna,6,170,51.727842,19.429053
+93-485,Zwrotnikowa; Franciszka z Asyżu; Kutnowska; Zamorska; Akademii Zamojskiej; Michałowska; Zagłębie,Zwrotnikowa; św. Franciszka z Asyżu; Kutnowska; Zamorska; Akademii Zamojskiej; Michałowska; Zagłębie,7,136,51.726134,19.438678
+93-486,Narewska; Dobrzyńska; Zamojska; Pabianicka; Leszczowa; Kanclerska,Narewska; Dobrzyńska; Zamojska; Pabianicka; Leszczowa; Kanclerska,6,119,51.726145,19.439761
+93-487,Eugeniusza; Kolejowa; Beczkowa; Opałowa; Toruńska,Eugeniusza; Kolejowa; Beczkowa; Opałowa; Toruńska,5,97,51.722725,19.447068
+93-490,Niedziałkowskiego; Sopocka; Odrzańska; Ujście; Pabianicka,Mieczysława Niedziałkowskiego; Sopocka; Odrzańska; Ujście; Pabianicka,5,68,51.712684,19.427709
+93-491,Starogardzka; Dubois; Mielizny; Reymonta; Plac Władysława Stanisława Reymonta,Starogardzka; Stanisława Dubois; Mielizny; Władysława Reymonta; Plac Władysława Stanisława Reymonta,5,95,51.714194,19.427942
+93-492,Pokładowa; Prądzyńskiego; Bolesława; Nurkowa; Spławna,Pokładowa; Gen. Ignacego Prądzyńskiego; Bolesława; Nurkowa; Spławna,5,83,51.719879,19.433247
+93-493,Darniowa; Rokicka; Antoniny; Rocznicowa; Świętojańska,Darniowa; Rokicka; Antoniny; Rocznicowa; Świętojańska,5,120,51.721044,19.433856
+93-494,Familijna; Widawska,Familijna; Widawska,2,31,51.720854,19.438882
+93-502,Politechniki,Aleje Politechniki,1,9,51.742909,19.452388
+93-503,Rogozińskiego; Tagore,Stefana Rogozińskiego; Rabindranatha Tagore,2,18,51.732177,19.450146
+93-504,Czackiego; Cieszkowskiego,Tadeusza Czackiego; Augusta Cieszkowskiego,2,25,51.734545,19.452461
+93-505,Cieszyńska; Ordona,Cieszyńska; Juliusza Ordona,2,27,51.734825,19.452655
+93-506,Pabianicka,Pabianicka,1,6,51.735101,19.457301
+93-509,Paderewskiego,Ignacego Paderewskiego,1,23,51.727437,19.461718
+93-510,Ciołkowskiego,Konstantego Ciołkowskiego,1,41,51.729592,19.460203
+93-513,Pabianicka,Pabianicka,1,16,51.73431,19.457233
+93-515,Krakusa; Krośnieńska,Krakusa; Krośnieńska,2,33,51.731971,19.459083
+93-516,Zygmuntowska; Strycharska,Zygmuntowska; Strycharska,2,10,51.730384,19.46061
+93-519,Sokola; Myśliwska,Sokola; Myśliwska,2,29,51.731227,19.46148
+93-520,Smocza; Zygmuntowska,Smocza; Zygmuntowska,2,13,51.731443,19.463658
+93-521,Strycharska; Granitowa,Strycharska; Granitowa,2,24,51.730579,19.46572
+93-522,Zakliczyńska,Zakliczyńska,1,2,51.729269,19.467419
+93-523,Paderewskiego,Ignacego Paderewskiego,1,6,51.727639,19.468264
+93-524,Jarosławska; Dynowska; Zakopiańska,Jarosławska; Dynowska; Zakopiańska,3,23,51.727188,19.468449
+93-525,Sokola,Sokola,1,1,51.732655,19.460101
+93-526,Rymanowska,Rymanowska,1,8,51.725979,19.468119
+93-530,Paderewskiego,Ignacego Paderewskiego,1,14,51.729193,19.456206
+93-533,Astronautów,Astronautów,1,10,51.727207,19.458627
+93-534,Bogusławskiego; Chocimska,Wojciecha Bogusławskiego; Chocimska,2,54,51.723798,19.455908
+93-535,Wiosenna; Trwała; Zaolziańska,Wiosenna; Trwała; Zaolziańska,3,65,51.72484,19.455213
+93-536,Głogowska; Karpacka,Głogowska; Karpacka,2,39,51.725472,19.455211
+93-539,Karpacka; Zaolziańska,Karpacka; Zaolziańska,2,12,51.727328,19.452222
+93-540,Kosmonautów; Będzińska,Kosmonautów; Będzińska,2,21,51.726468,19.450841
+93-541,Obwodowa,Obwodowa,1,4,51.725059,19.449005
+93-545,Zaolziańska; Wiwulskiego,Zaolziańska; Antoniego Wiwulskiego,2,20,51.728784,19.454503
+93-546,Ciasna,Ciasna,1,4,51.727544,19.454253
+93-547,Ciasna; Ceramiczna,Ciasna; Ceramiczna,2,19,51.7289,19.452493
+93-548,Pabianicka,Pabianicka,1,20,51.728253,19.449666
+93-549,Flatta; Przyszkole; Brużycka; Gojawiczyńskiej,Oskara Flatta; Przyszkole; Brużycka; Poli Gojawiczyńskiej,4,23,51.728191,19.448096
+93-552,Przyszkole; Brzozowskiego; Bohdanowicza,Przyszkole; Stanisława Brzozowskiego; Karola Bohdanowicza,3,31,51.730805,19.446159
+93-553,Komfortowa,Komfortowa,1,7,51.731862,19.443155
+93-554,Cieszyńska; Rogozińskiego,Cieszyńska; Stefana Rogozińskiego,2,32,51.733733,19.445088
+93-557,Nad Jasieniem; Politechniki,Nad Jasieniem; Aleje Politechniki,2,27,51.735857,19.451438
+93-558,Obywatelska; Piękna,Obywatelska; Piękna,2,111,51.737226,19.447574
+93-559,Jasień; Cieszkowskiego,Jasień; Augusta Cieszkowskiego,2,14,51.735815,19.447144
+93-562,Piasta; Obywatelska; Jasień,Piasta; Obywatelska; Jasień,3,47,51.738679,19.442926
+93-563,Braterska; Janiny,Braterska; Janiny,2,36,51.740571,19.442749
+93-564,Wieniawskiego; Błońska,Henryka Wieniawskiego; Błońska,2,47,51.741281,19.43926
+93-566,Wróblewskiego,Walerego Wróblewskiego,1,37,51.745282,19.444525
+93-569,Proletariacka; Inżynierska; Wołowa,Proletariacka; Inżynierska; Wołowa,3,50,51.747595,19.442458
+93-570,al. Jana Pawła II; Parkowa; Towarowa,Aleja Jana Pawła II; Parkowa; Towarowa,3,25,51.747551,19.438363
+93-571,Ptasia; Sowia; Łaska,Ptasia; Sowia; Łaska,3,13,51.747184,19.440097
+93-574,Radwańska,Radwańska,1,35,51.751523,19.445798
+93-575,Rembielińskiego,Rajmunda Rembielińskiego,1,21,51.750432,19.445631
+93-578,Wróblewskiego,Walerego Wróblewskiego,1,32,51.744262,19.449686
+93-579,Różana,Różana,1,7,51.743238,19.448177
+93-582,Felsztyńskiego,Sebastiana Felsztyńskiego,1,40,51.739653,19.44764
+93-583,Rejtana; Przechodnia; Różana,Tadeusza Rejtana; Przechodnia; Różana,3,24,51.739918,19.445523
+93-586,Różyckiego; Energetyków,Ludomira Różyckiego; Energetyków,2,29,51.738483,19.455256
+93-588,Skrzywana,Inż. Stefana Skrzywana,1,18,51.740876,19.454718
+93-590,Politechniki; Wróblewskiego,Aleje Politechniki; Walerego Wróblewskiego,2,33,51.744289,19.451378
+93-610,Kolumny,Kolumny,1,231,51.71137,19.532604
+93-611,Kolumny,Kolumny,1,14,51.707581,19.515514
+93-612,Kolumny,Kolumny,1,13,51.708322,19.521081
+93-613,Kolumny,Kolumny,1,61,51.709709,19.530397
+93-614,Józefów,Józefów,1,70,51.706765,19.494385
+93-615,Józefów,Józefów,1,58,51.706534,19.503275
+93-616,Nowe Górki,Nowe Górki,1,43,51.702254,19.499212
+93-617,Bieszczadzka,Bieszczadzka,1,4,51.707833,19.512586
+93-618,Bieszczadzka,Bieszczadzka,1,22,51.704394,19.513682
+93-619,Bronisin,Bronisin,1,37,51.704808,19.52021
+93-620,Bronisin,Bronisin,1,52,51.700102,19.522085
+93-621,Bronisin; Konspiracji,Bronisin; Konspiracji,2,57,51.692891,19.528361
+93-622,Wiskicka; Esperanto,Wiskicka; Esperanto,2,42,51.705491,19.526215
+93-623,Wiskicka,Wiskicka,1,31,51.705992,19.529043
+93-624,Paprociowa,Paprociowa,1,40,51.697975,19.532072
+93-631,Kolumny; Cierniówki,Kolumny; Cierniówki,2,30,51.710787,19.539408
+93-632,Transportowa; Suszarniana,Transportowa; Suszarniana,2,84,51.712493,19.538037
+93-633,Jedwabnicza; Czółenkowa; Małego Rycerza; Elewatorowa; Gatunkowa; Kopalniana,Jedwabnicza; Czółenkowa; Małego Rycerza; Elewatorowa; Gatunkowa; Kopalniana,6,80,51.713827,19.53998
+93-635,Tomaszowska; Fantazyjna,Tomaszowska; Fantazyjna,2,111,51.717399,19.541452
+93-636,Jędrzejowska; Przyjacielska,Jędrzejowska; Przyjacielska,2,26,51.721499,19.536301
+93-638,Ziemiańska,Ziemiańska,1,115,51.721518,19.585636
+93-640,Dzikich Pól; Czternastu Straconych; Brójecka,Dzikich Pól; Czternastu Straconych; Brójecka,3,138,51.705353,19.547513
+93-641,Wiskicka; Alabastrowa,Wiskicka; Alabastrowa,2,43,51.708967,19.540552
+93-642,Kolumny,Kolumny,1,36,51.711977,19.547008
+93-643,Kalinowskiego; Wrzecionowa,Św. Rafała Kalinowskiego; Wrzecionowa,2,99,51.707359,19.544989
+93-645,"Gościniec; Jeremiego Wiśniowieckiego ""Jaremy""; Kamieńca Podolskiego; Kresowych Stanic","Gościniec; Księcia Jeremiego Wiśniowieckiego ""Jaremy""; Kamieńca Podolskiego; Kresowych Stanic",4,124,51.708525,19.56934
+93-646,Gościniec; Boczna; Kwantowa; Marcowa,Gościniec; Boczna; Kwantowa; Marcowa,4,116,51.70742,19.578501
+93-647,Kolumny; Nad Stawem,Kolumny; Nad Stawem,2,92,51.713625,19.558991
+93-648,Ogrodnicza; Mahoniowa; Zagrodowa; Morenowa; Czołowa,Ogrodnicza; Mahoniowa; Zagrodowa; Morenowa; Czołowa,5,80,51.717612,19.563062
+93-649,Kolumny; Naturalna; Platanowa; Mozaikowa; Rosy,Kolumny; Naturalna; Platanowa; Mozaikowa; Rosy,5,325,51.712201,19.586505
+94-001,Rajdowa,Rajdowa,1,1,51.748453,19.41563
+94-002,Sprinterów,Sprinterów,1,9,51.749403,19.410552
+94-003,Rajdowa; Piaski; Lokajskiego,Rajdowa; Piaski; Eugeniusza Lokajskiego,3,37,51.750364,19.413841
+94-004,Retkińska; Kusocińskiego,Retkińska; Janusza Kusocińskiego,2,94,51.749272,19.407388
+94-006,Zagrodniki,Zagrodniki,1,2,51.74428,19.404153
+94-007,Maratońska; al. Waltera-Janke,Maratońska; Aleja Generała Zygmunta Waltera-Janke,2,90,51.736564,19.386029
+94-010,Grodzieńska; Sandomierska,Grodzieńska; Sandomierska,2,18,51.753405,19.417921
+94-011,Wileńska; Gwiazdowa,Wileńska; Gwiazdowa,2,27,51.755084,19.415878
+94-012,Kozietulskiego; Retkińska,Płk Jana Kozietulskiego; Retkińska,2,69,51.756556,19.412818
+94-014,Sympatyczna,Sympatyczna,1,4,51.743809,19.404615
+94-015,al. Piłsudskiego; Gdańska; Wileńska,Aleja Marszałka Józefa Piłsudskiego; Gdańska; Wileńska,3,4,51.764783,19.463087
+94-016,Grodzieńska; Wileńska,Grodzieńska; Wileńska,2,24,51.755081,19.418268
+94-017,Krzemieniecka; Kowieńska,Krzemieniecka; Kowieńska,2,33,51.75582,19.419458
+94-020,Celna; al. Bandurskiego; Dembińskiego; al. Unii Lubelskiej,Celna; Aleja Księdza Biskupa Władysława Bandurskiego; Gen. Henryka Dembińskiego; Aleja Unii Lubelskiej,4,21,51.753504,19.426447
+94-022,Wileńska; Kajakowa,Wileńska; Kajakowa,2,14,51.7516,19.429486
+94-023,Karolewska,Karolewska,1,9,51.754462,19.427527
+94-024,Wygodna; Norwida,Wygodna; Cypriana Kamila Norwida,2,34,51.753492,19.428633
+94-025,Żubrowej; Objazdowa,Joanny Żubrowej; Objazdowa,2,26,51.75288,19.429818
+94-028,Wyspiańskiego; Chodkiewicza,Stanisława Wyspiańskiego; Hetmana Karola Chodkiewicza,2,117,51.751396,19.421382
+94-029,Wileńska; Mińska,Wileńska; Mińska,2,28,51.751283,19.42717
+94-030,Krzemieniecka,Krzemieniecka,1,3,51.755237,19.425229
+94-032,Bratysławska; Wróblewskiego,Bratysławska; Walerego Wróblewskiego,2,18,51.749723,19.42243
+94-035,Wróblewskiego; Bratysławska,Walerego Wróblewskiego; Bratysławska,2,32,51.749033,19.426642
+94-036,Wioślarska,Wioślarska,1,27,51.747919,19.424673
+94-037,Przełajowa,Przełajowa,1,1,51.743271,19.408577
+94-039,Króla; Wróblewskiego,Władysława Króla; Walerego Wróblewskiego,2,26,51.7479,19.418306
+94-040,Bratysławska,Bratysławska,1,14,51.747572,19.420311
+94-041,Marusarzówny,Heleny Marusarzówny,1,9,51.746205,19.40998
+94-042,al. Wyszyńskiego; Florecistów,Aleja Ks. Kardynała Stefana Wyszyńskiego; Florecistów,2,27,51.74621,19.409325
+94-043,Olimpijska,Olimpijska,1,24,51.744752,19.41325
+94-044,Przełajowa,Przełajowa,1,12,51.743859,19.40935
+94-045,Przełajowa,Przełajowa,1,12,51.743831,19.408434
+94-046,Armii Krajowej,Armii Krajowej,1,74,51.745677,19.39764
+94-047,al. Wyszyńskiego,Aleja Ks. Kardynała Stefana Wyszyńskiego,1,56,51.744844,19.393156
+94-048,Szermiercza; Hubala; Tomaszewicza; al. Wyszyńskiego,Szermiercza; Hubala; Wincentego Tomaszewicza; Aleja Ks. Kardynała Stefana Wyszyńskiego,4,81,51.742903,19.384576
+94-049,Hippiczna,Hippiczna,1,45,51.740679,19.377955
+94-050,al. Wyszyńskiego,Aleja Ks. Kardynała Stefana Wyszyńskiego,1,22,51.742383,19.386726
+94-051,al. Wyszyńskiego,Aleja Ks. Kardynała Stefana Wyszyńskiego,1,24,51.744375,19.386898
+94-052,Popiełuszki,Ks. Jerzego Popiełuszki,1,49,51.739295,19.386445
+94-053,Popiełuszki,Ks. Jerzego Popiełuszki,1,20,51.744226,19.383684
+94-054,Kusocińskiego,Janusza Kusocińskiego,1,97,51.749102,19.392224
+94-056,Babickiego; Kostki Napierskiego,Józefa Babickiego; Kostki Napierskiego,2,33,51.750397,19.400402
+94-058,Batalionów Chłopskich,Batalionów Chłopskich,1,22,51.743707,19.402857
+94-060,al. Wyszyńskiego,Aleja Ks. Kardynała Stefana Wyszyńskiego,1,1,51.744565,19.390579
+94-101,Narciarska; Trójskok; Nad Karolewką,Narciarska; Trójskok; Nad Karolewką,3,26,51.746453,19.423026
+94-102,Nowe Sady; Maratońska,Nowe Sady; Maratońska,2,95,51.740888,19.418906
+94-103,Wróblewskiego; Elektronowa,Walerego Wróblewskiego; Elektronowa,2,32,51.744664,19.430031
+94-104,Obywatelska,Obywatelska,1,59,51.737507,19.428717
+94-106,Plocka,Franciszka Plocka,1,3,51.73405,19.395348
+94-107,Hufcowa,Hufcowa,1,26,51.750762,19.405536
+94-108,Balonowa,Balonowa,1,16,51.741435,19.403128
+94-109,Pienista; Burzliwa,Pienista; Burzliwa,2,151,51.736167,19.407116
+94-110,Rusałki; Denna,Rusałki; Denna,2,35,51.737197,19.415194
+94-111,Laskowicka; Obywatelska; Dolinna; Zboczowa,Laskowicka; Obywatelska; Dolinna; Zboczowa,4,123,51.733641,19.414216
+94-112,Bratysławska; Sumowa,Bratysławska; Sumowa,2,26,51.74228,19.417857
+94-113,Króla; Sieciowa,Władysława Króla; Sieciowa,2,17,51.742672,19.416879
+94-115,Falista,Falista,1,152,51.739719,19.412481
+94-116,Komandorska,Komandorska,1,10,51.737499,19.408682
+94-117,Sztormowa; Czerwonego Kapturka,Sztormowa; Czerwonego Kapturka,2,49,51.740441,19.410004
+94-118,Andersena; Jasia i Małgosi,Christiana Andersena; Jasia i Małgosi,2,72,51.739713,19.409917
+94-119,Lajkonika; Kubusia Puchatka,Lajkonika; Kubusia Puchatka,2,57,51.740461,19.412541
+94-120,Korsarska,Korsarska,1,22,51.74138,19.414651
+94-121,Piłkarska,Piłkarska,1,105,51.736713,19.378191
+94-122,Zapaśnicza,Zapaśnicza,1,80,51.737958,19.377413
+94-123,Oszczepowa,Oszczepowa,1,96,51.739353,19.377148
+94-124,Łyżwiarska; Bojerowa,Łyżwiarska; Bojerowa,2,107,51.741923,19.377866
+94-125,Kukuczki; Kolarska,Jerzego Kukuczki; Kolarska,2,29,51.745461,19.373684
+94-126,Żużlowa,Żużlowa,1,41,51.742618,19.375537
+94-127,Pływacka,Pływacka,1,122,51.744272,19.379363
+94-128,Gimnastyczna,Gimnastyczna,1,166,51.741458,19.378883
+94-129,Bokserska,Bokserska,1,30,51.745204,19.37421
+94-130,Armii Łódź,Armii Łódź,1,11,51.74696,19.374259
+94-131,Kolarska,Kolarska,1,137,51.738425,19.375399
+94-132,Cylla,Wawrzyńca Cylla,1,25,51.736282,19.373749
+94-133,Gałeckiego,Antoniego Gałeckiego,1,8,51.736535,19.374034
+94-134,Konarzewskiego,Tomasza Konarzewskiego,1,7,51.735535,19.37537
+94-201,Jęczmienna,Jęczmienna,1,1,51.775612,19.409086
+94-202,Jęczmienna,Jęczmienna,1,25,51.776555,19.410247
+94-203,Srebrzyńska; Praussa; Perla,Srebrzyńska; Ksawerego Praussa; Feliksa Perla,3,18,51.774747,19.409693
+94-204,"Jarzynowa; Barona ""Smukłego""","Jarzynowa; Henryka Barona ""Smukłego""",2,31,51.774939,19.409813
+94-205,Orzechowa; Mania,Orzechowa; Mania,2,13,51.774156,19.406757
+94-208,al. Unii Lubelskiej; Daniłowskiego,Aleja Unii Lubelskiej; Gustawa Daniłowskiego,2,11,51.77283,19.416921
+94-209,Srebrzyńska; Perla; Drewnowska,Srebrzyńska; Feliksa Perla; Drewnowska,3,17,51.774365,19.416175
+94-212,Lemieszowa; Bronowa; Rezedowa,Lemieszowa; Bronowa; Rezedowa,3,74,51.781806,19.399288
+94-213,Łubinowa; Snopowa; Pługowa,Łubinowa; Snopowa; Pługowa,3,73,51.782899,19.398566
+94-214,Rabatkowa; Krakowska; Rzepakowa; Kwiatów Polskich; Sojowa; Słonecznikowa,Rabatkowa; Krakowska; Rzepakowa; Kwiatów Polskich; Sojowa; Słonecznikowa,6,232,51.783404,19.396086
+94-215,Biegunowa; Warneńska; Barska,Biegunowa; Warneńska; Barska,3,118,51.772438,19.396209
+94-216,Filarecka; Zakręt; Kusa,Filarecka; Zakręt; Kusa,3,53,51.772196,19.396413
+94-217,Czołgistów; Michałowicza,Czołgistów; Jerzego Michałowicza,2,68,51.774779,19.39588
+94-218,Namiotowa; Pionierska; Tobruk,Namiotowa; Pionierska; Tobruk,3,92,51.776349,19.394704
+94-221,Złotno; Cyganka; Drogi Mlecznej,Złotno; Cyganka; Drogi Mlecznej,3,301,51.777093,19.377102
+94-222,Spadochroniarzy; Rowerowa; Fizylierów,Spadochroniarzy; Rowerowa; Fizylierów,3,104,51.776777,19.391245
+94-223,Partyzantów; Bruska; Płatowcowa,Partyzantów; Bruska; Płatowcowa,3,135,51.775663,19.385956
+94-224,Garnizonowa; Tobruk; Pionierska,Garnizonowa; Tobruk; Pionierska,3,62,51.775578,19.386232
+94-225,Szeregowa; Czołgistów; Namiotowa,Szeregowa; Czołgistów; Namiotowa,3,55,51.77891,19.390062
+94-226,Drużynowa; Mocarna,Drużynowa; Mocarna,2,28,51.780725,19.39255
+94-227,Rąbieńska; Kwiatowa,Rąbieńska; Kwiatowa,2,114,51.784591,19.384433
+94-230,Zwiadowcza; Artylerzystów; Józefa Poniatowskiego,Zwiadowcza; Artylerzystów; Księcia Józefa Poniatowskiego,3,71,51.780519,19.387618
+94-231,Napoleońska; Zasieczna; Obozowa,Napoleońska; Zasieczna; Obozowa,3,92,51.781181,19.385624
+94-232,Liniowa; Podjazdowa; Zaporowa,Liniowa; Podjazdowa; Zaporowa,3,110,51.780509,19.382623
+94-233,Husarska; Komandosów; Szańcowa,Husarska; Komandosów; Szańcowa,3,46,51.778769,19.378651
+94-234,Podchorążych; Legnicka; Szaserów; Łucznicza,Podchorążych; Legnicka; Szaserów; Łucznicza,4,537,51.781636,19.370978
+94-235,Zbrojna; Mundurowa; Parafialna,Zbrojna; Mundurowa; Parafialna,3,26,51.779572,19.383624
+94-236,Bohaterów Monte Cassino,Bohaterów Monte Cassino,1,41,51.782818,19.385594
+94-237,Dywizjonu 303; Slalomowa,Dywizjonu 303; Slalomowa,2,45,51.772131,19.381594
+94-238,Kwiatowa; Pługowa; Snopowa; Nektarowa,Kwiatowa; Pługowa; Snopowa; Nektarowa,4,103,51.784416,19.395415
+94-239,Łubinowa; Bierezina; Grenadierów; Bajana; Azotowa,Łubinowa; Jacka Bierezina; Grenadierów; Jerzego Bajana; Azotowa,5,114,51.786145,19.379139
+94-240,Czwartaków,Czwartaków,1,21,51.787679,19.355598
+94-241,Cieplarniana,Cieplarniana,1,46,51.789126,19.38047
+94-242,Wykowa,Wykowa,1,1,51.791105,19.365644
+94-243,Zadraż; Gryczana,Zadraż; Gryczana,2,16,51.791873,19.360885
+94-244,Rąbieńska; Lansjerów,Rąbieńska; Lansjerów,2,65,51.787046,19.374379
+94-245,Generalska; Marszałkowska; Fijałkowskiego,Generalska; Marszałkowska; Profesora Włodzimierza Fijałkowskiego,3,103,51.783,19.375087
+94-246,Deca,Płk Profesora Wacława Deca,1,75,51.784994,19.366797
+94-247,Solec; Borowa; Grzybowa,Solec; Borowa; Grzybowa,3,49,51.778323,19.410784
+94-248,Perłowa; Bobowa; Grochowa,Perłowa; Bobowa; Grochowa,3,87,51.779981,19.412341
+94-249,Owsiana,Owsiana,1,32,51.780955,19.411462
+94-250,Pszenna; Żniwna; Siewna,Pszenna; Żniwna; Siewna,3,70,51.781407,19.410163
+94-251,Azaliowa; Omłotowa,Azaliowa; Omłotowa,2,29,51.781314,19.406007
+94-252,Inowrocławska,Inowrocławska,1,5,51.784375,19.409407
+94-253,Skarpowa,Skarpowa,1,37,51.78083,19.415488
+94-254,Molla,Profesora Jana Molla,1,15,51.783313,19.370887
+94-255,Żołnierska,Żołnierska,1,63,51.787426,19.367363
+94-259,Wojskowa,Wojskowa,1,24,51.788559,19.365689
+94-261,Jeździecka,Jeździecka,1,3,51.787342,19.362232
+94-262,Radarowa,Radarowa,1,8,51.787441,19.36076
+94-269,Obronna,Obronna,1,8,51.787625,19.359149
+94-274,Bastionowa,Bastionowa,1,30,51.788477,19.367036
+94-275,Piechura,Piechura,1,24,51.788467,19.36806
+94-276,Marszowa,Marszowa,1,24,51.788409,19.369102
+94-277,Musztrowa,Musztrowa,1,12,51.788359,19.369969
+94-278,Szwadronowa,Szwadronowa,1,8,51.788129,19.371198
+94-279,Dożynkowa,Dożynkowa,1,37,51.788761,19.374166
+94-280,Dyngusowa,Dyngusowa,1,14,51.788751,19.373054
+94-281,Pisankowa,Pisankowa,1,16,51.788352,19.37404
+94-282,Świąteczna,Świąteczna,1,17,51.788111,19.375044
+94-286,Grotta,Profesora Józefa Wacława Grotta,1,6,51.782218,19.3725
+94-287,Łukawskiego,Stanisława Łukawskiego,1,3,51.782669,19.372256
+94-290,Szlachetna,Szlachetna,1,15,51.786245,19.352652
+94-291,Waleczna,Waleczna,1,21,51.785593,19.351005
+94-292,Odważna,Odważna,1,9,51.785245,19.35247
+94-301,Zyndrama; Rzeszowska; Tarnowska,Mikołaja Zyndrama; Rzeszowska; Tarnowska,3,94,51.76797,19.399913
+94-302,Krakowska; Zdrowie,Krakowska; Zdrowie,2,22,51.76425,19.405216
+94-303,Konstantynowska; Krzemieniecka,Konstantynowska; Krzemieniecka,2,54,51.759689,19.400115
+94-304,Wilsona; Minerska,Prezydenta Thomasa Wilsona; Minerska,2,74,51.762198,19.401118
+94-305,Krańcowa,Krańcowa,1,64,51.766922,19.395165
+94-306,Michałowicza; Gwardzistów,Jerzego Michałowicza; Gwardzistów,2,32,51.770126,19.397528
+94-307,Sułkowskiego; Chłopickiego,Gen. Józefa Sułkowskiego; Gen. Józefa Chłopickiego,2,128,51.767933,19.396549
+94-308,Syrokomli,Władysława Syrokomli,1,24,51.766704,19.397296
+94-310,Przygraniczna,Przygraniczna,1,11,51.753994,19.373954
+94-311,Konstantynowska,Konstantynowska,1,28,51.754143,19.382222
+94-312,Lontowa; Prochowa; Koprowskiego,Lontowa; Prochowa; Marka Koprowskiego,3,33,51.75527,19.379305
+94-313,Smulska; Brus,Smulska; Brus,2,52,51.745528,19.37332
+94-314,Stare Złotno; Orlika; Lema; Eksploratorów Marsa; al. Tesli,Stare Złotno; Orlika; Stanisława Lema; Eksploratorów Marsa; Aleja Nikoli Tesli,5,311,51.767903,19.367472
+94-315,Złotno,Złotno,1,58,51.776705,19.362799
+94-316,Jagodnica; Saperów,Jagodnica; Saperów,2,110,51.770021,19.381063
+94-317,Bobslejowa,Bobslejowa,1,28,51.743424,19.375316
+94-319,Muszkieterów; Filomatów,Muszkieterów; Filomatów,2,29,51.771822,19.364877
+94-324,Kadetów,Kadetów,1,11,51.774147,19.348144
+94-325,Weteranów,Weteranów,1,4,51.772203,19.347952
+94-326,Kurka,Wincentego Kurka,1,6,51.771468,19.347827
+94-327,Dzieci Łodzi,Dzieci Łodzi,1,17,51.768977,19.347761
+94-328,Maczka (1892 - 1994),Generała Stanisława Maczka (1892 - 1994),1,14,51.731572,19.406323
+94-329,Turniejowa,Turniejowa,1,10,51.766745,19.348568
+94-330,Kirasjerów,Kirasjerów,1,21,51.774341,19.355628
+94-331,Pancerniaków,Pancerniaków,1,32,51.777736,19.345409
+94-332,Dejmka,Kazimierza Dejmka,1,1,51.774485,19.342637
+94-333,Bohaterów Powstania Styczniowego,Bohaterów Powstania Styczniowego,1,27,51.773146,19.344966
+94-334,Pontonowa; Mieczników,Pontonowa; Mieczników,2,23,51.769709,19.34831
+94-401,Okudżawy,Bułata Okudżawy,1,7,51.738681,19.347177
+94-403,1 Korpusu Pancernego WP,1 Korpusu Pancernego WP,1,28,51.736573,19.346245
+94-404,Bohaterów Września,Bohaterów Września,1,23,51.738171,19.343225
+94-405,Synów Pułku,Synów Pułku,1,11,51.735002,19.347174
+94-406,Nowy Józefów; Gillette; Golfowa,Nowy Józefów; Golfowa; Kinga C. Gillette,3,52,51.734714,19.359674
+94-407,Langiewicza,Mariana Langiewicza,1,16,51.739402,19.341351
+94-408,Rozwadowskiego,Generała Tadeusza Rozwadowskiego,1,7,51.774324,19.351884
+94-409,Rąbieńska,Rąbieńska,1,32,51.789987,19.357001
+94-410,Podchorążych,Podchorążych,1,70,51.783272,19.348467
+94-411,Złotno,Złotno,1,60,51.775439,19.347718
+94-412,Huta Jagodnica,Huta Jagodnica,1,106,51.771943,19.347152
+94-413,Żurawinowa,Żurawinowa,1,25,51.771479,19.343413
+94-414,Szczecińska,Szczecińska,1,3,51.785369,19.350329

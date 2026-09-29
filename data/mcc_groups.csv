@@ -1,0 +1,114 @@
+mcc,mcc_nazwa,grupa,czas_domyslny_min
+5462,Bakeries,szybkie_uslugi,15
+5912,Drug stores/pharmacies,szybkie_uslugi,15
+5921,Package stores - beer/wine/liquor,szybkie_uslugi,15
+5993,Cigar stores,szybkie_uslugi,15
+5994,News dealers/newsstands,szybkie_uslugi,15
+6010,Manual cash disbursement,szybkie_uslugi,15
+6011,ATM - cash,szybkie_uslugi,15
+5411,Grocery stores/supermarkets,spozywcze_male,20
+5422,Freezer/meat provisioners,spozywcze_male,20
+5441,Candy/confectionery,spozywcze_male,20
+5451,Dairy products stores,spozywcze_male,20
+5499,Misc food stores,spozywcze_male,20
+5131,Piece goods,handel,45
+5137,Uniforms,handel,45
+5139,Commercial footwear,handel,45
+5200,Home supply warehouse,handel,45
+5211,Building materials,handel,45
+5231,Glass/paint/wallpaper,handel,45
+5251,Hardware,handel,45
+5261,Nurseries/garden,handel,45
+5310,Discount stores,handel,45
+5311,Department stores,handel,45
+5331,Variety stores,handel,45
+5399,Misc general merchandise,handel,45
+5532,Tires,handel,45
+5533,Auto parts,handel,45
+5611,Men's clothing,handel,45
+5621,Women's ready-to-wear,handel,45
+5631,Women's accessories,handel,45
+5641,Children's wear,handel,45
+5651,Family clothing,handel,45
+5655,Sports apparel,handel,45
+5661,Shoe stores,handel,45
+5691,Men's/women's clothing,handel,45
+5699,Misc apparel,handel,45
+5712,Furniture,handel,45
+5714,Drapery/upholstery,handel,45
+5719,Misc home furnishing,handel,45
+5722,Household appliances,handel,45
+5732,Electronics,handel,45
+5734,Computer software stores,handel,45
+5735,Record stores,handel,45
+5931,Used merchandise,handel,45
+5932,Antique shops,handel,45
+5933,Pawn shops,handel,45
+5937,Antique reproductions,handel,45
+5940,Bicycle shops,handel,45
+5941,Sporting goods,handel,45
+5942,Book stores,handel,45
+5943,Stationery,handel,45
+5944,Jewelry,handel,45
+5945,Toy/game shops,handel,45
+5946,Camera/photo supply,handel,45
+5947,Gift/souvenir,handel,45
+5948,Luggage/leather,handel,45
+5949,Sewing/fabric,handel,45
+5950,Glassware/crystal,handel,45
+5970,Artist supply,handel,45
+5976,Orthopedic goods,handel,45
+5977,Cosmetic stores,handel,45
+5978,Typewriter stores,handel,45
+5992,Florists,handel,45
+5995,Pet shops,handel,45
+5996,Swimming pools,handel,45
+5997,Electric razor stores,handel,45
+5998,Tent/awning,handel,45
+5999,Misc specialty retail,handel,45
+5812,Eating places/restaurants,gastronomia,75
+5813,Bars/taverns/nightclubs,gastronomia,75
+5814,Fast food restaurants,gastronomia,75
+742,Veterinary services,uslugi_osobiste,90
+7210,Laundry services,uslugi_osobiste,90
+7211,Laundries,uslugi_osobiste,90
+7216,Dry cleaners,uslugi_osobiste,90
+7221,Photographic studios,uslugi_osobiste,90
+7230,Beauty/barber shops,uslugi_osobiste,90
+7251,Shoe repair,uslugi_osobiste,90
+7296,Clothing rental,uslugi_osobiste,90
+7297,Massage parlors,uslugi_osobiste,90
+7298,Health/beauty spas,uslugi_osobiste,90
+7299,Misc personal services,uslugi_osobiste,90
+7333,Photography/art,uslugi_osobiste,90
+7338,Quick copy,uslugi_osobiste,90
+7622,Electronics repair,uslugi_osobiste,90
+7631,Watch/jewelry repair,uslugi_osobiste,90
+7699,Misc repair shops,uslugi_osobiste,90
+7941,Sports clubs,uslugi_osobiste,90
+7997,Clubs/fitness,uslugi_osobiste,90
+8011,Doctors,uslugi_osobiste,90
+8021,Dentists,uslugi_osobiste,90
+8031,Osteopaths,uslugi_osobiste,90
+8041,Chiropractors,uslugi_osobiste,90
+8042,Optometrists,uslugi_osobiste,90
+8043,Opticians,uslugi_osobiste,90
+8049,Podiatrists,uslugi_osobiste,90
+8050,Nursing care,uslugi_osobiste,90
+8062,Hospitals,uslugi_osobiste,90
+8071,Medical labs,uslugi_osobiste,90
+8099,Medical services,uslugi_osobiste,90
+8111,Legal services,uslugi_osobiste,90
+8931,Accounting,uslugi_osobiste,90
+7829,Film distribution,rozrywka_kultura,120
+7832,Motion picture theaters,rozrywka_kultura,120
+7911,Dance halls/studios,rozrywka_kultura,120
+7922,Theatrical producers/ticket agencies,rozrywka_kultura,120
+7929,Bands/orchestras,rozrywka_kultura,120
+7932,Billiard/pool,rozrywka_kultura,120
+7933,Bowling alleys,rozrywka_kultura,120
+7991,Tourist attractions/exhibits,rozrywka_kultura,120
+7994,Video game arcades,rozrywka_kultura,120
+7996,Amusement parks,rozrywka_kultura,120
+7998,Aquariums/zoos,rozrywka_kultura,120
+7999,Recreation services,rozrywka_kultura,120

@@ -1,0 +1,28 @@
+wzorzec,kategoria
+GLOVO,dostawa
+WOLT,dostawa
+UBER ?\*? ?EATS,dostawa
+PYSZNE,dostawa
+BOLT ?FOOD,dostawa
+AUCHAN,duzy_format
+CARREFOUR(?! ?(EXPRESS|MARKET)),duzy_format
+LIDL,duzy_format
+KAUFLAND,duzy_format
+MANUFAKTURA,duzy_format
+PORT LODZ,duzy_format
+GALERIA LODZKA,duzy_format
+SUKCESJA,duzy_format
+PASAZ LODZKI,duzy_format
+TULIPAN,duzy_format
+IKEA,duzy_format
+CASTORAMA,duzy_format
+LEROY MERLIN,duzy_format
+DECATHLON,duzy_format
+MAKRO,duzy_format
+SELGROS,duzy_format
+AUTOMAT(?!YK),automat
+VENDING,automat
+WWW\.,online
+\.(PL|COM|EU)\b,online
+PAYU\*,online
+\bMOP\b,poza_miastem

@@ -1,0 +1,86 @@
+[data-testid="stAppViewContainer"] {
+    background: #f5f7fc;
+}
+[data-testid="stHeader"] {
+    background: #f5f7fc;
+}
+[data-testid="stMainBlockContainer"] {
+    padding-top: 2rem;
+}
+[data-testid="stSidebar"] {
+    background: #eef2fb;
+    border-right: 1px solid #dce3f3;
+}
+.pf-hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    padding: 28px 34px;
+    margin-bottom: 16px;
+    border-radius: 20px;
+    background: linear-gradient(115deg, #0d2678, #1535b8);
+    border-bottom: 5px solid #ffc400;
+    box-shadow: 0 10px 28px #102d8212;
+    color: white;
+}
+.pf-eyebrow {
+    color: #bfcfff;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.pf-hero h1 {
+    color: white;
+    font-size: clamp(32px, 4vw, 46px);
+    font-weight: 750;
+    letter-spacing: -2px;
+    line-height: 1.15;
+    padding: 8px 0;
+    margin: 0;
+}
+.pf-dot { color: #ffc400; }
+.pf-hero p { color: #dce5ff; margin: 0; font-size: 15px; }
+.pf-brands {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    flex-shrink: 0;
+    padding: 14px 22px;
+    background: white;
+    border-radius: 14px;
+}
+.pf-visa {
+    font: italic 900 38px/1 Arial, sans-serif;
+    letter-spacing: -2px;
+    color: #1434cb;
+}
+.pf-brand-divider { width: 1px; height: 48px; background: #e0e6f2; }
+.pf-lodz { display: block; width: 49px; height: 75px; object-fit: contain; }
+.pf-sidebar-brand { color: #102d82; font-size: 24px; font-weight: 750; margin: 0 0 28px; }
+.pf-sidebar-brand span { color: #566586; font-size: 14px; font-weight: 400; }
+.pf-sidebar-label { color: #566586; font-size: 11px; letter-spacing: 1.5px; font-weight: 700; margin-bottom: 16px; }
+[data-testid="stTabs"] > [data-baseweb="tab-list"] {
+    gap: 6px;
+    background: white;
+    padding: 7px;
+    border: 1px solid #e0e6f2;
+    border-radius: 12px;
+}
+[data-testid="stTabs"] [data-baseweb="tab"] {
+    color: #53617f;
+    border-radius: 7px;
+    padding: 10px 16px;
+}
+[data-testid="stTabs"] [data-baseweb="tab"][aria-selected="true"] {
+    background: #edf2ff;
+    color: #1434cb;
+}
+[data-testid="stTabs"] [data-baseweb="tab-highlight"] { background: #1434cb; }
+[data-testid="stTabs"] [data-baseweb="tab-border"] { background: transparent; }
+@media (max-width: 640px) {
+    .pf-hero { padding: 22px; gap: 20px; flex-wrap: wrap; }
+    .pf-brands { padding: 10px 18px; gap: 20px; }
+    .pf-lodz { width: 39px; height: 60px; }
+    .pf-visa { font-size: 32px; }
+}
