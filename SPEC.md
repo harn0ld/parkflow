@@ -15,7 +15,7 @@ ParkFlow nie ustala ceny dla miejsca. Model przypisuje każdej **mikrostrefie ×
 
 | | |
 |---|---|
-| Miasto | Łódź. Kody pocztowe 90-xxx–94-xxx, `mrch_ctry_nm = POLAND` (95-xxx to okolice, odrzucamy). |
+| Miasto | Łódź. Kody pocztowe 90-xxx–94-xxx, `mrch_ctry_nm = POLAND` (95-xxx to okolice, odrzucamy). **Kraków** w wersji „lite” (IX 2026): kody 30-xxx–31-xxx, ten sam model; zmierzony popyt tylko dla sektorów A3 i A13, bo tylko tam Visa ma numer parkomatu (`docs/research/krakow-spp.md`). Ranking P1–P4 liczony osobno dla każdego miasta. |
 | Jednostka | Kod pocztowy (mikrostrefa). Polygony, ulice i centroidy z punktów adresowych PRG (GUGiK). Ulica służy tylko do wyświetlania. |
 | Obszar | Obecna SPP + pas buforowy wokół niej. |
 | Czas | Pn–pt 7:00–19:00, bloki **7–10 / 10–13 / 13–16 / 16–19**. Weekendy i święta bez opłat, jak dziś w Łodzi. Jeden profil pn–pt. |

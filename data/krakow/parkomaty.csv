@@ -1,0 +1,994 @@
+numer,podstrefa,podstrefa_2024,lat,lon,ulica,kod_pocztowy,odl_adres_m,status_lokalizacji,sektor,model,karta
+1,B,,50.065484,19.949138,ul. Bosacka 4,31-505,5.2,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+2,B,,50.064872,19.949382,ul. Lubicz 16,31-504,20.7,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+3,B,,50.065158,19.952918,ul. Lubicz 25,31-512,23.4,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+4,B,,50.065353,19.953625,ul. Lubicz 40,31-512,5.0,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+5,B,,50.065838,19.950552,ul. Zygmunta Augusta 7,31-504,7.9,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+6,B,,50.066485,19.950792,ul. Zygmunta Augusta (WSA),31-512,27.2,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+7,B,,50.067245,19.95092,ul. Topolowa 8,31-512,5.4,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+8,B,,50.06598,19.951734,ul. Rakowicka 8,31-511,15.9,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+9,B,,50.066045,19.95192,ul. Rakowicka 11,31-511,16.2,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+10,B,,50.066992,19.951949,ul. Topolowa 10b,31-511,15.0,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+11,B,,50.06704,19.952159,ul. Topolowa 16,31-506,11.6,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+12,B,,50.067781,19.952228,ul. Rakowicka 16,31-510,15.0,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+13,B,,50.066788,19.953257,ul. Topolowa 15-17,31-506,5.4,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+14,B,,50.066668,19.954371,ul. Topolowa 32,31-506,12.4,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+15,B,,50.066366,19.955653,ul. Topolowa 33-35,31-506,3.5,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+16,B,,50.066235,19.957013,ul. Topolowa 52,31-505,13.9,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+17,B,,50.065631,19.954563,ul. Ariańska 3,31-505,10.5,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+18,B,,50.067378,19.954422,ul. Ariańska 18,31-509,10.2,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+19,B,,50.067102,19.955804,ul. Lubomirskiego 41,31-509,11.3,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+20,B,,50.066836,19.957126,ul. Lubomirskiego 51,31-505,8.3,wspolrzedne_zdmk,B11,Flowbird STRADA EVOLUTION II,zbliżeniowa
+100,A,,50.067353,19.935499,ul. Biskupia 5,31-144,10.7,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+142,A,,50.066394,19.941931,pl. Matejki 13,31-157,33.1,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+144,A,,50.06729,19.942486,pl. Matejki 11,31-157,13.0,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+193,A,,50.068739,19.943599,ul. Ogrodowa 1,31-155,3.7,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+206,A,,50.067187,19.945217,ul. Pawia / Kurniki,31-154,30.5,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+208,A,,50.055461,19.936958,ul. Podzamcze / Kanonicza,31-002,18.7,wspolrzedne_zdmk,A1,Solari SPAZIO,brak
+225,A,,50.062314,19.932964,ul. św. Anny 11,31-008,37.2,wspolrzedne_zdmk,A1,Solari SPAZIO,brak
+238,A,,50.066072,19.944506,ul. Worcella 10,31-154,11.5,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+240,A,,50.067147,19.943656,ul. Zacisze 13,31-156,8.8,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+241,A,,50.066367,19.94355,ul. Worcella 6,31-156,16.9,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+243,A,,50.065408,19.942869,ul. Zacisze 3,31-156,28.8,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+251,A,,50.066403,19.942408,pl. Matejki 4,31-157,8.9,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+265,A,,50.067919,19.938596,ul. Długa 24,31-147,6.7,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+276,A,,50.070146,19.943627,ul. Warszawska 20,31-155,6.7,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+277,A,,50.069956,19.943769,ul. Warszawska 17,31-155,18.3,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+279,A,,50.069549,19.943518,ul. Warszawska 10,31-155,9.2,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+280,A,,50.068303,19.943047,ul. Warszawska 6,31-155,8.2,wspolrzedne_zdmk,A3,Solari SPAZIO,brak
+281,A,,50.065443,19.938705,ul. Sławkowska / Pijarska,31-015,28.6,wspolrzedne_zdmk,A1,Solari SPAZIO,brak
+282,A,,50.060404,19.941308,ul. Sienna 16,31-041,15.8,wspolrzedne_zdmk,A1,Solari SPAZIO,brak
+290,A,,50.05948,19.93613,ul. Fraciszkańska / Bracka,31-002,19.9,wspolrzedne_zdmk,A1,Solari SPAZIO,brak
+306,A,,50.06348,19.942838,pl. św. Ducha,31-023,33.1,wspolrzedne_zdmk,A1,Solari SPAZIO,brak
+307,A,,50.057857,19.935134,ul. Poselska / Planty,31-002,74.8,wspolrzedne_zdmk,A1,Solari SPAZIO,brak
+311,A,,50.063794,19.934229,ul. Szczepańska / Planty,31-011,26.5,wspolrzedne_zdmk,A1,Solari SPAZIO,brak
+501,B,,50.052023,19.92747,ul. Madalińskiego / Rynek Dębnicki,30-303,6.0,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+502,B,,50.052732,19.928186,ul. Madalińskiego 7,30-303,11.7,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+503,B,,50.053264,19.929625,ul. Zamkowa 1,30-301,12.5,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+504,B,,50.052188,19.930497,ul. Zamkowa 15,30-301,14.8,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+505,B,,50.051767,19.930439,ul. Zamkowa 19,30-301,26.9,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+506,B,,50.051918,19.928335,ul. Barska / Powroźnicza,30-307,5.9,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+507,B,,50.05137,19.926735,ul. Rynek Dębnicki / Bałuckiego,30-319,14.9,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+508,B,,50.051081,19.927597,ul. Różana 8,30-305,2.9,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+509,B,,50.050248,19.928702,ul. Pułaskiego / Różana,30-305,9.1,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+510,B,,50.050596,19.929753,ul. Barska / Zduńska,30-307,12.7,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+511,B,,50.049971,19.93065,ul. Barska / Kilińskiego,30-307,16.9,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+512,B,,50.051261,19.928996,ul. Barska 12,30-307,13.7,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+513,B,,50.048114,19.928636,ul. Dębowa 15/17,30-306,13.2,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+514,B,,50.047944,19.927702,ul. Skwerowa / Dębowa,30-317,10.5,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+515,B,,50.049314,19.927208,ul. Konfederacka 9,30-306,14.4,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+516,B,,50.048753,19.927856,ul. Konfederacka 17,30-306,5.9,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+517,B,,50.049579,19.927965,ul. Pułaskiego / Wasilewskiego,30-305,12.1,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+518,B,,50.0489,19.929058,ul. Wasilewskiego 16,30-305,7.7,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+519,B,,50.049984,19.926144,ul. Konfederacka / Bałuckiego,30-318,17.6,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+520,B,,50.048889,19.926595,ul. Pułaskiego / Skwerowa,30-305,11.7,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+521,B,,50.048823,19.925885,ul. Zagrody / Bałuckiego,30-318,20.3,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+522,B,,50.047286,19.925193,ul. Bałuckiego 35,30-318,17.2,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+523,B,,50.04748,19.926204,ul. Dębowa 14,30-308,14.9,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+524,B,,50.047929,19.923984,ul. Rolna 12,30-318,18.7,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+525,B,,50.047114,19.924105,ul. Szwedzka 23,30-324,7.7,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+526,B,,50.047647,19.9235,ul. Obrońców Poczty Gdańskiej / Szwedzka,30-326,24.3,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+527,B,,50.048535,19.922954,ul. Dębnicka / Szwedzka,30-326,19.1,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+528,B,,50.049443,19.922596,ul. Zagrody / Szwedzka,30-318,15.4,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+529,B,,50.048931,19.924117,ul. Zagrody / Rolna,30-318,12.0,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+530,B,,50.049068,19.92098,ul. Biała Droga 10,30-327,7.6,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+531,B,,50.049208,19.919064,ul. Jaworowa / Praska,30-328,21.1,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+532,B,,50.04785,19.919278,ul. Nowaczyńskiego 6,30-336,26.3,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+533,B,,50.049584,19.920007,ul. Czechosłowacka / Praska,30-328,13.9,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+534,B,,50.050897,19.920217,ul. Tyniecka 14,30-323,13.2,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+535,B,,50.051192,19.923333,ul. Tyniecka / Skwerowa,30-319,14.5,wspolrzedne_zdmk,B5,Flowbird STRADA PAL,zbliżeniowa i stykowa
+536,B,,50.077406,19.931825,ul. Friedleina 14,30-009,17.4,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+537,B,,50.076723,19.931494,ul. Friedleina 6,30-009,3.3,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+538,B,,50.075837,19.931086,ul. Łokietka / Friedleina,30-009,16.3,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+539,C,,50.073856,19.962164,ul. Rusałek 7,31-521,21.5,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+540,C,,50.079302,19.918474,ul. Kijowska 54,30-079,0.9,wspolrzedne_zdmk,C9,Flowbird STRADA PAL,zbliżeniowa i stykowa
+541,B,,50.08095,19.917817,ul. Wrocławska 97,30-017,13.4,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+543,B,,50.079411,19.921097,ul. Wrocławska / Racławicka,30-011,51.7,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+544,B,,50.077544,19.927569,ul. Oboźna 11,30-011,6.8,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+545,B,,50.078708,19.928069,ul. Oboźna 20,30-016,13.2,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa
+546,B,,50.079028,19.928358,ul. Łokietka / Oboźna,30-011,28.3,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa
+547,B,,50.078023,19.929298,ul. Łokietka 12a,30-010,12.1,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+548,B,,50.077319,19.929967,ul. Łokietka 8B,30-010,15.1,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa
+549,C,,50.077785,19.91919,ul. Mazowiecka 104,30-023,15.3,wspolrzedne_zdmk,C9,Flowbird STRADA PAL,zbliżeniowa
+550,C,,50.074183,19.916541,ul. Kazimierza Wielkiego / Kijowska,30-079,19.7,wspolrzedne_zdmk,C9,Flowbird STRADA PAL,zbliżeniowa i stykowa
+551,C,,50.075461,19.917167,ul. Kijowska 32,30-079,14.1,wspolrzedne_zdmk,C9,Flowbird STRADA PAL,zbliżeniowa i stykowa
+552,C,,50.076942,19.917592,ul. Kijowska 40,30-079,27.5,wspolrzedne_zdmk,C9,Flowbird STRADA PAL,zbliżeniowa
+553,B,,50.079924,19.932375,ul. Friedleina / Składowa,30-009,12.8,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa
+554,B,,50.080229,19.930533,ul. Składowa 18,30-010,35.8,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+555,B,,50.079744,19.933315,ul. Odrowąża 60,30-009,15.8,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+556,B,,50.078637,19.933076,ul. Odrowąża 48,30-009,10.3,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+557,B,,50.077392,19.932736,ul. Odrowąża / Plater,30-009,7.6,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+558,B,,50.0762,19.932332,ul. Odrowąża 10/12,30-009,1.6,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+559,B,,50.078014,19.936936,ul. Zbożowa / Prądnicka,30-002,21.8,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+560,C,,50.074756,19.966236,ul. Cieplińskiego / Łukasiewicza,31-429,18.1,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+561,C,,50.076357,19.963553,ul. Łukasiewicza / Chrobrego,31-429,19.1,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+562,C,,50.077789,19.962481,ul. Kąt / Dukatów,31-432,9.0,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+563,C,,50.07601,19.962056,ul. Chrobrego / Otwinowskiego,31-432,12.9,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa
+564,C,,50.076869,19.961099,ul. Na Wiankach / Jaworskiego,31-519,15.3,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+565,C,,50.075925,19.958453,ul. Rakowicka / Domki,31-521,10.4,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+566,C,,50.077281,19.959283,ul. Rakowicka 79,31-521,6.1,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+567,C,,50.076253,19.959448,ul. Skorupki / Idzikowskiego,31-519,11.5,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+568,C,,50.074644,19.957456,ul. Rakowicka 26b,31-510,29.2,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+569,C,,50.075221,19.960732,ul. Skorupki / Chrobrego,31-519,9.9,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+570,C,,50.074767,19.959906,ul. Domki / Chrobrego,31-519,10.5,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+571,C,,50.073,19.966072,ul. Nadbrzeżna / Narzymskiego,31-463,33.0,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+572,C,,50.074335,19.966923,ul. Olszyny / Lesista,31-463,13.5,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+573,C,,50.073672,19.968025,ul. Narzymskiego 9,31-463,6.2,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+574,C,,50.072722,19.968683,ul. Lotnicza 3,31-462,13.7,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+575,C,,50.074047,19.970461,ul. Lotnicza 13,31-462,11.9,wspolrzedne_zdmk,C15,Flowbird STRADA PAL,zbliżeniowa i stykowa
+576,B,,50.078936,19.93215,ul. Friedleina 28B,30-009,11.2,wspolrzedne_zdmk,B10,Flowbird STRADA PAL,zbliżeniowa i stykowa
+577,C,,50.056475,19.964651,ul. Zieleniewskiego 73A,31-559,14.3,wspolrzedne_zdmk,C16,Flowbird STRADA PAL,zbliżeniowa
+578,C,,50.055822,19.965056,ul. Zieleniewskiego 73B,31-559,32.1,wspolrzedne_zdmk,C16,Flowbird STRADA PAL,zbliżeniowa
+579,C,,50.054205,19.962495,ul. Stachowskiego,31-559,49.0,wspolrzedne_zdmk,C16,Flowbird STRADA PAL,zbliżeniowa
+601,C,,50.07281,19.958623,al. Beliny-Prażmowskiego 60,31-514,13.4,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+602,C,,50.07365,19.960122,ul. Grochowska 5,31-516,16.5,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+603,C,,50.072894,19.96385,ul. Grochowska 32,31-517,14.5,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+604,C,,50.073175,19.959008,al. Beliny-Prażmowskiego 65,31-514,9.5,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+605,C,,50.072625,19.960922,ul. Orląt Lwowskich 8,31-518,11.9,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+606,C,,50.072104,19.962828,ul. Orląt Lwowskich / gen. Bema,31-517,19.1,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+607,C,,50.073064,19.956948,ul. Olszańska 4,31-510,12.9,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+608,C,,50.072641,19.958259,ul. Olszańska 7,31-513,12.7,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+609,C,,50.071973,19.960066,ul. Bandurskiego / Olszańska,31-513,15.5,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+610,C,,50.071189,19.961919,ul. Olszańska 28,31-517,15.9,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+611,C,,50.071466,19.96692,ul. Grunwaldzka / Wyrwińskiego,31-524,60.1,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+612,C,,50.069321,19.963105,ul. Kielecka 27,31-523,16.1,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+613,C,,50.069943,19.966002,ul. Eisenberga / Grunwaldzka,30-305,14.4,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+614,C,,50.072116,19.959095,al. Beliny-Prażmowskiego 49a,31-514,14.0,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+615,C,,50.071167,19.9603,ul. Bandurskiego 11a,31-515,10.0,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+616,C,,50.068766,19.95949,ul. Beliny-Prażmowskiego 11a,31-514,13.1,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+617,C,,50.069883,19.965175,ul. Garczyńskiego 8,31-524,4.6,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+618,C,,50.069106,19.965764,ul. Grunwaldzka / Moniuszki,31-524,18.9,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+619,C,,50.07038,19.959285,al. Beliny-Prażmowskiego 27,31-514,12.8,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+620,C,,50.070013,19.960321,ul. Bandurskiego 22,31-515,9.0,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+621,C,,50.068631,19.959144,al. Beliny-Prażmowskiego 18a,31-514,16.7,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+622,C,,50.06965,19.960502,ul. Bandurskiego / Moniuszki,31-515,20.8,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+623,C,,50.069903,19.962418,ul. Brodowicza 11,31-518,4.9,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+624,C,,50.068475,19.963008,ul. Kielecka / Kasprowicza,31-523,15.1,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+625,C,,50.068344,19.965625,ul. Grunwaldzka / Kasprowicza,31-524,17.5,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+626,C,,50.068233,19.966789,ul. Kasprowicza 24a,31-523,11.7,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+627,C,,50.068072,19.968422,ul. Supniewskiego / Kasprowicza,31-527,31.1,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+628,C,,50.067766,19.961682,ul. Zaleskiego / Chłopickiego,31-525,14.3,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+629,C,,50.067646,19.963253,ul. Zaleskiego 14 / Kielecka,31-525,19.5,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+630,C,,50.067211,19.962742,ul. Kielecka 7a,31-526,6.7,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+631,C,,50.067539,19.965561,ul. Grunwaldzka 29,31-525,10.8,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+632,C,,50.067514,19.9678,ul. Zaleskiego / Supniewskiego,31-525,5.9,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+633,C,,50.066989,19.958742,ul. Mogilska 18,31-516,5.8,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+634,C,,50.066422,19.960817,ul. Mogilska / Chłopickiego,31-525,27.8,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+635,C,,50.066894,19.961425,ul. Chłopickiego 8,31-525,5.1,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+636,C,,50.066496,19.96243,ul. Kielecka 2 / Mogilska,31-526,5.3,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+637,A,,50.055337,19.92094,ul. Filarecka 1,30-106,10.7,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+638,C,,50.066805,19.968924,ul. Rymarska / Mogilska,31-546,34.4,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+639,C,,50.070667,19.964136,ul. Sowińskiego / Ordona,31-524,7.7,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+640,C,,50.067954,19.960192,ul. Brodowicza / Zaleskiego,31-525,15.3,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+641,C,,50.067283,19.960806,ul. Misiołka 7,31-525,9.5,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+642,C,,50.067047,19.965433,ul. Grunwaldzka 58,31-526,12.6,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+644,C,,50.071496,19.958742,al. Beliny-Prażmowskiego 48,31-514,10.7,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+645,C,,50.069717,19.959003,al. Beliny-Prażmowskiego 26,31-514,12.1,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+646,C,,50.069258,19.968433,ul. Supniewskiego / Eisenberga,31-523,45.1,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+647,C,,50.069958,19.963244,ul. Garczyńskiego 29,31-523,10.6,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+648,C,,50.067529,19.964319,ul. Zaleskiego (n/p 22),31-525,23.1,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+649,C,,50.073217,19.962342,ul. Grochowska 25,31-516,10.4,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+650,C,,50.069278,19.964202,ul. Moniuszki  24,31-523,9.0,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+651,C,,50.068742,19.960386,ul. Bandurskiego 4,31-515,8.5,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+652,C,,50.06229,19.964637,ul. Szafera / Sądowa,31-543,21.9,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+653,C,,50.060792,19.964881,ul. Szafera 5,31-543,44.4,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+654,C,,50.058353,19.966742,ul. Bobrowskieg 6,31-552,10.3,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+655,A,,50.039569,19.946678,ul. Krzemionki 30,30-525,65.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+656,A,,50.043069,19.941642,ul. Długosza 17,30-512,14.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+657,C,,50.066,19.961917,ul. Mogilska 13 (1szy od R. Mogilskiego),31-542,4.1,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+658,C,,50.066127,19.962667,ul. Mogilska 17 / Mosiężnicza,31-547,5.4,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+659,C,,50.06625,19.963861,ul. Mogilska 21,31-542,17.9,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+660,C,,50.065329,19.961588,ul. Mosiężnicza 53,31-547,25.4,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+661,C,,50.065489,19.962767,ul. Mosiężnicza 17a,31-542,30.4,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+662,C,,50.063383,19.960322,al. Powstania Warszawskiego,31-549,75.9,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+663,C,,50.064533,19.961424,ul. Przy Rondzie (1. od Mogilskiej),31-547,13.8,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+664,C,,50.063792,19.961387,ul. Przy Rondzie (2. od Mogilskiej),31-547,44.1,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+665,C,,50.063339,19.965965,ul. Francesco Nullo 16,31-543,17.5,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+666,C,,50.062561,19.9606,al.Powstania Warszawskiego 12,31-549,30.5,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+667,C,,50.062303,19.961452,ul. Sądowa / Kordylewskiego,31-547,45.2,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+668,C,,50.062364,19.962425,ul. Sądowa 9,31-542,10.0,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+669,C,,50.062672,19.965506,ul. Sądowa 1,31-542,12.1,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+670,C,,50.061836,19.96067,al. Powstania Warszawskiego (3. od r. Grzegórzeckiego),31-541,27.8,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+671,C,,50.062108,19.96211,ul. Kordylewskiego 11,31-542,35.4,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+672,C,,50.061132,19.960513,al. Powstania Warszawskiego (2. od r. Grzegórzeckiego),31-541,38.1,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+673,C,,50.061551,19.964814,ul. Szafera 7,31-543,21.5,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+674,C,,50.061437,19.966749,ul. Francesco Nullo 15,31-543,18.6,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+675,C,,50.0612,19.962236,ul. Kordylewskiego 12,31-542,48.1,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+676,C,,50.061051,19.966879,ul. Francesco Nullo 13,31-543,26.2,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+677,C,,50.060661,19.960345,al. Powstania Warszawskiego (1. od r. Grzegórzeckiego),31-541,35.1,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+678,C,,50.060542,19.962511,ul. Kordylewskiego 7,31-542,28.4,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+679,C,,50.060417,19.964417,ul. Szafera 8,31-543,34.8,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+680,C,,50.058989,19.962367,al. Pokoju 4,31-548,13.0,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+681,C,,50.059731,19.962866,ul. Kordylewskiego 1,31-542,12.0,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+682,C,,50.059608,19.964475,al. Pokoju 8,31-548,22.2,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+683,C,,50.059874,19.96561,al. Pokoju 12,31-548,30.8,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+684,C,,50.060011,19.966233,al. Pokoju 14,31-548,28.3,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+685,C,,50.059308,19.964664,al. Pokoju 7,31-548,17.9,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+686,C,,50.0596,19.965778,al. Pokoju 15,31-548,21.7,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+687,C,,50.059808,19.966527,al. Pokoju 19,31-548,24.0,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+688,C,,50.059657,19.967358,ul. Francesco Nullo 7,31-543,21.4,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+689,C,,50.058056,19.963583,ul. Rogozińskiego 6,31-559,49.6,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+690,C,,50.058666,19.969042,ul. Bobrowskiego 17,31-552,26.2,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+691,C,,50.056917,19.960389,ul. Grzegórzecka 67,31-559,22.4,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+692,C,,50.056858,19.962819,ul. Grzegórzecka 69,31-559,24.6,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+693,C,,50.057422,19.963775,ul. Rogozińskiego 5,31-559,15.7,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+694,C,,50.068985,19.953046,ul. Rakowicka 20,31-510,23.0,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+695,C,,50.057433,19.965497,ul. Grzegórzecka 74,31-559,29.7,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+696,C,,50.057971,19.968118,ul. Grzegórzecka 88,31-559,17.7,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+697,B,,50.064533,19.950163,ul. Strzelecka 19,31-503,8.2,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+698,B,,50.065138,19.954843,ul. Botaniczna / Lubicz,31-503,15.5,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+699,B,,50.065072,19.957017,ul. Kopernika / Lubicz,31-503,44.5,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+700,B,,50.06407,19.955097,ul. Botaniczna / Kopernika,31-503,34.2,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+701,B,,50.064311,19.956683,ul. Kopernika 31,31-501,32.9,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+702,B,,50.063911,19.955661,ul. Kopernika 27,31-501,24.1,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+703,B,,50.063617,19.950697,ul. Strzelecka 7,31-503,11.0,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+704,B,,50.063088,19.951011,ul. Strzelecka / Kopernika,31-503,10.7,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+705,B,,50.061628,19.948458,ul. Kopernika 15,31-501,24.9,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+706,B,,50.062258,19.949936,ul. Kopernika 17,31-501,14.8,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+707,B,,50.074936,19.935102,ul. Wrocławska/Szpital Wojskowy,30-003,45.2,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+708,B,,50.0629,19.951522,ul. Kopernika 36,31-503,32.5,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+709,B,,50.063362,19.953492,ul. Kopernika / Śniadeckich,31-501,7.3,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+710,B,,50.060417,19.948256,ul. Kołłątaja 2,31-502,9.4,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+711,B,,50.073665,19.94098,ul. Montelupich 4 (Instytut Stomatologii UJ),31-155,21.0,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+713,B,,50.060944,19.949989,ul. Kołłątaja 11,31-502,8.3,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+714,B,,50.060789,19.950386,ul. św. Łazarza 3,31-530,11.5,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+715,B,,50.060394,19.950469,ul. Sołtyka 19,31-529,7.5,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+716,B,,50.073549,19.941613,ul. Montelupich 4-7 (na końcu),31-155,26.3,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+718,B,,50.059897,19.949047,ul. Sołtyka 5,31-529,4.5,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+719,B,,50.059436,19.948753,ul. Dwernickiego 4,31-530,7.2,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+721,B,,50.058836,19.949372,ul. Grzegórzecka 8,31-530,11.7,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+722,B,,50.058942,19.950513,ul. św. Łazarza 21,31-530,3.8,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+723,B,,50.058678,19.953358,ul. Grzegórzecka/ Śniadeckich,31-532,24.9,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+724,B,,50.059989,19.957731,ul. Żółkiewskiego 21,31-539,15.4,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+725,B,,50.059056,19.957775,ul. Żółkiewskiego 13,31-539,8.5,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+726,C,,50.077639,19.952401,ul. Prandoty (początek Cmentarza wojskowego od strony al. 29 Listopada),31-345,72.1,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+727,B,,50.078923,19.922406,ul. Wrocławska 67,30-011,19.3,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+728,C,,50.081055,19.917398,ul. Wrocławska 80,30-017,26.8,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+730,B,,50.058046,19.950713,al. Daszyńskiego 7,31-537,7.9,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+731,B,,50.057667,19.9497,ul. Metalowców 1,31-537,9.8,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+732,B,,50.057039,19.949483,ul. Siedleckiego 2,31-538,13.8,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+733,B,,50.057547,19.951336,al. Daszyńskiego 13,31-537,24.2,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+734,B,,50.057653,19.952072,al. Daszyńskiego 16,31-534,14.4,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+735,B,,50.057358,19.953003,ul. Pola 7,31-532,18.1,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+736,B,,50.057458,19.9538,ul. Pola 3,31-532,6.4,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+737,B,,50.057703,19.954542,ul. Chodkiewicza 6,31-532,4.4,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+738,B,,50.057153,19.954314,ul. Chodkiewicza 13,31-532,1.7,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+739,B,,50.056622,19.953158,al. Daszyńskiego 22,31-534,7.8,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+740,B,,50.056672,19.951539,ul. Gurgacza 7,31-537,10.6,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+741,B,,50.056925,19.952181,al. Daszyńskiego 21,31-537,35.0,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+743,B,,50.056019,19.951567,ul. Wiślisko 6,31-538,10.2,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+744,B,,50.056094,19.952978,al. Daszyńskiego 23,31-537,28.4,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+745,B,,50.056036,19.953817,al. Daszyńskiego 24,31-534,7.2,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+746,B,,50.056536,19.954081,ul. Prochowa 2,31-532,1.7,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+747,B,,50.056358,19.955256,ul. Prochowa 11,31-532,3.2,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+748,B,,50.05702,19.956714,ul. Rzeźnicza 4,31-540,8.8,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+749,B,,50.056558,19.95666,ul. Rzeźnicza 7,31-540,13.6,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+751,B,,50.055544,19.952542,ul. Blachnickiego 10,31-535,16.6,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+752,B,,50.055633,19.951664,ul. Blachnickiego 1,31-535,18.8,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+753,B,,50.055009,19.95038,ul. Siedleckiego / Miodowa,31-036,57.9,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+754,B,,50.054406,19.952478,ul. Siedleckiego 13,31-536,9.1,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+755,B,,50.055336,19.954317,al. Daszyńskiego 28,31-534,14.2,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+756,B,,50.056042,19.956295,ul. Rzeźnicza 11 (RCKiK),31-540,13.0,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+757,B,,50.054805,19.958203,ul. Masarska 13,31-534,14.2,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+758,B,,50.054597,19.955836,ul. Rzeźnicza / Gęsia,31-534,66.3,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+759,C,,50.075785,19.95794,ul. Prandoty / Rakowicka,31-521,23.9,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+760,C,,50.076703,19.955279,ul. Prandoty - przejście dla pieszych,31-510,215.5,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+761,C,,50.074391,19.946589,ul. Żelazna / Wjazd,31-401,21.0,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+762,B,,50.059744,19.948141,ul. Blich 7,31-529,18.5,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+763,B,,50.052754,19.957445,ul. Podgórska (Centrum Biurowe-Kazimierz),31-536,30.3,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+764,B,,50.0757,19.936061,ul. Prądnicka 10,30-002,8.5,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+765,A,,50.047673,19.953733,ul. Solna 4,30-527,18.1,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+766,A,,50.047461,19.952578,ul. Nadwiślańska 6,30-530,22.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+767,A,,50.047103,19.953892,ul. Piwna / Bohaterów Getta,30-527,14.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+768,C,,50.064206,19.967152,ul. Francesco Nullo 30,31-543,23.2,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+769,A,,50.047293,19.955608,ul. Kącik 3,30-549,11.6,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+770,A,,50.047267,19.95651,ul. Janowa Wola 2,30-549,8.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+771,A,,50.047158,19.951736,ul. Nadwiślańska 4a,30-527,15.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+772,A,,50.046672,19.951969,ul. Krakusa 24,30-527,11.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+773,A,,50.046226,19.948935,ul. Nadwiślańska 1,30-527,23.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+774,A,,50.046392,19.950575,ul. Piwna 5,30-527,14.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+775,A,,50.046177,19.955667,ul. Lwowska 2,30-548,3.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+776,A,,50.046178,19.957686,ul. Dąbrówki 9,30-549,13.1,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+777,A,,50.046667,19.957686,ul. Traugutta 5,30-549,6.6,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+778,A,,50.045978,19.950039,ul. Józefińska 10/12,30-529,8.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+779,A,,50.045911,19.951597,ul. Józefińska 9,30-529,4.9,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+780,A,,50.045789,19.952586,ul. Józefińska 17,30-529,8.1,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+781,A,,50.045561,19.953536,ul. Józefińska 30,30-529,12.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+782,A,,50.044744,19.947292,ul. Celna 7,30-507,2.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+783,A,,50.045075,19.950897,ul. Węgierska / Limanowskiego,30-551,18.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+784,B,,50.063603,19.954633,ul. Kopernika 25,31-501,15.2,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+785,A,,50.045133,19.952558,ul. Krakusa 13,30-535,19.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+786,A,,50.045017,19.956656,ul. Józefińska 45,30-529,9.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+787,A,,50.044999,19.957292,ul. Lwowska / Dąbrowskiego,30-548,11.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+788,A,,50.045017,19.957783,ul. Traugutta 19,30-532,11.9,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+789,A,,50.044192,19.957814,ul. Lwowska 24,30-551,9.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+790,A,,50.044708,19.959167,ul. Dąbrowskiego 14,30-532,21.9,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+791,A,,50.043622,19.959464,ul. św. Kingi 1a,30-528,6.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+792,A,,50.044521,19.961152,ul. Hetmańska 3 /Dąbrowskiego,30-528,10.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+793,A,,50.044083,19.960669,ul. św. Kingi 11,30-528,12.8,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+794,A,,50.043742,19.961392,ul. Tarnowskiego 14,30-528,7.8,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+795,A,,50.045464,19.947092,ul. Staromostowa 4,30-507,29.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+796,A,,50.045189,19.948189,ul. Brodzińskiego 4,30-506,7.9,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+797,A,,50.044847,19.948456,ul. Brodzińskiego 1,30-506,9.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+798,A,,50.04505,19.949328,ul. Rynek Podgórski 14,30-518,12.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+799,A,,50.045178,19.946819,ul. Przy Moście / Celna 13,30-507,16.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+800,A,,50.045379,19.954987,ul. Józefińska 35,30-529,10.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+802,A,,50.044292,19.943961,ul. Rollego / Warneńczyka,30-510,78.9,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+803,A,,50.044256,19.94525,ul. Sokolska 3,30-510,19.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+804,A,,50.044481,19.946325,ul. Celna 3,30-509,6.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+805,A,,50.043805,19.945757,ul. Rejtana 7,30-510,11.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+806,A,,50.043847,19.944458,ul. Sokolska 1,30-116,21.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+807,A,,50.0435,19.945035,ul. Rejtana 10,30-510,10.1,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+808,C,,50.064309,19.968493,ul. Francesco Nullo 32,31-543,42.1,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+809,A,,50.04327,19.944415,ul. Serkowskiego 2,30-512,12.6,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+811,A,,50.042901,19.94244,ul. Serkowskiego 11,30-512,9.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+812,A,,50.04415,19.949778,ul. Rynek Podgórski 3,30-533,7.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+813,A,,50.044586,19.951106,ul. Węgierska 10,30-535,8.6,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+814,A,,50.044553,19.952578,ul. Krakusa 10,30-535,20.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+816,A,,50.057154,19.91066,al. Focha 40,30-119,23.5,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+817,A,,50.043265,19.948749,ul. Zamoyskiego 5,30-519,11.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+818,A,,50.043902,19.948979,ul. Rynek Podgórski 7,30-518,16.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+819,A,,50.04357,19.950307,ul. Rękawka 1,30-535,21.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+820,A,,50.043775,19.951092,ul. Węgierska 2a,30-535,6.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+821,A,,50.043567,19.952025,ul. Rękawka 13,30-535,3.1,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+822,A,,50.043746,19.952527,ul. Krakusa 1,30-535,4.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+823,A,,50.043811,19.954067,ul. Rękawka 31,30-535,3.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+824,A,,50.0439,19.954736,ul. Czarneckiego 14,30-536,8.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+825,A,,50.043994,19.955983,ul. Rękawka 45,30-535,3.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+826,A,,50.043934,19.957143,ul. Rękawka 53,30-535,9.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+827,C,,50.044342,19.938675,ul. Ludwinowska 7,30-331,15.3,wspolrzedne_zdmk,C22,Flowbird STRADA EVOLUTION II,zbliżeniowa
+828,C,,50.044267,19.940014,ul. Ludwinowska (przed Zatorską),30-331,57.0,wspolrzedne_zdmk,C22,Flowbird STRADA EVOLUTION II,zbliżeniowa
+829,A,,50.042533,19.942378,ul. Długosza 13,30-512,5.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+830,A,,50.041928,19.943182,ul. Długosza 3,30-512,8.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+831,A,,50.042358,19.944191,ul. Kalwaryjska 30,30-504,10.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+832,A,,50.042436,19.944533,ul. Kalwaryjska 27,30-504,7.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+833,A,,50.042617,19.945592,ul. Warneńczyka 5,30-520,21.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+834,A,,50.042761,19.947369,ul. Zamoyskiego 18,30-523,23.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+835,A,,50.043163,19.950618,ul. Potebni / Parkowa,30-537,9.1,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+836,A,,50.042456,19.950853,ul. Parkowa 7,30-538,13.8,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+837,A,,50.0422,19.951408,pl. Lasoty 2,30-538,36.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+838,A,,50.042531,19.953964,ul. Stawarza 4,30-540,18.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+839,A,,50.041783,19.954683,ul. Dembowskiego 12,30-540,16.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+840,A,,50.041428,19.955286,ul. Radosna / Dembowskiego,30-538,25.6,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+841,A,,50.045839,19.949269,ul. Józefińska / Piwna,30-529,17.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+842,A,,50.0408,19.953739,ul. Parkowa / Radosna,30-538,17.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+843,A,,50.042358,19.941242,ul. Krasickiego 8,30-503,4.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+844,A,,50.042014,19.944003,ul. Stroma / Kalwaryjska,30-521,6.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+845,A,,50.041502,19.944718,ul. Stroma / Zamoyskiego,30-519,15.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+846,A,,50.041858,19.945328,ul. Zamoyskiego 34,30-519,2.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+847,A,,50.041381,19.946042,ul. Krzemionki 11,30-525,18.8,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+848,A,,50.040586,19.945386,ul. Krzemionki 22,30-525,9.9,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+849,A,,50.041681,19.942122,ul. Smolki 12d,30-513,6.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+850,A,,50.041186,19.942772,ul. Smolki 7,30-513,0.8,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+851,A,,50.040947,19.943491,ul. Smolki 4,30-513,4.9,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+852,A,,50.040703,19.94395,ul. Zamoyskiego 50,30-523,7.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+853,A,,50.041764,19.937642,ul. Przedwiośnie 12,30-502,7.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+854,A,,50.042022,19.938783,ul. Spiska 5,30-502,7.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+855,A,,50.040819,19.937325,ul. Czackiego / Orawska,30-501,9.1,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+856,A,,50.040911,19.937744,ul. Szaflarska 12,30-501,10.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+857,A,,50.040394,19.93945,ul. Krasickiego 30,30-503,35.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+858,A,,50.040867,19.941042,ul. Kutrzeby 4,30-515,15.6,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+859,A,,50.040753,19.942164,ul. Kutrzeby / Kalwaryjska,30-515,26.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+860,A,,50.040547,19.942696,ul. Kalwaryjska 43,30-504,10.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+861,A,,50.039897,19.943097,ul. Zamoyskiego 51,30-523,13.1,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+862,A,,50.039994,19.939186,ul. Krasickiego 34,30-503,12.6,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+863,A,,50.039331,19.941714,ul. Śliska 9,30-504,13.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+864,A,,50.041434,19.943191,ul. Kalwaryjska 51,30-504,12.3,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+865,A,,50.039381,19.942728,ul. Zamoyskiego 61,30-519,23.1,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+866,A,,50.039117,19.943653,ul. Redemptorystów 4,30-525,14.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+867,A,,50.039181,19.938911,ul. Krasickiego 36,30-503,30.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+868,A,,50.038658,19.942397,ul. Zamoyskiego 67,30-519,8.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+869,A,,50.037806,19.941889,ul. Podskale 5,30-522,5.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+870,A,,50.037172,19.941163,ul. Kalwaryjska / Podskale,30-522,4.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+871,A,,50.037544,19.942575,ul. Zamoyskiego 80,30-523,7.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+872,A,,50.0359,19.942533,ul. Kamieńskiego / Czyżówka,30-523,13.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+873,A,,50.041261,19.938981,ul. Orawska 1,30-501,9.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+874,A,,50.041133,19.940181,ul. Krasickiego 28,30-503,22.0,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+875,A,,50.044444,19.953947,ul. św. Benedykta 6a/6b,30-536,6.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+876,A,,50.046234,19.954002,ul. Targowa 4,30-529,10.7,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+877,A,,50.045706,19.956289,ul. Lwowska 15a,30-548,16.2,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+878,C,,50.063581,19.961419,ul. Przy Rondzie (3. od Mogilskiej),31-547,52.7,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+879,A,,50.043078,19.946261,ul. Kalwaryjska / Hala Korony,30-504,22.4,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+880,A,,50.053172,19.921147,ul. Kościuszki / Dojazdowa,30-114,8.6,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+882,A,,50.052872,19.920131,ul. Kościuszki 58,30-114,10.0,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+883,B,,50.076206,19.941383,ul. Kamienna 21,31-403,28.9,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+884,A,,50.05364,19.922839,ul. Kościuszki / Jaskółcza,30-105,21.3,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+885,A,,50.052614,19.917919,ul. Kościuszki 65,30-114,20.1,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+886,A,,50.053475,19.920874,ul. Komorowskiego 5,30-106,6.3,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+887,A,,50.053964,19.923521,ul. Kościuszki / Borelowskiego,30-108,8.4,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+888,A,,50.054491,19.925533,ul. Kościuszki / Włóczków,30-105,17.6,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+889,A,,50.055014,19.926392,ul. Syrokomli 1,30-102,12.5,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+890,A,,50.055707,19.916035,ul. Mlaskotów 4b,30-117,7.2,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+891,A,,50.054803,19.922789,ul. Borelowskiego 11,30-108,8.2,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+892,A,,50.055381,19.924869,ul. Włóczków 8,30-103,18.8,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+893,A,,50.055794,19.925761,ul. Syrokomli / Morawskiego,30-102,17.5,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+894,A,,50.053211,19.917047,ul. Kościuszki 75,30-114,48.5,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+895,A,,50.053792,19.917857,ul. Senatorska 27,31-117,18.7,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+896,A,,50.054197,19.918856,ul. Prusa 1,30-106,22.6,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+897,A,,50.054938,19.920009,ul. Kraszewskiego 1-5,30-110,6.3,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+898,C,,50.060139,19.962718,ul. Szafera / Kordylewskiego,31-542,27.7,wspolrzedne_zdmk,C16,Flowbird STRADA EVOLUTION II,zbliżeniowa
+899,A,,50.055614,19.921892,ul. Dunin-Wąsowicza / Borelowskiego,30-108,15.7,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+900,A,,50.055258,19.922103,ul. Stachowicza 18,30-108,12.7,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+901,A,,50.055709,19.923411,ul. Stachowicza 6,30-103,7.2,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+902,A,,50.054203,19.917365,ul. Mlaskotów 7,30-117,13.3,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+903,A,,50.054961,19.918242,ul. Prusa 9,30-109,10.4,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+904,A,,50.055253,19.919567,ul. Kraszewskiego 7,30-110,6.5,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+905,A,,50.055006,19.916582,ul. Salwatorska / Mlaskotów,30-117,23.2,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+906,A,,50.055564,19.917781,ul. Prusa / Salwatorska,30-117,9.3,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+907,A,,50.056023,19.918933,ul. Salwatorska / Kraszawskiego,30-109,13.7,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+908,A,,50.056467,19.91565,ul. Mlaskotów / Fałata,30-118,5.5,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+909,A,,50.056208,19.91719,ul. Prusa 25,30-117,7.5,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+910,A,,50.056286,19.919766,ul. Filarecka 17,30-110,7.4,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+911,A,,50.056717,19.916777,ul. Fałata 9,30-117,12.1,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+912,A,,50.056786,19.919308,ul. Filarecka 20a,30-110,11.2,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+913,A,,50.056981,19.918025,ul. Fałata 4,30-110,10.7,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+914,A,,50.056347,19.923642,ul. Ujejskiego 15,30-102,9.9,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+915,A,,50.056875,19.925136,ul. Syrokomli 20,30-102,13.3,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+916,A,,50.057761,19.924547,ul. Dunin-Wąsowicza 8,30-112,13.9,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+917,A,,50.057281,19.923153,ul. Dunin-Wąsowicza 11,30-112,18.7,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+918,A,,50.056692,19.922603,ul. Dunin-Wąsowicza 24,30-112,16.8,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+919,A,,50.056736,19.913331,ul. Kasztelańska 34,30-116,12.6,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+920,A,,50.057003,19.914919,ul. Wyczółkowskiego 10,30-118,16.8,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+921,A,,50.057214,19.916264,ul. Wyczółkowskiego / Prusa,30-118,18.9,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+922,A,,50.057533,19.91335,al. Kasztelańska / Focha,30-119,22.3,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+923,A,,50.057739,19.914536,al. Focha 32,30-119,14.2,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+924,A,,50.057983,19.916219,al. Focha / Prusa,30-119,10.8,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+925,A,,50.058033,19.918017,ul. Kraszewskiego 44,30-111,34.0,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+926,A,,50.058423,19.919357,al. Focha / Cracovia (1. od Kraszewskiego),30-111,134.5,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+927,A,,50.058651,19.920917,al. Focha / Cracovia (2. od Kraszewskiego),30-111,73.6,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+928,B,,50.060025,19.920947,ul. Oleandry 1,30-060,4.9,wspolrzedne_zdmk,B30,Flowbird STRADA EVOLUTION II,zbliżeniowa
+929,B,,50.060886,19.921492,ul. Oleandry / Kadrówki,30-060,17.3,wspolrzedne_zdmk,B30,Flowbird STRADA EVOLUTION II,zbliżeniowa
+930,B,,50.061854,19.921376,ul. Oleandry 6 /Ingardena,30-060,30.7,wspolrzedne_zdmk,B30,Flowbird STRADA EVOLUTION II,zbliżeniowa
+931,B,,50.061986,19.920836,ul. Ingardena 4,30-060,11.3,wspolrzedne_zdmk,B30,Flowbird STRADA EVOLUTION II,zbliżeniowa
+932,B,,50.062006,19.920044,ul. Ingardena 1,30-060,32.7,wspolrzedne_zdmk,B30,Flowbird STRADA EVOLUTION II,zbliżeniowa
+933,B,,50.062064,19.922272,ul. Ingardena (BJ),30-059,85.2,wspolrzedne_zdmk,B30,Flowbird STRADA EVOLUTION II,zbliżeniowa
+934,C,,50.067649,19.917457,ul. Czarnowiejska 75,30-049,12.3,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+935,C,,50.073329,19.915653,ul. Kijowska/Biprostal,30-081,18.3,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+937,B,,50.064164,19.922092,ul. Reymonta (1. od al. Mickiewicza),30-059,100.7,wspolrzedne_zdmk,B30,Flowbird STRADA EVOLUTION II,zbliżeniowa
+938,B,,50.063917,19.922604,ul. Reymonta / al. Mickiewicza,30-059,96.7,wspolrzedne_zdmk,B30,Flowbird STRADA EVOLUTION II,zbliżeniowa
+939,C,,50.069494,19.922214,ul. Lea 8,30-048,7.2,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+940,A,,50.054075,19.920147,ul. Komorowskiego 11,30-106,8.4,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+941,C,,50.067769,19.9231,ul. Szymanowskiego 7,30-047,3.1,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+942,A,,50.055153,19.9209,Plac Na Stawach,30-106,15.4,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+943,A,,50.054309,19.92526,ul. Kościuszki 18,30-105,7.3,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+944,C,,50.074047,19.931508,ul. Lubelska 14,30-003,13.2,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+945,A,,50.052464,19.918369,ul. Flisacka / Kościuszki,30-114,21.2,wspolrzedne_zdmk,A6,Flowbird STRADA EVOLUTION II,zbliżeniowa
+946,C,,50.069978,19.920008,ul. Lea 14a,30-048,6.7,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+947,C,,50.068089,19.919428,ul. Chopina 32,30-049,6.5,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+948,C,,50.071076,19.915845,ul. Lea 37,30-052,18.4,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+949,B,,50.075127,19.933792,ul. Wrocławska 3,30-006,15.5,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+950,B,,50.078169,19.924072,ul. Wrocławska 47,30-011,11.4,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+951,C,,50.073673,19.947187,ul. Kątowa 6,31-404,6.7,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+952,C,,50.067823,19.920554,ul. Konarskiego 11,30-049,1.5,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+953,C,,50.067722,19.918415,ul. Chopina 38,30-049,23.3,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+954,C,,50.069047,19.917411,ul. Ogrodniczek / Spokojna,31-987,14.8,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+955,C,,50.068883,19.918353,ul. Urzędnicza 13,30-051,9.3,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+956,C,,50.068347,19.920886,ul. Konarskiego 21,30-047,12.5,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+957,C,,50.067809,19.921435,ul. Karłowicza 17,30-047,8.4,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+958,C,,50.068244,19.923133,ul. Karłowicza / Szymanowskiego,30-047,15.7,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+959,C,,50.069935,19.915496,ul. Chocimska 22,30-057,15.6,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+960,C,,50.070629,19.917708,ul. Lea 22,30-052,2.8,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+961,C,,50.070567,19.918719,ul. Urządnicza / Lea,30-051,13.7,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+962,C,,50.069895,19.921016,ul. Lea 12a,30-046,18.7,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+963,C,,50.069389,19.92325,ul. Lea / Józefitów,30-046,19.4,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+964,C,,50.07279,19.916564,ul. Królewska 51 (przystanek Biprostal),30-079,39.6,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+965,C,,50.070869,19.92171,ul. Konarskiego 52,30-046,2.3,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+966,B,,50.064367,19.920759,ul. Reymonta (2. od al. Mickiewicza),30-059,25.6,wspolrzedne_zdmk,B30,Flowbird STRADA EVOLUTION II,zbliżeniowa
+967,C,,50.074934,19.947016,ul. Żelazna /Al. 29 Listopada,31-401,45.5,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+968,C,,50.066521,19.922719,ul. Szymanowskiego 15,30-047,10.9,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+969,C,,50.067225,19.920361,ul. Konarskiego / Czarnowiejska,30-049,10.9,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+970,C,,50.068058,19.922231,ul. Karłowicza 9,30-047,7.6,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+971,C,,50.068578,19.915289,ul. Chocimska 18,30-057,22.7,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+972,C,,50.069672,19.919494,ul. Czapińskiego 3,30-048,21.8,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+973,C,,50.068986,19.923344,ul. Chopina / Szymanowskiego,30-047,25.0,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+974,C,,50.071191,19.914888,ul. Lea 43,30-052,10.8,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+975,C,,50.072598,19.91667,ul. Królewska 84,30-079,17.3,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+976,C,,50.070572,19.924067,ul. Królewska 5,30-045,10.3,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+977,C,,50.077322,19.947172,ul. Kamienna 43-45,31-403,13.0,wspolrzedne_zdmk,C15,Flowbird STRADA EVOLUTION II,zbliżeniowa
+978,B,,50.077064,19.943854,u. Kamienna 35,31-403,25.1,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+979,C,,50.073247,19.919479,ul. Kazimierza Wielkiego 62,30-074,9.0,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+980,C,,50.072298,19.919832,ul. Urzędnicza 56,30-040,11.1,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+981,C,,50.072709,19.921029,ul. Kazimierza Wielkiego 52,30-074,13.8,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+982,C,,50.07311,19.9182,ul. Nowowiejska 8,30-052,4.8,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+983,C,,50.073564,19.918922,ul. Kazimierza Wielkiego 59,30-074,9.7,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+984,C,,50.072815,19.920334,ul. Urządnicza 59,30-040,3.4,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+985,C,,50.072417,19.921829,ul. Kazimierza Wielkiego 38,30-074,7.3,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+986,C,,50.071803,19.923708,ul. Kazimierza Wielkiego 22,30-078,17.2,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+987,C,,50.07115,19.9239,ul. Józefitów 5,30-039,4.0,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+988,C,,50.071514,19.924895,ul. Kazimierza Wielkiego 4,30-078,9.7,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+989,C,,50.072144,19.918879,ul. Królewska 47,30-040,21.8,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+990,C,,50.070911,19.925078,ul. Pomorska 6,30-039,5.4,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+991,C,,50.071433,19.925756,pl. Axentowicza 4,30-034,8.9,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+992,C,,50.071342,19.927196,ul. Łobzowska 46,30-038,8.2,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+993,B,,50.074122,19.936533,ul. Prądnicka 1a,30-002,29.8,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+994,C,,50.070011,19.925764,ul. Sienkiewicza 2,30-033,8.7,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+996,C,,50.070533,19.926921,ul. Lenartowicza 19,31-138,1.9,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+999,C,,50.07198,19.925977,pl. Axentowicza (vis. nr 3),30-034,21.4,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1000,C,,50.072181,19.925289,pl. Axentowicza / Wyspiańskiego,30-035,16.6,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1001,C,,50.072869,19.925481,ul. Wyspiańskiego 7,30-035,9.1,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1002,C,,50.0737,19.925867,ul. Grottgera 15,30-035,15.6,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1003,C,,50.073128,19.927314,ul. Sienkiewicza 23 /Grottgera,30-033,16.2,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1004,C,,50.072154,19.926776,ul. Sienkiewicza  19,30-033,22.8,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1005,C,,50.070942,19.926249,ul. Sienkiewicza  12,30-033,10.9,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1006,C,,50.07185,19.926631,pl. Axentowicza / Sienkiewicza (vis. kościół),30-033,24.1,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1008,C,,50.072375,19.929092,ul. Grottgera 3 /Gzymsików,30-035,13.9,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1009,C,,50.072228,19.928686,ul. Grottgera 2,30-035,9.7,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1010,C,,50.074031,19.924178,ul. Grottgera 26,30-043,9.5,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1011,C,,50.074257,19.923364,ul. Grottgera 32 / Kujawska,30-043,18.9,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1012,C,,50.073339,19.922908,ul. Kujawska / Zbrojów,30-042,10.3,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1013,C,,50.072847,19.924247,ul. Biernackiego 11,30-043,11.7,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1014,C,,50.072309,19.922381,ul. Kazimierza Wielkiego / Kujawska,30-074,13.7,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1015,C,,50.073702,19.91862,ul. Kazimierza Wielkiego / Racławicka,30-074,21.2,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1016,C,,50.074542,19.918981,ul. Racławicka 8,30-075,13.0,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1017,C,,50.075642,19.919436,ul. Racławicka 20,30-012,12.1,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1018,C,,50.07285,19.930994,ul. Mazowiecka 5a,30-019,5.2,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1019,C,,50.073103,19.93045,ul. Mazowiecka 8,30-019,12.0,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1020,C,,50.073353,19.929922,ul. Mazowiecka 15,30-015,15.8,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1022,C,,50.074058,19.928592,ul. Sienkiewicza  / Mazowiecka,30-036,24.0,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1023,C,,50.074483,19.928103,ul. Mazowiecka 26B,30-019,10.9,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1024,C,,50.074875,19.927122,ul. Mazowiecka 33,30-019,1.1,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1026,C,,50.075303,19.924856,ul. Mazowiecka 46,30-019,18.3,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1027,C,,50.069519,19.920739,ul. Konarskiego 32,30-049,7.8,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1028,C,,50.075731,19.923856,ul. Mazowiecka 49,30-019,16.0,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1029,C,,50.076544,19.921133,ul. Mazowiecka 88,30-023,25.5,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1030,C,,50.076658,19.920217,ul. Racławicka 29,30-012,13.9,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1031,C,,50.078208,19.921058,ul. Litewska / Racławicka,30-014,14.3,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1032,C,,50.077797,19.922086,ul. Litewska 37,30-014,14.6,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1033,C,,50.077475,19.922983,ul. Litewska 30,30-022,27.6,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1034,C,,50.077067,19.923761,ul. Litewska 37,30-014,10.6,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1035,C,,50.076392,19.926008,ul. Litewska 20,30-014,13.1,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1036,C,,50.078856,19.922008,ul. Wrocławska 62,30-011,37.7,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1037,C,,50.078216,19.923628,ul. Wrocławska 54,30-011,15.2,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1038,C,,50.077761,19.924817,ul. Wrocławska 42,30-011,5.5,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1039,C,,50.077197,19.926158,ul. Wrocławska 36b,30-011,5.4,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1040,C,,50.075419,19.929408,ul. Świętokrzyska 8,30-015,11.1,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1041,C,,50.075553,19.929511,ul. Świętokrzyska 5,30-015,14.1,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1042,C,,50.074039,19.933292,ul. Śląska 6,30-003,6.2,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1043,C,,50.074178,19.932931,ul. Śląska /Lubelska,30-003,6.4,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1045,C,,50.0739,19.930536,ul. Lubelska 7,30-003,9.4,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1046,C,,50.074836,19.929869,ul. Cieszyńska 4,30-015,3.7,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1047,C,,50.075017,19.931275,ul. Cieszyńska 16,30-015,14.0,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1050,C,,50.075131,19.932089,ul. Śląska 11,30-003,20.5,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1051,C,,50.075216,19.932653,ul. Wrocławska 8,30-003,31.9,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1052,C,,50.074872,19.934646,ul. Wrocławska 2,30-003,38.8,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1054,B,,50.075006,19.936067,ul. Prądnicka 8,30-002,24.0,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1056,C,,50.074533,19.935186,ul. Lubelska 29,30-003,16.9,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1057,C,,50.074236,19.932358,ul. Lubelska 18a,30-003,1.9,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1058,C,,50.073875,19.933894,ul. Śląska 3,30-003,4.0,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1060,C,,50.074331,19.934825,ul. Lubelska 20,30-003,10.2,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1062,C,,50.072148,19.917513,ul. Nowowiejska 20,30-052,9.0,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1064,A,,50.070322,19.927661,al. Słowackiego 11A /Lenartowicza (P1),31-159,11.0,wspolrzedne_zdmk,A3,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1065,C,,50.075042,19.92645,ul. Mazowiecka 39 /Wójtowska,30-019,7.3,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1066,C,,50.071026,19.916786,ul. Nowowiejska 37,30-052,16.0,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1067,C,,50.069847,19.923319,ul. Józefitów 19a,30-045,8.7,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1068,C,,50.069689,19.924317,pl. Inwalidów 4,30-033,14.0,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1069,C,,50.071786,19.919503,ul. Urzędnicza / Królewska,30-045,19.4,wspolrzedne_zdmk,C8,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1070,C,,50.072392,19.918098,ul. Królewska 49,30-040,10.8,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1071,B,,50.080051,19.921372,ul. Racławicka 56,30-017,21.4,wspolrzedne_zdmk,B10,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1072,C,,50.075225,19.923705,ul. Rzeczna (garaże),30-021,30.4,wspolrzedne_zdmk,C9,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1073,A,,50.068614,19.945097,ul. Pawia (Hotel PURO),31-155,19.2,wspolrzedne_zdmk,A3,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1074,B,,50.052865,19.954105,al. Daszyńskiego (Galeria Kazimierz),31-534,124.8,wspolrzedne_zdmk,B12,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1075,A,,50.036291,19.947157,ul. Czyżówka,30-526,21.5,wspolrzedne_zdmk,A20,Flowbird STRADA EVOLUTION II,zbliżeniowa
+1101,C,,50.045755,19.924637,ul. Boczna(przychodnia) / Szwedzka,30-315,22.2,wspolrzedne_zdmk,C22,Solari SPAZIO,zbliżeniowa
+1102,C,,50.045765,19.925291,ul. Szwedzka (n/p 44),30-324,23.4,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1103,C,,50.04612,19.926649,ul. Mitkowskiego 4,30-337,18.9,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1104,C,,50.046032,19.928763,ul. Twardowskiego 25,30-312,7.2,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1105,C,,50.046822,19.930004,ul. Twardowskiego 20,30-312,10.8,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1106,C,,50.046687,19.930974,ul. Bułhaka / Wygrana 6,30-312,36.9,wspolrzedne_zdmk,C22,Solari SPAZIO,zbliżeniowa
+1107,C,,50.044897,19.925251,ul. Twardowskiego 49,30-312,16.1,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1108,C,,50.044228,19.924405,ul. Dworska 23,30-314,20.4,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1109,C,,50.044308,19.925225,ul. Słomiana 2,30-316,24.0,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1110,C,,50.043714,19.9277,"ul. Szwedzka (ślepa, plac zabaw)",30-315,17.8,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1111,C,,50.044636,19.926541,ul. Dworska n/p 15 / Szwedzka,30-315,28.9,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1112,C,,50.045391,19.928352,ul. Mieszczańska / Dworska,30-314,31.3,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1113,C,,50.045418,19.927076,ul. Mitkowskiego / Twardowskiego,30-312,8.7,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1114,C,,50.045897,19.930769,ul. Wierzbowa 12,30-314,22.4,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1115,C,,50.043953,19.925665,ul. Słomiana 3,30-316,9.0,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1116,C,,50.043168,19.926109,ul. Słomiana 7,30-316,16.1,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1117,C,,50.042453,19.926503,ul. Słomiana 11,30-316,9.3,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1118,C,,50.04159,19.92676,ul. Słomiana 17-19,30-316,24.9,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1120,C,,50.045197,19.925801,ul. Szwedzka 45,30-324,15.0,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1121,C,,50.044916,19.930226,ul. Komandosów 5,30-334,9.7,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1122,C,,50.044222,19.930569,ul. Komandosów 13,30-334,13.6,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1123,C,,50.043501,19.93058,ul. Komandosów 8,30-334,22.8,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1124,C,,50.042922,19.93139,ul. Komandosów 21,30-334,41.1,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1125,C,,50.043206,19.932891,ul. Komandosów 25,30-334,39.8,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1126,C,,50.044526,19.933529,ul. Barska (przy bud.Konopnickiej 31),30-302,58.2,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1127,C,,50.044781,19.933051,ul. Barska n/p Konopnickiej 31,30-307,33.3,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1128,C,,50.046145,19.931795,ul. Na Ustroniu / Wierzbowa,30-311,23.7,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1129,C,,50.046218,19.927476,ul. Mieszczańska 4,30-313,10.1,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1130,C,,50.046713,19.926423,ul. Mitkowskiego /Monte Cassino,30-337,23.1,wspolrzedne_zdmk,C22,Solari SPAZIO,brak
+1131,C,,50.046557,19.931813,ul. Wygrana,30-312,45.8,wspolrzedne_zdmk,C22,Solari SPAZIO,zbliżeniowa
+1151,C,,50.050094,19.962502,ul. Zabłocie / Ślusarska,30-701,22.1,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1152,C,,50.049683,19.964258,ul. Zabłocie / Romanowicza,30-702,31.3,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1153,C,,50.049351,19.965425,ul. Zabłocie 43,30-701,29.3,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1154,C,,50.045071,19.963105,ul. Dekerta 2,30-703,7.7,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1156,C,,50.045749,19.964763,ul. Dekerta 12,30-703,8.6,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1157,C,,50.046014,19.965802,ul. Dekerta 17,30-703,21.1,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1158,C,,50.046112,19.966465,ul. Wałowa 2,30-704,10.1,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1159,C,,50.045234,19.967052,ul. Wałowa 15 /Na Dołach,30-704,6.5,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1160,C,,50.046087,19.967462,ul. Kiełkowskiego (klub sportowy),30-704,19.2,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1161,C,,50.047799,19.967295,ul. Dekerta 21,30-703,42.2,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1163,C,,50.047079,19.96708,ul. Dekerta 18 (lokalizacja parkomatu bliżej ul. Kiełkowskiego),30-703,20.0,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1164,C,,50.045334,19.970641,ul. Turbasy,30-704,57.8,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1165,C,,50.050242,19.967295,ul. Zabłocie 22 (pod estakadą kolejową),30-701,23.8,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1166,C,,50.049439,19.962047,ul. Ślusarska 5,30-701,19.0,wspolrzedne_zdmk,C19,Solari SPAZIO,brak
+1201,C,,50.058926,19.89926,ul. Piastowska /ul.Leszczynowa,30-211,14.8,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1202,C,,50.056919,19.89553,ul. Hofmana 34,30-210,30.8,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1203,C,,50.057274,19.89834,ul. Hofmana 14,30-210,14.2,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1204,C,,50.056854,19.901668,ul. Królowej Jadwigi 100a,30-209,9.6,wspolrzedne_zdmk,C7,Solari SPAZIO,zbliżeniowa
+1205,C,,50.056498,19.903213,ul. Królowej Jadwigi 89 /ul.Przegon,30-209,12.3,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1206,C,,50.056603,19.903796,ul. Przegon (od strony: Królowej Jadwigi),30-209,25.1,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1207,C,,50.057565,19.904814,ul. Przegon 22 /ul.Emaus,30-213,17.8,wspolrzedne_zdmk,C7,Solari SPAZIO,zbliżeniowa
+1208,C,,50.056681,19.906381,al. Focha /ul.Emaus,30-213,30.0,wspolrzedne_zdmk,C7,Solari SPAZIO,zbliżeniowa
+1209,C,,50.056166,19.904075,ul. Królowej Jadwigi /al.Focha,30-209,45.5,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1210,C,,50.055745,19.905486,ul. Królowej Jadwigi 77,30-209,8.8,wspolrzedne_zdmk,C7,Solari SPAZIO,zbliżeniowa
+1211,C,,50.05533,19.906893,ul. Królowej Jadwigi 64,30-209,16.2,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1212,C,,50.054978,19.908735,ul. Królowej Jadwigi 41,30-209,9.4,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1213,C,,50.054617,19.91011,ul. Królowej Jadwigi 40-42,30-209,12.0,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1214,C,,50.054423,19.911267,ul. Królowej Jadwigi 32a,30-209,13.9,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1215,C,,50.054175,19.912417,ul. Królowej Jadwigi 21,30-209,5.5,wspolrzedne_zdmk,C7,Solari SPAZIO,zbliżeniowa
+1216,C,,50.053457,19.913187,ul. Królowej Jadwigi 16,30-202,10.0,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1217,C,,50.052861,19.915062,ul. Kościuszki (pętla),30-201,36.8,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1218,C,,50.053685,19.914707,ul. Emaus 8,30-201,14.9,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1219,C,,50.054484,19.913333,ul. Gryfity 8 /ul.Emaus,30-201,10.7,wspolrzedne_zdmk,C7,Solari SPAZIO,brak
+1251,C,,50.07135,19.904454,ul. Piastowska 32,30-070,11.1,wspolrzedne_zdmk,C8,Solari SPAZIO,brak
+1252,C,,50.072185,19.906007,ul. Lea /ul.Rolnicza,30-058,26.1,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1253,C,,50.072003,19.907069,ul. Lea 96 /ul.Gramatyka,30-058,18.1,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1254,C,,50.072056,19.907938,ul. Lea 99,30-058,11.3,wspolrzedne_zdmk,C8,Solari SPAZIO,brak
+1255,C,,50.071874,19.908525,ul. Lea 88,30-058,6.2,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1256,C,,50.071934,19.909129,ul. Lea /ul.Smoluchowskiego,30-083,8.9,wspolrzedne_zdmk,C8,Solari SPAZIO,brak
+1257,C,,50.071667,19.910087,ul. Lea (n/p 79),30-058,14.1,wspolrzedne_zdmk,C8,Solari SPAZIO,brak
+1258,C,,50.071679,19.91074,ul. Lea 77 /ul.Skarbińskiego,30-058,14.6,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1259,C,,50.071204,19.910771,ul. Skarbińskiego (n/p nr2),30-058,38.8,wspolrzedne_zdmk,C8,Solari SPAZIO,brak
+1260,C,,50.070841,19.909619,ul.Skarbińskiego 24,30-071,9.0,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1261,C,,50.071609,19.911515,ul. Lea 75,30-058,33.1,wspolrzedne_zdmk,C8,Solari SPAZIO,brak
+1262,C,,50.071478,19.91176,ul. Lea (Park Wincentego á Paulo),30-058,55.2,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1263,C,,50.071499,19.91308,ul. Lea /ul.Galla,30-052,44.3,wspolrzedne_zdmk,C8,Solari SPAZIO,brak
+1265,C,,50.071699,19.913366,ul. Galla 25 (szpital MSWiA),30-053,24.3,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1266,C,,50.072371,19.913636,ul. Staffa /ul.Galla,30-069,13.2,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1267,C,,50.072787,19.911937,ul. Staffa 5,30-069,19.1,wspolrzedne_zdmk,C8,Solari SPAZIO,brak
+1268,C,,50.073046,19.910778,ul. Staffa 9,30-069,9.6,wspolrzedne_zdmk,C8,Solari SPAZIO,brak
+1269,C,,50.07291,19.909526,ul. Smoluchowskiego /ul.Chmiela,30-069,26.6,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1270,C,,50.073964,19.910304,ul. Smoluchowskiego 2 /ul.Królewska,30-079,47.2,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1271,C,,50.073718,19.91214,ul.Królewska 92,30-079,20.9,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1272,C,,50.073322,19.913698,ul.Królewska 90,30-079,13.0,wspolrzedne_zdmk,C8,Solari SPAZIO,zbliżeniowa
+1273,C,,50.073121,19.914092,ul. Galla 15,30-053,6.4,wspolrzedne_zdmk,C8,Solari SPAZIO,brak
+1301,C,,50.075823,19.906523,ul. Podchorążych (WKS Wawel) /ul.Głowackiego,30-085,52.0,wspolrzedne_zdmk,C9,Solari SPAZIO,brak
+1302,C,,50.07547,19.906881,ul. Podchorążych (WKS Wawel),30-070,60.2,wspolrzedne_zdmk,C9,Solari SPAZIO,brak
+1303,C,,50.074542,19.909145,"ul. Podchorążych, vis. UP",30-078,69.2,wspolrzedne_zdmk,C9,Solari SPAZIO,zbliżeniowa
+1304,C,,50.073608,19.913456,ul. Królewska 61,30-081,27.1,wspolrzedne_zdmk,C9,Solari SPAZIO,zbliżeniowa
+1305,C,,50.073849,19.91465,ul. Galla 10,30-053,5.6,wspolrzedne_zdmk,C9,Solari SPAZIO,brak
+1306,C,,50.07462,19.913765,ul. Kazimierza Wielkiego 116,30-082,7.4,wspolrzedne_zdmk,C9,Solari SPAZIO,zbliżeniowa
+1307,C,,50.07492,19.911803,ul. Kazimierza Wielkiego 140,30-082,7.4,wspolrzedne_zdmk,C9,Solari SPAZIO,brak
+1308,C,,50.07516,19.91094,ul. Kazimierza Wielkiego 117,30-148,15.5,wspolrzedne_zdmk,C9,Solari SPAZIO,brak
+1309,C,,50.075505,19.914829,ul. Siemieńskiego /ul. Zakątek,30-076,15.5,wspolrzedne_zdmk,C9,Solari SPAZIO,brak
+1310,C,,50.074044,19.911649,ul. Królewska 67,30-081,17.1,wspolrzedne_zdmk,C9,Solari SPAZIO,brak
+1351,C,,50.060239,19.968467,al. Pokoju 23,31-548,25.6,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1352,C,,50.05963,19.970805,ul. Fabryczna 3,31-553,29.3,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1353,C,,50.058953,19.970443,ul. Fabryczna /ul.Grzegórzecka,31-553,18.4,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1354,C,,50.058531,19.970857,ul. Grzegórzecka 85,31-559,22.3,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1355,C,,50.0587,19.971538,ul. Grzegórzecka 93,31-559,14.1,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1356,C,,50.059321,19.973282,ul. Grzegórzecka n/p 101,31-559,16.1,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1357,C,,50.058702,19.972668,ul. Żółtej Ciżemki 3,31-560,4.8,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1358,C,,50.05794,19.972576,ul. Skrzatów 1,31-560,13.1,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1359,C,,50.057525,19.971419,ul. Skrzatów 2,31-560,70.4,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1360,C,,50.061059,19.970391,ul. Fabryczna / al. Pokoju,31-553,39.9,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1361,C,,50.062672,19.971306,ul. Fabryczna vis. 7,31-553,19.9,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1362,C,,50.062432,19.971271,ul. Fabryczna 7a,31-553,21.3,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1363,C,,50.06321,19.972615,ul. Fabryczna 11,31-553,13.0,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1364,C,,50.063977,19.974056,ul. Fabryczna 15a,31-553,17.1,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1365,C,,50.066431,19.965889,ul. Mogilska 33,31-545,10.0,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1366,C,,50.06642,19.967473,ul. Mogilska 43,31-545,9.4,wspolrzedne_zdmk,C16,Solari SPAZIO,brak
+1401,C,,50.033137,19.935966,ul. Rzemieślnicza 7,30-363,13.7,wspolrzedne_zdmk,C21,Solari SPAZIO,brak
+1402,C,,50.033148,19.931725,ul. Rzemieślnicza 20,30-363,32.0,wspolrzedne_zdmk,C21,Solari SPAZIO,zbliżeniowa
+1403,C,,50.033008,19.930671,ul. Rzemieślnicza 23,30-363,33.6,wspolrzedne_zdmk,C21,Solari SPAZIO,brak
+1404,C,,50.033291,19.934819,ul. Skrzyneckiego /ul.Rzemieślnicza,30-363,22.5,wspolrzedne_zdmk,C21,Solari SPAZIO,brak
+1405,C,,50.034005,19.934868,ul. Skrzyneckiego przy warsztatach szkolnych,30-363,15.7,wspolrzedne_zdmk,C21,Solari SPAZIO,zbliżeniowa
+1407,C,,50.035327,19.938341,ul. Rydlówka (n/p 5a),30-347,52.0,wspolrzedne_zdmk,C21,Solari SPAZIO,brak
+1408,C,,50.035146,19.937361,ul. Rydlówka (n/p nr.9),30-347,34.0,wspolrzedne_zdmk,C21,Solari SPAZIO,brak
+1409,C,,50.035768,19.931306,ul. Rydlówka 44,30-363,19.6,wspolrzedne_zdmk,C21,Solari SPAZIO,brak
+2003,A,,50.057562,19.930539,ul. Zwierzyniecka 21-23,31-105,8.9,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2004,A,,50.056936,19.9297,ul. Zwierzyniecka 27,31-105,10.0,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2005,A,,50.055646,19.940212,ul. św. Gertrudy 17,31-048,9.0,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2007,A,,50.054648,19.939896,ul. św. Gertrudy 21,31-048,15.8,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2009,A,,50.058454,19.932408,ul. Zwierzyniecka 1,31-103,11.9,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2010,A,,50.055719,19.940791,ul. św. Sebastiana 4-2,31-049,9.6,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2011,A,,50.057726,19.930572,ul. Mała 1-3,31-107,4.3,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2012,A,,50.056178,19.928522,pl. Kossaka 1,31-106,14.3,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2013,A,,50.056696,19.928943,ul. Retoryka 26,31-107,3.8,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2014,A,,50.057061,19.928472,ul. Wygoda 1,31-108,16.9,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2016,A,,50.057427,19.928812,ul. Retoryka 18-20,31-107,6.9,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2019,A,,50.058022,19.929103,ul. Zegadłowicza 3,31-104,10.7,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2020,A,,50.058161,19.928683,ul. Retoryka 12,31-107,4.2,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2021,A,,50.058067,19.928358,ul. Retoryka 13b,31-108,8.0,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2022,A,,50.058447,19.927114,ul. Smoleńsk 33,31-112,12.8,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2023,A,,50.05862,19.928197,ul. Smoleńsk 27,31-108,15.9,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2024,A,,50.059133,19.931161,ul. Smoleńsk 9-11,31-108,9.9,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2025,A,,50.058714,19.928764,ul. Smoleńsk 25a,31-108,7.3,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2027,A,,50.058903,19.928058,ul. Retoryka 7,31-108,6.1,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2028,A,,50.059175,19.928419,ul. Retoryka 4b-6,31-107,3.7,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2029,A,,50.059623,19.927539,ul. Piłsudskiego 26,31-109,18.9,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2030,A,,50.060014,19.929444,ul. Piłsudskiego 16,31-109,8.7,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2031,A,,50.060211,19.930193,ul. Piłsudskiego 17,31-110,19.4,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2033,A,,50.061145,19.93117,ul. Jabłonowskich 5,31-114,4.4,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2035,A,,50.061084,19.929023,pl. Sikorskiego 6a,31-115,16.2,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2036,A,,50.061069,19.928336,pl. Sikorskiego 13,31-115,16.8,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2037,A,,50.060541,19.927359,ul. Garncarska 21,31-115,9.6,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2038,A,,50.060425,19.926986,ul. Wenecja 1,31-117,2.1,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2039,A,,50.061044,19.925903,ul. Wenecja 6,31-117,10.8,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2040,A,,50.061133,19.92749,ul. Garncarska 13,31-115,11.5,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2041,A,,50.062425,19.924761,ul. Krupnicza 42a,31-123,13.9,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2042,A,,50.062099,19.925494,ul. Wenecja 14,31-123,42.0,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2044,A,,50.063072,19.927181,ul. Krupnicza 32,31-123,7.9,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2045,A,,50.062365,19.927814,ul. Garncarska 10,31-116,12.8,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2046,A,,50.062503,19.929377,ul. Studencka 19,31-116,7.7,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2047,A,,50.062516,19.930403,ul. Studencka 8,31-116,14.4,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2050,A,,50.062685,19.931657,ul. Studencka 3,31-116,9.4,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2051,A,,50.052341,19.940169,ul. Koletek 2,31-071,9.3,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2054,A,,50.063804,19.929203,ul. Szujskiego 11,31-123,12.2,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2055,A,,50.063853,19.925278,ul. Czysta 19-21,31-121,9.0,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2056,A,,50.063756,19.926568,ul. Skarbowa 4,31-121,17.8,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2057,A,,50.063899,19.927624,ul. Czysta 1,31-121,8.8,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2058,A,,50.056685,19.942559,ul. Bogusławskiego 2,31-048,11.6,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2060,A,,50.064623,19.929041,ul. Szujskiego 4 /Rajska,31-123,21.1,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2061,A,,50.064764,19.929686,ul. Rajska 14,31-124,13.7,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2062,A,,50.064958,19.931078,ul. Rajska 4,31-124,8.4,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2063,A,,50.064783,19.931721,ul. Garbarska 26,31-128,18.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2066,A,,50.065217,19.932953,ul. Garbarska 16-14,31-131,10.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2067,A,,50.065343,19.927082,ul. Czarnowiejska 3,31-126,11.8,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2069,A,,50.066589,19.926678,ul. Kochanowskiego 17,31-127,10.4,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2070,A,,50.066076,19.927911,ul. Kochanowskiego 8,31-127,12.1,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2071,A,,50.066797,19.927078,ul. Grabowskiego 11,31-126,4.3,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2072,A,,50.067638,19.92699,ul. Pawlikowskiego 7,31-127,8.7,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2073,A,,50.067248,19.927991,ul. Grabowskiego 3,31-126,3.7,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2074,A,,50.066604,19.928766,ul. Michałowskiego 3,31-126,10.7,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2075,A,,50.068447,19.927317,ul. Siemiradzkiego 35,31-128,12.6,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2077,A,,50.067871,19.928013,ul. Karmelicka 45,31-128,11.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2078,A,,50.066931,19.92965,ul. Batorego 26,31-135,4.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2079,A,,50.067854,19.929285,ul. Kremerowska 15,31-130,15.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2080,A,,50.068764,19.928172,ul. Siemiradzkiego 29-31,31-137,12.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2082,A,,50.067954,19.930447,ul. Kremerowska 5,31-130,7.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2083,A,,50.069228,19.929689,ul. Siemiradzkiego 19,31-137,8.4,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2084,A,,50.069172,19.930706,ul. Siemiradzkiego 11,31-136,13.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2085,A,,50.068628,19.931,ul. Sobieskiego 15,31-136,8.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2086,A,,50.067989,19.931291,ul. Sobieskiego 9,31-136,12.6,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2087,A,,50.0672,19.93167,ul. Batorego 12,31-135,16.8,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2088,A,,50.067334,19.932518,ul. Batorego 8,31-135,7.5,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2089,A,,50.069177,19.932834,ul. Siemiradzkiego 1,31-137,12.5,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2091,A,,50.0658,19.93043,ul. Karmelicka 23,31-131,7.5,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2111,A,,50.066072,19.929981,ul. Karmelicka 32,31-128,16.3,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2115,A,,50.061106,19.930422,ul. Loretańska naprzeciw 20,31-114,15.1,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2117,A,,50.062412,19.928433,ul. Studencka 25,31-116,8.6,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2120,A,,50.064548,19.927711,ul. Rajska / Dolnych Młynów,31-124,16.3,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2127,A,,50.050762,19.938048,ul. Dietla / Sukiennicza,31-069,41.0,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2147,A,,50.054703,19.943612,ul. Dietla 64,31-039,7.8,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2148,A,,50.063912,19.94674,ul. Radziwiłłowska 27,31-026,4.9,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2150,A,,50.062933,19.94685,ul. Skłodowskiej-Curie 14,31-026,11.2,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2151,A,,50.050475,19.936575,ul. Dietla vis. 3,31-070,44.0,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2153,A,,50.061578,19.947303,ul. Radziwiłłowska 1,31-026,12.5,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2154,A,,50.063425,19.945198,ul. Zamenhoffa 2,31-033,12.8,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2155,A,,50.062818,19.945177,ul. Skłodowskiej-Curie 2 /Westerplatte,31-025,7.9,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2156,A,,50.06217,19.944835,ul. Westerplatte 11,31-033,32.3,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2157,A,,50.061116,19.946283,ul. Kopernika 12,31-034,13.8,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2161,A,,50.060128,19.944846,ul. Zyblikiewicza 5,31-029,17.9,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2162,A,,50.059825,19.9455,ul. Librowszczyzna 10,31-029,7.4,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2163,A,,50.059794,19.946405,ul. Zyblikiewicza 16,31-029,9.7,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2164,A,,50.059138,19.947352,ul. Bonerowska 14,31-030,11.3,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2165,A,,50.059091,19.945813,ul. Bonerowska 2,31-029,10.5,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2167,A,,50.058511,19.94565,ul. Librowszczyzna 2,31-030,12.1,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2169,A,,50.057823,19.945633,ul. Wielopole 17a,31-072,8.4,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2170,A,,50.058397,19.94485,ul. Wielopole 15,31-072,5.8,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2172,A,,50.059143,19.942994,ul. Wielopole 1,31-072,18.5,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2173,A,,50.059275,19.942256,ul. Starowiślna 1,31-038,2.1,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2174,A,,50.058381,19.943233,ul. Starowiślna 11,31-038,5.3,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2176,A,,50.057285,19.944398,ul. Starowiślna 21,31-038,2.6,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2177,A,,50.058587,19.947462,ul. Morsztynowska 1,31-072,14.7,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2178,A,,50.057964,19.940734,ul. św. Gertrudy 7,31-046,13.6,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2179,A,,50.056888,19.940632,ul. Sarego 1,31-047,15.9,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2182,A,,50.056496,19.943611,ul. Sarego 19,31-047,10.2,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2183,A,,50.056108,19.944625,ul. Sarego 27,31-047,15.5,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2184,A,,50.055454,19.943685,ul. św. Sebastiana 22,31-049,7.6,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2185,A,,50.05558,19.942382,ul. Bogusławskiego 10,31-049,13.6,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2186,A,,50.056367,19.9403,ul. św. Gertrudy 14,31-048,14.0,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2188,A,,50.058383,19.945792,ul. Wielopole 21,31-072,8.5,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2189,A,,50.059867,19.928403,ul. Piłsudskiego 22,31-109,17.8,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2190,A,,50.053257,19.94018,ul. Stradomska 10,31-058,9.4,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2191,A,,50.053189,19.939935,ul. Stradomska 11,31-068,9.5,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2195,A,,50.052202,19.938771,ul. Koletek 7-9,31-069,13.8,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2197,A,,50.051921,19.937427,ul. Koletek / Sukiennicza,31-069,43.7,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2198,A,,50.061006,19.930064,ul. Jabłonowskich 10-12,31-110,21.4,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2200,A,,50.051405,19.935423,ul. Smocza 10,31-069,19.7,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2201,A,,50.052351,19.935094,ul. Smocza 2,31-069,11.9,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2203,A,,50.052886,19.936041,ul. Bernardyńska 7,31-069,19.6,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2205,A,,50.053317,19.937103,ul. Bernardyńska 5,31-069,18.7,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2207,A,,50.053817,19.938369,ul. Bernardyńska 2,31-068,68.4,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2212,A,,50.056744,19.934092,ul. Straszewskiego 12,31-101,7.5,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2216,A,,50.055523,19.934695,ul. Straszewskiego 4,31-101,17.3,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2217,A,,50.053792,19.939371,ul. Stradomska 3,31-068,5.2,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2219,A,,50.051416,19.940818,ul. św. Agnieszki 12,31-068,21.0,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2222,A,,50.056478,19.927926,ul. Morawskiego / pl. Kossaka,31-106,13.4,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2223,A,,50.061673,19.930443,ul. Loretańska 11,31-114,18.8,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2224,A,,50.062268,19.931818,ul. Podwale 2,31-118,7.4,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2226,A,,50.061128,19.931997,ul. Straszewskiego 26,31-114,9.3,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2230,A,,50.06635,19.929748,ul. Karmelicka 29,31-131,9.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2231,A,,50.066734,19.929139,ul. Karmelicka 42,31-131,15.5,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2232,A,,50.063353,19.928086,ul. Krupnicza 28,31-123,4.3,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2233,A,,50.069441,19.928505,ul. Lenartowicza 4,31-138,6.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2271,A,,50.059903,19.942753,ul. Westerplatte 20,31-033,14.6,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2272,A,,50.057188,19.945216,ul. Dietla 80,31-073,25.4,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2273,A,,50.057389,19.945552,ul. Dietla 82,31-073,23.0,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2285,A,,50.067075,19.930716,ul. Batorego 20,31-135,9.6,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2289,A,,50.058561,19.929514,ul. Bożego Miłosierdzia 1,31-104,13.1,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2292,A,,50.063133,19.927608,ul. Garncarska 1,31-115,13.9,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2293,A,,50.061895,19.927633,ul. Garncarska 16,31-115,10.7,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2294,A,,50.057214,19.940558,ul. Gertrudy 10,31-046,12.2,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2295,A,,50.064769,19.931521,ul. Karmelicka 18-20,31-128,6.4,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2296,A,,50.067231,19.928614,ul. Karmelicka 41,31-128,9.4,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+2298,A,,50.051619,19.936529,ul. Koletek 15,31-069,12.1,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2302,A,,50.061151,19.944323,ul. Kopernika 2,31-034,14.0,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2305,A,,50.053217,19.942463,ul. Dietla 52,31-039,10.2,wspolrzedne_zdmk,A4,Solari SPAZIO EVO,zbliżeniowa
+2310,A,,50.059328,19.932367,ul. Smoleńsk 3,31-108,12.9,wspolrzedne_zdmk,A2,Solari SPAZIO EVO,zbliżeniowa
+2315,A,,50.064029,19.932426,ul. Karmelicka 7,31-133,9.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3001,A,,50.050283,19.937664,ul. Dietla 7-9,31-070,8.9,wspolrzedne_zdmk,A13,Solari SPAZIO,zbliżeniowa
+3002,A,,50.050578,19.939769,ul. Dietla 23-25,31-070,6.4,wspolrzedne_zdmk,A13,Solari SPAZIO,zbliżeniowa
+3003,A,,50.053215,19.943291,ul. Dietla 55-57,31-054,5.7,wspolrzedne_zdmk,A13,Solari SPAZIO,zbliżeniowa
+3004,A,,50.054127,19.944061,ul. Dietla / Brzozowa,31-050,9.0,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3005,A,,50.055391,19.944959,ul. Dietla 79-81,31-050,10.4,wspolrzedne_zdmk,A13,Solari SPAZIO,zbliżeniowa
+3006,A,,50.056817,19.947128,ul. Wrzesińska 5-7,31-031,5.9,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3007,A,,50.055453,19.94635,ul. Starowiślna 35-37,31-038,9.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3008,A,,50.054047,19.947881,ul. Starowiślna 57,31-038,5.0,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3009,A,,50.054822,19.947286,ul. Joselewicza 15,31-051,8.8,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3010,A,,50.054736,19.947092,ul. Joselewicza 13,31-038,8.0,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3011,A,,50.054499,19.946383,ul. Joselewicza 16,31-051,5.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3012,A,,50.054141,19.945536,ul. św. Sebastiana 33,31-051,7.3,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3013,A,,50.05381,19.944905,ul. Brzozowa / Podbrzezie,31-050,12.6,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3014,A,,50.053672,19.945881,ul. Brzozowa 13,31-050,13.2,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3015,A,,50.053761,19.948647,ul. Miodowa 49,31-036,14.1,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3016,A,,50.053472,19.947481,ul. Miodowa 36,31-052,13.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3017,A,,50.053339,19.947189,ul. Miodowa 39,31-052,7.3,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3018,A,,50.053128,19.946028,ul. Miodowa 28a,31-055,8.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3019,A,,50.052911,19.945111,ul. Miodowa 24a,31-055,7.9,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3020,A,,50.052561,19.944006,ul. Miodowa 19,31-055,12.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3021,A,,50.052092,19.943078,ul. Bożego Ciała 3,31-055,12.2,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3022,A,,50.051503,19.942219,ul. Miodowa 2,31-055,7.7,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3023,A,,50.053728,19.949486,ul. Halicka 2,31-036,12.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3024,A,,50.053009,19.950294,ul. Rzeszowska 8 / Halicka,31-035,8.6,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3025,A,,50.052747,19.950819,ul. Halicka 9,31-036,24.1,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3026,A,,50.052024,19.95156,ul. Przemyska / Halicka 14a,31-036,19.8,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3027,A,,50.051386,19.952369,ul. Halicka 14,31-036,7.0,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3028,A,,50.050544,19.953022,ul. św. Wawrzyńca 40,31-052,24.2,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3029,A,,50.050725,19.951753,ul. św. Wawrzyńca 36a,31-052,8.4,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3030,A,,50.052623,19.949713,Rzeszowska 1 /Starowiślna,31-035,4.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3031,A,,50.052161,19.949863,ul. Starowiślna 81,31-052,12.2,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3032,A,,50.051697,19.950631,ul. Przemyska 2,31-035,13.8,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3033,A,,50.052681,19.948897,ul. Dajwór / Starowiślna 75,31-052,13.2,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3034,A,,50.051904,19.949195,ul. Dajwór 5,31-052,9.9,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3035,A,,50.051197,19.949471,ul. Dajwór 14,31-052,12.7,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3036,A,,50.050678,19.949507,ul. Dajwór 23-25,31-052,7.8,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3037,A,,50.052347,19.948206,ul. Szeroka 15,31-053,13.7,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3038,A,,50.053014,19.947814,ul. Szeroka 2,31-053,15.7,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3039,A,,50.052681,19.94639,ul. Jakuba 7,31-057,12.1,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3040,A,,50.052,19.946733,ul. Jakuba 19,31-057,4.2,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3041,A,,50.052387,19.945748,ul. Kupa 2,31-057,13.0,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3042,A,,50.051464,19.946091,ul. Kupa / Izaaka,31-057,10.6,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3043,A,,50.051431,19.945601,ul. Estery 18,31-056,4.2,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3044,A,,50.052159,19.945047,pl. Nowy 10,31-056,10.6,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3045,A,,50.051525,19.944511,ul. Meiselsa 24,31-056,9.6,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3046,A,,50.050322,19.943011,ul. Józefa 2,31-056,8.9,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3047,A,,50.050678,19.944917,ul. Józefa 11,31-056,9.4,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3048,A,,50.051156,19.947206,ul. Józefa 21,31-056,13.2,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3049,A,,50.050567,19.948672,ul. Bartosza 5,31-057,5.3,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3050,A,,50.05029,19.94867,ul. św. Wawrzyńca / Bartosza,31-057,7.3,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3051,A,,50.050227,19.947897,ul. Wąska 12,31-060,23.2,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3052,A,,50.049978,19.947303,ul. św. Wawrzyńca 12,31-060,14.3,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3053,A,,50.049605,19.946166,ul. Gazowa / Wawrzyńca,31-060,10.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3054,A,,50.049626,19.945719,ul. św. Wawrzyńca 9,31-060,12.1,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3055,A,,50.050598,19.944018,ul. Bożego Ciała 18,31-056,10.9,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3056,A,,50.050073,19.944224,ul. Bożego Ciała 24,31-059,4.6,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3057,A,,50.049401,19.944415,ul. Bożego Ciała 31,31-059,11.4,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3058,A,,50.048661,19.944697,pl. Wolnica 11,31-060,14.0,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3059,A,,50.048558,19.945088,ul. Bocheńska 1,31-061,9.9,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3060,A,,50.048367,19.945204,ul. Mostowa 1,31-061,12.6,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3061,A,,50.048242,19.943581,pl. Wolnica 14 /ul.Krakowska 42,31-060,3.4,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3062,A,,50.050253,19.942549,ul. Krakowska 15,31-062,7.3,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3063,A,,50.049214,19.943176,ul. Krakowska 32,31-062,5.8,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3064,A,,50.047349,19.943817,ul. Krakowska 48 /ul.Trynitarska,31-066,19.1,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3065,A,,50.046576,19.944136,ul. Krakowska 50,31-066,31.7,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3066,A,,50.047841,19.945099,ul. Trynitarska / Bonifraterska,31-061,8.7,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3067,A,,50.04776,19.946171,ul. Mostowa 10,31-061,21.0,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3068,A,,50.04801,19.947126,ul. Gazowa 17,31-060,10.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3069,A,,50.048887,19.946614,ul. Bocheńska 8,31-060,13.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3070,A,,50.046843,19.94617,ul. Podgórska 12,31-061,38.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3071,A,,50.047406,19.947442,ul. Podgórska 16,31-061,12.3,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3072,A,,50.046115,19.944168,ul. Rybaki /ul.Krakowska 55,31-066,38.0,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3073,A,,50.045564,19.942511,ul. Rybaki naprzeciw Szkoły,31-067,75.4,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3074,A,,50.046267,19.942077,ul. Chmielowskiego 1,31-067,21.8,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3075,A,,50.04654,19.941048,ul. Wietora 7-9,31-067,11.9,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3076,A,,50.047239,19.940686,ul. Wietora 1,31-067,18.1,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3077,A,,50.047071,19.93968,ul. Skawińska 18,31-066,17.8,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3078,A,,50.047522,19.942481,ul. Skawińska 8,31-066,14.7,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3079,A,,50.047494,19.941775,ul. Skawińska 7,31-066,13.0,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3080,A,,50.048066,19.942398,ul. Augustiańska 30-32,31-064,7.9,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3081,A,,50.048347,19.941576,ul. Piekarska 3,31-067,8.8,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3082,A,,50.048706,19.942128,ul. Węgłowa / Augustiańska,31-064,12.2,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3083,A,,50.048721,19.94259,ul. Węgłowa 4,31-063,12.6,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3084,A,,50.049033,19.940803,ul. Skałeczna 10,31-065,17.6,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3085,A,,50.049222,19.941928,ul. Skałeczna 7,31-065,12.8,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3086,A,,50.049733,19.94165,ul. Augustiańska 18,31-064,1.6,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3087,A,,50.050375,19.941106,ul. Augustiańska 5,31-064,8.4,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3088,A,,50.049928,19.940094,ul. Paulińska 22,31-065,6.7,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3089,A,,50.050225,19.938671,ul. Orzeszkowej 1,31-065,4.5,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3090,A,,50.049519,19.936802,ul. św. Stanisława 8b,31-071,9.1,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3091,A,,50.049289,19.937889,ul. Kordeckiego 10,31-071,6.6,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3092,A,,50.049598,19.939,ul. Orzeszkowej 10 /Paulińska,31-065,8.7,wspolrzedne_zdmk,A13,Solari SPAZIOEVO s2,zbliżeniowa
+3301,A,,50.071173,19.930564,ul. Łobzowska 57,31-139,8.4,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3302,A,,50.070781,19.931676,ul. Łobzowska 49,31-162,22.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3303,A,,50.070013,19.932468,ul. Szlak 1,31-139,13.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3304,A,,50.068867,19.933174,ul. Łobzowska 35-37,31-139,7.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3305,A,,50.06826,19.933515,ul. Łobzowska 25,31-139,7.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3306,A,,50.067671,19.93384,ul. Łobzowska 15,31-139,8.3,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3307,A,,50.066816,19.934136,ul. Łobzowska 7,31-139,10.5,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3308,A,,50.066182,19.934427,ul. Łobzowska 1,31-140,17.8,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3309,A,,50.065211,19.934841,ul. Dunajewskiego 7,31-133,17.4,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3310,A,,50.064617,19.934236,ul. Dunajewskiego 5,31-133,10.5,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3311,A,,50.06586,19.935419,ul. Basztowa (przy ul. Garbarskiej),31-131,40.8,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3312,A,,50.066256,19.937475,ul. Basztowa 7,31-134,13.6,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3313,A,,50.066197,19.935092,ul. Basztowa 1,31-134,16.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3314,A,,50.066587,19.934868,ul. Asnyka 6,31-144,5.6,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3315,A,,50.067061,19.934689,ul. Asnyka 7-9,31-144,6.5,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3316,A,,50.067595,19.935475,ul. Biskupia 12,31-144,7.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3317,A,,50.067021,19.936043,ul. Sereno Fenna 3-5,31-143,11.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3318,A,,50.066834,19.936775,ul. Sereno Fenn'a 8,31-143,6.8,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3319,A,,50.066822,19.93805,ul. Sereno Fenn'a 16,31-142,8.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3320,A,,50.067352,19.937796,ul. Krowoderska 8,31-142,9.8,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3321,A,,50.067505,19.937791,ul. Krowoderska 13,31-141,8.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3322,A,,50.068708,19.937086,ul. Krowoderska 31,31-141,4.2,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3323,A,,50.068773,19.936934,ul. Krowoderska 31,31-141,13.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3324,A,,50.069512,19.936142,ul. Krowoderska 26,31-142,7.3,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3325,A,,50.070301,19.935228,ul. Krowoderska 38-40,31-142,12.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3326,A,,50.070793,19.934635,ul. Szlak 13,31-141,22.2,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3327,A,,50.071125,19.93423,ul. Krowoderska 61a,31-158,11.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3328,A,,50.071587,19.93337,ul. Krowoderska 67-65b,31-158,7.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3329,A,,50.072245,19.932106,ul. Krowoderska 77,31-158,6.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3330,A,,50.072543,19.933871,ul. Żuławskiego 10,31-145,4.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3331,A,,50.072179,19.934134,ul. Kolberga 14,31-160,11.5,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3332,A,,50.071595,19.934651,ul. Kolberga 8,31-160,7.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3333,A,,50.071239,19.9324,ul. św. Teresy 6,31-162,7.2,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3334,A,,50.070753,19.933168,ul. Staszica 6,31-162,7.5,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3335,A,,50.070393,19.933575,ul. Szlak 5-7,31-161,13.0,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3336,A,,50.071171,19.93579,ul. Szlak 23,31-161,7.4,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3337,A,,50.071467,19.939088,ul. Szlak 38,31-153,12.4,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3338,A,,50.071435,19.937858,ul. Szlak 32,31-153,11.0,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3339,A,,50.071272,19.940067,ul. Szlak 40,31-153,15.8,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3340,A,,50.071189,19.939958,ul. Szlak 51,31-153,3.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3341,A,,50.071,19.941328,ul. Szlak 44,31-153,17.0,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3342,A,,50.070894,19.941403,ul. Szlak 65,31-153,7.3,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3343,A,,50.07239,19.936704,ul. Helców 5,31-148,13.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3344,A,,50.072353,19.937617,ul. Helców 13,31-148,11.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3345,A,,50.072277,19.939195,ul. Helców 27,31-148,11.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3346,A,,50.071919,19.939328,ul. Pędzichów 27,31-152,12.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3347,A,,50.071279,19.939181,ul. Pędzichów 23,31-153,14.0,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3348,A,,50.070492,19.938719,ul. Pędzichów 15,31-152,8.8,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3349,A,,50.069848,19.938327,ul. Pędzichów 7,31-152,10.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3350,A,,50.06935,19.938028,ul. Pędzichów 3,31-148,15.0,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3351,A,,50.069618,19.939296,ul. Wróblewskiego 6,31-148,17.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3352,A,,50.072746,19.935158,ul. Długa 82,31-146,15.5,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3353,A,,50.071697,19.935967,ul. Długa 72,31-146,5.8,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3354,A,,50.071644,19.936139,ul. Długa 59,31-147,9.8,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3355,A,,50.071057,19.936264,ul. Długa 62,31-146,5.9,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3356,A,,50.070578,19.936642,ul. Długa 47,31-147,7.4,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3357,A,,50.070298,19.936742,ul. Długa 52,31-146,4.3,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3358,A,,50.070011,19.937297,ul. Długa 37,31-147,1.0,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3359,A,,50.069272,19.937717,ul. Słowiańska 5,31-141,15.5,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3360,A,,50.068608,19.938307,ul. Długa 34-36,31-146,9.6,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3361,A,,50.067838,19.938511,ul. Długa 15,31-146,5.5,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3362,A,,50.067097,19.938842,ul. Długa 7-9,31-147,6.8,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3363,A,,50.068842,19.938672,ul. św. Filipa 3,31-150,1.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3364,A,,50.068528,19.939679,ul. św. Filipa 11-13,31-150,7.4,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3365,A,,50.068289,19.940116,ul. Krótka 7,31-150,12.6,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3366,A,,50.067939,19.941103,ul. Rynek Kleparski 15,31-150,19.1,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3367,A,,50.067325,19.940553,ul. Rynek Kleparski 11a,31-150,13.0,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3368,A,,50.066939,19.940194,ul. Rynek Kleparski 9,31-150,9.6,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3369,A,,50.066641,19.94107,ul. Paderewskiego 4,31-157,9.7,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa
+3370,A,,50.067575,19.939547,ul. Krzywa 7,31-149,6.2,wspolrzedne_zdmk,A3,Solari SPAZIO EVO,zbliżeniowa

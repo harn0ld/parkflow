@@ -438,3 +438,74 @@ def test_buffer_zone_uses_driver_share_measured_in_spp(spark, ref):
     assert by_kod[ZONE]["spp"] is True and by_kod[buffer]["spp"] is False
     assert by_kod[ZONE]["wspolczynnik_kierowcow"] == pytest.approx(0.5)
     assert by_kod[buffer]["wspolczynnik_kierowcow"] == pytest.approx(0.5)
+
+
+# ---------- Kraków: parkomaty ZDMK, bez ulgi w parkomacie, SPP innych miast ----------
+
+KRK_ZONE = "31-061"
+
+
+@pytest.fixture(scope="session")
+def ref_krakow(spark, ref):
+    from parkflow.miasta import KRAKOW
+
+    tariff = spark.read.csv("data/krakow/cennik_spp.csv", header=True, inferSchema=True)
+    meters = spark.createDataFrame([("3058", "A", KRK_ZONE), ("1", "C", KRK_ZONE)],
+                                   "numer string, podstrefa string, kod_pocztowy string")
+    return replace(ref, tariff=tariff, meters=meters, meter_pattern=KRAKOW.parkomat_regex,
+                   resident_lau=KRAKOW.lau_ulgi, foreign_parking=KRAKOW.parkingi_obce)
+
+
+def krk_paid(spark, ref, name, pln, lau="KRAKOW", day=AUTUMN):
+    amount = str(Decimal(pln) * Decimal("0.92"))
+    row = tx("c1", "080000", day=day, mcc=7523, name=name, kod="31-586", amount=amount, channel="mobile",
+             lau=lau, city="KRAKOW")
+    return run(spark, ref, [row])["agg_parkomaty"]
+
+
+@pytest.mark.parametrize("name,pln,expected", [
+    ("PARKOMAT 3058", "9.00", 60.0),     # A: 1. h = 9,00
+    ("PARKOMAT 3058", "19.00", 120.0),   # + 10,00 = 2 h
+    ("PARKOMAT 3058", "39.00", 240.0),   # + 11,00 + 9,00 = 4 h
+    ("PARKOMAT 0001", "7.00", 60.0),     # zera wiodące jak w parkomaty.xml; C: 1. h = 7,00
+    ("PARKOMAT 3058", "4.50", 30.0),     # proporcjonalnie, bez minimalnego biletu
+])
+def test_krakow_meter_amount_to_minutes(spark, ref_krakow, name, pln, expected):
+    [p] = krk_paid(spark, ref_krakow, name, pln)
+    assert p["mediana_minut"] == pytest.approx(expected)
+
+
+def test_krakow_card_holder_pays_standard_rate_at_the_meter(spark, ref_krakow):
+    # Ulga Karty Krakowskiej działa tylko w aplikacjach: lau_enr = KRAKOW niczego nie zmienia.
+    [p] = krk_paid(spark, ref_krakow, "PARKOMAT 3058", "9.00", lau="KRAKOW")
+    assert p["mediana_minut"] == 60.0
+
+
+def test_krakow_collective_zdmk_payment_is_a_driver_card_without_meter(spark, ref_krakow):
+    assert krk_paid(spark, ref_krakow, "ZDMK KRAKOW 1", "9.00") == []
+    rows = [
+        tx("c1", "080000", mcc=7523, name="ZDMK KRAKOW 1", kod="31-586", channel="mobile", city="KRAKOW"),
+        tx("c1", "083000", kod=KRK_ZONE, city="KRAKOW"),
+        tx("c2", "080000", mcc=7523, name="KBU SP Z O O SPP WROCLAW", kod="31-586", city="KRAKOW"),
+        tx("c2", "083000", kod=KRK_ZONE, city="KRAKOW"),
+    ]
+    [g] = run(spark, ref_krakow, rows)["agg_grupy"]
+    assert g["karty_przyjezdne"] == 2
+    assert g["wspolczynnik_kierowcow"] == 0.5  # SPP Wrocławia rozliczane w Krakowie to nie postój w Krakowie
+
+
+def test_lodz_config_does_not_read_krakow_meter_names(spark, ref):
+    assert krk_paid(spark, ref, "PARKOMAT 438", "6.00") == []
+
+
+@pytest.mark.parametrize("podstrefa,stawki", [
+    # uchwała CV/2851/23, zał. 2 pkt 2.1 (od 15.05.2023), bez zmian do VI 2026
+    ("A", [9.00, 10.00, 11.00, 9.00]),
+    ("B", [8.00, 9.00, 10.00, 8.00]),
+    ("C", [7.00, 8.00, 9.00, 7.00]),
+])
+def test_krakow_tariff_matches_resolution(podstrefa, stawki):
+    t = pd.read_csv("data/krakow/cennik_spp.csv")
+    [row] = t[t["podstrefa"] == podstrefa].to_dict("records")
+    assert [row[c] for c in ["h1", "h2", "h3", "h4"]] == stawki
+    assert (row["od"], row["do"], row["ulga"]) == ("2023-05-15", "2026-12-31", 0)

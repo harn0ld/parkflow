@@ -30,3 +30,14 @@ def test_home_postal_code_is_normalized_like_merchant_code(spark):
     df = spark.createDataFrame([tx("c1", "083000", kod="90001", home="95100")], SCHEMA)
     [r] = select_lodz(df).collect()
     assert r.pstl_cd_enr == "95-100"
+
+
+def test_krakow_postal_prefixes_and_city_without_postal(spark):
+    from parkflow.miasta import KRAKOW
+    from pipeline.extract_lodz import select_city
+
+    rows = [tx("c1", "080000", kod=k, city=c) for k, c in
+            [("31061", "KRAKOW"), ("30-418", "KRAKOW"), ("32-020", "WIELICZKA"), (None, "Kraków"), ("90-001", "LODZ")]]
+    df = spark.createDataFrame(rows, SCHEMA)
+    out = sorted((r.mrch_postal_code or "", r.mrch_city_nm_raw) for r in select_city(df, KRAKOW).collect())
+    assert out == [("", "Kraków"), ("30-418", "KRAKOW"), ("31-061", "KRAKOW")]

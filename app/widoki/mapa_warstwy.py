@@ -9,7 +9,7 @@ import streamlit as st
 
 from app.kontekst import Kontekst
 from app.ustawienia import KODY_UKRYTE
-from parkflow.dane import KODY_ULICE, PARKOMATY, wczytaj_kody_ulice, wczytaj_parkomaty
+from parkflow.dane import wczytaj_kody_ulice, wczytaj_parkomaty
 from parkflow.warstwy import parkomaty_na_mapie, zmierzony_popyt
 
 # Kolory podstref jak na mapie ZDiT (fiolet = A, zielony = B); C (Bałucki Rynek) pomarańczowy.
@@ -27,21 +27,21 @@ def _liczba(v: float, cyfry: int = 1) -> str:
 
 
 @st.cache_data
-def _parkomaty() -> pd.DataFrame:
-    p = parkomaty_na_mapie(wczytaj_parkomaty(PARKOMATY))
+def _parkomaty(plik: str) -> pd.DataFrame:
+    p = parkomaty_na_mapie(wczytaj_parkomaty(plik))
     return p.loc[~p["kod_pocztowy"].isin(KODY_UKRYTE)].reset_index(drop=True)
 
 
 @st.cache_data
-def _kody_ulice() -> pd.DataFrame:
-    return wczytaj_kody_ulice(KODY_ULICE)
+def _kody_ulice(plik: str) -> pd.DataFrame:
+    return wczytaj_kody_ulice(plik)
 
 
 def zbuduj_popyt(ctx: Kontekst) -> pdk.Layer | None:
     """Koła na centroidach kodów: opłacone auto-godziny z parkomatów SPP w sezonie i bloku."""
-    if ctx.agregaty.popyt is None or not KODY_ULICE.exists():
+    if ctx.agregaty.popyt is None or not ctx.miasto.kody_ulice.exists():
         return None
-    df = zmierzony_popyt(ctx.agregaty.popyt, _kody_ulice(), ctx.sezon, ctx.blok)
+    df = zmierzony_popyt(ctx.agregaty.popyt, _kody_ulice(str(ctx.miasto.kody_ulice)), ctx.sezon, ctx.blok)
     if df.empty:
         return None
     tooltip = [
@@ -64,9 +64,9 @@ def zbuduj_popyt(ctx: Kontekst) -> pdk.Layer | None:
 
 def zbuduj_parkomaty(ctx: Kontekst) -> pdk.Layer | None:
     """Punkty parkomatów z lokalizacją, kolor = obecna podstrefa."""
-    if not PARKOMATY.exists():
+    if not ctx.miasto.parkomaty.exists():
         return None
-    df = _parkomaty()
+    df = _parkomaty(str(ctx.miasto.parkomaty))
     tooltip = [
         pola_tooltipa(
             f"Parkomat {r.numer}",
@@ -98,5 +98,9 @@ def opis_popytu(ctx: Kontekst) -> str:
 def opis_parkomatow(ctx: Kontekst) -> str:
     kropka = "<span style='color:rgb({},{},{})'>●</span>"
     legenda = " ".join(kropka.format(*KOLORY_PODSTREF[p]) + f" {p}" for p in KOLORY_PODSTREF)
+    if ctx.miasto.id == "krakow":
+        return (f"Parkomaty (podstrefa): {legenda}. Lokalizacje z mapy parkomatów ZDMK (parkomaty.xml, X 2024). "
+                "W danych Visa numer parkomatu mają tylko sektory A3 i A13; pozostałe opłaty SPP są rozliczane "
+                "zbiorczo („ZDMK KRAKOW 1”), więc zmierzony popyt obejmuje wyłącznie te dwa sektory.")
     return (f"Parkomaty (podstrefa): {legenda}. Lokalizacje z mapy ZDiT (VI 2024); parkomaty z rozszerzenia 2025 "
             "są w danych Visa, ale bez lokalizacji — nie ma ich na mapie.")

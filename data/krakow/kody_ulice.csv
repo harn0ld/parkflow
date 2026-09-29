@@ -1,0 +1,1108 @@
+kod,ulice,ulice_pelne,liczba_ulic,liczba_adresow,lat,lon
+30-001,Kamienna,Kamienna,1,13,50.07636,19.94075
+30-002,Prądnicka; Zbożowa,Prądnicka; Zbożowa,2,20,50.076951,19.936396
+30-003,Lubelska; Śląska; Słomnicka,Lubelska; Śląska; Słomnicka,3,49,50.074192,19.932394
+30-004,al. Słowackiego,Aleja Juliusza Słowackiego,1,5,50.073803,19.934864
+30-006,Wrocławska,Wrocławska,1,19,50.075599,19.931444
+30-007,al. Słowackiego,Aleja Juliusza Słowackiego,1,7,50.072216,19.930163
+30-009,Friedleina; Odrowąża; Plater; Hetmańska; Włodarska,Józefa Friedleina; Iwona Odrowąża; Emilii Plater; Hetmańska; Włodarska,5,88,50.076951,19.932627
+30-010,Władysława Łokietka; Augustynka-Wichury; Składowa; Oboźna; Nad Drwiną,Władysława Łokietka; Antoniego Augustynka-Wichury; Składowa; Oboźna; Nad Drwiną,5,48,50.077375,19.93253
+30-011,Wrocławska; Oboźna; Golikówka,Wrocławska; Oboźna; Golikówka,3,73,50.077777,19.926446
+30-012,Poznańska; Racławicka,Poznańska; Racławicka,2,13,50.079093,19.923653
+30-014,Litewska; Kmieca; Sławkowska,Litewska; Kmieca; Sławkowska,3,32,50.076835,19.924404
+30-015,Cieszyńska; Gzymsików; Świętokrzyska,Cieszyńska; Gzymsików; Świętokrzyska,3,33,50.074359,19.929858
+30-016,Władysława Łokietka; Żabiniec; Składowa,Władysława Łokietka; Żabiniec; Składowa,3,13,50.083949,19.931843
+30-017,Racławicka; Wrocławska,Racławicka; Wrocławska,2,31,50.079288,19.919543
+30-018,al. Słowackiego,Aleja Juliusza Słowackiego,1,11,50.073281,19.932471
+30-019,Mazowiecka,Mazowiecka,1,56,50.074829,19.926548
+30-020,Wójtowska,Wójtowska,1,5,50.075669,19.92684
+30-021,Rzeczna,Rzeczna,1,7,50.07479,19.923287
+30-022,Kmieca,Kmieca,1,2,50.077212,19.922595
+30-023,Mazowiecka; Dworna,Mazowiecka; Dworna,2,17,50.073262,19.908549
+30-024,Sawiczewskich,Józefa i Floriana Sawiczewskich,1,2,49.989834,19.952805
+30-033,Sienkiewicza; Plac Inwalidów,Henryka Sienkiewicza; Plac Inwalidów,2,33,50.07121,19.926386
+30-034,Plac Teodora Axentowicza; Kościelna,Plac Teodora Axentowicza; Kościelna,2,9,50.071962,19.926796
+30-035,al. Grottgera; Wyspiańskiego,Aleja Artura Grottgera; Stanisława Wyspiańskiego,2,25,50.073074,19.926077
+30-036,Mazowiecka,Mazowiecka,1,11,50.07331,19.929483
+30-037,al. Słowackiego,Aleja Juliusza Słowackiego,1,10,50.070523,19.927267
+30-038,Łobzowska; Lenartowicza,Łobzowska; Lenartowicza,2,13,50.070929,19.927084
+30-039,Józefitów; Pomorska,Józefitów; Pomorska,2,20,50.071029,19.924616
+30-040,Królewska; Urzędnicza,Królewska; Urzędnicza,2,34,50.071942,19.920887
+30-042,Kujawska; Zbrojów,Kujawska; Zbrojów,2,36,50.073263,19.922784
+30-043,Biernackiego; al. Grottgera,Edmunda Biernackiego; Aleja Artura Grottgera,2,26,50.07345,19.923824
+30-045,Królewska; Józefitów; Dymnik,Królewska; Józefitów; Dymnik,3,52,50.069324,19.928924
+30-046,Konarskiego; Lea,Stanisława Konarskiego; Juliusza Lea,2,23,50.070215,19.921779
+30-047,Karłowicza; Chopina; Szymanowskiego; Symfoniczna,Mieczysława Karłowicza; Fryderyka Chopina; Karola Szymanowskiego; Symfoniczna,4,57,50.067993,19.922239
+30-048,Lea; Urzędnicza; Czapińskiego; Michałowskiego,Juliusza Lea; Urzędnicza; Kazimierza Czapińskiego; Piotra Michałowskiego,4,42,50.070174,19.920225
+30-049,Konarskiego; Czarnowiejska; Chopina,Stanisława Konarskiego; Czarnowiejska; Fryderyka Chopina,3,79,50.068148,19.91966
+30-050,Tkacka; Akademicka,Tkacka; Akademicka,2,3,50.06652,19.918133
+30-051,Urzędnicza; Ogrodniczek,Urzędnicza; Ogrodniczek,2,34,50.069107,19.918325
+30-052,Lea; Nowowiejska; Plac Nowowiejski; Dajwór,Juliusza Lea; Nowowiejska; Plac Nowowiejski; Dajwór,4,55,50.071178,19.917688
+30-053,Kronikarza Galla,Kronikarza Galla,1,24,50.073384,19.914314
+30-054,Czarnowiejska; Spokojna; Sporna,Czarnowiejska; Spokojna; Sporna,3,35,50.054117,19.933733
+30-055,Kawiory; Miechowska,Kawiory; Miechowska,2,38,50.067377,19.912846
+30-056,Toruńska; Bydgoska,Toruńska; Bydgoska,2,14,50.069305,19.91076
+30-057,Chocimska; al. Kijowska; Myślenicka; Za Targiem,Chocimska; Aleja Kijowska; Myślenicka; Za Targiem,4,36,50.068143,19.916435
+30-058,Lea; Misjonarska; Stachiewicza; Stradomska,Juliusza Lea; Misjonarska; Piotra Stachiewicza; Stradomska,4,25,50.071659,19.910385
+30-059,Reymonta; al. Mickiewicza,Władysława Reymonta; Aleja Adama Mickiewicza,2,24,50.06465,19.916552
+30-060,Oleandry; Ingardena,Oleandry; Romana Ingardena,2,9,50.061217,19.920773
+30-062,al. 3 Maja,Aleja 3 Maja,1,11,50.062064,19.912297
+30-063,al. 3 Maja; Oleandry,Aleja 3 Maja; Oleandry,2,5,50.060865,19.917301
+30-065,Goetla; Olimpijska; Piastowska; Chodowieckiego; Radwańskiego,Walerego Goetla; Olimpijska; Piastowska; Daniela Chodowieckiego; Feliksa Radwańskiego,5,99,50.06548,19.904951
+30-066,Beniowskiego; Domeyki; Cichy Kącik,Maurycego Beniowskiego; Ignacego Domeyki; Cichy Kącik,3,44,50.064498,19.904254
+30-067,Piastowska; Gramatyka,Piastowska; Gramatyka,2,9,50.070299,19.904756
+30-069,Obopólna; Warmijska; Staffa; Smoluchowskiego; Chmiela; Balicka,Obopólna; Warmijska; Leopolda Staffa; Mariana Smoluchowskiego; Adama Chmiela; Balicka,6,48,50.073335,19.906662
+30-070,Piastowska; Antyczna,Piastowska; Antyczna,2,8,50.074914,19.914038
+30-071,Skarbińskiego; Gramatyka; Rolnicza,Stanisława Skarbińskiego; Gramatyka; Rolnicza,3,21,50.071187,19.908128
+30-072,Budryka; Rostafińskiego; Nawojki,Józefa Rostafińskiego; Witolda Budryka; Nawojki,3,22,50.068593,19.907141
+30-073,Reymonta; Radwańskiego,Władysława Reymonta; Feliksa Radwańskiego,2,5,50.066759,19.905122
+30-074,Kazimierza Wielkiego; Urzędnicza,Kazimierza Wielkiego; Urzędnicza,2,64,50.073321,19.919365
+30-075,Racławicka; Bytomska,Racławicka; Bytomska,2,33,50.07528,19.918749
+30-076,Zakątek; Siemieńskiego,Zakątek; Lucjana Siemieńskiego,2,23,50.075873,19.914473
+30-077,Przeskok,Przeskok,1,5,50.075822,19.911569
+30-078,Kazimierza Wielkiego; Kadecka,Kazimierza Wielkiego; Kadecka,2,18,50.073811,19.916772
+30-079,al. Kijowska; Królewska; Ciepłownicza; Gdyńska; Karłowicza,Aleja Kijowska; Królewska; Ciepłownicza; Gdyńska; Mieczysława Karłowicza,5,43,50.075254,19.918828
+30-080,Staffa,Leopolda Staffa,1,1,50.072764,19.911123
+30-081,Królewska,Królewska,1,11,50.073651,19.914181
+30-082,Kazimierza Wielkiego,Kazimierza Wielkiego,1,9,50.074735,19.912161
+30-083,Cichy Kącik; Smoluchowskiego,Cichy Kącik; Mariana Smoluchowskiego,2,2,50.068486,19.907032
+30-084,Bronowicka; Podchorążych,Bronowicka; Podchorążych,2,22,50.07698,19.903123
+30-085,Głowackiego; Grenadierów; Czyżewskiego; Zaczarowane Koło,Bartosza Głowackiego; Grenadierów; Tytusa Czyżewskiego; Zaczarowane Koło,4,30,50.078691,19.906933
+30-086,Halczyna; Czeladnicza; Głowackiego,Wojciecha Halczyna; Czeladnicza; Bartosza Głowackiego,3,36,50.080184,19.905821
+30-087,Rydla; Zaczarowane Koło,Lucjana Rydla; Zaczarowane Koło,2,23,50.079373,19.903483
+30-091,Bronowicka; Przybyszewskiego,Bronowicka; Stanisława Przybyszewskiego,2,26,50.079309,19.896749
+30-092,Krakusów; Kmietowicza,Krakusów; Leopolda Kmietowicza,2,34,50.079175,19.900301
+30-094,Górna; Rodakowskiego; Czepca; Wallek-Walewskiego; Wjazdowa,Górna; Henryka Rodakowskiego; Błażeja Czepca; Bolesława Wallek-Walewskiego; Wjazdowa,5,102,50.08029,19.897941
+30-095,Złoty Róg,Złoty Róg,1,61,50.081797,19.896047
+30-101,al. Krasińskiego,Aleja Zygmunta Krasińskiego,1,16,50.056589,19.926401
+30-102,Syrokomli; Ujejskiego; Morawskiego,Władysława Syrokomli; Kornela Ujejskiego; Kazimierza Morawskiego,3,43,50.056478,19.92508
+30-103,Stachowicza; Włóczków; Tatarska,Michała Stachowicza; Włóczków; Tatarska,3,35,50.055215,19.923753
+30-105,Kościuszki; Dojazdowa; Jaskółcza,Tadeusza Kościuszki; Dojazdowa; Jaskółcza,3,43,50.053758,19.923467
+30-106,Senatorska; Komorowskiego; Łowiecka; Dekerta; Nadwiślańska; al. Bora-Komorowskiego,Senatorska; Bolesława Komorowskiego; Łowiecka; Aleja gen. Tadeusza Bora-Komorowskiego; Jana Dekerta; Nadwiślańska,6,38,50.054771,19.923194
+30-107,Plac Na Stawach,Plac Na Stawach,1,2,50.054455,19.920495
+30-108,Borelowskiego-Lelewela; Wężyka,Marcina Borelowskiego-Lelewela; Franciszka Wężyka,2,24,50.056216,19.930338
+30-109,Salwatorska; Prusa; Fałata; Prosta,Salwatorska; Bolesława Prusa; Juliana Fałata; Prosta,4,39,50.054874,19.920358
+30-110,Kraszewskiego; Filarecka,Józefa Ignacego Kraszewskiego; Filarecka,2,60,50.056055,19.91949
+30-111,al. Focha; Kałuży,Aleja Marszałka Ferdinanda Focha; Józefa Kałuży,2,3,50.058089,19.918761
+30-112,Dunin-Wąsowicza,rtm. Zbigniewa Dunin-Wąsowicza,1,17,50.057517,19.923932
+30-113,Lea,Juliusza Lea,1,1,50.07226,19.904395
+30-114,Kościuszki; Flisacka,Tadeusza Kościuszki; Flisacka,2,31,50.052734,19.918854
+30-116,Kasztelańska; Władysława Warneńczyka,Kasztelańska; Władysława Warneńczyka,2,36,50.055491,19.914715
+30-117,Prusa; Mlaskotów; Salwatorska; Rogalskiego,Bolesława Prusa; Mlaskotów; Salwatorska; Tadeusza Rogalskiego,4,35,50.056462,19.91421
+30-118,Wyczółkowskiego; Fałata,Leona Wyczółkowskiego; Juliana Fałata,2,14,50.056862,19.91545
+30-119,al. Focha; Karaszewicza-Tokarzewskiego,Aleja Marszałka Ferdinanda Focha; gen. Michała Karaszewicza-Tokarzewskiego,2,17,50.057754,19.926821
+30-120,Mydlnicka,Mydlnicka,1,7,50.064464,19.8979
+30-121,Bronowicka; Wernyhory,Bronowicka; Wernyhory,2,22,50.08221,19.889436
+30-122,Rydla,Lucjana Rydla,1,10,50.076008,19.901422
+30-123,Krzywy Zaułek; Staszczyka,Krzywy Zaułek; Adama Staszczyka,2,7,50.075838,19.90343
+30-124,Jadwigi z Łobzowa; Żelechowskiego; Piastowska,Jadwigi z Łobzowa; Kaspra Żelechowskiego; Piastowska,3,35,50.075085,19.903818
+30-126,Zapolskiej; Stańczyka; Dytmara; Sołtysowska; Cicha,Gabrieli Zapolskiej; Stańczyka; Sołtysa Dytmara; Sołtysowska; Cicha,5,66,50.077542,19.899218
+30-127,Wesele; Bronowicka; Szablowskiego; Wojciecha; Hetmańska,Wesele; Bronowicka; Jerzego Szablowskiego; Świętego Wojciecha; Hetmańska,5,75,50.076921,19.897306
+30-128,Przybyszewskiego,Stanisława Przybyszewskiego,1,84,50.074598,19.896579
+30-129,Bandtkiego; Cicha,Jerzego Samuela Bandtkiego; Cicha,2,65,50.075796,19.898809
+30-130,Rydla,Lucjana Rydla,1,12,50.076338,19.900299
+30-131,Młodej Polski,Młodej Polski,1,12,50.073521,19.901305
+30-132,Szlachtowskiego; Altanowa; Niedziałkowskiego,Feliksa Szlachtowskiego; Altanowa; Mieczysława Niedziałkowskiego,3,52,50.07316,19.902639
+30-133,Lea,Juliusza Lea,1,87,50.072718,19.896829
+30-134,Zarzecze; Sewera; Kunickiego; Kołowa; Machaya; Myczkowskiego; Wojciecha,Zarzecze; Sewera; Stanisława Kunickiego; Kołowa; Profesora Stefana Myczkowskiego; ks. Ferdynanda Machaya; Świętego Wojciecha,7,148,50.074498,19.891956
+30-135,Kwiatkowskiego; Machaya; Nawary; Popiela; Ochlewskiego,Eugeniusza Kwiatkowskiego; ks. Ferdynanda Machaya; Marka Nawary; Karola Popiela; Tadeusza Ochlewskiego,5,79,50.074255,19.885103
+30-136,Drzymały; Mysłakowskiego,Drzymały; Zygmunta Mysłakowskiego,2,26,50.073604,19.893547
+30-138,"Włościańska; Justowska; Olkuska; Piwnika ""Ponurego""; Stróżeckiego; Bzymka-Strzałkowskiego; Arciszewskiego","Włościańska; Justowska; Olkuska; Jana Piwnika ""Ponurego""; Jana Stróżeckiego; Edwarda Bzymka-Strzałkowskiego; Tomasza Arciszewskiego",7,89,50.074782,19.884649
+30-139,Jabłonkowska; Spasowskiego,Jabłonkowska; Władysława Spasowskiego,2,20,50.079417,19.889603
+30-142,Odlewnicza; Spiżowa; Pyjasa; Konwisarzy; Bakałarzy; Brązownicza,Odlewnicza; Spiżowa; Stanisława Pyjasa; Konwisarzy; Bakałarzy; Brązownicza,6,90,50.069642,19.890388
+30-143,Mydlnicka,Mydlnicka,1,15,50.067537,19.889743
+30-144,Zarudawie; Orna; Kuźnicza; Przesmyk,Zarudawie; Orna; Kuźnicza; Przesmyk,4,60,50.068862,19.883384
+30-145,Hamernia; Przyjemna; Kuźnicza; Pileckiego,Hamernia; Przyjemna; Kuźnicza; rtm. Witolda Pileckiego,4,121,50.070744,19.883164
+30-146,Pamiętna,Pamiętna,1,12,50.072443,19.879234
+30-147,Na Błonie; Wiedeńska; Kowalskiego; Pileckiego; Prystora; Trawiasta; Legendy; Machaya,Na Błonie; Wiedeńska; Franciszka Kowalskiego; rtm. Witolda Pileckiego; Aleksandra Prystora; Trawiasta; Legendy; ks. Ferdynanda Machaya,8,232,50.075497,19.881349
+30-148,Lindego; Filtrowa; Przy Młynówce; Kazimierza Wielkiego; Wójcickiego,Samuela Bogumiła Lindego; Filtrowa; Przy Młynówce; Kazimierza Wielkiego; Michała Wójcickiego,5,43,50.078691,19.874121
+30-149,Balicka; Przy Młynówce; Godlewskiego; Dolińskiego,Balicka; Przy Młynówce; Emila Godlewskiego; Jarosława Dolińskiego,4,196,50.081135,19.869786
+30-150,Armii Krajowej; Buszka; Księżarskiego; Złoty Róg,Armii Krajowej; Jana Buszka; Feliksa Księżarskiego; Złoty Róg,4,45,50.072116,19.894506
+30-198,Balicka; Brzezińskiego; Kurozwęckiego; Wierzyńskiego; Hemara; Myczkowskiego; Dolińskiego; Wieniawy-Długoszowskiego; Zakliki z Mydlnik; Weryhy-Darowskiego; Zygmunta Starego; Godlewskiego; Łupaszki; Wapiennik; Spiczakowa; Na Nowinach; Gradowa; Stawowa; Piątkiewicza,Balicka; Piotra Brzezińskiego; Dobiesława Kurozwęckiego; Kazimierza Wierzyńskiego; Mariana Hemara; Profesora Stefana Myczkowskiego; Jarosława Dolińskiego; Zakliki z Mydlnik; gen. Bolesława Wieniawy-Długoszowskiego; Wincentego Weryhy-Darowskiego; Zygmunta Starego; Emila Godlewskiego; mjr. Łupaszki; Wapiennik; Profesora Teodora Spiczakowa; Na Nowinach; Gradowa; Stawowa; Bronisława Piątkiewicza,19,446,50.084087,19.848839
+30-199,Balicka,Balicka,1,2,50.082312,19.885012
+30-201,Emaus; Gryfity,Emaus; Jaxy Gryfity,2,18,50.053998,19.91373
+30-202,Jadwigi,Królowej Jadwigi,1,15,50.056194,19.904105
+30-203,Białe Wzgórze; Ukryta; Gontyna; Bronisławy; Anczyca,Białe Wzgórze; Ukryta; Gontyna; św. Bronisławy; Władysława Anczyca,5,87,50.052449,19.909034
+30-204,al. Waszyngtona; Wioślarska,Aleja Jerzego Waszyngtona; Wioślarska,2,6,50.051971,19.899672
+30-205,Wodociągowa,Wodociągowa,1,44,50.050568,19.895472
+30-206,Józefa; Polnych Kwiatów; Wioślarska,Księcia Józefa; Polnych Kwiatów; Wioślarska,3,93,50.048833,19.899118
+30-207,Malczewskiego; Benedyktowicza; Jacka,Jacka Malczewskiego; Ludomira Benedyktowicza; św. Jacka,3,11,50.048378,19.899193
+30-208,Białe Wzgórze; Ukryta,Białe Wzgórze; Ukryta,2,2,50.052078,19.907875
+30-209,Jadwigi; Zaścianek; Przegon; Malczewskiego; Drożyna; Panoramiczna,Królowej Jadwigi; Zaścianek; Przegon; Jacka Malczewskiego; Drożyna; Panoramiczna,6,169,50.0559,19.904856
+30-210,Hofmana; Krzywickiego; Gandhiego; Zimorodków; al. Małeckiego,Vlastimila Hofmana; Ludwika Krzywickiego; Mahatmy Gandhiego; Zimorodków; Aleja Mieczysława Małeckiego,5,42,50.058275,19.896246
+30-211,Piastowska; Leszczynowa; Kudlińskiego,Piastowska; Leszczynowa; dr. Tadeusza Kudlińskiego,3,35,50.058879,19.899569
+30-212,Jadwigi; Sawickiego; Romera; Fabijańskich; Owcy-Orwicza; Radzikowskiego; Węgierskiego,Królowej Jadwigi; Jana Sawickiego; Eugeniusza Romera; Erazma i Stanisława Fabijańskich; dr. Owcy-Orwicza; Eliasza Radzikowskiego; Ludwika Węgierskiego,7,226,50.060477,19.892467
+30-213,Emaus; Słonecznikowa; Węgierskiego; Na Błoniach,Emaus; Słonecznikowa; Ludwika Węgierskiego; Na Błoniach,4,123,50.060555,19.898033
+30-214,Korzeniowskiego; Tondosa; Odyńca,Józefa Korzeniowskiego; Stanisława Tondosa; Antoniego Odyńca,3,83,50.06191,19.892045
+30-215,Borowego; Pększyca-Grudzińskiego; Złota; Strzelnica,Piotra Borowego; Franciszka Pększyca-Grudzińskiego; Złota; Strzelnica,4,112,50.065088,19.887212
+30-216,Pod Sikornikiem; Lajkonika,Pod Sikornikiem; Lajkonika,2,61,50.061328,19.886369
+30-217,Wyrwy-Furgalskiego; Wyrobka; Bąkowskiego; Krzywickiego; Robla,Tadeusza Wyrwy-Furgalskiego; Zygmunta Wyrobka; Klemensa Bąkowskiego; Ludwika Krzywickiego; Jana Zygmunta Robla,5,50,50.064286,19.8853
+30-218,Jadwigi; Korbutowej; Podłącze; Rogalskiego; Ciechanowskiego; Kopery; Bielaka; Czeremchowa; Robla; Chełmska,Królowej Jadwigi; Ludmiły Korbutowej; Podłącze; Tadeusza Rogalskiego; Stanisława Ciechanowskiego; Feliksa Kopery; Franciszka Bielaka; Czeremchowa; Jana Zygmunta Robla; Chełmska,10,347,50.066964,19.875876
+30-219,Koło Strzelnicy; Pod Sulnikiem,Koło Strzelnicy; Pod Sulnikiem,2,30,50.062855,19.879456
+30-220,Ciechanowskiego; Korzeniaka; Pod Sulnikiem,Grzegorza Korzeniaka; Pod Sulnikiem; Stanisława Ciechanowskiego,3,3,50.06601,19.863277
+30-221,Jesionowa; Agrestowa,Jesionowa; Agrestowa,2,64,50.068606,19.874878
+30-222,Morelowa; Na Wierzchowinach; Dolina; Kogucia; Migdałowa,Morelowa; Na Wierzchowinach; Dolina; Kogucia; Migdałowa,5,165,50.069051,19.870804
+30-223,Bodziszkowa; Krańcowa; Wyki,Bodziszkowa; Krańcowa; Kazimierza Wyki,3,20,50.067294,19.872551
+30-224,Jontkowa Górka; al. Modrzewiowa; al. Sosnowa,Jontkowa Górka; Aleja Modrzewiowa; Aleja Sosnowa,3,88,50.066326,19.86606
+30-225,Sarnie Uroczysko; Kotlarczyków; al. Panieńskich Skał; Nitscha; Estreicherów; Petrażyckiego; Łazarskiego,Sarnie Uroczysko; Jana i Józefa Kotlarczyków; Aleja Panieńskich Skał; Kazimierza Nitscha; Estreicherów; Leona Petrażyckiego; Jana Łazarskiego,7,98,50.060704,19.862389
+30-227,al. Kasztanowa; Grabowa; Chwistka; Baranieckiego,Aleja Kasztanowa; Grabowa; Leona Chwistka; Adriana Baranieckiego,4,128,50.066723,19.859757
+30-228,Kopalina; Halki; Zielony Dół; Krasnowolskiego,Kopalina; Halki; Zielony Dół; Józefa Krasnowolskiego,4,53,50.06529,19.86183
+30-229,Cisowa; Świerkowa,Cisowa; Świerkowa,2,26,50.06386,19.86385
+30-230,Jeleniowa,Jeleniowa,1,16,50.061665,19.866754
+30-231,Starowolska; Poniedziałkowy Dół; Cedrowa; Lisia; Mrówczana,Starowolska; Poniedziałkowy Dół; Cedrowa; Lisia; Mrówczana,5,98,50.059345,19.871099
+30-232,Leśna; al. Kasy Oszczędności Miasta Krakowa; al. Żubrowa; Kukułcza,Leśna; Aleja Kasy Oszczędności Miasta Krakowa; Aleja Żubrowa; Kukułcza,4,33,50.059784,19.866501
+30-233,28 Lipca 1943; Poręba; Berberysowa; Nasza; al. Kasztanowa,28 Lipca 1943; Poręba; Berberysowa; Nasza; Aleja Kasztanowa,5,148,50.062853,19.874596
+30-234,Jadwigi; Czecha; Jurowicza; Józefa,Królowej Jadwigi; Bronisława Czecha; Jerzego Jurowicza; Księcia Józefa,4,81,50.070286,19.85962
+30-235,Brzegowa; Nad Zalewem; Wielogórska,Brzegowa; Nad Zalewem; Wielogórska,3,87,50.071603,19.863807
+30-236,Pylna; Becka; Pod Stokiem; Marynarska; Malownicza; Czecha; Wojtulanis; Oświęcimska,Pylna; Józefa Becka; Pod Stokiem; Marynarska; Malownicza; Bronisława Czecha; Stefanii Wojtulanis; Oświęcimska,8,235,50.073002,19.854862
+30-237,Wiosenna; Przyszłości; Junacka; Rysi Stok; Wilczy Stok; Pod Skałą,Wiosenna; Przyszłości; Junacka; Rysi Stok; Wilczy Stok; Pod Skałą,6,184,50.068165,19.849188
+30-238,Chełmska; al. Kasztanowa; Oświęcimska,Chełmska; Aleja Kasztanowa; Oświęcimska,3,121,50.065948,19.846298
+30-239,Niezapominajek; Podłużna; Olszanicka,Niezapominajek; Podłużna; Olszanicka,3,101,50.070415,19.84533
+30-240,Rzepichy; Zakamycze; Wyżgi; Leśmiana; Za Skłonem; Kosmowskiej; Pod Szańcami; Jagiełka,Rzepichy; Zakamycze; Kazimierza Wyżgi; Bolesława Leśmiana; Za Skłonem; Ireny Kosmowskiej; Pod Szańcami; Jagiełka,8,357,50.061907,19.833103
+30-241,Olszanicka; Na Polankach; Raczkiewicza,Olszanicka; Na Polankach; Władysława Raczkiewicza,3,80,50.068122,19.834747
+30-243,Józefa; Okrąg; Astronautów; Zaogrodzie; Oszustowskiego; Zaszkolna; Bagatela; Sokola; Daleka; Jemiołuszek; Niemena; Zakręt,Księcia Józefa; Okrąg; Astronautów; Zaogrodzie; Wincentego Oszustowskiego; Zaszkolna; Bagatela; Sokola; Czesława Niemena; Daleka; Jemiołuszek; Zakręt,12,252,50.043719,19.824203
+30-244,Orla; Na Wirach; Sokola; Dworna; Pod Janem; Skalna; Puszczyków; Bielańskiego; Czyżyków; Wolskiego; Na Grabinach; Jemiołuszek; Mirowska; Pod Szwedem; Puchalskiego; Maćkowa Góra,Orla; Na Wirach; Sokola; Dworna; Pod Janem; Skalna; Puszczyków; inż. Adama Bielańskiego; Czyżyków; Marszałka Mikołaja Wolskiego; Na Grabinach; Jemiołuszek; Mirowska; Pod Szwedem; Włodzimierza Puchalskiego; Maćkowa Góra,16,310,50.042099,19.823755
+30-245,Sępia; Zakręt; Krucza; Daleka; Kaszubska; Czajek; Przepiórcza; Bażancia; Puszczyków,Sępia; Zakręt; Krucza; Daleka; Kaszubska; Czajek; Przepiórcza; Bażancia; Puszczyków,9,125,50.041434,19.829419
+30-246,Bielańska; Na Górkach,Bielańska; Na Górkach,2,31,50.0387,19.822687
+30-248,Rędzina; al. Konarowa; al. Wędrowników,Rędzina; Aleja Konarowa; Aleja Wędrowników,3,11,50.04807,19.831328
+30-250,Józefa; Gajówka; Koziarówka; Zaskale,Księcia Józefa; Gajówka; Koziarówka; Zaskale,4,142,50.046047,19.861328
+30-251,Jodłowa; Szyszko-Bohusza; Żemaitisa; Skibowa; Żywiczna; Cygańska,Jodłowa; Adolfa Szyszko-Bohusza; Kiejstuta Żemaitisa; Skibowa; Żywiczna; Cygańska,6,101,50.048946,19.8727
+30-252,Kamedulska; Przegorzalska; Nietoperzy; Olchowa; Uboczna; Borówczana; Herzoga; Dobrzyckiego; Winowców; Kasprzyckiego,Kamedulska; Przegorzalska; Nietoperzy; Olchowa; Uboczna; Borówczana; Józefa Herzoga; Jerzego Dobrzyckiego; Winowców; Tadeusza Kasprzyckiego,10,166,50.049257,19.87641
+30-253,Pajęcza; Bruzdowa,Pajęcza; Bruzdowa,2,3,50.047598,19.882228
+30-254,Rybna; Do Przystani,Rybna; Do Przystani,2,34,50.044096,19.884419
+30-255,Do Przystani,Do Przystani,1,1,50.044994,19.888228
+30-289,Anusi,Anusi,1,1,50.000909,19.897331
+30-298,Majówny; Głogowiec; Powstania Styczniowego; Korzeniaka; Amazonek; Stryjeńskiej; Raczkiewicza; Jantarowa; Podkamyk; Insurekcji Kościuszkowskiej; Szaserów; Na Borach; Nad Źródłem; Porzecze; Powstania Listopadowego; Krzyżówka; Pod Skałą; Warowna,Jadwigi Majówny; Głogowiec; Powstania Styczniowego; Grzegorza Korzeniaka; Amazonek; Zofii Stryjeńskiej; Władysława Raczkiewicza; Jantarowa; Podkamyk; Insurekcji Kościuszkowskiej; Szaserów; Na Borach; Nad Źródłem; Porzecze; Powstania Listopadowego; Krzyżówka; Pod Skałą; Warowna,18,419,50.070689,19.829893
+30-301,Zamkowa; Sandomierska,Zamkowa; Sandomierska,2,27,50.052378,19.930543
+30-302,Konopnickiej,Marii Konopnickiej,1,18,50.04699,19.932657
+30-303,Madalińskiego,Madalińskiego,1,16,50.052546,19.928074
+30-304,Zduńska,Zduńska,1,7,50.051049,19.93011
+30-305,Różana; Pułaskiego; Wasilewskiego; Grunwaldzka,Różana; Kazimierza Pułaskiego; Edmunda Wasilewskiego; Grunwaldzka,4,48,50.051034,19.929822
+30-306,Konfederacka; Niska,Konfederacka; Niska,2,22,50.052099,19.92646
+30-307,Barska; Powroźnicza,Barska; Powroźnicza,2,46,50.050276,19.930001
+30-308,Dębowa; Kilińskiego,Dębowa; Jana Kilińskiego,2,11,50.048485,19.928606
+30-311,Wygrana; Na Ustroniu; Wierzbowa,Wygrana; Na Ustroniu; Wierzbowa,3,9,50.046444,19.931495
+30-312,Twardowskiego,Twardowskiego,1,46,50.044221,19.924695
+30-313,Mieszczańska,Mieszczańska,1,17,50.046482,19.927629
+30-314,Dworska,Dworska,1,15,50.045199,19.928157
+30-315,Szwedzka,Szwedzka,1,6,50.044156,19.927211
+30-316,Słomiana,Słomiana,1,34,50.042163,19.92641
+30-317,Skwerowa,Skwerowa,1,27,50.049228,19.925929
+30-318,Bałuckiego; Zagrody; Rolna; Zgody,Michała Bałuckiego; Zagrody; Rolna; Zgody,4,86,50.049265,19.925184
+30-319,Tyniecka; Rynek Dębnicki,Tyniecka; Rynek Dębnicki,2,43,50.043225,19.897413
+30-320,Zielna; Pawlickiego; Zielińskiego; Patynów,Zielna; Ks. Stefana Pawlickiego; Generała Bohdana Zielińskiego; Heleny i Leona Patynów,4,57,50.044103,19.91539
+30-321,Pietrusińskiego; Patynów; Łosiówka; Do Groty,Jana Pietrusińskiego; Heleny i Leona Patynów; Łosiówka; Do Groty,4,29,50.044675,19.911258
+30-322,Czarodziejska; Praska; Kapelanka; Mała Góra,Czarodziejska; Praska; Kapelanka; Mała Góra,4,52,50.047356,19.915019
+30-323,Tyniecka,Tyniecka,1,21,50.048314,19.911237
+30-324,Szwedzka; Monte Cassino,Szwedzka; Monte Cassino,2,34,50.048402,19.923245
+30-326,Obrońców Poczty Gdańskiej; Dębnicka,Obrońców Poczty Gdańskiej; Dębnicka,2,22,50.048042,19.92249
+30-327,Jaworowa; Biała Droga; Podgórki,Jaworowa; Biała Droga; Podgórki,3,47,50.046101,19.9223
+30-328,Praska; Czechosłowacka; Zagonów,Praska; Czechosłowacka; Zagonów,3,74,50.04915,19.91868
+30-329,Praska,Praska,1,13,50.046805,19.911935
+30-331,Ludwinowska,Ludwinowska,1,5,50.044175,19.938316
+30-332,Turecka; Zatorska; Swoboda,Turecka; Zatorska; Swoboda,3,24,50.042768,19.936643
+30-333,Rozdroże; Konopnickiej,Rozdroże; Marii Konopnickiej,2,25,50.039152,19.931245
+30-334,Komandosów; Bursztynowa; Kobierzyńska,Komandosów; Bursztynowa; Kobierzyńska,3,27,50.046945,19.93219
+30-336,Nowaczyńskiego,Adolfa Nowaczyńskiego,1,4,50.047054,19.920048
+30-337,Monte Cassino; Mitkowskiego,Monte Cassino; Władysława Mitkowskiego,2,9,50.046691,19.92709
+30-340,Krokusowa,Krokusowa,1,1,50.023813,19.919316
+30-343,Owocowa,Owocowa,1,1,50.001275,19.923117
+30-346,Twardowskiego; Boczna,Twardowskiego; Boczna,2,49,50.042624,19.920293
+30-347,Kapelanka; Wadowicka; Brożka; Twardowskiego,Kapelanka; Wadowicka; Jana Brożka; Twardowskiego,4,66,50.037689,19.9279
+30-348,Grota-Roweckiego; Bobrzyńskiego; Chmieleniec; Drukarska; Jahody; Łojasiewicza; Gutenberga; Braci Kiemliczów; Czerwone Maki; Frassati-Gawrońskiej,Stefana Grota-Roweckiego; Chmieleniec; Profesora Michała Bobrzyńskiego; Drukarska; Roberta Jahody; prof. Stanisława Łojasiewicza; Jana Gutenberga; Braci Kiemliczów; Czerwone Maki; Luciany Frassati-Gawrońskiej,10,153,50.023592,19.904658
+30-349,Lipińskiego; Miłkowskiego; Poronińska,Wacława Lipińskiego; Zygmunta Miłkowskiego; Poronińska,3,48,50.025751,19.921456
+30-350,Zachodnia,Zachodnia,1,14,50.0246,19.907352
+30-358,Rostworowskiego,Stanisława Rostworowskiego,1,6,50.028517,19.914054
+30-361,Rozdroże,Rozdroże,1,8,50.038782,19.926553
+30-362,Ceglarska,Ceglarska,1,27,50.039219,19.922459
+30-363,Rydlówka; Kobierzyńska; Rzemieślnicza; al. Skrzyneckiego; Szafrana; Babińskiego; Jasińskiego,Rydlówka; Kobierzyńska; Rzemieślnicza; Aleja gen. Jana Skrzyneckiego; Tadeusza Szafrana; dr. Józefa Babińskiego; gen. Jakuba Jasińskiego,7,122,50.033156,19.929993
+30-364,Jacka; Pychowicka; Kamieniarska; Czecha,św. Jacka; Pychowicka; Kamieniarska; Bronisława Czecha,4,115,50.036574,19.916891
+30-373,Prylińskiego; Wyłom,Tomasza Prylińskiego; Wyłom,2,10,50.033012,19.902387
+30-374,Salezjańska,Salezjańska,1,24,50.042411,19.916883
+30-375,Bogucianka; Bolesława Śmiałego; Obrony Tyńca; Podgórki Tynieckie; Wielogórska,Bogucianka; Bolesława Śmiałego; Obrony Tyńca; Podgórki Tynieckie; Wielogórska,5,8,50.008438,19.818321
+30-376,Tyniecka; Wielkanocna; Sodowa; Skalica; Słońskiego; Zakrzowiecka; Na Leszczu; Krasowa; Kameralna; Odrzywolskiego; Harasymowicza; Ekielskiego; Moraczewskiego; Prylińskiego; Księżarskiego; Norymberska; Talowskiego; Bażanki; Pokutyńskiego; Przełom; Felczaka; Kresowa; Wzgórze,Tyniecka; Wielkanocna; Sodowa; Gabriela Słońskiego; Skalica; Zakrzowiecka; Na Leszczu; Krasowa; Kameralna; Sławomira Odrzywolskiego; Jerzego Harasymowicza; Macieja Moraczewskiego; Władysława Ekielskiego; Tomasza Prylińskiego; Feliksa Księżarskiego; Norymberska; Teodora Talowskiego; Filipa Pokutyńskiego; Kaspra Bażanki; Przełom; Osiedle Wacława Felczaka; Kresowa; Wzgórze,23,825,50.032648,19.878415
+30-377,Jemiołowa; Rodzinna; Widłakowa; Wzgórze; Ćwikłowa; Piotra,Jemiołowa; Rodzinna; Widłakowa; Wzgórze; Ćwikłowa; św. Piotra,6,202,50.034556,19.88785
+30-379,Nierówna; Widłakowa; Bodzowska; Równa,Nierówna; Widłakowa; Bodzowska; Równa,4,55,50.040096,19.879192
+30-380,Krzewowa; Widłakowa; Falista; Pustelnia; Zakamycze; Kaktusowa; Gronowa,Krzewowa; Widłakowa; Falista; Pustelnia; Zakamycze; Kaktusowa; Gronowa,7,242,50.035242,19.858579
+30-381,Dąbrowa; Kolna; Bobrowa; Bojanówka; Ślaskiego; Fedkowicza; Kostrzecka; Srebrne Uroczysko; Jachimeckiego; Brzask; Zaciernie; Fosa; Nad Czerną,Dąbrowa; Kolna; Bobrowa; Bojanówka; Profesora Jana Ślaskiego; Jerzego Fedkowicza; Kostrzecka; Osiedle Srebrne Uroczysko; Zdzisława Jachimeckiego; Brzask; Zaciernie; Fosa; Nad Czerną,13,404,50.024646,19.84635
+30-382,Kobierzyńska; Zamiejska; Tymotkowa; Bieniarzówny; Kolista; Spychalskiego; Krumłowskiego; Piltza; Szymonowica; Normandzka,Kobierzyńska; Zamiejska; Tymotkowa; Kolista; Profesor Janiny Bieniarzówny; Pułkownika Józefa Spychalskiego; Konstantego Krumłowskiego; dr. Jana Piltza; Szymona Szymonowica; Normandzka,10,286,50.014524,19.900017
+30-383,Obozowa; Skośna; Lubostroń; Burgundzka; Koszarówka; Normandzka; Konopczyńskiego; Wandejska; Gwieździsta,Obozowa; Skośna; Lubostroń; Burgundzka; Koszarówka; Normandzka; prof. Władysława Konopczyńskiego; Wandejska; Gwieździsta,9,305,50.013443,19.904044
+30-384,Zalesie; Torfowa; Przemiarki; Studzianki; Raciborska; Przyzby; Magnolii; Wiśniewskiego; Szuwarowa; Biesiadna; Koszarówka; Butrymów,Zalesie; Torfowa; Przemiarki; Studzianki; Raciborska; Jana Kantego Przyzby; Magnolii; Profesora Jerzego Wiśniewskiego; Szuwarowa; Biesiadna; Koszarówka; Butrymów,12,240,50.020282,19.90798
+30-385,Sąsiedzka; Łany; Pszczelna; Liściasta; Ruczaj,Sąsiedzka; Łany; Pszczelna; Liściasta; Ruczaj,5,118,50.023631,19.914206
+30-386,Pastelowa; Dereniowa,Pastelowa; Dereniowa,2,48,50.024775,19.913468
+30-387,Gronostajowa,Gronostajowa,1,11,50.027328,19.902156
+30-388,Biesiadna,Biesiadna,1,1,50.008959,19.893617
+30-389,Komuny Paryskiej; Geremka; Kwiecista; Sidzińska; Braci Kiemliczów; Mieczykowa; Pawła z Krosna; Małysiaka; Bartla; Macierzanki; Szwed-Śniadowskiej; Drozdowskich; Korpala; Czeppe; Galaktyczna; Ketlinga; Polarna; Soroki; Arktyczna; Babinicza; Wicherkiewicza; Centkiewiczów; Zaporoska; Butrymów; Dęboroga; Pod Strugą; Anusi; Basistówka; Billewiczów; Kamieniecka; Krymska; Laudańska; Zbaraska; Pod Dębami,Komuny Paryskiej; prof. Bronisława Geremka; Kwiecista; Sidzińska; Braci Kiemliczów; Mieczykowa; Pawła z Krosna; bpa Albina Małysiaka; Profesora Wojciecha Marii Bartla; Anny Szwed-Śniadowskiej; Macierzanki; Karola i Jerzego Drozdowskich; Michała Korpala; Galaktyczna; Ketlinga; Profesora Zdzisława Czeppe; Polarna; Soroki; Arktyczna; Babinicza; Profesora Bolesława Wiktora Wicherkiewicza; Centkiewiczów; Zaporoska; Butrymów; Dęboroga; Pod Strugą; Anusi; Basistówka; Billewiczów; Kamieniecka; Krymska; Laudańska; Zbaraska; Pod Dębami,34,548,50.002838,19.894857
+30-390,Zawiła; Orleańska; Grodzisko,Zawiła; Orleańska; Grodzisko,3,79,50.007594,19.900253
+30-391,Spacerowa; Wody,Spacerowa; Wiesława Wody,2,129,49.999333,19.881296
+30-392,Piltza; Federowicza; Czerwone Maki; Bunscha; Barycza; Woźniczki,dr. Jana Piltza; Jana Kantego Federowicza; Czerwone Maki; Karola Bunscha; Henryka Barycza; insp. Marka Woźniczki,6,168,50.013138,19.886304
+30-393,Babińskiego,dr. Józefa Babińskiego,1,72,50.006907,19.885063
+30-394,Skotnicka; Dobrowolskiego; Unruga; Winnicka; Trockiego; Batalionów Chłopskich; Hufcowa; Grzegorzewskiej; Karcza; Podole; Brücknera; Emira; Laurowa; Królówka; Balanówka; Grzesiaka; Królikiewicza; Kresowa; Słabego; Łukowiec; Srebrna; Jasienicy; Krajobrazowa; Bocheńskiego; Dworski Ogród; Zamglona; Sternbacha; Mochnaniec; Na Polach; Porfirowa; Kurzmanna; Orszy-Broniewskiego; Rosista; Babińskiego; Baczyńskiego; Kobierzyńska; Skośna,Skotnicka; Antoniego Dobrowolskiego; Józefa Unruga; Winnicka; Księdza Franciszka Trockiego; Batalionów Chłopskich; Hufcowa; Generała Jana Karcza; Marii Grzegorzewskiej; Podole; Aleksandra Brücknera; Porucznika Emira; Laurowa; Królówka; Balanówka; Józefa Grzesiaka; Majora Adama Królikiewicza; Kresowa; Majora Mieczysława Słabego; Łukowiec; Srebrna; Krajobrazowa; Pawła Jasienicy; Dworski Ogród; Ojca Józefa Bocheńskiego; Zamglona; Leona Henryka Sternbacha; Mochnaniec; Na Polach; Porfirowa; Dawida Altera Kurzmanna; Harcmistrza Stanisława Orszy-Broniewskiego; Rosista; Kobierzyńska; Krzysztofa Kamila Baczyńskiego; Skośna; dr. Józefa Babińskiego,37,1467,50.013129,19.871161
+30-395,Obrońców Helu; Mochnaniec; Braterstwa Broni; Zelwerowicza; Domowa; Czwartaków,Obrońców Helu; Mochnaniec; Braterstwa Broni; Aleksandra Zelwerowicza; Domowa; Czwartaków,6,244,50.017831,19.88166
+30-396,Szymonowica; Baczyńskiego; Obrońców Tobruku,Szymona Szymonowica; Krzysztofa Kamila Baczyńskiego; Obrońców Tobruku,3,225,50.010347,19.877486
+30-397,Kozienicka; Wujka; Paska; Szerokie Łąki; Starzyńskiego; Orszy-Broniewskiego,Kozienicka; ks. Jakuba Wujka; Jana Chryzostoma Paska; Szerokie Łąki; Stefana Starzyńskiego; Harcmistrza Stanisława Orszy-Broniewskiego,6,243,50.006343,19.859142
+30-398,Bogucianka; Podgórki Tynieckie; Obrony Tyńca; Wielogórska; Walgierza Wdałego; Bolesława Śmiałego; Dziewiarzy; Heligundy; Benedyktyńska; Grodzisko; Jurandówny; Maćka z Bogdańca; Stępice; Nad Czerną; Toporczyków; Zagórze; Juranda ze Spychowa; Zakleśnie; Lutego Tura; Świętojańska; Browarniana; Kołaczkowskiego; Skołczanka; Szczygielskiego; Bagienna; Bór; Podgórki; Promowa; Zagumnie; Fedkowicza; Janasówka; Skotnicka,Bogucianka; Podgórki Tynieckie; Obrony Tyńca; Wielogórska; Walgierza Wdałego; Bolesława Śmiałego; Dziewiarzy; Heligundy; Benedyktyńska; Grodzisko; Danusi Jurandówny; Maćka z Bogdańca; Stępice; Nad Czerną; Toporczyków; Zagórze; Juranda ze Spychowa; Zakleśnie; Lutego Tura; Świętojańska; Browarniana; Stefana Kołaczkowskiego; Skołczanka; Stanisława Szczygielskiego; Bagienna; Bór; Podgórki; Promowa; Zagumnie; Janasówka; Jerzego Fedkowicza; Skotnicka,32,1110,50.010549,19.818494
+30-399,Petrażyckiego; Wrony; Żyzna; Topografów; Nałkowskiej; Warchałowskiego; Prażmowskiego; Chlebiczna; Medalionów; Działowskiego; Tretówka; Wapowskiego; Libertowska; Hollendra; Błotniska; Sapalskiego; Podgórki Tynieckie; Zagumnie; Opałka; Na Klińcu; Solówki; Kołaczkowskiego; Waltera; Wody; Radłowa; Kochmańskiego; Skotnicka; Zientary,Leona Petrażyckiego; Mieczysława Wrony; Żyzna; Topografów; Zofii Nałkowskiej; Edwarda Warchałowskiego; Adama Prażmowskiego; Chlebiczna; Medalionów; Stanisława Działowskiego; Tretówka; Bernarda Wapowskiego; Libertowska; Tadeusza Hollendra; Błotniska; Franciszka Sapalskiego; Podgórki Tynieckie; Zagumnie; Profesora Kazimierza Tadeusza Opałka; Na Klińcu; Solówki; Kazimierza Waltera; Stefana Kołaczkowskiego; Wiesława Wody; Radłowa; Tadeusza Kochmańskiego; Michała Zientary; Skotnicka,28,1607,49.985102,19.872995
+30-401,Rydlówka,Rydlówka,1,1,50.035333,19.935874
+30-402,Kobierzyńska,Kobierzyńska,1,1,50.036009,19.929648
+30-403,al. Skrzyneckiego; Rzemieślnicza,Aleja gen. Jana Skrzyneckiego; Rzemieślnicza,2,6,50.033992,19.934646
+30-404,Cegielniana; Nowotarska,Cegielniana; Nowotarska,2,54,50.027238,19.932807
+30-405,Szaniawskiego; Brożka; Słupska; Bogdanowicza; Lasek,Klemensa Junoszy Szaniawskiego; Jana Brożka; Słupska; Karola Bogdanowicza; Lasek,5,60,50.029364,19.932626
+30-406,Kołobrzeska; Kędzierzyńska; Zielonogórska,Kołobrzeska; Kędzierzyńska; Zielonogórska,3,47,50.028401,19.930087
+30-407,Koszalińska; Plac Łagiewnicki; Pienińska; Bronisławy; Chęcińska,Koszalińska; Plac Łagiewnicki; Pienińska; Chęcińska; św. Bronisławy,5,41,50.027749,19.930396
+30-408,Borsucza; Odrzańska,Borsucza; Odrzańska,2,32,50.026988,19.92868
+30-409,Ruczaj; Pszczelna; Bułgarska; Nabielaka,Ruczaj; Pszczelna; Bułgarska; Ludwika Nabielaka,4,95,50.028095,19.922386
+30-410,Turonia; Strąkowa,Turonia; Strąkowa,2,55,50.024823,19.922888
+30-411,Goplana; Irysowa,Goplana; Irysowa,2,20,50.024163,19.924735
+30-412,Zbrojarzy; Tokarska; Młynowa,Zbrojarzy; Tokarska; Młynowa,3,120,50.022555,19.924867
+30-413,Huculska; Falowa; Podhalańska,Huculska; Falowa; Podhalańska,3,49,50.022209,19.923461
+30-414,Dekarzy; Łukasińskiego,Dekarzy; Waleriana Łukasińskiego,2,63,50.021167,19.924147
+30-415,Bonarka; Wadowicka; Odrzańska,Bonarka; Wadowicka; Odrzańska,3,32,50.033657,19.940431
+30-416,Grzybki; Głogowska; Hodura,Grzybki; Głogowska; bpa Franciszka Hodura,3,23,50.032893,19.944174
+30-417,Łagiewnicka; Tischnera,Łagiewnicka; Księdza Józefa Tischnera,2,27,50.033108,19.94338
+30-418,Zakopiańska; Oraczy; Tischnera; Nefrytowa,Zakopiańska; Oraczy; Księdza Józefa Tischnera; Nefrytowa,4,130,50.018555,19.931966
+30-419,Hoffmanowej; Ciesielska; Do Wilgi; Deotymy,Klementyny Hoffmanowej; Ciesielska; Do Wilgi; Deotymy,4,60,50.02408,19.931764
+30-420,Ciechanowska; Zembrzycka,Ciechanowska; Zembrzycka,2,2,49.99569,19.912031
+30-421,Sielska; Na Grządkach; Przy Torze; Ogrodniki; Modra,Sielska; Na Grządkach; Przy Torze; Ogrodniki; Modra,5,105,50.016507,19.92933
+30-422,Jeleniogórska; Orzechowa,Jeleniogórska; Orzechowa,2,52,50.011314,19.923665
+30-423,Zawiła,Zawiła,1,7,50.006574,19.922371
+30-424,Kościuszkowców; Chłodna; Niemcewicza; Tęczowa; Nowogródzka,Kościuszkowców; Chłodna; Juliana Ursyna Niemcewicza; Tęczowa; Nowogródzka,5,56,50.017729,19.92567
+30-425,Nowogródzka; Na Zrębie; Niecała,Nowogródzka; Na Zrębie; Niecała,3,33,50.017261,19.924533
+30-426,Montwiłła-Mireckiego; Micińskiego; Gajowa; Świebodzicka,Józefa Montwiłła-Mireckiego; Tadeusza Micińskiego; Gajowa; Świebodzicka,4,67,50.019829,19.925562
+30-427,Żywiecka; Cesarza; Karabuły; Solvaya; Druhny Hanki; Jagodowa; Kępna; Łuczyńskiego; Kułakowskiego; Krępy; Szczerbińskiego; Starca; Zagrodzkiego; Zina; Ziobrowskiego; Goryczkowa,Żywiecka; Benedykta Cesarza; Księdza Wojciecha Karabuły; Ernesta Solvaya; Druhny Hanki; Jagodowa; Doktora Zygmunta Łuczyńskiego; Kępna; Henryka Kułakowskiego; Aleksandra Krępy; Karola Szczerbińskiego; Tadeusza Starca; Księdza Adolfa Zagrodzkiego; Stefana Ziobrowskiego; Wiktora Zina; Goryczkowa,16,162,50.013764,19.914006
+30-428,Zdunów; Krochmalniki; Kowalska; Rynek Fałęcki,Zdunów; Krochmalniki; Kowalska; Rynek Fałęcki,4,95,50.019576,19.920435
+30-429,Okrzei; Światowida; Zaborze; Miła,Stefana Okrzei; Światowida; Zaborze; Miła,4,59,50.019696,19.922417
+30-430,Podhalańska; Krokusowa,Podhalańska; Krokusowa,2,46,50.021896,19.917659
+30-431,Pszczelna,Pszczelna,1,12,50.023848,19.916641
+30-432,"Siarczana; Zina; Jasielska; Tulipanowa; Hubalczyków; Bieszczadzka; Ciepła; Krośnieńska; Armii ""Kraków""; Jugowicka; Zaułek Jugowicki; Horaka","Siarczana; Wiktora Zina; Jasielska; Tulipanowa; Hubalczyków; Bieszczadzka; Ciepła; Krośnieńska; Armii ""Kraków""; Jugowicka; Osiedle Zaułek Jugowicki; Alojzego Horaka",12,176,50.004471,19.928362
+30-433,"Kustronia; Armii ""Kraków""; Szyllinga; Ciechocińska; Kierzkowskiego; Horaka; Nowodworskiego; Ciołkosza; Tulipanowa","Józefa Kustronia; Armii ""Kraków""; Antoniego Szyllinga; Ciechocińska; Kazimierza Kierzkowskiego; Alojzego Horaka; Bartłomieja Nowodworskiego; Adama Ciołkosza; Tulipanowa",9,315,50.003794,19.928493
+30-434,Owocowa; Kokosowa; Goździkowa; Kolejarzy; Kąpielowa; Białostocka; Łódzka; Kaliska,Owocowa; Kokosowa; Goździkowa; Kolejarzy; Kąpielowa; Białostocka; Łódzka; Kaliska,8,118,49.999359,19.922835
+30-435,Zakopiańska; Torowa; Dzikiej Róży; Kokosowa; Łódzka,Zakopiańska; Torowa; Dzikiej Róży; Kokosowa; Łódzka,5,189,49.995077,19.919099
+30-436,Narvik; Judyma; Gumowskiego; Sokołowskiego; Banachiewicza,Narvik; Doktora Judyma; Andrzeja Sokołowskiego; Jana Gumowskiego; Tadeusza Banachiewicza,5,140,50.008923,19.920222
+30-437,Forteczna; Zagaje; Warowna; Kostrzewskiego; Kwiatowa; Rdzawa; Tochowicza; Kopernickiego; Bellerta; Ciechanowska; Czerska; Krygowskiego; Miodońskiego; Chojnicka; Chęcińska; Rutkowskiego; Amarantowa; Dercza; Mączyńskiego; Krzyżtoporska; Rabsztyńska; Kępińskiego; Korpala,Forteczna; Zagaje; Warowna; Józefa Kostrzewskiego; Kwiatowa; Rdzawa; Leona Tochowicza; Izydora Kopernickiego; Józefa Bellerta; Ciechanowska; Czerska; Jana Miodońskiego; Władysława Krygowskiego; Chojnicka; Chęcińska; Maksymiliana Rutkowskiego; Amarantowa; Ks. Władysława Dercza; Ks. Władysława Mączyńskiego; Krzyżtoporska; Rabsztyńska; Antoniego Kępińskiego; Michała Korpala,23,326,49.999133,19.909408
+30-438,Borkowska; Wichrowa,Borkowska; Wichrowa,2,70,50.003435,19.907193
+30-439,Bluszczowa; Księżycowa; Maja; Dębickiego; Warowna,Bluszczowa; Księżycowa; Księdza Franciszka Maja; Stanisława Dębickiego; Warowna,5,85,50.004074,19.919399
+30-440,Janowskiego; Pustynna; Marusarzówny; Zawiszy; Bastionowa; Ciechanowska,Jana Janowskiego; Pustynna; Heleny Marusarzówny; Zawiszy; Bastionowa; Ciechanowska,6,223,50.005154,19.911965
+30-441,Fałęcka; Skrzetuskiego; Żaków Krakowskich; Nenko; Zimmer,Fałęcka; Skrzetuskiego; Żaków Krakowskich; Julii Nenko; Siostry Zygmunty Zimmer,5,112,50.004256,19.909548
+30-442,Zawiła,Zawiła,1,61,50.007624,19.917911
+30-443,Ciołkosza; Jugowicka; Marcika; Zaułek Jugowicki; Podmokła; Szyllinga,Adama Ciołkosza; Jugowicka; Józefa Marcika; Osiedle Zaułek Jugowicki; Antoniego Szyllinga; Podmokła,6,163,50.007651,19.931523
+30-444,Kustronia; Wicherkiewicza,Józefa Kustronia; Profesora Bolesława Wiktora Wicherkiewicza,2,2,50.001768,19.911545
+30-445,Szmaragdowa; Czołgistów,Szmaragdowa; Czołgistów,2,27,50.003087,19.909233
+30-446,Kluka; Kadłubka,Jana Kluka; Wincentego Kadłubka,2,29,50.002065,19.906241
+30-447,Piaseckiego; Ludwisarzy,Sergiusza Piaseckiego; Ludwisarzy,2,21,50.022266,19.929279
+30-449,Poronińska,Poronińska,1,1,49.988189,19.916784
+30-498,Chorzowska; Homolacsa; Wachholza; Boratyńskiego; Pronaszków; Eibischa; Zakarczmie; Zembrzycka; Welońskiego; Maklakiewicza; Umińskiej; Gałęzowskiego; Knausa; Radnickiego; Libertowska,Chorzowska; Karola Homolacsa; Leona Wachholza; Czesława Boratyńskiego; Zbigniewa i Andrzeja Pronaszków; Eugeniusza Eibischa; Zakarczmie; Zembrzycka; Piusa Welońskiego; Eugenii Umińskiej; Jana Maklakiewicza; Józefa Gałęzowskiego; Karola Knausa; Zygmunta Radnickiego; Libertowska,15,182,49.994495,19.912644
+30-499,Smoleńskiego; Dębskiego; Ważewskiego; Taklińskiego; Opatkowicka; Kłuszyńska; Zakarczmie; Maja; Poronińska; Starowiejska; Miejscowa; Eibischa; Inicjatywy Lokalnej; Madera,Jerzego Smoleńskiego; Macieja Dębskiego; Tadeusza Ważewskiego; Władysława Taklińskiego; Opatkowicka; Kłuszyńska; Zakarczmie; Księdza Franciszka Maja; Poronińska; Starowiejska; Miejscowa; Eugeniusza Eibischa; Inicjatywy Lokalnej; Madera,14,903,49.986123,19.911255
+30-500,Limanowskiego,Bolesława Limanowskiego,1,1,50.045111,19.951479
+30-501,Szaflarska; Orawska; Czackiego; Limanowskiego,Szaflarska; Orawska; Tadeusza Czackiego; Bolesława Limanowskiego,4,25,50.041252,19.938414
+30-502,Przedwiośnie; Spiska,Przedwiośnie; Spiska,2,18,50.04192,19.938654
+30-503,Krasickiego,Ignacego Krasickiego,1,19,50.041372,19.940302
+30-504,Kalwaryjska; Śliska,Kalwaryjska; Śliska,2,74,50.040478,19.942831
+30-505,Mitery; Konopnickiej,Stanisława Mitery; Marii Konopnickiej,2,17,50.038152,19.940078
+30-506,Brodzińskiego; Staromostowa,Kazimierza Brodzińskiego; Staromostowa,2,15,50.04537,19.947997
+30-507,Celna,Celna,1,16,50.044798,19.947209
+30-508,Przy Moście,Przy Moście,1,2,50.045272,19.946861
+30-509,Legionów Józefa Piłsudskiego; Kalwaryjska; Legionów,Legionów Józefa Piłsudskiego; Kalwaryjska; Legionów,3,20,50.043142,19.949567
+30-510,Rejtana; Sokolska,Tadeusza Rejtana; Sokolska,2,12,50.04379,19.945442
+30-512,Długosza; Plac Emila Serkowskiego,Jana Długosza; Plac Emila Serkowskiego,2,25,50.042604,19.942965
+30-513,Smolki; Krasickiego,Smolki; Ignacego Krasickiego,2,25,50.041727,19.942186
+30-515,Krasickiego; Kutrzeby,Generała Tadeusza Kutrzeby; Ignacego Krasickiego,2,8,50.040401,19.940491
+30-516,Śliska,Śliska,1,3,50.039534,19.940815
+30-518,Rynek Podgórski,Rynek Podgórski,1,7,50.044606,19.949023
+30-519,Zamoyskiego,Jana Zamoyskiego,1,41,50.039746,19.943832
+30-520,Władysława Warneńczyka,Władysława Warneńczyka,1,4,50.042952,19.945229
+30-521,Stroma,Stroma,1,8,50.041794,19.944371
+30-522,Podskale,Podskale,1,14,50.037829,19.941842
+30-523,Zamoyskiego,Jana Zamoyskiego,1,59,50.039532,19.944169
+30-524,Kamieńskiego; Przełęcz,Henryka Kamieńskiego; Przełęcz,2,6,50.031532,19.954603
+30-525,Krzemionki; Redemptorystów,Krzemionki; Redemptorystów,2,15,50.040922,19.945985
+30-526,Czyżówka,Czyżówka,1,28,50.035854,19.944778
+30-527,Piwna; Nadwiślańska; Na Zjeździe; Solna; Braterstwa Broni,Piwna; Nadwiślańska; Na Zjeździe; Solna; Braterstwa Broni,5,37,50.046123,19.950635
+30-528,Kingi; Hetmańska; Tarnowskiego,św. Kingi; Hetmańska; Jana Tarnowskiego,3,39,50.04384,19.960789
+30-529,Józefińska; Targowa; Józefitów,Józefińska; Targowa; Józefitów,3,45,50.046259,19.952388
+30-530,Krakusa,Krakusa,1,9,50.04626,19.95242
+30-531,Węgierska,Węgierska,1,2,50.045678,19.950773
+30-532,Dąbrowskiego,Dąbrowskiego,1,21,50.044775,19.959773
+30-533,Rynek Podgórski; Powstańców Wielkopolskich,Rynek Podgórski; Powstańców Wielkopolskich,2,5,50.043975,19.952287
+30-534,Limanowskiego,Bolesława Limanowskiego,1,20,50.044696,19.954207
+30-535,Rękawka; Węgierska; Krakusa,Rękawka; Węgierska; Krakusa,3,63,50.043958,19.952799
+30-536,Benedykta; Czarnieckiego,św. Benedykta; Stefana Czarnieckiego,2,26,50.044421,19.954254
+30-537,Potebni; Tatrzańska,Andrzeja Potebni; Tatrzańska,2,13,50.043034,19.951525
+30-538,Parkowa; Radosna,Parkowa; Radosna,2,31,50.041342,19.952633
+30-539,Plac Lasoty,Plac Lasoty,1,8,50.04237,19.952577
+30-540,Stawarza; al. Dembowskiego; Andrychowska,por. Antoniego Stawarza; Aleja Edwarda Dembowskiego; Andrychowska,3,33,50.041676,19.954775
+30-542,Za Torem; Swoszowicka,Za Torem; Swoszowicka,2,3,50.037456,19.957058
+30-543,Maryewskiego; Kopiec Krakusa,Franciszka Maryewskiego; Kopiec Krakusa,2,9,50.039389,19.96019
+30-544,al. Pod Kopcem; Wapienna; Ludowa,Aleja Pod Kopcem; Wapienna; Ludowa,3,27,50.039402,19.961617
+30-545,Robotnicza; Lanckorońska,Robotnicza; Lanckorońska,2,11,50.04077,19.961137
+30-546,Plac Przystanek,Plac Przystanek,1,3,50.040785,19.959809
+30-547,Plac Bohaterów Getta,Plac Bohaterów Getta,1,9,50.046592,19.954095
+30-548,Lwowska,Lwowska,1,15,50.045746,19.956427
+30-549,Traugutta; Kącik,Romualda Traugutta; Kącik,2,38,50.046556,19.957268
+30-550,Janowa Wola; Dąbrówki,Janowa Wola; Dąbrówki,2,20,50.046314,19.956808
+30-551,Limanowskiego; Lwowska,Bolesława Limanowskiego; Lwowska,2,42,50.044466,19.956298
+30-552,Wielicka,Wielicka,1,67,50.035251,19.967849
+30-553,Powstańców Wielkopolskich,Powstańców Wielkopolskich,1,10,50.042448,19.962758
+30-554,Zamknięta,Zamknięta,1,1,50.040096,19.962067
+30-555,Jerozolimska,Jerozolimska,1,8,50.034887,19.966509
+30-556,Prokocimska; Wodna; Dworcowa; Drewniana,Prokocimska; Wodna; Dworcowa; Drewniana,4,59,50.034658,19.972414
+30-559,Dworcowa; Siemomysła; Prokocimska,Dworcowa; Siemomysła; Prokocimska,3,8,50.032521,19.971516
+30-560,Gipsowa; Uśmiech; Kalwaryjska,Gipsowa; Uśmiech; Kalwaryjska,3,25,50.02853,19.970924
+30-563,Tarnowska; Malborska,Tarnowska; Malborska,2,8,50.026959,19.974141
+30-564,Łuczników; Mieczników,Łuczników; Mieczników,2,17,50.02762,19.970552
+30-565,Heltmana; Pańska; Lecha; Kamieńskiego,Wiktora Heltmana; Pańska; Lecha; Henryka Kamieńskiego,4,83,50.029529,19.968242
+30-566,Dauna,Alfreda Dauna,1,17,50.026816,19.972074
+30-567,Miedziana,Miedziana,1,1,50.055539,19.974827
+30-568,Kraka,Kraka,1,6,50.041371,19.954194
+30-570,al. Powstańców Śląskich,Aleja Powstańców Śląskich,1,6,50.037881,19.950678
+30-571,Siemomysła,Siemomysła,1,42,50.030677,19.969365
+30-572,Stoigniewa; Wandejska,Stoigniewa; Wandejska,2,36,50.02825,19.96521
+30-580,Nowohucka,Nowohucka,1,4,50.062509,20.002493
+30-601,Sucha; Lechicka; Podmiłów,Sucha; Lechicka; Podmiłów,3,83,50.023902,19.93914
+30-602,Urocza; Goslara,Urocza; Juliana Goslara,2,43,50.025301,19.939465
+30-603,Kurasia; Pasieczna; Malutka,Ferdynanda Kurasia; Pasieczna; Malutka,3,42,50.025691,19.93798
+30-604,Włodarska; Harcerska,Włodarska; Harcerska,2,38,50.024971,19.940442
+30-605,Fredry; Motarskiego; al. Hyły; Duża Góra,Aleksandra Fredry; Tadeusza Motarskiego; Aleja Adolfa Hyły; Duża Góra,4,122,50.022826,19.943072
+30-606,Roi,gen. Bolesława Roi,1,5,50.021557,19.94422
+30-607,Kołodziejska; Kwietna,Kołodziejska; Kwietna,2,69,50.021485,19.940978
+30-608,Faustyny; Sowia; Ratajska; Pocztowa; Wąchały,Siostry Faustyny; Sowia; Ratajska; Pocztowa; Porucznika Wąchały,5,111,50.021037,19.93875
+30-609,Strumienna; Chochołowska; Połomskiego; Telekiego,Strumienna; Chochołowska; Pala Telekiego; Tadeusza Połomskiego,4,66,50.020393,19.94569
+30-610,Myślenicka; Totus Tuus; Sobótka; Millana; Żmichowskiej; Do Sanktuarium Bożego Miłosierdzia; Kryształowa; Sucha,Myślenicka; Totus Tuus; Sobótka; Harcmistrza Stanisława Millana; Narcyzy Żmichowskiej; Do Sanktuarium Bożego Miłosierdzia; Kryształowa; Sucha,8,115,50.009346,19.941715
+30-611,Wysłouchów; Halszki; Malwowa; Stojałowskiego; Bujaka; Bojki; Beskidzka; Sas-Zubrzyckiego; Pierzchówka; Filipowicza; Herberta; Madera; Lasogórska; Syreńskiego; Witosa; Zielona,Marii i Bolesława Wysłouchów; por. Halszki; Malwowa; Stanisława Stojałowskiego; Franciszka Bujaka; Jakuba Bojki; Beskidzka; Jana Sas-Zubrzyckiego; Pierzchówka; Generała Juliana Filipowicza; Madera; Zbigniewa Herberta; Lasogórska; Szymona Syreńskiego; Wincentego Witosa; Zielona,16,258,50.010298,19.951744
+30-612,Witosa; Przykopy; Chmielna; Żaka; Storczykowa; Daliowa; Stepowa; Stojałowskiego; Halszki; Wysłouchów,Wincentego Witosa; Przykopy; Chmielna; Michała Żaka; Storczykowa; Daliowa; Stanisława Stojałowskiego; Stepowa; Marii i Bolesława Wysłouchów; por. Halszki,10,92,50.01244,19.950185
+30-613,Łowienicka; Myślenicka,Łowienicka; Myślenicka,2,7,50.007498,19.946026
+30-614,Cechowa; Łężce; Szarych Szeregów; Pagórkowa; Siedliskiej; Nazaretańska,Cechowa; Łężce; Szarych Szeregów; Błogosławionej Franciszki Siedliskiej; Pagórkowa; Nazaretańska,6,226,50.003457,19.95112
+30-615,Wyrwa; Stepowa; Soboniowicka,Wyrwa; Stepowa; Soboniowicka,3,103,49.997446,19.955286
+30-616,Miarowa; Podgórki,Miarowa; Podgórki,2,60,49.996978,19.961622
+30-617,Wyżynna; Zdrojowa; Grawerska,Wyżynna; Zdrojowa; Grawerska,3,162,50.000538,19.962616
+30-618,Tuchowska; Rodziny Jędów; Witosa,Tuchowska; Rodziny Jędów; Wincentego Witosa,3,47,50.009756,19.966939
+30-619,Gołaśka; Turniejowa,Gołaśka; Turniejowa,2,80,50.013554,19.957708
+30-620,Dobczycka; Łapanowska; Sanocka,Dobczycka; Łapanowska; Sanocka,3,59,50.016598,19.956662
+30-621,Przekątna,Przekątna,1,3,50.017406,19.956956
+30-622,Jastrzębia; Beskidzka; Pierzchówka,Jastrzębia; Beskidzka; Pierzchówka,3,52,50.018546,19.951667
+30-623,Kotsisa; Zielona; Bystra,Aleksandra Kotsisa; Zielona; Bystra,3,63,50.020168,19.95067
+30-624,Malborska,Malborska,1,41,50.021805,19.964053
+30-625,Sportowa,Sportowa,1,4,50.023081,19.968801
+30-626,Sułkowskiego,gen. Józefa Sułkowskiego,1,7,50.023012,19.969715
+30-627,Lisa-Kuli; Pierackiego,Leopolda Lisa-Kuli; Bronisława Pierackiego,2,7,50.023213,19.97116
+30-628,Górska; Kadena-Bandrowskiego,Górska; Juliusza Kadena-Bandrowskiego,2,23,50.023693,19.972662
+30-629,Dauna,Alfreda Dauna,1,77,50.022177,19.974797
+30-630,Lubuska; Szukiewicza,Lubuska; Aleksandra Szukiewicza,2,15,50.019929,19.97509
+30-631,Na Kozłówce,Na Kozłówce,1,2,50.020958,19.979544
+30-632,Seweryna; Mochnackiego,prof. Tadeusza Seweryna; Maurycego Mochnackiego,2,19,50.02117,19.980547
+30-633,Sławka; Zakopiańska,Walerego Sławka; Zakopiańska,2,37,50.02208,19.959024
+30-636,Rydlówka; Jerzmanowskiego,Rydlówka; Erazma Jerzmanowskiego,2,3,50.026923,19.961257
+30-638,Białoruska; Włoska; Czarnogórska; Telimeny; Estońska; Macedońska; Serbska; Andricia; Rodziny Jędów,Białoruska; Włoska; Czarnogórska; Telimeny; Estońska; Macedońska; Serbska; Ivo Andricia; Rodziny Jędów,9,110,50.018978,19.977035
+30-641,Buraczana; Jarosławska,Buraczana; Jarosławska,2,6,50.020851,19.97759
+30-643,Bławatkowa,Bławatkowa,1,5,50.023668,19.975028
+30-644,Heltmana; Puszkarska; Kamieńskiego; Zana; Przyjaźni Polsko-Węgierskiej,Wiktora Heltmana; Puszkarska; Henryka Kamieńskiego; Tomasza Zana; Przyjaźni Polsko-Węgierskiej,5,69,50.026947,19.961362
+30-645,Nadzieja,Nadzieja,1,19,50.022178,19.975784
+30-646,Malborska,Malborska,1,38,50.024278,19.970099
+30-648,Szkolna; Zmartwychwstania Pańskiego,Szkolna; Zmartwychwstania Pańskiego,2,17,50.023595,19.965208
+30-649,Krawiecka; Poprzeczna; Zmartwychwstania Pańskiego,Krawiecka; Poprzeczna; Zmartwychwstania Pańskiego,3,36,50.024058,19.96542
+30-650,Skowronia; Szczęśliwa; Makowa,Skowronia; Szczęśliwa; Makowa,3,90,50.025486,19.967201
+30-651,Łabędzia; Gryglewskiego; Pańska,Łabędzia; Aleksandra Gryglewskiego; Pańska,3,57,50.026161,19.964325
+30-652,Mochnackiego,Maurycego Mochnackiego,1,47,50.023985,19.963193
+30-653,Kordiana; Zabawa; Gminna; Sławka,Kordiana; Zabawa; Gminna; Walerego Sławka,4,59,50.01309,19.963462
+30-654,Klonowica; Wspólna; Pszenna; Andrychowska; Heila; Tarnobrzeska,Sebastiana Klonowica; Wspólna; Pszenna; Andrychowska; Edwarda Heila; Tarnobrzeska,6,134,50.020321,19.955862
+30-655,Sempołowskiej; Monterska; Podgwiezdna; Wrony,Stefanii Sempołowskiej; Monterska; Podgwiezdna; Mieczysława Wrony,4,53,50.018477,19.955543
+30-656,Ossowskiego; Turniejowa; Na Łuku,Michała Ossowskiego; Turniejowa; Na Łuku,3,62,50.017794,19.960618
+30-657,Karpińskiego; Gromady Grudziąż,Franciszka Karpińskiego; Gromady Grudziąż,2,76,50.015603,19.961712
+30-658,Łużycka; Marcowa; Witosa; Zaruskiego,Łużycka; Marcowa; Mariusza Zaruskiego; Wincentego Witosa,4,73,50.013313,19.966691
+30-659,Poturalskiego; Lirników,Władysława Poturalskiego; Lirników,2,11,50.01584,19.96444
+30-660,Trybuny Ludów; Algierska; Niepokólczyckiego; Trawniki,Trybuny Ludów; Algierska; Franciszka Niepokólczyckiego; Trawniki,4,75,50.018208,19.965634
+30-661,Wolności,Wolności,1,17,50.017946,19.969111
+30-662,Albańska; Ondraszka; Wilgotna; Laszczki,Albańska; Ondraszka; Wilgotna; Konstantego Laszczki,4,60,50.018227,19.964939
+30-663,Wielicka; Wolska; Niedzicka; Marii Orwid; Ćwiklińskiej,Wielicka; Wolska; Niedzicka; Marii Orwid; Mieczysławy Ćwiklińskiej,5,80,50.01639,19.99431
+30-664,Na Kozłówce,Na Kozłówce,1,15,50.019378,19.981864
+30-665,Czorsztyńska,Czorsztyńska,1,21,50.020047,19.982893
+30-666,Stattlera; Zieleniec,Wojciecha Stattlera; Zieleniec,2,22,50.019779,19.983821
+30-667,Facimiech; Podlesie,Facimiech; Podlesie,2,34,50.015776,19.988169
+30-668,Polonijna; Wlotowa,Polonijna; Wlotowa,2,22,50.017813,19.987073
+30-669,Okólna; Malinowskiego,Okólna; Bronisława Malinowskiego,2,13,50.011544,19.984968
+30-670,Na Kozłówce,Na Kozłówce,1,9,50.018014,19.984716
+30-682,Spółdzielców,Spółdzielców,1,13,50.017366,19.979342
+30-683,Nowosądecka,Nowosądecka,1,37,50.01742,19.973284
+30-684,Okólna,Okólna,1,9,50.016961,19.982137
+30-685,Cechowa; Nazaretańska; Niebieska; Widnokrąg; Do Luboni,Cechowa; Nazaretańska; Niebieska; Widnokrąg; Do Luboni,5,187,50.005064,19.974607
+30-686,Podedworze; Kalinowa; Krystyna z Ostrowa,Podedworze; Kalinowa; Krystyna z Ostrowa,3,87,50.009859,19.980688
+30-687,Rżącka,Rżącka,1,88,50.004498,19.989371
+30-688,Obronna; Medyczna; Jakubowskiego; Badurskiego; Jana XXIII,Obronna; Medyczna; Macieja Jakubowskiego; Andrzeja Badurskiego; Jana XXIII,5,62,50.008356,19.993065
+30-689,Czajna; Łamana; Przy Kuźni; Zyndrama z Maszkowic; Przewiewna; Podwórkowa; Tyranowskiego; Pawłowskiego; Pytlasińskiego,Czajna; Łamana; Przy Kuźni; Zyndrama z Maszkowic; Przewiewna; Podwórkowa; Jana Leopolda Tyranowskiego; Bogumiła Pawłowskiego; Władysława Pytlasińskiego,9,173,50.007265,19.987451
+30-690,Sadka; Mokra; Błotna; Ciasna; Sporna; Kliniec; Zacisze Drwinki; Sportowa; Olszecka,Sadka; Mokra; Błotna; Ciasna; Sporna; Kliniec; Zacisze Drwinki; Sportowa; Olszecka,9,173,50.013065,19.983437
+30-691,Szpakowa,Szpakowa,1,12,50.012126,19.978894
+30-693,Łużycka; Kijanki; Gwarna; Bochenka; Kanarkowa; Tuchowska; Ukośna; Urwana; Zimna; Pochyła; Gombrowicza,Łużycka; Kijanki; Gwarna; Adama Bochenka; Kanarkowa; Tuchowska; Ukośna; Urwana; Zimna; Pochyła; Witolda Gombrowicza,11,238,50.008496,19.970777
+30-694,Kosocicka; Koszutki; Żelazowskiego; Hallera; Harcerzy Krakowskich; Bednarska; Hoborskiego; Gruszczyńskiego; Blacharska; Gąsiorowskiego; Szczegów; Barycka; Sztaudyngera; Krzemieniecka; Sczanieckiej; Osterwy; Biernata z Lublina; Miodońskiego; Badurskiego; Słona Woda; Tochowicza; Powały z Taczewa; Snozy; Kępińskiego; Lande; Korczyńskiego; Kostaneckiego; Krajobrazowa,Kosocicka; Koszutki; Romana Żelazowskiego; Jana Hallera; Harcerzy Krakowskich; Bednarska; Antoniego Hoborskiego; Włodzimierza Gruszczyńskiego; Blacharska; Szczegów; Wacława Gąsiorowskiego; Barycka; Jana Izydora Sztaudyngera; Emilii Sczanieckiej; Krzemieniecka; Juliusza Osterwy; Biernata z Lublina; Jana Miodońskiego; Andrzeja Badurskiego; Leona Tochowicza; Słona Woda; Powały z Taczewa; Snozy; Antoniego Kępińskiego; Jerzego Lande; Kazimierza Kostaneckiego; Krajobrazowa; Ludomiła Korczyńskiego,28,591,49.998478,19.997141
+30-695,Rydygiera; Schweitzera; Czerwiakowskiego; Dźwigońskiego; Wyszyńskiego,Ludwika Rydygiera; Alberta Schweitzera; Rafała Czerwiakowskiego; Księdza Franciszka Dźwigońskiego; Księdza Prymasa Stefana Wyszyńskiego,5,53,50.006416,20.008055
+30-696,Kaimska,Kaimska,1,3,50.007119,20.017507
+30-697,Barycza,Henryka Barycza,1,1,50.009473,19.883132
+30-698,Niewodniczańskiego; Myślenicka; Chałubińskiego; Matematyków Krakowskich; Krzyżańskiego; Moszyńskiego; Sawiczewskich; Borowinowa; Siarczanogórska; Pytlasińskiego; Krzyżanowskiego; Landaua; Orszańska; Gościnna; Syreńskiego; Wypoczynkowa; Wróblowicka; Aleksandrowicza; Lasogórska; Geologów; Grzepskiego; Podgórki; Szybisko; Zbydniowicka; Chrzanowskiego; Dróżka; Nowickiego; Stepowa; Moczydło; Gołąba; Merkuriusza Polskiego; Morozewicza; Miarowa; Herbowa; Bochnaka; Niedźwiedziny; Jeździecka; Kąpielowa; Lusińska; Gilowa; Mirtowa; Warszewicza; Babiego Lata; Czuchnowskiego; Familijna; Stawisko; Szarskiego; Jar; Rymanowska; Anioły; Czyrniańskiego; Opalińskiego; Siarczki; Lei; Łysogórska; Gorczyna; Gruszczyńskiego; Bogdanowskiego; Druskiennicka; Muszyńskiego; Grawerska; Hypty; Nałęczowska; Kajzera; Lecznicza; Perłowa; Rabczańska; Sanatoryjna; Truskawiecka; Jelskiego; Piłkarska; Starowiejska; Topiarnia; Zaruskiego; Łobodowskiego; Doroszewskiego; Kotowskiego; Nad Fosą; Podhalnie; Przyrodnicza; Iwaszkiewicza; Koźmiana; Parafialna; Tuchowska; Golkowicka; Iwonicka; Korczyńskiego; Neussera; Srzednickiego; Wczasowa; Wierchowa; Gacki; Michalika; Opiala; Osterwy; Pinocci; Szczawnicka; Uzdrowiskowa; Jugowicka; Malinowskiego; Zdrojowa; Złotej Jesieni,Henryka Niewodniczańskiego; Myślenicka; Tytusa Chałubińskiego; Matematyków Krakowskich; Mirosława Krzyżańskiego; Kazimierza Moszyńskiego; Józefa i Floriana Sawiczewskich; Borowinowa; Siarczanogórska; Władysława Pytlasińskiego; Adama Krzyżanowskiego; Lwa Landaua; Orszańska; Gościnna; Szymona Syreńskiego; Wypoczynkowa; Wróblowicka; Adolfa Aleksandrowicza; Lasogórska; Geologów; Podgórki; Stanisława Grzepskiego; Szybisko; Zbydniowicka; Dróżka; Ignacego Chrzanowskiego; Maksymiliana Nowickiego; Stepowa; Moczydło; Stanisława Gołąba; Merkuriusza Polskiego; Józefa Morozewicza; Miarowa; Herbowa; Niedźwiedziny; prof. Adama Bochnaka; Jeździecka; Kąpielowa; Lusińska; Gilowa; Józefa Warszewicza; Mirtowa; Babiego Lata; Familijna; Mariana Czuchnowskiego; Jacka Szarskiego; Stawisko; Jar; Rymanowska; Emiliana Czyrniańskiego; Jana Anioły; Siarczki; Łukasza Opalińskiego; Franciszka Lei; Łysogórska; Jana Aleksandra Gorczyna; Włodzimierza Gruszczyńskiego; Druskiennicka; Jana Muszyńskiego; Wincentego Bogdanowskiego; Franciszka Hypty; Grawerska; Nałęczowska; Ks. Władysława Kajzera; Lecznicza; Perłowa; Rabczańska; Sanatoryjna; Truskawiecka; Józefa Łobodowskiego; Konstantego Jelskiego; Mariusza Zaruskiego; Piłkarska; Starowiejska; Topiarnia; Floriana Kotowskiego; Nad Fosą; Podhalnie; Przyrodnicza; Witolda Doroszewskiego; Jarosława Iwaszkiewicza; Kajetana Koźmiana; Parafialna; Tuchowska; Edmunda Neussera; Golkowicka; Iwonicka; Konrada Srzednickiego; Ludomiła Korczyńskiego; Wczasowa; Wierchowa; Andrzeja Michalika; Gacki; Hieronima Pinocci; Juliusza Osterwy; Szczawnicka; Uzdrowiskowa; Zdzisława Opiala; Bronisława Malinowskiego; Jugowicka; Osiedle Złotej Jesieni; Zdrojowa,102,2695,49.986238,19.94809
+30-699,Kuryłowicza; Drużbackiej; Osterwy; Szczawnicka; Nad Fosą; Jarockiego; Golkowicka; Żelazowskiego; Krzemieniecka; Schönborna; Droga Rokadowa; Chanieckiej; Kukiełek Golkowickich; Malinowskiego; Kenara; Rytownicza; Tuchowska; Na Obrydki; Pajdaka; Gombrowicza; Gruszczyńskiego; Ratajskiego; Bełzy; Lande; Jasiukowicza; Na Pokusie; Berdyczowska,Jerzego Kuryłowicza; Elżbiety Drużbackiej; Juliusza Osterwy; Szczawnicka; Nad Fosą; Władysława Jarockiego; Golkowicka; Romana Żelazowskiego; Krzemieniecka; Bronisława Schönborna; Droga Rokadowa; Heleny Chanieckiej; Bronisława Malinowskiego; Kukiełek Golkowickich; Antoniego Kenara; Rytownicza; Tuchowska; Na Obrydki; Antoniego Pajdaka; Witolda Gombrowicza; Włodzimierza Gruszczyńskiego; Cyryla Ratajskiego; Jerzego Lande; Władysława Bełzy; Na Pokusie; Stanisława Jasiukowicza; Berdyczowska,27,703,49.984625,19.982083
+30-700,Półłanki,Półłanki,1,3,50.032439,20.042928
+30-701,Zabłocie; Przemysłowa; Ślusarska; Romanowicza; Wałowa,Zabłocie; Przemysłowa; Ślusarska; Tadeusza Romanowicza; Wałowa,5,36,50.049589,19.962056
+30-702,Romanowicza; Lipowa,Tadeusza Romanowicza; Lipowa,2,34,50.047162,19.962372
+30-703,Dekerta; Zaułek; Mydlarska,Jana Dekerta; Zaułek; Mydlarska,3,40,50.046277,19.96528
+30-704,Kiełkowskiego; Wałowa; Na Dołach,Romana Kiełkowskiego; Wałowa; Na Dołach,3,36,50.045754,19.967702
+30-705,Niwy; Klimeckiego; Herlinga-Grudzińskiego,Niwy; Stanisława Klimeckiego; Gustawa Herlinga-Grudzińskiego,3,31,50.047011,19.969911
+30-706,Poniatowskiego,Stanisława Augusta Poniatowskiego,1,1,50.094499,20.041959
+30-707,Powstańców Wielkopolskich; Płaszowska,Powstańców Wielkopolskich; Płaszowska,2,17,50.044076,19.96915
+30-709,Portowa; Stoczniowców,Portowa; Stoczniowców,2,12,50.050425,19.977807
+30-710,Krzywda; Ślusarska,Krzywda; Ślusarska,2,25,50.043285,19.971779
+30-711,Sarmacka; Koźlarska; Heweliusza,Sarmacka; Koźlarska; Jana Heweliusza,3,58,50.043339,19.97653
+30-712,Strycharska; Saska,Strycharska; Saska,2,19,50.042588,19.976708
+30-713,Płaszowska; Szklarska; Nowohucka,Płaszowska; Szklarska; Nowohucka,3,77,50.044981,19.978168
+30-714,Gromadzka; Paproci; Stróża Rybna,Gromadzka; Paproci; Stróża Rybna,3,88,50.043646,19.9796
+30-715,Saska; Stoszki,Saska; Księdza Ignacego Stoszki,2,15,50.043917,19.984906
+30-716,Albatrosów; Przewóz; Szczygla; Szczecińska,Albatrosów; Przewóz; Szczygla; Szczecińska,4,186,50.042,20.003406
+30-717,Koszykarska; Turka; Nowohucka,Koszykarska; ks. Wincentego Turka; Nowohucka,3,76,50.047858,19.986951
+30-718,Myśliwska; Lasówka; Gumniska; Zadworze,Myśliwska; Lasówka; Gumniska; Zadworze,4,161,50.046547,19.991493
+30-719,Gromadzka; Wodna; Widna,Gromadzka; Wodna; Widna,3,66,50.038974,19.976849
+30-720,Krzywda; Mały Płaszów; Saska; Kuklińskiego,Krzywda; Mały Płaszów; Saska; płk. Ryszarda Kuklińskiego,4,44,50.040431,19.984984
+30-721,Lipska; Surzyckiego; Przewóz; Wrobela,Lipska; Jana Surzyckiego; Przewóz; Feliksa Wrobela,4,46,50.040779,20.00464
+30-722,Rybitwy,Rybitwy,1,136,50.04227,20.034125
+30-723,Golikówka,Golikówka,1,110,50.044797,20.019889
+30-724,Goszczyńskiego; Iłowa,Seweryna Goszczyńskiego; Iłowa,2,68,50.038557,19.989257
+30-725,Łanowa; Siemienowicza; Węglarska; Rzebika,Łanowa; Kazimierza Siemienowicza; Węglarska; Józefa Rzebika,4,98,50.038406,19.992886
+30-726,Heweliusza,Jana Heweliusza,1,13,50.042152,19.975716
+30-727,Pana Tadeusza,Pana Tadeusza,1,7,50.046986,19.973912
+30-728,Nowohucka; Na Zakolu Wisły,Nowohucka; Na Zakolu Wisły,2,11,50.049652,19.983889
+30-729,Na Zakolu Wisły,Na Zakolu Wisły,1,8,50.053146,19.984495
+30-731,Grochowa; Kosiarzy; Grochowska,Grochowa; Kosiarzy; Grochowska,3,50,50.035702,20.000251
+30-732,Biskupińska; Gliniana; Dąbka; Mierzeja Wiślana; Tokarskiego; Brandla; Sudecka,Biskupińska; Gliniana; płk. Stanisława Dąbka; Mierzeja Wiślana; Juliana Tokarskiego; Konstantego Brandla; Sudecka,7,66,50.036572,19.9994
+30-733,Bagrowa; Motyla; Kozia; Obrońców Modlina,Bagrowa; Motyla; Kozia; Obrońców Modlina,4,112,50.036164,19.999002
+30-734,Żeńców; Źródlana,Żeńców; Źródlana,2,106,50.037264,19.989248
+30-735,Kacza; Żołnierska; Batki,Kacza; Żołnierska; Mariana Batki,3,90,50.036133,19.987418
+30-736,Przy Cegielni; Rybitwy,Przy Cegielni; Rybitwy,2,44,50.041142,20.032636
+30-737,Strażacka; Kormoranów; Kawowa; Herbaciana; Agawy; Jeżów,Strażacka; Kormoranów; Kawowa; Herbaciana; Agawy; Jeżów,6,105,50.043135,20.026102
+30-738,Golikówka; Agawy,Golikówka; Agawy,2,28,50.044356,20.030209
+30-739,Szparagowa; Skromna,Szparagowa; Skromna,2,71,50.046879,20.045448
+30-740,Półłanki; Popiełuszki; Bukowa,Półłanki; ks. Jerzego Popiełuszki; Bukowa,3,96,50.035424,20.04241
+30-741,Rączna; Domagały; Bukowa; Nad Drwiną; Stolarza; Pod Gwiazdami; Targosza,Rączna; Mariana Domagały; Bukowa; Nad Drwiną; Stefana Stolarza; Księdza Karola Targosza; Pod Gwiazdami,7,232,50.036756,20.051281
+30-742,Bazarowa,Bazarowa,1,7,50.035437,20.037519
+30-758,Danalówka; Taborowa; Magazynowa,Danalówka; Taborowa; Magazynowa,3,20,50.0254,20.036371
+30-789,Wrobela; Nefrytowa,Feliksa Wrobela; Nefrytowa,2,6,50.040777,20.06098
+30-797,Śliwiaka,Tadeusza Śliwiaka,1,15,50.037799,20.053025
+30-798,Wrobela; Czeczotta; Kossak-Szczuckiej; Złocieniowa; Czeczów; Botewa; Pod Wierzbami; Agatowa; Nefrytowa; Kminkowa; Kotówka; Malachitowa; Pod Gwiazdami; Targosza; Tyrczanka; Dymnik; Topazowa; Barty; Opalowa; Bartników; Dobry Początek,Feliksa Wrobela; Henryka Czeczotta; Zofii Kossak-Szczuckiej; Złocieniowa; Henryka i Karola Czeczów; Christo Botewa; Pod Wierzbami; Agatowa; Nefrytowa; Kminkowa; Kotówka; Malachitowa; Pod Gwiazdami; Księdza Karola Targosza; Tyrczanka; Dymnik; Topazowa; płk. Barty; Opalowa; Bartników; Dobry Początek,21,460,50.038864,20.05745
+30-799,Łutnia; Bugaj; Osikowa; Traczy; Jasieńskiego; Husarska,Łutnia; Bugaj; Osikowa; Traczy; Feliksa Jasieńskiego; Husarska,6,179,50.041597,20.072819
+30-802,Braterska; Sacharowa; Mazurska,Braterska; Andrieja Sacharowa; Mazurska,3,44,50.025965,19.980652
+30-803,Ruciana; Za Lipkami,Ruciana; Za Lipkami,2,14,50.025188,19.980777
+30-804,Siostrzana; Rożena,Siostrzana; Władysława Rożena,2,15,50.024617,19.980508
+30-805,Kolejowa; Balickiego; Bieżanowska,Kolejowa; Stanisława Balickiego; Bieżanowska,3,27,50.026067,19.988355
+30-806,Chłopska; Sacharowa; Konwaliowa; Rylskiego,Chłopska; Andrieja Sacharowa; Konwaliowa; Maksyma Rylskiego,4,49,50.025819,19.982945
+30-807,Bardowskiego; Mierosławskiego; Żurawia,Piotra Bardowskiego; Ludwika Mierosławskiego; Żurawia,3,19,50.024627,19.981859
+30-808,Górników,Górników,1,3,50.019192,19.994531
+30-809,Ściegiennego; Żabia; Kozietulskiego; Wypoczynkowa,Ks. Piotra Ściegiennego; Żabia; Jana Kozietulskiego; Wypoczynkowa,4,65,50.016679,19.996932
+30-811,Żniwna,Żniwna,1,4,50.019511,19.992764
+30-812,Bieżanowska,Bieżanowska,1,111,50.024945,19.987087
+30-814,Prosta,Prosta,1,41,50.023132,19.990438
+30-815,Jasińskiego; Andrusikiewicza; Bielskiego,gen. Jakuba Jasińskiego; Jana Kantego Andrusikiewicza; Marcina Bielskiego,3,48,50.023397,19.993394
+30-816,Górników; Na Wrzosach,Górników; Na Wrzosach,2,30,50.019802,19.994252
+30-817,Snycerska; Domagały; Mała Góra,Snycerska; Mariana Domagały; Mała Góra,3,52,50.022888,19.991965
+30-818,Gersona; Popławskiego,Wojciecha Gersona; Wacława Popławskiego,2,50,50.023893,19.987662
+30-819,Na Wrzosach; Górników,Na Wrzosach; Górników,2,60,50.022025,19.991154
+30-820,al. Dygasińskiego; Szara,Aleja Adolfa Dygasińskiego; Szara,2,87,50.021535,19.986679
+30-821,Libera,Anny Libera,1,25,50.023698,19.984253
+30-822,Śnieżna; Smolarzy; Na Wrzosach,Śnieżna; Smolarzy; Na Wrzosach,3,16,50.021375,19.991439
+30-823,Muzyków; Promienna,Muzyków; Promienna,2,27,50.020875,19.993152
+30-824,Legionów; Gierymskich,Legionów; Maksymiliana i Aleksandra Gierymskich,2,31,50.026546,19.990285
+30-825,Wojnicka,Wojnicka,1,10,50.026685,19.992039
+30-826,Bieżanowska; Darasza; Plac 650 lecia Prokocimia; Młodzieży; Podkowińskiego,Bieżanowska; Wojciecha Darasza; Plac 650 lecia Prokocimia; Młodzieży; Władysława Podkowińskiego,5,110,50.024362,19.9978
+30-827,Karpacka; Solarzy; Morawiańskiego; Małkowskiego; Spacerowa,Karpacka; Solarzy; Morawiańskiego; Andrzeja Małkowskiego; Spacerowa,5,111,50.024846,19.996373
+30-828,Czechowicza; Marzanny,Szymona Czechowicza; Marzanny,2,51,50.02471,20.000313
+30-829,Młodzieży; Podmiłów; Smolna; Udzieli; Dubois; Sobesto; Okocimska; Kallimacha,Młodzieży; Podmiłów; Seweryna Udzieli; Smolna; Stanisława Dubois; Tadeusza Sobesto; Okocimska; Filipa Kallimacha,8,109,50.023787,20.005596
+30-830,Ściegiennego; Nad Potokiem; Jesienna; Pod Sikornikiem,Ks. Piotra Ściegiennego; Nad Potokiem; Jesienna; Pod Sikornikiem,4,93,50.021209,19.997887
+30-831,Kosiarzy; Dąbrowa,Kosiarzy; Dąbrowa,2,3,50.030469,19.964141
+30-832,Dąbka; Biskupińska,płk. Stanisława Dąbka; Biskupińska,2,5,50.033501,20.011502
+30-833,Lilli Wenedy; Obrońców Modlina,Lilli Wenedy; Obrońców Modlina,2,11,50.022277,20.006716
+30-834,Kallimacha,Filipa Kallimacha,1,20,50.024648,20.001815
+30-835,Teligi,Leonida Teligi,1,41,50.015865,20.007855
+30-836,Jerzmanowskiego; Opty,Erazma Jerzmanowskiego; Opty,2,49,50.016492,20.009473
+30-837,Aleksandry; Heleny; Nowa Górka,Aleksandry; Heleny; Nowa Górka,3,72,50.0115,20.016593
+30-838,Heleny; Telimeny; Barbary; Normandzka,Heleny; Telimeny; Barbary; Normandzka,4,40,50.015663,20.017307
+30-841,Domagały,Mariana Domagały,1,3,50.029102,20.048567
+30-851,Stacyjna; Bocznica,Stacyjna; Bocznica,2,30,50.020211,20.030896
+30-852,Laskowa; Wrońskiego; Ripperów,Laskowa; Komandora Bohdana Wrońskiego; Wilhelma i Jana Ripperów,3,27,50.021159,20.022508
+30-853,Ogórkowa; Wrońskiego,Ogórkowa; Komandora Bohdana Wrońskiego,2,30,50.020484,20.025507
+30-854,Działkowa,Działkowa,1,37,50.021873,20.018533
+30-855,Łazy,Łazy,1,38,50.021635,20.016762
+30-856,Bieżanowska; Imielna; Gardowskiego; Strzelnica,Bieżanowska; Imielna; Ludwika Gardowskiego; Strzelnica,4,285,50.020113,20.020475
+30-857,Duża Góra; Wrońskiego,Duża Góra; Komandora Bohdana Wrońskiego,2,46,50.01792,20.023548
+30-858,Półłanki; Magazynowa; Danalówka; Osiedle Kolejowe,Półłanki; Magazynowa; Danalówka; Osiedle Kolejowe,4,49,50.026656,20.036073
+30-860,Bieżanowska; Nad Serafą; Smolenia; Braci Jamków; Stolarza; Łaczka,Bieżanowska; Jana Smolenia; Nad Serafą; Braci Jamków; Stefana Stolarza; ks. Prałata Mariana Łaczka,6,10,50.011983,20.032448
+30-863,Ćwiklińskiej; Śliwy,Mieczysławy Ćwiklińskiej; Leopolda Śliwy,2,10,50.014602,20.022904
+30-864,Korepty; Mała Góra; Łaczka; Gardowskiego; Rakuś; Smolenia; Nad Serafą; Szastera; Kolonijna; Małka; Kiepury; Przecinek; Stryjeńskiego; Świdzińskiego; Bierkowskiego; Madejówka; Kluszewskiego; Potrzebowskiego; Kurpińskiego; Rygiera; Nowaka; Krzymuskiego; Na Jazkach,Jana Korepty; Mała Góra; ks. Prałata Mariana Łaczka; Ludwika Gardowskiego; Rakuś; Jana Smolenia; Nad Serafą; Jana Szastera; Kolonijna; Zbigniewa Małka; Jana Kiepury; Przecinek; Henryka Świdzińskiego; Tadeusza Stryjeńskiego; Ludwika Bierkowskiego; Madejówka; Jacka Kluszewskiego; Jerzego Potrzebowskiego; Karola Kurpińskiego; Teodora Rygiera; Jana Nowaka; Edmunda Krzymuskiego; Na Jazkach,23,603,50.011223,20.029314
+30-865,Podłęska; Kaimska,Podłęska; Kaimska,2,34,50.008466,20.015865
+30-866,Ćwiklińskiej,Mieczysławy Ćwiklińskiej,1,1,50.015553,20.01971
+30-867,Wallenroda; Republiki Korczakowskiej; Bierkowskiego; Ściegiennego,Konrada Wallenroda; Republiki Korczakowskiej; Ks. Piotra Ściegiennego; Ludwika Bierkowskiego,4,18,50.016291,20.003021
+30-868,Kurczaba,Jana Kurczaba,1,29,50.013329,20.006492
+30-898,Sucharskiego; Potrzask; Bogucicka; Zolla; Pod Pomnikiem; Hoyera; Ślósarczyka; Zarzyckiego; Czarnochowicka; Popiełuszki; Stolarza; Drożdżowa; Jaglarzów; Zarosie; Złocieniowa; Pruszyńskiego; Zamłynie; Jędrzejczyka; Grzecha; Lipowskiego; Mogiłki; Kusia; Szymkiewicza; Zalipki; Weigla; Kokotowska; Habeli; Schulza; Flanka; Braci Jamków; Przylaszczki; Letnia; Koprowa; Przebiśniegów; Gerberowa; Stępnia; Wojciecha z Brudzewa; Kameliowa; Hiacyntowa; Tańskiego; Śliwy; Jakubca; Kwatery; Kłaka; Okręglik; Pochwalskiego; Pronia; Świeża; Jasieńskiego; Przełazek; Korepty; Małka; Nad Serafą; Sabały; Taborowa,Henryka Sucharskiego; Potrzask; Bogucicka; Fryderyka Zolla; Pod Pomnikiem; Henryka Hoyera; Leona Ślósarczyka; Wiesława Zarzyckiego; Czarnochowicka; ks. Jerzego Popiełuszki; Stefana Stolarza; Drożdżowa; Michała i Stanisława Jaglarzów; Zarosie; Złocieniowa; Ksawerego Pruszyńskiego; Zamłynie; Ludwika Jędrzejczyka; Jana Grzecha; Mogiłki; Wojciecha Lipowskiego; Dezyderego Szymkiewicza; Zalipki; ks. Jana Kusia; Ferdynanda Weigla; Kokotowska; Adama Habeli; Brunona Schulza; Leopolda Flanka; Braci Jamków; Przylaszczki; Letnia; Koprowa; Przebiśniegów; Gerberowa; Józefa Stępnia; Wojciecha z Brudzewa; Kameliowa; Czesława Tańskiego; Hiacyntowa; Leopolda Śliwy; Franciszka Kłaka; Kazimierza Pochwalskiego; Kwatery; Okręglik; Stanisława Pronia; Władysława Jakubca; Świeża; Feliksa Jasieńskiego; Przełazek; Jana Korepty; Jana Sabały; Nad Serafą; Taborowa; Zbigniewa Małka,55,1431,50.012018,20.045721
+30-899,Jasieńskiego,Feliksa Jasieńskiego,1,17,50.01637,20.056893
+30-901,Koletek; Tyniecka,Koletek; Tyniecka,2,2,50.044434,19.916596
+30-949,Prokocimska,Prokocimska,1,1,50.032187,19.977716
+30-960,Augustiańska; Bernardyńska; Obrońców Modlina,Augustiańska; Bernardyńska; Obrońców Modlina,3,3,50.046522,19.961811
+30-969,Mrozowa; al. Jana Pawła II,Aleja Jana Pawła II; Mrozowa,2,2,50.0785,20.04642
+30-998,Nad Czerną,Nad Czerną,1,1,50.017829,19.81978
+31-001,Grodzka; Wawel; Plac św. Marii Magdaleny; Stwosza,Grodzka; Zamek Wawel; Plac św. Marii Magdaleny; Wita Stwosza,4,34,50.057108,19.937604
+31-002,Kanonicza; Poselska; Senacka; Franciszkańska; Senatorska; Stolarska,Kanonicza; Poselska; Senacka; Franciszkańska; Senatorska; Stolarska,6,52,50.057393,19.93738
+31-003,Podzamcze,Podzamcze,1,10,50.055406,19.935568
+31-004,Plac Wszystkich Świętych; Franciszkańska; Grodzka,Plac Wszystkich Świętych; Franciszkańska; Grodzka,3,13,50.059169,19.936717
+31-005,Bracka,Bracka,1,16,50.060226,19.93627
+31-006,Grodzka; Jodłowa,Grodzka; Jodłowa,2,20,50.059384,19.93443
+31-007,Gołębia; Wiślna; Kanonicza; Olszewskiego; Rynek Główny,Gołębia; Wiślna; Kanonicza; Karola Olszewskiego; Rynek Główny,5,33,50.060549,19.934894
+31-008,Anny; Rynek Główny,Rynek Główny; św. Anny,2,26,50.061254,19.935507
+31-009,Szewska,Szewska,1,31,50.062622,19.934705
+31-010,Jagiellońska; Rynek Główny; Szczepańska,Jagiellońska; Rynek Główny; Szczepańska,3,26,50.06206,19.93505
+31-011,Plac Szczepański; Szczepańska; Jagiellońska; Reformacka; Rynek Główny,Plac Szczepański; Szczepańska; Jagiellońska; Reformacka; Rynek Główny,5,21,50.063443,19.935804
+31-012,Marka; Reformacka; Sławkowska,św. Marka; Reformacka; Sławkowska,3,16,50.064623,19.937087
+31-013,Rynek Główny; Floriańska,Rynek Główny; Floriańska,2,8,50.062482,19.938143
+31-014,Sławkowska; Tomasza; Długa; Rynek Główny,Sławkowska; św. Tomasza; Długa; Rynek Główny,4,33,50.06402,19.937328
+31-015,Pijarska; Floriańska,Pijarska; Floriańska,2,13,50.06505,19.939351
+31-016,Sławkowska; Jana; Tomasza; Marka,Sławkowska; św. Jana; św. Tomasza; św. Marka,4,15,50.06408,19.938216
+31-017,Jana; Rynek Główny; Pijarska,św. Jana; Rynek Główny; Pijarska,3,14,50.063505,19.939058
+31-018,Jana; Marka; Tomasza; Rynek Główny,św. Jana; św. Marka; św. Tomasza; Rynek Główny,4,20,50.063775,19.938921
+31-019,Floriańska; Tomasza,Floriańska; św. Tomasza,2,27,50.063331,19.940337
+31-020,Marka; Szpitalna; Tomasza; Augustiańska; Sławkowska,św. Marka; Szpitalna; św. Tomasza; Augustiańska; Sławkowska,5,11,50.062217,19.940942
+31-021,Floriańska; Pijarska,Floriańska; Pijarska,2,21,50.063635,19.940306
+31-022,Tomasza; Floriańska; Marka,św. Tomasza; Floriańska; św. Marka,3,7,50.063298,19.939742
+31-023,Świętego Krzyża; Plac Świętego Ducha,Świętego Krzyża; Plac Świętego Ducha,2,10,50.06307,19.94298
+31-024,Szpitalna; Marka; Pijarska; Plac Świętego Ducha; Tomasza,Szpitalna; św. Marka; Pijarska; Plac Świętego Ducha; św. Tomasza,5,40,50.062924,19.941715
+31-025,Zamenhofa; Skłodowskiej-Curie,dr. Ludwika Zamenhofa; Marii Skłodowskiej-Curie,2,25,50.063188,19.946218
+31-026,Radziwiłłowska,Radziwiłłowska,1,30,50.062889,19.946906
+31-027,Mikołajska; Tomasza; Świętego Krzyża; Na Gródku; Piłsudskiego; Szpitalna,Mikołajska; św. Tomasza; Świętego Krzyża; Marszałka Józefa Piłsudskiego; Na Gródku; Szpitalna,6,49,50.061668,19.941736
+31-028,Świętego Krzyża; Na Gródku,Świętego Krzyża; Na Gródku,2,15,50.061276,19.942041
+31-029,Zyblikiewicza; Morsztynowska; Bonerowska; Conrada; Librowszczyzna,Mikołaja Zyblikiewicza; Morsztynowska; Bonerowska; Josepha Conrada; Librowszczyzna,5,29,50.061667,19.943094
+31-030,Bonerowska; Librowszczyzna,Bonerowska; Librowszczyzna,2,20,50.059038,19.946263
+31-031,Dietla; Wrzesińska; Joselewicza,Józefa Dietla; Wrzesińska; Berka Joselewicza,3,35,50.056378,19.947218
+31-032,Starowiślna; Wielopole,Starowiślna; Wielopole,2,19,50.056898,19.945198
+31-033,Westerplatte; Zarzecze,Westerplatte; Zarzecze,2,21,50.062647,19.942412
+31-034,Kopernika; Lubicz; Basztowa,Mikołaja Kopernika; Lubicz; Basztowa,3,21,50.062346,19.946177
+31-035,Starowiślna; Rzeszowska; Podgórska,Starowiślna; Rzeszowska; Podgórska,3,34,50.052156,19.949667
+31-036,Halicka; Przemyska; Miodowa,Halicka; Przemyska; Miodowa,3,28,50.052394,19.950993
+31-038,Starowiślna,Starowiślna,1,30,50.056566,19.945059
+31-039,Dietla,Józefa Dietla,1,20,50.054086,19.943139
+31-041,Sienna; Mały Rynek; Plac Mariacki; Mikołajska; Stolarska; Świętego Krzyża,Sienna; Mały Rynek; Plac Mariacki; Mikołajska; Stolarska; Świętego Krzyża,6,34,50.060893,19.940277
+31-042,Rynek Główny; Plac Mariacki; Floriańska; Garczyńskiego; Grodzka; Mały Rynek; Sienna; Szpitalna,Rynek Główny; Plac Mariacki; Floriańska; Grodzka; Mały Rynek; Sienna; Stefana Garczyńskiego; Szpitalna,8,22,50.061526,19.940022
+31-043,Stolarska; Plac Dominikański; Dominikańska; Grodzka,Stolarska; Plac Dominikański; Dominikańska; Grodzka,4,22,50.059712,19.938882
+31-044,Grodzka; Senacka; Zamkowa,Grodzka; Senacka; Zamkowa,3,25,50.057031,19.938016
+31-045,Witkowice Nowe; Bieńczycki Plac Targowy; Narvik; Wallek-Walewskiego; Hoża; Zaporębie; Braci Polskich; Ekielskiego; Felińskiego; Truszkowskiego; Antyczna; Kontryma; Koszarówka; Legionów; Maja; Millana; Styki; Tuchowska; Górka Narodowa; Węgierskiego; Kalwińska; Nowohucka; Odrzywolskiego; Pierackiego; Prylińskiego; Stwosza; Zawieyskiego; Jarzynowa; Niedźwiedziny; Normandzka; Pod Gwiazdami; Szczerbińskiego; Słońskiego; Targosza; Zefirowa; Bukowa; Burgundzka; Chałupki; Cichociemnych AK; Norymberska; Pana Cogito; Patynów; Wandejska; Wicherkiewicza; Zaułek Jugowicki; Łuczyńskiego; Ślaskiego; Bukietowa; Bukszpanowa; Bulwarowa; Cesarza; Cieślewskiego; Do Sanktuarium Bożego Miłosierdzia; Emira; Grzepskiego; Herberta; Jasełkowa; Jubileuszowa; Kisielewskiego; Kocmyrzowska; Kulinowskiej; Kwiatowa; Laudańska; Legendy; Libera; Mosdorfa; Mycielskiego; Pawła z Krosna; Pod Stokiem; Pod Sulnikiem; Pszona; Solvaya; Starca; Wodocza; Bażanki; Bieniarzówny; Brzask; Centralna; Ciechanowska; Darwina; Dymnik; Dzielna; Dębickiego; Eibischa; Hypty; Jezuitów; Krasnowolskiego; Królówka; Krępy; Księżarskiego; Madera; Morstina; Ojcowska; Osterwy; Porfirowa; Pękowicka; Sajakówka; Salwińskiego; Słomczyńskiego; Talowskiego; Trzech Króli; Łosiówka; Augustynka-Wichury; Becka; Botewa; Czuchnowskiego; Druskiennicka; Gałęzowskiego; Herzoga; Kadecka; Kajzera; Kameliowa; Konarskiego; Kosów; Kuczkowskiego; Kurzei; Kłaka; Malownicza; Mączyńskiego; Na Zakolu Wisły; Nasza; Padniewskiego; Pełczyńskiego; Piotrusia Pana; Podgórki; Pomykany; Pruska; Pysońce; Rabsztyńska; Raczkiewicza; Republiki Korczakowskiej; Rusznikarska - Deptak; Sawy-Calińskiego; Skoczylasa; Snozy; Szlifierska; Turka; Tyrczanka; Uziembły; Wczasowa; Wierchowa; Wiśniowieckiego; Zielińskiego; Zientary; al. Bora-Komorowskiego; Ślósarczyka; Anusi; Babinicza; Bastionowa; Betlejemska; Billewiczów; Bobrowa; Bocheńskiego; Brązownicza; Butrymów; Chojnicka; Czyrniańskiego; Dajwór; Daliowa; Drozdowskich; Druhny Hanki; Duża Góra; Dęboroga; Filipa; Fosa; Freege'go; Gerberowa; Gorczyna; Grenadierów; Grębałowska; Gumowskiego; Handlowe; Hiacyntowa; Iwaszkiewicza; Jakubca; Jana; Jasieńskiego; Jelskiego; Jeżów; Jęczmienna; Karabuły; Kirchmajera; Kopernickiego; Korepty; Korohody; Kotowskiego; Kotówka; Koźmiana; Marczyńskiego; Marka; Mały Płaszów; Miarowa; Migdałowa; Mrozowa; Nałęczowska; Niewodniczańskiego; Opałka; Orszy-Broniewskiego; Ostrówka; Paszkowskiego; Peipera; Perłowa; Pinocci; Pod Skałą; Potrzask; Połomskiego; Przylaszczki; Płaska; Ripperów; Rodziny Jędów; Rymanowska; Sanatoryjna; Soroki; Stefana Batorego; Stepowa; Słabego; Słona Woda; Tischnera; Tumanowicza; Turowicza; Twaroga; Ujastek; Ujastek Mogilski; Uzdrowiskowa; Wielkanocna; Wielkie Pola; Winowców; Wodzickich; Wolskiego; Zagrodzkiego; Zaporoska; Zarzecze; Zastawniaka; al. Jana Pawła II; al. Kasztanowa; Łobzowska; Łukowiec; Śliwy; Żonkilowa,Osiedle Witkowice Nowe; Bieńczycki Plac Targowy; Narvik; Bolesława Wallek-Walewskiego; Hoża; Zaporębie; Braci Polskich; Arcybiskupa Zygmunta Szczęsnego Felińskiego; Władysława Ekielskiego; Ks. Stanisława Truszkowskiego; Antyczna; Bolesława Kontryma; Harcmistrza Stanisława Millana; Jana Styki; Koszarówka; Księdza Franciszka Maja; Legionów; Tuchowska; Górka Narodowa; Ludwika Węgierskiego; Bronisława Pierackiego; Jerzego Zawieyskiego; Kalwińska; Nowohucka; Sławomira Odrzywolskiego; Tomasza Prylińskiego; Wita Stwosza; Gabriela Słońskiego; Jarzynowa; Karola Szczerbińskiego; Księdza Karola Targosza; Niedźwiedziny; Normandzka; Pod Gwiazdami; Zefirowa; Bukowa; Burgundzka; Chałupki; Cichociemnych AK; Doktora Zygmunta Łuczyńskiego; Heleny i Leona Patynów; Norymberska; Osiedle Zaułek Jugowicki; Pana Cogito; Profesora Bolesława Wiktora Wicherkiewicza; Profesora Jana Ślaskiego; Wandejska; Andrzeja Mycielskiego; Anny Libera; Benedykta Cesarza; Bukietowa; Bukszpanowa; Bulwarowa; Do Sanktuarium Bożego Miłosierdzia; Ernesta Cieślewskiego; Ernesta Solvaya; Jana Mosdorfa; Jasełkowa; Jubileuszowa; Kocmyrzowska; Kwiatowa; Laudańska; Legendy; Mieczysława Pszona; Pawła z Krosna; Pod Stokiem; Pod Sulnikiem; Porucznika Emira; Stanisława Grzepskiego; Stefana Kisielewskiego; Tadeusza Starca; Wodocza; Zbigniewa Herberta; Zofii Kulinowskiej; Aleksandra Krępy; Brzask; Centralna; Ciechanowska; Dymnik; Dzielna; Eugeniusza Eibischa; Feliksa Księżarskiego; Franciszka Hypty; Jezuitów; Juliusza Osterwy; Józefa Krasnowolskiego; Karola Darwina; Kaspra Bażanki; Królówka; Ludwika Hieronima Morstina; Macieja Słomczyńskiego; Madera; Ojcowska; Opata Salwińskiego; Porfirowa; Profesor Janiny Bieniarzówny; Pękowicka; Sajakówka; Stanisława Dębickiego; Teodora Talowskiego; Trzech Króli; Łosiówka; Aleja gen. Tadeusza Bora-Komorowskiego; Antoniego Augustynka-Wichury; Christo Botewa; Druskiennicka; Franciszka Kłaka; Generała Bohdana Zielińskiego; Henryka Uziembły; Jeremiego Wiśniowieckiego; Józefa Becka; Józefa Gałęzowskiego; Józefa Herzoga; Józefa Sawy-Calińskiego; Kadecka; Kameliowa; Kosów; Ks. Władysława Kajzera; Ks. Władysława Mączyńskiego; Leona Ślósarczyka; Malownicza; Mariana Czuchnowskiego; Michała Zientary; Na Zakolu Wisły; Nasza; Piotrusia Pana; Podgórki; Pomykany; Pruska; Pysońce; Rabsztyńska; Republiki Korczakowskiej; Rusznikarska - Deptak; Snozy; Stanisława Konarskiego; Szlifierska; Tyrczanka; Wczasowa; Wierchowa; Władysława Raczkiewicza; Władysława Skoczylasa; bp. Filipa Padniewskiego; gen. Tadeusza Pełczyńskiego; ks. Józefa Kurzei; ks. Mikołaja Kuczkowskiego; ks. Wincentego Turka; Adama Marczyńskiego; Aleja Jana Pawła II; Aleja Kasztanowa; Anusi; Babinicza; Bastionowa; Betlejemska; Billewiczów; Bobrowa; Brązownicza; Butrymów; Chojnicka; Dajwór; Daliowa; Druhny Hanki; Duża Góra; Dęboroga; Emila Freege'go; Emiliana Czyrniańskiego; Feliksa Jasieńskiego; Floriana Kotowskiego; Fosa; Franciszka Twaroga; Generała Franciszka Paszkowskiego; Gerberowa; Grenadierów; Grębałowska; Harcmistrza Stanisława Orszy-Broniewskiego; Henryka Niewodniczańskiego; Hiacyntowa; Hieronima Pinocci; Izydora Kopernickiego; Jana Aleksandra Gorczyna; Jana Gumowskiego; Jana Korepty; Jarosława Iwaszkiewicza; Jerzego Korohody; Jerzego Turowicza; Jeżów; Jęczmienna; Kajetana Koźmiana; Karola i Jerzego Drozdowskich; Konstantego Jelskiego; Kotówka; Księdza Adolfa Zagrodzkiego; Księdza Józefa Tischnera; Księdza Wojciecha Karabuły; Leopolda Śliwy; Majora Mieczysława Słabego; Marszałka Mikołaja Wolskiego; Mały Płaszów; Miarowa; Migdałowa; Mrozowa; Nałęczowska; Ojca Józefa Bocheńskiego; Osiedle Handlowe; Ostrówka; Perłowa; Pod Skałą; Potrzask; Profesora Kazimierza Tadeusza Opałka; Przylaszczki; Płaska; Rodziny Jędów; Rymanowska; Sanatoryjna; Soroki; Stefana Batorego; Stepowa; Słona Woda; Tadeusza Peipera; Tadeusza Połomskiego; Ujastek; Ujastek Mogilski; Uzdrowiskowa; Waleriana Tumanowicza; Wielkanocna; Wielkie Pola; Wilhelma i Jana Ripperów; Wincentego Kirchmajera; Winowców; Wodzickich; Władysława Jakubca; Zaporoska; Zarzecze; ks. Józefa Zastawniaka; Łobzowska; Łukowiec; św. Filipa; św. Jana; św. Marka; Żonkilowa,239,797,50.0531,19.966051
+31-046,Gertrudy,św. Gertrudy,1,13,50.058208,19.941154
+31-047,Sarego,Józefa Sarego,1,29,50.056636,19.942759
+31-048,Gertrudy; Bogusławskiego,św. Gertrudy; Wojciecha Bogusławskiego,2,26,50.055674,19.940945
+31-049,Sebastiana; Gertrudy,św. Sebastiana; św. Gertrudy,2,26,50.05554,19.942041
+31-050,Brzozowa; Dietla,Brzozowa; Józefa Dietla,2,29,50.054152,19.945171
+31-051,Joselewicza; Sebastiana,Berka Joselewicza; św. Sebastiana,2,29,50.054473,19.945865
+31-052,Starowiślna; Dajwór; Miodowa; Wawrzyńca,Starowiślna; Dajwór; Miodowa; św. Wawrzyńca,4,58,50.051963,19.949453
+31-053,Szeroka; Ciemna,Szeroka; Ciemna,2,37,50.052287,19.94802
+31-054,Dietla; Podbrzezie,Józefa Dietla; Podbrzezie,2,21,50.052947,19.943339
+31-055,Miodowa; Bożego Ciała,Miodowa; Bożego Ciała,2,35,50.052278,19.943841
+31-056,Józefa; Estery; Plac Nowy; Nowa,Józefa; Estery; Plac Nowy; Nowa,4,62,50.051269,19.945288
+31-057,Kupa; Jakuba; Warszauera; Wąska; Bartosza; Izaaka; Plac Bawół; Warszawska,Kupa; Jakuba; Warszauera; Wąska; Bartosza; Izaaka; Plac Bawół; Warszawska,8,58,50.05187,19.946746
+31-058,Meiselsa; Stradomska,Meiselsa; Stradomska,2,18,50.052105,19.941903
+31-059,Bożego Ciała,Bożego Ciała,1,21,50.051008,19.943721
+31-060,Wawrzyńca; Gazowa; Plac Wolnica; Dajwór,św. Wawrzyńca; Gazowa; Plac Wolnica; Dajwór,4,59,50.049388,19.946946
+31-061,Mostowa; Bocheńska; Trynitarska; Bonifraterska; Podgórska,Mostowa; Bocheńska; Trynitarska; Bonifraterska; Podgórska,5,36,50.04817,19.945905
+31-062,Krakowska; Dietla; Stoczniowców; Węgłowa,Krakowska; Józefa Dietla; Stoczniowców; Węgłowa,4,43,50.049994,19.943484
+31-063,Meiselsa; Katarzyny; Węgłowa,Meiselsa; św. Katarzyny; Węgłowa,3,19,50.050107,19.942363
+31-064,Augustiańska; Skawińska,Augustiańska; Skawińska,2,25,50.049233,19.941774
+31-065,Paulińska; Skałeczna; Orzeszkowej; Isep,Paulińska; Skałeczna; Elizy Orzeszkowej; Isep,4,40,50.049737,19.941798
+31-066,Skawińska; Krakowska,Skawińska; Krakowska,2,35,50.047193,19.941812
+31-067,Piekarska; Wietora; Chmielowskiego,Hieronima Wietora; Piekarska; Adama Chmielowskiego,3,32,50.047279,19.941076
+31-068,Stradomska; Agnieszki,Stradomska; św. Agnieszki,2,22,50.052711,19.940173
+31-069,Koletek; Bernardyńska; Smocza; Sukiennicza,Koletek; Bernardyńska; Smocza; Sukiennicza,4,34,50.05215,19.937294
+31-070,Dietla,Józefa Dietla,1,21,50.050618,19.93915
+31-071,Kordeckiego; Stanisława; Agnieszki; Stawowa,Augustyna Kordeckiego; św. Stanisława; św. Agnieszki; Stawowa,4,26,50.051835,19.936068
+31-072,Wielopole,Wielopole,1,28,50.058612,19.945014
+31-073,Dietla,Józefa Dietla,1,5,50.057813,19.945812
+31-101,Plac Na Groblach; Straszewskiego; Powiśle,Plac Na Groblach; Straszewskiego; Powiśle,3,45,50.056252,19.932953
+31-102,Tarłowska; Tenczyńska; Zwierzyniecka,Tarłowska; Tenczyńska; Zwierzyniecka,3,30,50.057443,19.931756
+31-103,Felicjanek; Zwierzyniecka; Mała,Felicjanek; Zwierzyniecka; Mała,3,22,50.057898,19.930413
+31-104,Felicjanek; Zegadłowicza; Bożego Miłosierdzia; Do Sanktuarium Bożego Miłosierdzia,Felicjanek; Emila Zegadłowicza; Bożego Miłosierdzia; Do Sanktuarium Bożego Miłosierdzia,4,16,50.055219,19.930464
+31-105,Zwierzyniecka,Zwierzyniecka,1,12,50.056867,19.929737
+31-106,Wygoda; Plac Juliusza Kossaka; Morawskiego,Wygoda; Plac Juliusza Kossaka; Kazimierza Morawskiego,3,20,50.056981,19.927729
+31-107,Retoryka; Smoleńsk; Mała,Retoryka; Smoleńsk; Mała,3,26,50.058261,19.928978
+31-108,Smoleńsk; Retoryka,Smoleńsk; Retoryka,2,24,50.058826,19.92942
+31-109,Piłsudskiego; Straszewskiego; Floriańska; Salwatorska; Zamkowa,Marszałka Józefa Piłsudskiego; Straszewskiego; Floriańska; Salwatorska; Zamkowa,5,23,50.05951,19.930331
+31-110,Piłsudskiego; Czapskich,Marszałka Józefa Piłsudskiego; Czapskich,2,16,50.060363,19.93016
+31-111,al. Krasińskiego; Piłsudskiego; Retoryka,Aleja Zygmunta Krasińskiego; Marszałka Józefa Piłsudskiego; Retoryka,3,25,50.058356,19.926485
+31-112,Smoleńsk; Dunin-Wąsowicza,Smoleńsk; rtm. Zbigniewa Dunin-Wąsowicza,2,15,50.058241,19.9266
+31-113,Straszewskiego; Kapucyńska,Straszewskiego; Kapucyńska,2,9,50.061565,19.931547
+31-114,Jabłonowskich; Loretańska; Straszewskiego,Jabłonowskich; Loretańska; Straszewskiego,3,14,50.061358,19.930957
+31-115,Garncarska; Plac gen. Władysława Sikorskiego,Garncarska; Plac gen. Władysława Sikorskiego,2,35,50.061546,19.928025
+31-116,Studencka; Loretańska; Podwale,Studencka; Loretańska; Podwale,3,29,50.062705,19.930121
+31-117,Wenecja; Cybulskiego; Mlaskotów,Wenecja; Napoleona Cybulskiego; Mlaskotów,3,21,50.060943,19.926095
+31-118,Podwale,Podwale,1,5,50.062737,19.932082
+31-120,al. Mickiewicza; Cystersów,Aleja Adama Mickiewicza; Cystersów,2,32,50.065679,19.926623
+31-121,Czysta; Skarbowa; Humberta,Czysta; Skarbowa; Szczepana Humberta,3,26,50.063548,19.925882
+31-123,Krupnicza; Szujskiego,Krupnicza; Józefa Szujskiego,2,48,50.063434,19.928927
+31-124,Rajska; Dolnych Młynów; Studencka,Rajska; Dolnych Młynów; Studencka,3,20,50.064485,19.929459
+31-126,Michałowskiego; Czarnowiejska; Grabowskiego,Piotra Michałowskiego; Czarnowiejska; Ambrożego Grabowskiego,3,43,50.066237,19.927257
+31-127,Kochanowskiego; Pawlikowskiego; Szlachtowskiego,Jana Kochanowskiego; Tadeusza Pawlikowskiego; Feliksa Szlachtowskiego,3,39,50.066897,19.926253
+31-128,Karmelicka; Przybyszewskiego,Karmelicka; Stanisława Przybyszewskiego,2,45,50.066829,19.928425
+31-130,Kremerowska; Feldmana,Kremerowska; Wilhelma Feldmana,2,19,50.067927,19.929942
+31-131,Garbarska; Karmelicka,Garbarska; Karmelicka,2,31,50.065573,19.932325
+31-132,Altanowa; Krakowska,Altanowa; Krakowska,2,2,50.06157,19.922809
+31-133,Karmelicka; Dunajewskiego; Garbarska,Karmelicka; Juliana Dunajewskiego; Garbarska,3,18,50.064437,19.93324
+31-134,Basztowa,Basztowa,1,7,50.066311,19.93646
+31-135,Stefana Batorego; Ochlewskiego,Stefana Batorego; Tadeusza Ochlewskiego,2,29,50.067436,19.929866
+31-136,Jana Sobieskiego; Krowoderska,Jana Sobieskiego; Krowoderska,2,23,50.068442,19.931262
+31-137,Siemiradzkiego,Henryka Siemiradzkiego,1,31,50.06908,19.930419
+31-138,Lenartowicza,Lenartowicza,1,14,50.069733,19.928195
+31-139,Łobzowska; Spasowskiego,Łobzowska; Władysława Spasowskiego,2,32,50.069168,19.932934
+31-140,Łobzowska,Łobzowska,1,15,50.067814,19.933073
+31-141,Krowoderska; Słowiańska,Krowoderska; Słowiańska,2,34,50.068846,19.936914
+31-142,Krowoderska,Krowoderska,1,17,50.069109,19.936176
+31-143,Fenn'a; Basztowa,Sereno Fenn'a; Basztowa,2,21,50.066768,19.937513
+31-144,Biskupia; Asnyka; Nitscha; Łobzowska,Biskupia; Adama Asnyka; Kazimierza Nitscha; Łobzowska,4,27,50.067205,19.93243
+31-145,Żuławskiego; Długa; Hamernia; Plac Nowy Kleparz,Jerzego Żuławskiego; Długa; Hamernia; Plac Nowy Kleparz,4,17,50.072256,19.931283
+31-146,Długa,Długa,1,41,50.069772,19.937122
+31-147,Długa; Pędzichów,Długa; Pędzichów,2,40,50.069995,19.93739
+31-148,Helclów; Pędzichów; Wróblewskiego,Helclów; Pędzichów; Zygmunta Wróblewskiego,3,28,50.071302,19.938266
+31-149,Krzywa; Krótka,Krzywa; Krótka,2,18,50.067725,19.939732
+31-150,Filipa; Rynek Kleparski,św. Filipa; Rynek Kleparski,2,39,50.067913,19.940337
+31-152,Pędzichów; Wróblewskiego,Pędzichów; Zygmunta Wróblewskiego,2,20,50.070638,19.938723
+31-153,Szlak,Szlak,1,40,50.071159,19.939317
+31-154,Pawia; Worcella; Lubicz; Plac im. Jana Nowaka-Jeziorańskiego,Pawia; Stanisława Worcella; Lubicz; Plac im. Jana Nowaka-Jeziorańskiego,4,31,50.06746,19.945147
+31-155,Warszawska; Montelupich; Ogrodowa; Piekarska; Raciborskiego; al. Jana Pawła II,Warszawska; Montelupich; Ogrodowa; Aleja Jana Pawła II; Mariana Raciborskiego; Piekarska,6,34,50.06948,19.945463
+31-156,Zacisze; Kurniki; Basztowa; Plac Na Stawach; Wysłouchów,Zacisze; Kurniki; Basztowa; Marii i Bolesława Wysłouchów; Plac Na Stawach,5,24,50.06348,19.943115
+31-157,Plac Jana Matejki; Paderewskiego; al. Jana Pawła II,Plac Jana Matejki; Ignacego Paderewskiego; Aleja Jana Pawła II,3,17,50.067159,19.945622
+31-158,Krowoderska; Wrocławska,Krowoderska; Wrocławska,2,31,50.072032,19.932508
+31-159,al. Słowackiego,Aleja Juliusza Słowackiego,1,28,50.071594,19.93053
+31-160,Kolberga; Tuchowska,Oskara Kolberga; Tuchowska,2,15,50.066529,19.936801
+31-161,Szlak,Szlak,1,23,50.070727,19.934374
+31-162,Staszica; Teresy,Stanisława Staszica; św. Teresy,2,20,50.071066,19.932748
+31-200,Prądnicka,Prądnicka,1,1,50.08306,19.937462
+31-201,Siemaszki; Bratysławska; Pielęgniarek,ks. Kazimierza Siemaszki; Bratysławska; Pielęgniarek,3,24,50.083972,19.938633
+31-202,Prądnicka; Piastowska,Prądnicka; Piastowska,2,62,50.084584,19.937496
+31-203,Lekarska,Lekarska,1,6,50.086487,19.939819
+31-207,Siemaszki,ks. Kazimierza Siemaszki,1,46,50.08649,19.940085
+31-208,Kluczborska,Kluczborska,1,1,50.087242,19.934958
+31-209,Fieldorfa-Nila,gen. Augusta Fieldorfa-Nila,1,13,50.088658,19.935607
+31-212,Imbramowska,Imbramowska,1,12,50.089165,19.946699
+31-213,Bursztynowa; Turystyczna; Litawora,Bursztynowa; Turystyczna; Litawora,3,59,50.091516,19.947593
+31-214,Mackiewicza; Bałtycka; Narutowicza; Jazowa; Niska,Józefa Mackiewicza; Bałtycka; Gabriela Narutowicza; Jazowa; Niska,5,69,50.092095,19.943978
+31-215,Żabiniec; Biała; Korczaka; Prądnicka; Jaracza,Żabiniec; Biała; Janusza Korczaka; Prądnicka; Stefana Jaracza,5,112,50.085534,19.94456
+31-216,Zdrowa; Jaracza; Solskiego; Legnicka; Kołaczy; Reja; Bobrzeckiej; Syreny; Frycza-Modrzewskiego; Konecznego,Zdrowa; Ludwika Solskiego; Stefana Jaracza; Legnicka; Kołaczy; Mikołaja Reja; Marii Bobrzeckiej; Syreny; Andrzeja Frycza-Modrzewskiego; Feliksa Konecznego,10,123,50.087572,19.945613
+31-217,Żmujdzka; Zgody; Grażyny,Żmujdzka; Zgody; Grażyny,3,42,50.08849,19.949765
+31-218,Jadwigi,Królowej Jadwigi,1,2,50.066158,19.87456
+31-221,Białoprądnicka; Pasteura; Narutowicza; Papiernicza,Białoprądnicka; Ludwika Pasteura; Gabriela Narutowicza; Papiernicza,4,112,50.094995,19.93678
+31-222,Glogera; Górnickiego; Malinowa; Bularnia; Piaszczysta; Kluzeka; Tajber; Herwina-Piątka,Zygmunta Glogera; Łukasza Górnickiego; Malinowa; Bularnia; Piaszczysta; Piotra Kluzeka; Matki Pauli Zofii Tajber; Kazimierza Herwina-Piątka,8,124,50.099468,19.930432
+31-223,Pachońskiego; Wyki,Henryka Pachońskiego; Kazimierza Wyki,2,58,50.094247,19.927453
+31-224,Zaremby,Stanisława Zaremby,1,6,50.096018,19.927376
+31-226,Rybałtowska; Piaszczysta; Vetulaniego; Żwirowa,Rybałtowska; Piaszczysta; Adama Vetulaniego; Żwirowa,4,73,50.097569,19.92442
+31-227,Zimorowicza; Jasna; Zielińska; Białoprądnicka; Mączna,Szymona Zimorowicza; Jasna; Zielińska; Białoprądnicka; Mączna,5,82,50.095317,19.928581
+31-228,Pleszowska; Proszowicka; Nad Sudołem; Szopkarzy; Jarzynowa; Lechonia,Pleszowska; Proszowicka; Nad Sudołem; Szopkarzy; Jana Lechonia; Jarzynowa,6,79,50.092999,19.934861
+31-229,Danka; Jezuitów,Wincentego Danka; Jezuitów,2,8,50.092523,19.930921
+31-230,Pigonia,Stanisława Pigonia,1,9,50.094411,19.934114
+31-231,Siewna; Bociana; Jabłonna; Chylińskiego; Rysiewicza; Marczyńskiego; Kręta; Podkowińskiego,Siewna; Bociana; Jabłonna; prof. Zygmunta Chylińskiego; Adama Rysiewicza; Adama Marczyńskiego; Kręta; Władysława Podkowińskiego,8,148,50.094897,19.952273
+31-232,Mozarta; Polna; Zawodzie; Grażyny; Szafirowa; Bałtycka; Siewna,Osiedle Wolfganga Amadeusa Mozarta; Polna; Zawodzie; Grażyny; Szafirowa; Bałtycka; Siewna,7,52,50.09332,19.953094
+31-234,Dożynkowa; Kuźnicy Kołłątajowskiej; Górka Narodowa; Stefanowicza; Natansona; Górnickiego; Lechonia; Herwina-Piątka; Banacha; Słomczyńskiego; Zielone Wzgórze; Porzeczkowa; Witkowice Nowe; Bibicka; Potockiego; Rokosza; Dróżnicka,Dożynkowa; Kuźnicy Kołłątajowskiej; Górka Narodowa; Kajetana Stefanowicza; Władysława Natansona; Łukasza Górnickiego; Jana Lechonia; Kazimierza Herwina-Piątka; Stefana Banacha; Macieja Słomczyńskiego; Zielone Wzgórze; Osiedle Witkowice Nowe; Porzeczkowa; Bibicka; Stanisława Kostki Potockiego; Stanisława Rokosza; Dróżnicka,17,644,50.10247,19.948341
+31-235,Banacha; Wądół; Nowa Górka; Koło Białuchy; Głogowa; Suche Łąki; Koralowa; Papierni Prądnickich; Witkowice Nowe; Schillinga; Zauchy; Turowiec; Urodzajna,Stefana Banacha; Wądół; Nowa Górka; Koło Białuchy; Głogowa; Suche Łąki; Koralowa; Papierni Prądnickich; Osiedle Witkowice Nowe; Fryderyka Schillinga; Andrzeja Zauchy; Turowiec; Urodzajna,13,233,50.103196,19.947369
+31-236,Felińskiego; Meiera; al. 29 Listopada; Grabczaka,Arcybiskupa Zygmunta Szczęsnego Felińskiego; ks. Józefa Meiera; Aleja 29 Listopada; Ignacego Grabczaka,4,118,50.099334,19.965957
+31-241,Reduta; al. 29 Listopada; Witkowice Nowe,Reduta; Aleja 29 Listopada; Osiedle Witkowice Nowe,3,24,50.098636,19.974133
+31-242,Witkowicka; Belwederczyków; Okulistów; Arsenał; Witkowice Nowe,Witkowicka; Belwederczyków; Okulistów; Arsenał; Osiedle Witkowice Nowe,5,146,50.108235,19.957272
+31-244,Orla,Orla,1,21,50.041779,19.826289
+31-261,Wybickiego; Rusznikarska; Rusznikarska - Deptak; Mazowiecka; Twardego; Władysława Łokietka,Józefa Wybickiego; Rusznikarska; Rusznikarska - Deptak; Doktora Twardego; Mazowiecka; Władysława Łokietka,6,56,50.084993,19.927165
+31-262,Pękowicka; Jurajska,Pękowicka; Jurajska,2,116,50.108968,19.910048
+31-263,Władysława Łokietka; Starego Wiarusa,Władysława Łokietka; Starego Wiarusa,2,104,50.104446,19.906722
+31-264,Kaczorówka; Paszkowskiego,Kaczorówka; Generała Franciszka Paszkowskiego,2,92,50.106852,19.910714
+31-265,Gospodarska,Gospodarska,1,17,50.109226,19.903143
+31-266,Gryczana; Konopna,Gryczana; Konopna,2,107,50.110037,19.907002
+31-267,Na Mostkach; Frycza,Na Mostkach; Karola Frycza,2,75,50.11258,19.905927
+31-268,Jęczmienna; Pękowicka; Waliszewskiego,Jęczmienna; Pękowicka; Zygmunta Waliszewskiego,3,24,50.11202,19.903338
+31-269,Lniana; Miętowa,Lniana; Miętowa,2,19,50.113544,19.899029
+31-270,Na Zielonki,Na Zielonki,1,39,50.115084,19.899228
+31-271,Krowoderskich Zuchów; Kluczborska; Wielkotyrnowska,Krowoderskich Zuchów; Kluczborska; Wielkotyrnowska,3,40,50.087233,19.930012
+31-272,"Krowoderskich Zuchów; Batalionu ""Skała"" AK","Krowoderskich Zuchów; Batalionu ""Skała"" AK",2,15,50.088443,19.927803
+31-273,"Batalionu ""Skała"" AK; Wandejska","Batalionu ""Skała"" AK; Wandejska",2,9,50.079596,19.921826
+31-275,Opolska,Opolska,1,3,50.090196,19.926013
+31-276,Opolska,Opolska,1,12,50.090701,19.927566
+31-277,Opolska,Opolska,1,15,50.090584,19.924859
+31-278,Opolska,Opolska,1,2,50.090483,19.923528
+31-279,Zefirowa; Władysława Łokietka; Witkowice Nowe,Zefirowa; Władysława Łokietka; Osiedle Witkowice Nowe,3,27,50.103568,19.911256
+31-280,Władysława Łokietka,Władysława Łokietka,1,3,50.09127,19.91904
+31-301,Chełmońskiego,Józefa Chełmońskiego,1,13,50.089258,19.908607
+31-302,Wybickiego; Pod Fortem,Józefa Wybickiego; Pod Fortem,2,35,50.08284,19.92106
+31-303,Stachiewicza; Styki; Chełmońskiego - Deptak; Józefa; Pękowicka; Stawowa,Piotra Stachiewicza; Jana Styki; Józefa Chełmońskiego - Deptak; Księcia Józefa; Pękowicka; Stawowa,6,58,50.083563,19.916505
+31-305,Radzikowskiego,Eliasza Radzikowskiego,1,17,50.083056,19.910579
+31-306,Niska,Niska,1,32,50.084211,19.915406
+31-307,Stanisławskiego,Jana Stanisławskiego,1,38,50.084172,19.914559
+31-308,Nałkowskiego,Wacława Nałkowskiego,1,30,50.084603,19.914014
+31-309,Ehrenberga; Wodzinowskiego,Gustawa Ehrenberga; Wincentego Wodzinowskiego,2,64,50.08474,19.912952
+31-310,Wysockiego,Piotra Wysockiego,1,38,50.084768,19.912031
+31-311,Murarska; Elsnera,Murarska; Józefa Elsnera,2,48,50.085085,19.91114
+31-312,Lentza,Stanisława Lentza,1,3,50.084321,19.910001
+31-314,Zygmuntowska; Władysława Łokietka,Zygmuntowska; Władysława Łokietka,2,42,50.085959,19.907844
+31-315,Radzikowskiego,Eliasza Radzikowskiego,1,104,50.084967,19.89994
+31-316,Pużaka,Kazimierza Pużaka,1,16,50.085715,19.905476
+31-317,Gnieźnieńska,Gnieźnieńska,1,37,50.085357,19.906693
+31-318,Jaremy,Marii Jaremy,1,22,50.086453,19.908087
+31-319,Czerwieńskiego,Bolesława Czerwieńskiego,1,20,50.08562,19.903633
+31-320,Słowicza,Słowicza,1,18,50.086769,19.898828
+31-321,Fiszera; Podkowińskiego,Fiszera; Władysława Podkowińskiego,2,41,50.085983,19.896637
+31-322,Mehoffera; Chełmońskiego,Józefa Mehoffera; Józefa Chełmońskiego,2,24,50.087253,19.913521
+31-323,Gdyńska; Opolska,Gdyńska; Opolska,2,43,50.090156,19.916776
+31-324,Jordanowska; Bukietowa; Różyckiego; Nawigacyjna; Kuźnicy Kołłątajowskiej,Jordanowska; Bukietowa; Ludomira Różyckiego; Nawigacyjna; Kuźnicy Kołłątajowskiej,5,41,50.094321,19.913088
+31-325,Makowskiego; Palacha,Tadeusza Makowskiego; Jana Palacha,2,18,50.088281,19.917043
+31-326,Wielkotyrnowska,Wielkotyrnowska,1,29,50.087364,19.914679
+31-327,Modrzejewskiej; Berwińskiego,Heleny Modrzejewskiej; Ryszarda Berwińskiego,2,28,50.087407,19.915503
+31-328,Stachiewicza,Piotra Stachiewicza,1,22,50.086736,19.916797
+31-330,Radzikowskiego,Eliasza Radzikowskiego,1,1,50.089445,19.883729
+31-331,Bliska; Skrajna; Północna,Bliska; Skrajna; Północna,3,27,50.091848,19.916709
+31-332,Owsiana; Wewnętrzna; Tomkowicza,Owsiana; Wewnętrzna; Stanisława Tomkowicza,3,27,50.092863,19.915093
+31-333,Na Chałupkach,Na Chałupkach,1,6,50.092065,19.914955
+31-334,Władysława Łokietka; Ojcowska; Nawigacyjna; Racławicka,Władysława Łokietka; Ojcowska; Nawigacyjna; Racławicka,4,300,50.104661,19.904258
+31-335,Skotnica; Chabrowa; Orlich Gniazd; Poziomkowa,Skotnica; Chabrowa; Orlich Gniazd; Poziomkowa,4,103,50.101216,19.906864
+31-336,Maciejkowa; Azaliowa,Maciejkowa; Azaliowa,2,47,50.108545,19.896739
+31-337,Na Budzyniu,Na Budzyniu,1,31,50.111132,19.894119
+31-338,Gaik; Potoczek; Waniliowa,Gaik; Potoczek; Waniliowa,3,144,50.111435,19.889315
+31-339,Weissa,Wojciecha Weissa,1,10,50.085918,19.909176
+31-340,Chełmońskiego; Wilcza,Józefa Chełmońskiego; Wilcza,2,110,50.092923,19.903693
+31-341,Stelmachów; Piaskowa; Kiwerskiego; Pełczyńskiego; Kasznicy; Tumanowicza; Kaczmarczyka; Kalenkiewicza,Stelmachów; Piaskowa; Generała Kiwerskiego; gen. Tadeusza Pełczyńskiego; Stanisława Kasznicy; Waleriana Tumanowicza; Alojzego Kaczmarczyka; Macieja Kalenkiewicza,8,293,50.095311,19.904359
+31-342,Radzikowskiego; Groszkowa; Narcyzowa,Eliasza Radzikowskiego; Groszkowa; Narcyzowa,3,48,50.088882,19.885171
+31-343,Smętna; Lazurowa,Smętna; Lazurowa,2,34,50.092044,19.885987
+31-344,Ojcowska; Na Polach; Pejzażowa; Dziewanny; Krajewskiego,Ojcowska; Na Polach; Pejzażowa; Dziewanny; Ojca Eugeniusza Krajewskiego,5,377,50.098187,19.880228
+31-345,Sosnowiecka; Prandoty; Mięsowicza; Stawowa,Sosnowiecka; Prandoty; Stawowa; prof. Mariana Mięsowicza,4,95,50.092396,19.89293
+31-346,Stawowa; Nawojowska,Stawowa; Nawojowska,2,162,50.096883,19.883279
+31-347,Szarotki; Budrysów,Szarotki; Budrysów,2,84,50.100344,19.881392
+31-348,Chełmońskiego; Dzielna; Śmiała; Waleczna; Słotna; Hoża; Stelmachów,Józefa Chełmońskiego; Dzielna; Śmiała; Waleczna; Słotna; Hoża; Stelmachów,7,168,50.098193,19.890422
+31-349,Stelmachów; Chmurna; Piaskowa,Stelmachów; Chmurna; Piaskowa,3,88,50.096413,19.90005
+31-350,Okrężna; Na Wyrębę,Okrężna; Na Wyrębę,2,33,50.104829,19.879101
+31-351,Katowicka; Palmowa; Zielony Most; Naukowców; Wieniawy-Długoszowskiego,Katowicka; Palmowa; Zielony Most; Naukowców; gen. Bolesława Wieniawy-Długoszowskiego,5,124,50.086418,19.882151
+31-352,Truszkowskiego; Tetmajera; Pod Strzechą; Złota Podkowa; Boya-Żeleńskiego; Żeleńskiego; Witkiewicza,Ks. Stanisława Truszkowskiego; Włodzimierza Tetmajera; Pod Strzechą; Osiedle Złota Podkowa; Tadeusza Boya-Żeleńskiego; Władysława Żeleńskiego; Stanisława Ignacego Witkiewicza,7,416,50.090352,19.872806
+31-353,Żeleńskiego; Kiepury,Władysława Żeleńskiego; Jana Kiepury,2,112,50.089236,19.878368
+31-354,Pasternik; Zaborska; Chałubińskiego; Radzikowskiego,Pasternik; Zaborska; Eliasza Radzikowskiego; Tytusa Chałubińskiego,4,91,50.093804,19.875345
+31-355,Starego Dębu,Starego Dębu,1,50,50.101883,19.873101
+31-356,Wizjonerów; Kompozytorów; Aktorów; Odkrywców,Wizjonerów; Kompozytorów; Aktorów; Odkrywców,4,10,50.085333,19.886399
+31-357,Conrada,Josepha Conrada,1,22,50.088173,19.899168
+31-358,Kukiela; Jasnogórska; Olszyny-Wilczyńskiego,gen. Mariana Kukiela; Jasnogórska; gen. Józefa Olszyny-Wilczyńskiego,3,102,50.093339,19.901601
+31-363,Niska,Niska,1,1,50.084315,19.915528
+31-376,Słońskiego,Gabriela Słońskiego,1,1,50.034052,19.89467
+31-398,Wieniawy-Długoszowskiego; Peipera; Witkiewicza; Łupaszki; Brzozowskiego,gen. Bolesława Wieniawy-Długoszowskiego; Tadeusza Peipera; Stanisława Ignacego Witkiewicza; mjr. Łupaszki; Stanisława Brzozowskiego,5,27,50.086366,19.872134
+31-401,al. 29 Listopada,Aleja 29 Listopada,1,11,50.077328,19.947607
+31-403,Kamienna; Towarowa; Murowana; Będzińska,Kamienna; Towarowa; Murowana; Będzińska,4,29,50.076657,19.944528
+31-404,Kątowa; Żelazna; Stwosza,Kątowa; Żelazna; Wita Stwosza,3,11,50.073572,19.94752
+31-406,al. 29 Listopada,Aleja 29 Listopada,1,47,50.090897,19.958951
+31-408,Pocieszka; Rybianka; Sadowa; Żytnia; Boboli; Celarowska; Czerwona,Pocieszka; Rybianka; Sadowa; Żytnia; św. Andrzeja Boboli; Celarowska; Czerwona,7,43,50.088252,19.957321
+31-409,Woronicza; Rokitniańska; Dominikanów; Jezuitów; Nabielaka; Combrowa; Ciołkowskiego; Rezedowa; Ostroroga; Jasnorzewskiej; al. 29 Listopada,Jana Woronicza; Rokitniańska; Dominikanów; Jezuitów; Ludwika Nabielaka; Combrowa; Konstantego Ciołkowskiego; Rezedowa; Jana Ostroroga; Marii Jasnorzewskiej; Aleja 29 Listopada,11,101,50.086495,19.960093
+31-410,Bosaków; Olsztyńska; Czereśniowa; Bitschana; Białych Brzóz; Lublańska; Turkusowa; Nabielaka,Bosaków; Olsztyńska; Czereśniowa; Jurka Bitschana; Białych Brzóz; Lublańska; Turkusowa; Ludwika Nabielaka,8,46,50.084796,19.961485
+31-411,Gdańska; Nadrzeczna; Nad Strugą; Legnicka,Gdańska; Nadrzeczna; Nad Strugą; Legnicka,4,45,50.08326,19.957882
+31-413,Wileńska; Zaułek Wileński,Wileńska; Zaułek Wileński,2,15,50.081824,19.953818
+31-414,Celarowska,Celarowska,1,15,50.08288,19.955775
+31-416,Dobrego Pasterza; Marchołta; Krzesławicka; Bohomolca; Boznańskiej,Dobrego Pasterza; Marchołta; Krzesławicka; Franciszka Bohomolca; Olgi Boznańskiej,5,183,50.08933,19.971938
+31-417,Aliny; Nikifora; Słoneckiego; Balladyny,Aliny; Nikifora; Mariana Słoneckiego; Balladyny,4,35,50.090813,19.980417
+31-418,Boznańskiej; Zakopiańska,Olgi Boznańskiej; Zakopiańska,2,11,50.080026,19.967077
+31-419,Kwartowa; Antyczna; Rozrywka; Pana Cogito; Brzechwy; Do Wilgi,Kwartowa; Antyczna; Rozrywka; Pana Cogito; Do Wilgi; Jana Brzechwy,6,46,50.09094,19.97774
+31-420,Brzechwy; Jezuitów,Jana Brzechwy; Jezuitów,2,2,50.08908,19.970938
+31-421,Reduta; Naczelna; Olszecka; Kaczary,Reduta; Naczelna; Olszecka; Jana Kaczary,4,73,50.091125,19.974094
+31-422,Powstańców; Strzelców; Majora; Nuszkiewicza; Janusa; Malinowa; Sudolska,Powstańców; Strzelców; Jakuba Majora; mjr. Ryszarda Nuszkiewicza; Majora Pilota Stefana Janusa; Malinowa; Sudolska,7,188,50.093992,19.969196
+31-423,Łepkowskiego; Łuszczkiewicza; Sudolska; Na Barciach; Chlebowa; Szklana; Liliowa; Nuszkiewicza,Józefa Łepkowskiego; Władysława Łuszczkiewicza; Sudolska; Na Barciach; Chlebowa; Szklana; Liliowa; mjr. Ryszarda Nuszkiewicza,8,66,50.091319,19.964148
+31-424,Fertnera,Antoniego Fertnera,1,1,50.08366,19.953904
+31-425,al. 29 Listopada; Rogatka; Langiewicza,Aleja 29 Listopada; Rogatka; Mariana Langiewicza,3,87,50.081249,19.949913
+31-426,Żmujdzka; Prądzyńskiego; Wiśniowa; Duchacka,Żmujdzka; gen. Ignacego Prądzyńskiego; Wiśniowa; Duchacka,4,54,50.084504,19.953321
+31-428,Bolesława Chrobrego,Bolesława Chrobrego,1,15,50.076609,19.963963
+31-429,Cieplińskiego; Łukasiewicza,Łukasza Cieplińskiego; Ignacego Łukasiewicza,2,59,50.075228,19.964439
+31-431,Brogi; Dukatów; Czerwonego Prądnika; Dobra; Szwoleżerów; Błękitna; Kąt,Brogi; Dukatów; Czerwonego Prądnika; Dobra; Szwoleżerów; Błękitna; Kąt,7,151,50.079789,19.961987
+31-432,Mieszka I; Jaśminowa; Kanonierów; Otwinowskiego; Kąt; Sokołowskiego,Mieszka I; Jaśminowa; Kanonierów; Stefana Otwinowskiego; Kąt; Andrzeja Sokołowskiego,6,112,50.079917,19.963414
+31-435,Radomska; Partyzantów; Ptasia; Pogodna; Piękna,Radomska; Partyzantów; Ptasia; Pogodna; Piękna,5,79,50.080778,19.962383
+31-436,Wieniawskiego; Żułowska; Trębacza; Sokołowskiego; Saperów; Środkowa; Stanisława ze Skalbmierza; Nawojowska,Henryka Wieniawskiego; Żułowska; Piotra Trębacza; Andrzeja Sokołowskiego; Saperów; Środkowa; Stanisława ze Skalbmierza; Nawojowska,8,207,50.080895,19.963649
+31-443,Łąkowa; Janickiego; Nieduża,Łąkowa; Klemensa Janickiego; Nieduża,3,29,50.073192,19.982717
+31-444,Ostatnia; Śliczna; Ładna; Ogrodnicza; Szkółkowa; Dobrego Pasterza,Ostatnia; Śliczna; Ładna; Ogrodnicza; Szkółkowa; Dobrego Pasterza,6,132,50.071847,19.978553
+31-445,Mogilska; Kantora; Łaszkiewicza,Mogilska; Tadeusza Kantora; płk. pil. Stefana Łaszkiewicza,3,31,50.070013,19.977987
+31-450,Ułanów; Ugorek,Ułanów; Ugorek,2,38,50.075509,19.985117
+31-452,Włodkowica,Pawła Włodkowica,1,9,50.074748,19.982761
+31-455,Ułanów; Seniorów Lotnictwa; Spadochroniarzy; Na Grządkach,Ułanów; Seniorów Lotnictwa; Spadochroniarzy; Na Grządkach,4,19,50.07648,19.98081
+31-456,Ugorek; Dzielskiego,Ugorek; Mirosława Dzielskiego,2,12,50.076895,19.980711
+31-457,Meissnera; Fiołkowa; Potebni,Janusza Meissnera; Fiołkowa; Andrzeja Potebni,3,38,50.074697,19.979696
+31-460,Ułanów; Wysoka,Ułanów; Wysoka,2,28,50.080793,19.979219
+31-462,Pilotów; Podmiejska; Lotnicza; Pszona,Pilotów; Podmiejska; Lotnicza; Mieczysława Pszona,4,122,50.077435,19.972175
+31-463,Narzymskiego; Raciborskiego; Kryniczna; Olszyny; Stokrotek; Bratkowa; Wereszyckiego; Lesista; Nadbrzeżna; Farmaceutów; Podmiejska,Józefa Narzymskiego; Mariana Raciborskiego; Kryniczna; Olszyny; Stokrotek; Bratkowa; prof. Henryka Wereszyckiego; Lesista; Nadbrzeżna; Farmaceutów; Podmiejska,11,146,50.07402,19.969009
+31-464,Widna; Krzywoń; Chałupnika; Rozmarynowa; Wiejska; Nieznana; Swojska; Majowa; Startowa; Potrzask,Widna; Anieli Krzywoń; Kazimierza Chałupnika; Rozmarynowa; Wiejska; Nieznana; Swojska; Majowa; Startowa; Potrzask,10,198,50.076529,19.973351
+31-465,Żwirki i Wigury; Dzielskiego; Bajana; Sadzawki; Chałupnika; Saperów; Żeleńskiego,Żwirki i Wigury; Mirosława Dzielskiego; Jerzego Bajana; Sadzawki; Kazimierza Chałupnika; Saperów; Władysława Żeleńskiego,7,49,50.07997,19.9729
+31-466,XX Pijarów; Akacjowa; Okulickiego,XX Pijarów; Akacjowa; gen. Leopolda Okulickiego,3,20,50.085219,19.980833
+31-467,Cieślewskiego,Ernesta Cieślewskiego,1,6,50.084317,19.982438
+31-469,Młyńska; Miechowity,Młyńska; Macieja Miechowity,2,14,50.082749,19.970022
+31-470,Młyńska Boczna,Młyńska Boczna,1,6,50.083383,19.973497
+31-471,Malawskiego,Artura Malawskiego,1,36,50.081775,19.965858
+31-474,Młyńska,Młyńska,1,3,50.083554,19.971376
+31-475,Miechowity; Forteczna,Macieja Miechowity; Forteczna,2,19,50.079237,19.964415
+31-476,al. Bora-Komorowskiego; Lublańska; Bosaków; Meissnera; Łepkowskiego,Aleja gen. Tadeusza Bora-Komorowskiego; Lublańska; Bosaków; Janusza Meissnera; Józefa Łepkowskiego,5,31,50.085348,19.970964
+31-477,Bohaterów Wietnamu,Bohaterów Wietnamu,1,4,50.081726,19.969501
+31-478,Brzechwy,Jana Brzechwy,1,29,50.091014,19.982277
+31-479,Sabały; Janosika; Harnasiów; Bachledy,Jana Sabały; Janosika; Harnasiów; Klimka Bachledy,4,82,50.092617,19.984033
+31-480,Liryczna,Liryczna,1,11,50.091558,19.981599
+31-481,Eminowicza; Kazimierza Odnowiciela; Promienistych,Marka Eminowicza; Kazimierza Odnowiciela; Promienistych,3,33,50.087195,19.9698
+31-482,Klemensiewicza,Zenona Klemensiewicza,1,8,50.081793,19.950437
+31-501,Kopernika,Mikołaja Kopernika,1,28,50.062586,19.951833
+31-502,Kołłątaja; Blich,Hugona Kołłątaja; Blich,2,18,50.060641,19.948826
+31-503,Lubicz; Strzelecka; Botaniczna,Lubicz; Strzelecka; Botaniczna,3,39,50.064475,19.951369
+31-504,Lubicz; Zygmunta Augusta; Kurkowa,Lubicz; Zygmunta Augusta; Kurkowa,3,21,50.065334,19.94976
+31-505,Ariańska; Bosacka; Borowickiej,Ariańska; Bosacka; Iwony Borowickiej,3,35,50.066429,19.953256
+31-506,Topolowa,Topolowa,1,34,50.066657,19.95439
+31-508,Bosacka; Skłodowskiej-Curie,Bosacka; Marii Skłodowskiej-Curie,2,6,50.067098,19.949175
+31-509,Lubomirskiego,Aleksandra Lubomirskiego,1,34,50.067533,19.954298
+31-510,Rakowicka; Olszańska; Rynek Główny,Rakowicka; Olszańska; Rynek Główny,3,55,50.071091,19.953728
+31-511,Rakowicka,Rakowicka,1,17,50.066092,19.95189
+31-512,Lubicz; Topolowa,Lubicz; Topolowa,2,23,50.066149,19.952421
+31-513,Olszańska; Moniuszki,Olszańska; Moniuszki,2,19,50.071851,19.958972
+31-514,al. Beliny-Prażmowskiego; Misiołka,Aleja płk. Władysława Beliny-Prażmowskiego; Leona Misiołka,2,86,50.070427,19.959001
+31-515,Bandurskiego; Plac Prezydenta Edwarda Raczyńskiego,ks. bpa Władysława Bandurskiego; Plac Prezydenta Edwarda Raczyńskiego,2,47,50.071185,19.960175
+31-516,Grochowska; Mogilska; Kamienna; Mogilskie,Grochowska; Mogilska; Kamienna; Rondo Mogilskie,4,31,50.071906,19.960872
+31-517,Bema; Olszańska; Cieplińskiego; Wilka-Wyrwińskiego,gen. Józefa Bema; Olszańska; Wilhelma Wilka-Wyrwińskiego; Łukasza Cieplińskiego,4,46,50.071517,19.962171
+31-518,Brodowicza; Orląt Lwowskich; Moniuszki; Bandurskiego; Olszańska; Rynek Podgórski,Józefa Brodowicza; Orląt Lwowskich; Moniuszki; Olszańska; Rynek Podgórski; ks. bpa Władysława Bandurskiego,6,66,50.070821,19.962131
+31-519,Idzikowskiego; Bolesława Chrobrego; Domki; Jaworskiego; Skorupki; Na Wiankach,Ludwika Idzikowskiego; Bolesława Chrobrego; Domki; Jaworskiego; Ks. Ignacego Jana Skorupki; Na Wiankach,6,119,50.07605,19.960063
+31-521,Rakowicka; Grochowska; Norwida; Rusałek; Chłopickiego; Cienista; Perłowa,Rakowicka; Grochowska; Cypriana Kamila Norwida; Rusałek; Cienista; Perłowa; gen. Chłopickiego,7,71,50.074084,19.961429
+31-523,Moniuszki; Kasprowicza; Kielecka; Eisenberga; Sowińskiego,Moniuszki; Jana Kasprowicza; Kielecka; Filipa Eisenberga; gen. Józefa Sowińskiego,5,122,50.068855,19.965284
+31-524,Sowińskiego; Garczyńskiego; Grunwaldzka; Ordona,gen. Józefa Sowińskiego; Stefana Garczyńskiego; Grunwaldzka; Juliana Konstantego Ordona,4,46,50.070071,19.964985
+31-525,Zaleskiego; Chłopickiego; Misiołka; Królówka; Rymarska,Bohdana Zaleskiego; gen. Chłopickiego; Leona Misiołka; Królówka; Rymarska,5,67,50.06684,19.96198
+31-526,Kielecka; Grunwaldzka,Kielecka; Grunwaldzka,2,21,50.067178,19.963258
+31-527,Rymarska; Supniewskiego,Rymarska; Janusza Supniewskiego,2,7,50.068229,19.968767
+31-529,Sołtyka; Bujwida; Blich,Sołtyka; Odona Bujwida; Blich,3,27,50.060446,19.950054
+31-530,Łazarza; Dwernickiego; Grzegórzecka,św. Łazarza; gen. Józefa Dwernickiego; Grzegórzecka,3,32,50.059567,19.949773
+31-531,Grzegórzecka; Śniadeckich,Grzegórzecka; Jana i Jędrzeja Śniadeckich,2,26,50.059471,19.955828
+31-532,Grzegórzecka; Chodkiewicza; Prochowa; Pola,Grzegórzecka; Karola Chodkiewicza; Prochowa; Wincentego Pola,4,73,50.05742,19.954222
+31-534,al. Daszyńskiego; Masarska; Grzegórzecka,Aleja Ignacego Daszyńskiego; Masarska; Grzegórzecka,3,24,50.055632,19.95426
+31-535,Blachnickiego; Gęsia,Gęsia; ks. Franciszka Blachnickiego,2,14,50.05451,19.955021
+31-536,Siedleckiego; Podgórska,Michała Siedleckiego; Podgórska,2,7,50.053636,19.953687
+31-537,al. Daszyńskiego; Gurgacza; Metalowców,Aleja Ignacego Daszyńskiego; Ks. Władysława Gurgacza; Metalowców,3,25,50.057301,19.950854
+31-538,Wiślisko; Siedleckiego; Blachnickiego; Parkowa,Wiślisko; Michała Siedleckiego; ks. Franciszka Blachnickiego; Parkowa,4,17,50.055452,19.951
+31-539,Żółkiewskiego; Kotlarska; Masarska,Hetmana Żółkiewskiego; Kotlarska; Masarska,3,48,50.058295,19.958115
+31-540,Rzeźnicza; Semperitowców,Rzeźnicza; Semperitowców,2,28,50.056145,19.957008
+31-541,al. Powstania Warszawskiego,Aleja Powstania Warszawskiego,1,4,50.060676,19.960995
+31-542,Kordylewskiego; Mogilska; Sądowa,Kazimierza Kordylewskiego; Mogilska; Sądowa,3,29,50.062886,19.963084
+31-543,Nullo; Szafera,płk. Francesco Nullo; prof. Władysława Szafera,2,38,50.062459,19.966417
+31-545,Mogilska,Mogilska,1,27,50.066296,19.969482
+31-546,Mogilska,Mogilska,1,25,50.066786,19.967923
+31-547,Przy Rondzie; Mosiężnicza; Mogilska,Przy Rondzie; Mosiężnicza; Mogilska,3,11,50.064873,19.961791
+31-548,al. Pokoju; Nowohucka,Aleja Pokoju; Nowohucka,2,39,50.06108,19.977975
+31-549,al. Powstania Warszawskiego,Aleja Powstania Warszawskiego,1,1,50.062788,19.96084
+31-552,Bobrowskiego,Stefana Bobrowskiego,1,17,50.058741,19.96701
+31-553,Cystersów; Fabryczna; Kalwaryjska,Cystersów; Fabryczna; Kalwaryjska,3,59,50.063221,19.970573
+31-559,Grzegórzecka; Półkole; Rogozińskiego; Cegielniana; Stachowskiego,Grzegórzecka; Półkole; Stefana Rogozińskiego; Cegielniana; prof. Marka Stachowskiego,5,84,50.057676,19.969616
+31-560,Na Szaniec; Widok; Skrzatów; Żółtej Ciżemki,Na Szaniec; Widok; Skrzatów; Żółtej Ciżemki,4,44,50.058799,19.978232
+31-563,Zwycięstwa; Świtezianki; Nizinna,Zwycięstwa; Świtezianki; Nizinna,3,37,50.06279,19.977862
+31-564,al. Pokoju; Widok; Jachowicza; Igołomska; Sabały; Świtezianki,Aleja Pokoju; Widok; Stanisława Jachowicza; Igołomska; Jana Sabały; Świtezianki,6,83,50.063505,19.988957
+31-566,Bajeczna; Ofiar Dąbia; Nowohucka; Torfowa,Bajeczna; Ofiar Dąbia; Nowohucka; Torfowa,4,28,50.055713,19.974851
+31-567,Widok; Ofiar Dąbia; Miedziana,Widok; Ofiar Dąbia; Miedziana,3,11,50.056827,19.977685
+31-571,al. Jana Pawła II; Janusa; Lema; Czyżyńska; Mogilska,Aleja Jana Pawła II; Majora Pilota Stefana Janusa; Stanisława Lema; Czyżyńska; Mogilska,5,74,50.070471,19.985413
+31-572,Dąbska; Niepołomska; Kosynierów; Cichociemnych AK; Kuśnierska; Żabiniec,Dąbska; Niepołomska; Kosynierów; Cichociemnych AK; Kuśnierska; Żabiniec,6,58,50.06662,19.996459
+31-573,Plac Błonie-Beszcz; Sierpowa; Zajęcza,Plac Błonie-Beszcz; Sierpowa; Zajęcza,3,16,50.05853,19.996418
+31-574,Ciepłownicza,Ciepłownicza,1,45,50.052771,20.00983
+31-579,Narciarska; Dolna; al. Jana Pawła II; Boguszówka,Narciarska; Dolna; Aleja Jana Pawła II; Boguszówka,4,60,50.072314,20.008373
+31-580,Wężyka; Poleska; Dolnomłyńska; Tabaczna; Wysockiej; Nowohucka; Strumyk; Zastawniaka,Franciszka Wężyka; Poleska; Dolnomłyńska; Tabaczna; Stanisławy Wysockiej; Nowohucka; Strumyk; ks. Józefa Zastawniaka,8,116,50.071429,20.009356
+31-581,Gałczyńskiego; Kwiatów Polskich; Tuwima; Nastrojowa,Konstantego Ildefonsa Gałczyńskiego; Kwiatów Polskich; Juliana Tuwima; Nastrojowa,4,97,50.071214,20.012781
+31-586,Centralna; Ciesielskiego; Galicyjska; Kamionka; Na Łąkach,Centralna; Romana Ciesielskiego; Galicyjska; Kamionka; Na Łąkach,5,118,50.064119,20.009273
+31-587,Na Załęczu; Szafrańska; Skręcona; Stręcka; Wańkowicza; Ciepłownicza; Do Wisły,Na Załęczu; Szafrańska; Skręcona; Stręcka; Melchiora Wańkowicza; Ciepłownicza; Do Wisły,7,46,50.05691,20.014992
+31-588,Siwka; Isep; Osiedle; Cuplowa,Siwka; Isep; Osiedle; Cuplowa,4,62,50.055791,20.020167
+31-589,Niepokalanej Panny Marii; Sołtysowska; Wiklinowa; Sikorki; Podbipięty; Ogłęczyzna; Do Wisły; Wąwozowa; Cuplowa; Isep; Na Załęczu; Niepołomska,Niepokalanej Panny Marii; Sołtysowska; Wiklinowa; Sikorki; Longinusa Podbipięty; Ogłęczyzna; Do Wisły; Wąwozowa; Cuplowa; Isep; Na Załęczu; Niepołomska,12,301,50.058569,20.027032
+31-601,Marycjusza,Szymona Marycjusza,1,1,50.098122,20.026019
+31-603,Tysiąclecia,Osiedle Tysiąclecia,1,7,50.089321,20.00062
+31-604,Tysiąclecia,Osiedle Tysiąclecia,1,5,50.090235,20.000255
+31-605,Tysiąclecia,Osiedle Tysiąclecia,1,3,50.091207,19.999974
+31-606,Tysiąclecia,Osiedle Tysiąclecia,1,4,50.091198,20.002722
+31-607,Tysiąclecia,Osiedle Tysiąclecia,1,4,50.090215,20.002597
+31-608,Tysiąclecia,Osiedle Tysiąclecia,1,5,50.090844,20.004136
+31-609,Tysiąclecia,Osiedle Tysiąclecia,1,4,50.09213,20.005075
+31-610,Tysiąclecia,Osiedle Tysiąclecia,1,56,50.093231,19.999617
+31-615,Złotego Wieku; Koszykarska,Osiedle Złotego Wieku; Koszykarska,2,11,50.091998,19.997984
+31-616,Podgórki; Złotego Wieku,Podgórki; Osiedle Złotego Wieku,2,23,50.03876,19.977838
+31-617,Złotego Wieku; Zesławicka,Osiedle Złotego Wieku; Zesławicka,2,16,50.095396,20.005932
+31-618,Złotego Wieku; Mosdorfa; Kurzei; Kuczkowskiego; Tuchowska; Biskupińska,Osiedle Złotego Wieku; Jana Mosdorfa; ks. Józefa Kurzei; ks. Mikołaja Kuczkowskiego; Tuchowska; Biskupińska,6,98,50.094733,19.995801
+31-619,Budziszyńska; Korony Polskiej; Orła Białego; Zawieyskiego; Wawelska; Zjazdu Gnieźnieńskiego; Parnickiego; Baziaka; Starowiejska,Budziszyńska; Korony Polskiej; Orła Białego; Jerzego Zawieyskiego; Wawelska; Zjazdu Gnieźnieńskiego; Teodora Parnickiego; Eugeniusza Baziaka; Starowiejska,9,169,50.096027,19.992042
+31-620,Bohaterów Września,Osiedle Bohaterów Września,1,30,50.096377,20.009837
+31-621,Bohaterów Września,Osiedle Bohaterów Września,1,77,50.100935,20.009564
+31-623,Piastów; Zielna,Osiedle Piastów; Zielna,2,41,50.095722,20.013446
+31-624,Piastów,Osiedle Piastów,1,38,50.099175,20.020127
+31-625,Piastów; Ogórkowa,Osiedle Piastów; Ogórkowa,2,52,50.100905,20.015548
+31-626,Piastów,Osiedle Piastów,1,1,50.096169,20.016341
+31-630,Kombatantów; Kolorowe,Osiedle Kombatantów; Osiedle Kolorowe,2,33,50.091507,20.008793
+31-635,Oświecenia,Osiedle Oświecenia,1,19,50.089938,19.994211
+31-636,Oświecenia,Osiedle Oświecenia,1,46,50.092109,19.991784
+31-637,Okulickiego; Kniaźnina,gen. Leopolda Okulickiego; Franciszka Kniaźnina,2,23,50.092955,20.017695
+31-638,Marysieńki,Królowej Marysieńki,1,14,50.094204,20.026718
+31-640,Mistrzejowice; Dmowskiego,Osiedle Mistrzejowice; Romana Dmowskiego,2,13,50.096839,20.021333
+31-643,Powstańców,Powstańców,1,1,50.105115,19.996282
+31-644,Dmowskiego; Sapiehy; Korfantego; Mazanka; Do Fortu,Romana Dmowskiego; Księdza Kardynała Adama Stefana Sapiehy; Wojciecha Korfantego; Księdza Stefana Mazanka; Do Fortu,5,129,50.096223,20.024027
+31-651,Mistrzejowicka; Marycjusza; Luborzycka; Łabędzia,Mistrzejowicka; Szymona Marycjusza; Luborzycka; Łabędzia,4,73,50.095447,20.025697
+31-670,Powstańców; Dziekanowicka; Tuwima,Powstańców; Dziekanowicka; Juliana Tuwima,3,72,50.104676,19.996469
+31-698,Niedźwiedziny,Niedźwiedziny,1,1,49.997317,19.940638
+31-701,Na Stoku,Osiedle Na Stoku,1,12,50.09488,20.057233
+31-702,Na Stoku,Osiedle Na Stoku,1,11,50.096757,20.057731
+31-703,Na Stoku,Osiedle Na Stoku,1,6,50.095101,20.054841
+31-704,Na Stoku,Osiedle Na Stoku,1,13,50.09669,20.054809
+31-705,Stary Gościniec; Jaskra; Podrzecze,Stary Gościniec; Mikołaja Jaskra; Podrzecze,3,6,50.102246,20.061937
+31-706,Na Stoku; Kisielewskiego; Przemysława II,Osiedle Na Stoku; Przemysława II; Stefana Kisielewskiego,3,13,50.095848,20.051288
+31-707,Na Stoku,Osiedle Na Stoku,1,13,50.093873,20.053789
+31-708,Kisielewskiego; Na Stoku,Stefana Kisielewskiego; Osiedle Na Stoku,2,55,50.093965,20.045486
+31-709,Poniatowskiego; Leszka Czarnego; Groickiego; Klemensa z Ruszczy; Rycerska; Wierzynka; Jaskra; Przybosia; Jana Kazimierza; Kisielewskiego,Stanisława Augusta Poniatowskiego; Leszka Czarnego; Bartłomieja Groickiego; Klemensa z Ruszczy; Mikołaja Wierzynka; Rycerska; Mikołaja Jaskra; Juliana Przybosia; Jana Kazimierza; Stefana Kisielewskiego,10,121,50.093976,20.043776
+31-710,Jana Olbrachta; Przemysława II; Bolesława Wstydliwego; Kazimierza Jagiellończyka; Władysława IV; Kazimierza Sprawiedliwego; Bolesława Krzywoustego; Henryka Brodatego; Leszka Białego,Jana Olbrachta; Przemysława II; Bolesława Wstydliwego; Kazimierza Jagiellończyka; Władysława IV; Kazimierza Sprawiedliwego; Bolesława Krzywoustego; Henryka Brodatego; Leszka Białego,9,75,50.093982,20.048611
+31-711,Mortkowicz-Olczakowej; Samozwaniec; Władysława Jagiełły; Płomyczka; Jasia i Małgosi; Kownackiej; Czerwonego Kapturka; Bacewiczówny; Porazińskiej; Kisielewskiego; Architektów; Poniatowskiego,Hanny Mortkowicz-Olczakowej; Magdaleny Samozwaniec; Władysława Jagiełły; Płomyczka; Jasia i Małgosi; Marii Kownackiej; Czerwonego Kapturka; Grażyny Bacewiczówny; Janiny Porazińskiej; Stefana Kisielewskiego; Architektów; Stanisława Augusta Poniatowskiego,12,192,50.096023,20.044292
+31-712,Petöfiego,Sandora Petöfiego,1,47,50.100358,20.054052
+31-721,Na Wzgórzach,Osiedle Na Wzgórzach,1,10,50.093177,20.059085
+31-722,Na Wzgórzach,Osiedle Na Wzgórzach,1,13,50.096524,20.061368
+31-723,Na Wzgórzach,Osiedle Na Wzgórzach,1,14,50.097035,20.064207
+31-724,Na Wzgórzach; Dolnych Młynów,Osiedle Na Wzgórzach; Dolnych Młynów,2,6,50.091005,20.040616
+31-725,Na Wzgórzach,Osiedle Na Wzgórzach,1,8,50.095366,20.062603
+31-726,Na Wzgórzach,Osiedle Na Wzgórzach,1,8,50.094943,20.063754
+31-727,Na Wzgórzach,Osiedle Na Wzgórzach,1,5,50.093525,20.061552
+31-750,Kocmyrzowska,Kocmyrzowska,1,16,50.088583,20.052535
+31-751,Stadionowa; Bulwarowa; Odmogile; Smorawińskiego; Przebindowskiego; Andersena,Stadionowa; Bulwarowa; Odmogile; gen. Mieczysława Smorawińskiego; Zdzisława Przebindowskiego; Hansa Christiana Andersena,6,121,50.083602,20.044965
+31-752,Wańkowicza; Wąwozowa; Petöfiego; Makuszyńskiego; Przebindowskiego; Łowińskiego; Mrozowa; Krasnowolskiego; Blokowa; Podrzecze; Zakładowa; Polskiego Czerwonego Krzyża; Ujastek; Tadeusza Sendzimira; Nad Dłubnią; Kleinera; Wrobela,Melchiora Wańkowicza; Wąwozowa; Sandora Petöfiego; Kornela Makuszyńskiego; Zdzisława Przebindowskiego; Karola Łowińskiego; Mrozowa; Józefa Krasnowolskiego; Blokowa; Podrzecze; Zakładowa; Polskiego Czerwonego Krzyża; Ujastek; Tadeusza Sendzimira; Nad Dłubnią; Feliksa Wrobela; Juliusza Kleinera,17,474,50.085778,20.053849
+31-753,Łempickiego; Lehra-Spławińskiego; Kleinera; Spławy,Stanisława Łempickiego; Tadeusza Lehra-Spławińskiego; Juliusza Kleinera; Spławy,4,35,50.081518,20.062075
+31-754,Piotrusia Pana; Ujastek,Piotrusia Pana; Ujastek,2,3,50.092575,20.046937
+31-761,Jeziorany; Zesławicka; Morcinka; Nad Baranówką,Jeziorany; Zesławicka; Gustawa Morcinka; Nad Baranówką,4,43,50.100885,20.037732
+31-762,Morcinka,Gustawa Morcinka,1,109,50.105941,20.047876
+31-763,Kantorowicka; Zakole; Niebyła; Cieślińskiej-Brzeskiej; Grębałowska; Morcinka; Osieckiego; Stary Gościniec,Kantorowicka; Zakole; Niebyła; Haliny Cieślińskiej-Brzeskiej; Grębałowska; Gustawa Morcinka; Ludwika Osieckiego; Stary Gościniec,8,302,50.104712,20.060205
+31-764,Darwina; Grębałowska; Stary Gościniec; Luborzycka; Studzienna; Geodetów; Obwodowa; Stokowa; Przymiarki; Frasia; Głębinowa; Pomykany; Stefczyka; Styczna; Freege'go; Korohody; Kamberskiego; Pruska; Wielkie Pola; Łącka; Bożywoja; Gerlaha; Florkowskiego; Sybiraków; Birkuta; Bukszpanowa; Hyca; Twaroga; Jubileuszowa; Płaska,Karola Darwina; Grębałowska; Stary Gościniec; Luborzycka; Studzienna; Geodetów; Obwodowa; Stokowa; Przymiarki; Głębinowa; Stanisława Frasia; Pomykany; Franciszka Stefczyka; Styczna; Emila Freege'go; Jerzego Korohody; Mieczysława Kamberskiego; Pruska; Wielkie Pola; Łącka; Bożywoja; Mikołaja Gerlaha; Sybiraków; Walentego Florkowskiego; Bukszpanowa; Mateusza Birkuta; Franciszka Twaroga; Księdza Jana Hyca; Jubileuszowa; Płaska,30,874,50.100178,20.075439
+31-765,Kocmyrzowska,Kocmyrzowska,1,23,50.10286,20.07235
+31-766,Lubocka; Łuczanowicka; Burzowa; Marglowa; Łazowa; Grzegorza z Sanoka; Rowida; Niewielka; Darwina; Jeziorany; Komasy; Skoczylasa,Lubocka; Łuczanowicka; Burzowa; Marglowa; Łazowa; Grzegorza z Sanoka; Henryka Rowida; Niewielka; Karola Darwina; Jeziorany; Komasy; Władysława Skoczylasa,12,324,50.095334,20.088593
+31-767,Jubileuszowa,Jubileuszowa,1,8,50.100413,20.070918
+31-768,Folwarczna; Kaczyńskiego; Kirchmajera,Folwarczna; Księdza Zygmunta Kaczyńskiego; Wincentego Kirchmajera,3,55,50.099543,20.079309
+31-798,Targosza,Księdza Karola Targosza,1,2,50.041384,20.052703
+31-801,Na Lotnisku,Osiedle Na Lotnisku,1,6,50.086356,20.018533
+31-802,Na Lotnisku,Osiedle Na Lotnisku,1,8,50.086126,20.015286
+31-803,Na Lotnisku,Osiedle Na Lotnisku,1,7,50.087482,20.015403
+31-804,Na Lotnisku,Osiedle Na Lotnisku,1,5,50.087107,20.016943
+31-807,Strusia; Zimorowicza,Osiedle Józefa Strusia; Szymona Zimorowicza,2,10,50.087839,20.003555
+31-808,Strusia,Osiedle Józefa Strusia,1,10,50.087731,20.009922
+31-809,Strusia,Osiedle Józefa Strusia,1,3,50.08748,20.008415
+31-810,Strusia,Osiedle Józefa Strusia,1,6,50.088645,20.007628
+31-812,Kalinowe,Osiedle Kalinowe,1,6,50.089973,20.015076
+31-813,Kalinowe,Osiedle Kalinowe,1,9,50.091637,20.014992
+31-814,Kalinowe,Osiedle Kalinowe,1,6,50.091679,20.013116
+31-815,Kalinowe; Cienista; Kaczeńcowa,Osiedle Kalinowe; Cienista; Kaczeńcowa,3,12,50.09077,20.015644
+31-818,Wysokie,Osiedle Wysokie,1,7,50.088908,20.019551
+31-819,Wysokie,Osiedle Wysokie,1,6,50.089667,20.017922
+31-820,Wysokie; Budziszyńska,Osiedle Wysokie; Budziszyńska,2,18,50.090783,20.017013
+31-826,Złotej Jesieni,Osiedle Złotej Jesieni,1,11,50.091403,20.023364
+31-827,Złotej Jesieni,Osiedle Złotej Jesieni,1,8,50.090846,20.025989
+31-828,Złotej Jesieni,Osiedle Złotej Jesieni,1,6,50.088281,20.028225
+31-831,Fatimska; Cienista; Szybka; Bieńczycki Plac Targowy; Kaczeńcowa; Kocmyrzowska; Obrońców Krzyża,Fatimska; Cienista; Szybka; Bieńczycki Plac Targowy; Kaczeńcowa; Kocmyrzowska; Obrońców Krzyża,7,245,50.087211,20.031771
+31-832,Jagiellońskie,Osiedle Jagiellońskie,1,8,50.088442,20.023103
+31-833,Jagiellońskie,Osiedle Jagiellońskie,1,4,50.086714,20.025129
+31-834,Jagiellońskie,Osiedle Jagiellońskie,1,12,50.087276,20.02599
+31-835,Jagiellońskie,Osiedle Jagiellońskie,1,4,50.088134,20.02574
+31-836,Jagiellońskie,Osiedle Jagiellońskie,1,7,50.0877,20.026901
+31-837,Jagiellońskie,Osiedle Jagiellońskie,1,3,50.089208,20.025785
+31-839,Kazimierzowskie,Osiedle Kazimierzowskie,1,7,50.084227,20.024498
+31-840,Kazimierzowskie; Na Lotnisku,Osiedle Kazimierzowskie; Osiedle Na Lotnisku,2,8,50.084605,20.022621
+31-841,Kazimierzowskie,Osiedle Kazimierzowskie,1,1,50.085952,20.023528
+31-842,Kazimierzowskie; Jagiellońskie,Osiedle Kazimierzowskie; Osiedle Jagiellońskie,2,7,50.085754,20.022265
+31-843,Kazimierzowskie,Osiedle Kazimierzowskie,1,5,50.086505,20.022209
+31-844,Kazimierzowskie,Osiedle Kazimierzowskie,1,8,50.085747,20.021051
+31-845,Przy Arce; Morcinka; al. Jana Pawła II,Osiedle Przy Arce; Aleja Jana Pawła II; Gustawa Morcinka,3,28,50.082673,20.027677
+31-851,Dąbrowskiej,Marii Dąbrowskiej,1,16,50.078759,20.017417
+31-852,Albertyńskie,Osiedle Albertyńskie,1,7,50.082912,20.020643
+31-853,Albertyńskie,Osiedle Albertyńskie,1,10,50.082973,20.019263
+31-854,Albertyńskie,Osiedle Albertyńskie,1,10,50.082058,20.017785
+31-855,Albertyńskie,Osiedle Albertyńskie,1,10,50.080907,20.017176
+31-858,Kościuszkowskie,Osiedle Kościuszkowskie,1,18,50.084485,20.015062
+31-859,Kościuszkowskie,Osiedle Kościuszkowskie,1,4,50.082917,20.015295
+31-860,Bieńczycka,Bieńczycka,1,19,50.076294,20.020559
+31-861,Niepodległości; Prądnicka,Osiedle Niepodległości; Prądnicka,2,14,50.081297,20.016405
+31-862,Niepodległości,Osiedle Niepodległości,1,9,50.079771,20.023247
+31-863,Jutrzenka; Kocmyrzowska,Jutrzenka; Kocmyrzowska,2,13,50.07611,20.017906
+31-864,Życzkowskiego; al. Jana Pawła II; Łaczka,prof. Michała Życzkowskiego; Aleja Jana Pawła II; ks. Prałata Mariana Łaczka,3,30,50.074846,19.996451
+31-866,Skarżyńskiego; Osiedle Akademickie; Sawickiego; Steca; Stella-Sawickiego,Stanisława Skarżyńskiego; Osiedle Akademickie; Jana Sawickiego; Izydora Stella-Sawickiego; Stefana Steca,5,25,50.081599,19.983883
+31-867,2 Pułku Lotniczego,Osiedle 2 Pułku Lotniczego,1,24,50.078526,20.011203
+31-868,2 Pułku Lotniczego,Osiedle 2 Pułku Lotniczego,1,15,50.077428,20.007833
+31-869,2 Pułku Lotniczego,Osiedle 2 Pułku Lotniczego,1,9,50.079142,20.006189
+31-870,2 Pułku Lotniczego; Medweckiego,Osiedle 2 Pułku Lotniczego; Mieczysława Medweckiego,2,23,50.075406,20.010918
+31-871,Dywizjonu 303,Osiedle Dywizjonu 303,1,16,50.08278,20.003554
+31-872,Dywizjonu 303,Osiedle Dywizjonu 303,1,15,50.084854,20.003224
+31-873,Dywizjonu 303; Bluszczowa; Włodarczyka,Osiedle Dywizjonu 303; Bluszczowa; Bronisława Włodarczyka,3,20,50.081942,20.001546
+31-874,Dywizjonu 303,Osiedle Dywizjonu 303,1,31,50.085522,20.010866
+31-875,Dywizjonu 303,Osiedle Dywizjonu 303,1,48,50.081961,20.011045
+31-876,al. Bora-Komorowskiego; 2 Pułku Lotniczego,Aleja gen. Tadeusza Bora-Komorowskiego; Osiedle 2 Pułku Lotniczego,2,7,50.085638,19.98678
+31-877,Avia; Orlińskiego,Osiedle Avia; Bolesława Orlińskiego,2,15,50.080216,20.003899
+31-878,Orlińskiego,Bolesława Orlińskiego,1,12,50.081602,20.002566
+31-880,2 Pułku Lotniczego,Osiedle 2 Pułku Lotniczego,1,1,50.074776,20.00817
+31-881,Markowskiego,Mariana Markowskiego,1,5,50.075659,19.989512
+31-884,Kazimierzowskie,Osiedle Kazimierzowskie,1,2,50.084888,20.020859
+31-898,Nefrytowa,Nefrytowa,1,1,50.020631,20.048581
+31-901,Willowe,Osiedle Willowe,1,17,50.072455,20.05012
+31-902,Willowe,Osiedle Willowe,1,18,50.071801,20.051478
+31-903,Podrzecze; Willowe,Osiedle Willowe; Podrzecze,2,2,50.07901,20.044488
+31-905,Wandy,Osiedle Wandy,1,12,50.070548,20.047365
+31-906,Wandy,Osiedle Wandy,1,11,50.070336,20.049623
+31-907,Wandy,Osiedle Wandy,1,14,50.069869,20.051974
+31-908,Młodości,Osiedle Młodości,1,10,50.067544,20.050371
+31-909,Na Skarpie,Osiedle Na Skarpie,1,13,50.069141,20.043848
+31-910,Na Skarpie,Osiedle Na Skarpie,1,26,50.068561,20.046901
+31-911,Na Skarpie,Osiedle Na Skarpie,1,21,50.06719,20.04721
+31-912,Na Skarpie,Osiedle Na Skarpie,1,3,50.067787,20.043783
+31-913,Na Skarpie,Osiedle Na Skarpie,1,9,50.06649,20.045788
+31-914,Sieroszewskiego,Wacława Sieroszewskiego,1,7,50.065918,20.05031
+31-915,Ogrodowe,Osiedle Ogrodowe,1,12,50.071331,20.045006
+31-916,Ogrodowe,Osiedle Ogrodowe,1,9,50.070836,20.043719
+31-917,Hutnicze,Osiedle Hutnicze,1,6,50.073817,20.045824
+31-918,Hutnicze,Osiedle Hutnicze,1,4,50.073011,20.043963
+31-919,Hutnicze,Osiedle Hutnicze,1,7,50.072478,20.045067
+31-920,Stalowe,Osiedle Stalowe,1,6,50.074475,20.048415
+31-921,Stalowe,Osiedle Stalowe,1,8,50.074415,20.049597
+31-922,Stalowe,Osiedle Stalowe,1,7,50.073954,20.05152
+31-923,Centrum A; Zimmer,Osiedle Centrum A; Siostry Zygmunty Zimmer,2,4,50.05528,20.009098
+31-924,Centrum A,Osiedle Centrum A,1,9,50.072017,20.041331
+31-925,Centrum A,Osiedle Centrum A,1,4,50.071861,20.040168
+31-926,Osiedle Centrum B; Szwedzka,Osiedle Centrum B; Szwedzka,2,6,50.069444,20.019822
+31-927,Osiedle Centrum B,Osiedle Centrum B,1,4,50.074245,20.040829
+31-928,Osiedle Centrum B,Osiedle Centrum B,1,4,50.07339,20.039772
+31-929,Centrum C,Osiedle Centrum C,1,4,50.074153,20.037447
+31-930,Centrum C; al. Andersa,Osiedle Centrum C; Aleja gen. Władysława Andersa,2,6,50.07685,20.030305
+31-931,Centrum C,Osiedle Centrum C,1,5,50.073927,20.036404
+31-932,Centrum D,Osiedle Centrum D,1,8,50.073408,20.034312
+31-933,Centrum D,Osiedle Centrum D,1,6,50.072459,20.034188
+31-934,Centrum E,Osiedle Centrum E,1,25,50.069954,20.039205
+31-935,Handlowe,Osiedle Handlowe,1,7,50.07369,20.03071
+31-936,Handlowe,Osiedle Handlowe,1,5,50.074723,20.032253
+31-937,Handlowe,Osiedle Handlowe,1,5,50.073255,20.032146
+31-938,Kolorowe,Osiedle Kolorowe,1,10,50.074932,20.027357
+31-939,Kolorowe,Osiedle Kolorowe,1,17,50.073629,20.027715
+31-940,Kolorowe,Osiedle Kolorowe,1,16,50.073932,20.023395
+31-941,Kolorowe,Osiedle Kolorowe,1,24,50.074841,20.021658
+31-943,Spółdzielcze,Osiedle Spółdzielcze,1,11,50.076921,20.027668
+31-944,Spółdzielcze,Osiedle Spółdzielcze,1,15,50.077875,20.027992
+31-945,Teatralne,Osiedle Teatralne,1,9,50.079385,20.029365
+31-946,Teatralne; Maciejkowa,Osiedle Teatralne; Maciejkowa,2,19,50.08029,20.02498
+31-947,Teatralne,Osiedle Teatralne,1,8,50.08027,20.030903
+31-948,Teatralne,Osiedle Teatralne,1,4,50.080721,20.033223
+31-949,Zgody,Osiedle Zgody,1,9,50.076204,20.034215
+31-950,Zgody,Osiedle Zgody,1,7,50.076468,20.035426
+31-951,Zgody,Osiedle Zgody,1,5,50.077121,20.033544
+31-952,Urocze,Osiedle Urocze,1,8,50.077727,20.036088
+31-953,Urocze; Ludźmierska,Osiedle Urocze; Ludźmierska,2,7,50.078674,20.037504
+31-954,Urocze,Osiedle Urocze,1,5,50.077577,20.037803
+31-956,Osiedle Słoneczne,Osiedle Słoneczne,1,9,50.076723,20.041866
+31-957,Osiedle Słoneczne; Starowiślna,Osiedle Słoneczne; Starowiślna,2,8,50.075145,20.030881
+31-958,Osiedle Słoneczne,Osiedle Słoneczne,1,5,50.077822,20.040169
+31-959,Górali,Osiedle Górali,1,10,50.080118,20.036557
+31-960,Górali,Osiedle Górali,1,8,50.080368,20.038995
+31-961,Górali,Osiedle Górali,1,8,50.081043,20.037274
+31-962,Krakowiaków; Darwina,Osiedle Krakowiaków; Karola Darwina,2,17,50.082939,20.037414
+31-963,Krakowiaków,Osiedle Krakowiaków,1,18,50.083303,20.038057
+31-964,Krakowiaków,Osiedle Krakowiaków,1,20,50.082232,20.038134
+31-965,Sportowe; Bulwarowa,Osiedle Sportowe; Bulwarowa,2,19,50.081819,20.04407
+31-966,Sportowe; Zielone,Osiedle Sportowe; Osiedle Zielone,2,20,50.080964,20.044071
+31-968,Zielone,Osiedle Zielone,1,9,50.080394,20.042458
+31-970,Zielone,Osiedle Zielone,1,11,50.079214,20.044315
+31-971,Zielone,Osiedle Zielone,1,10,50.079561,20.041371
+31-972,Szklane Domy; Elsnera,Osiedle Szklane Domy; Józefa Elsnera,2,13,50.076278,20.032657
+31-974,al. Solidarności,Aleja Solidarności,1,3,50.079001,20.065354
+31-975,Szkolne,Osiedle Szkolne,1,5,50.075727,20.047229
+31-976,Szkolne,Osiedle Szkolne,1,10,50.077313,20.046025
+31-977,Szkolne,Osiedle Szkolne,1,16,50.078223,20.047664
+31-978,Szkolne; Wiśniowieckiego; Bulwarowa,Osiedle Szkolne; Jeremiego Wiśniowieckiego; Bulwarowa,3,20,50.069885,20.048131
+31-979,Stare Wiślisko; Klasztorna; Odmętowa; Żaglowa; Zakarnie; Bardosa; Powiatowa; Ptaszyckiego; Zbyszka z Bogdańca; Syrachowska; Na Niwach; Samostrzelnika; Kopaniec; Kublińskiego; Ziarkowa; Jeżynowa; Jutrzyńska; Kępska; Sochy; Hutnika; Dowgiałło; Podbagnie; Wojenna,Stare Wiślisko; Klasztorna; Odmętowa; Żaglowa; Zakarnie; Bardosa; Powiatowa; Tadeusza Ptaszyckiego; Zbyszka z Bogdańca; Syrachowska; Na Niwach; Stanisława Samostrzelnika; Kopaniec; Marka Kublińskiego; Ziarkowa; Jeżynowa; Jutrzyńska; Kępska; Sochy; Michała Hutnika; Podbagnie; Stanisławy Dowgiałło; Wojenna,23,698,50.060647,20.057209
+31-980,Podbipięty; Zagłoby; Wołodyjowskiego; Kmicica; Graniczna; Grąby; Zapusta; Jagienki; Salwińskiego; Łęgowa; Habina; Kublińskiego; Wojenna,Longinusa Podbipięty; Zagłoby; Michała Wołodyjowskiego; Kmicica; Graniczna; Grąby; Zapusta; Jagienki; Opata Salwińskiego; Łęgowa; Habina; Marka Kublińskiego; Wojenna,13,311,50.056802,20.042182
+31-981,Giedroycia,Jerzego Giedroycia,1,1,50.058863,20.079055
+31-982,Woźniców; al. Jana Pawła II; Śliwkowa; Tomickiego; Padniewskiego,Woźniców; Aleja Jana Pawła II; Śliwkowa; bp. Piotra Tomickiego; bp. Filipa Padniewskiego,5,103,50.069911,20.018422
+31-983,Nadbrzezie; Igołomska; Suchy Jar; Karowa; Jezierskiego; Dymarek; Młotków; Popielnik; Martenowska; Ziemianek; Cementowa; Rudni; Wincentego; Eden; Ostrów; Łubinowa; Marciniaka; Nenckiego,Nadbrzezie; Igołomska; Suchy Jar; Karowa; Jacka Jezierskiego; Dymarek; Młotków; Popielnik; Martenowska; Ziemianek; Cementowa; Rudni; św. Wincentego; Eden; Ostrów; Łubinowa; Józefa Marciniaka; Marcelego Nenckiego,18,274,50.064172,20.108879
+31-985,Karaszewicza-Tokarzewskiego; Branicka; Kąkolowa; Rumiankowa; Plastusia; Szymańskiego; Truskawkowa; Nawłoci; Kłosowa; Deszczowa; Ostrów; Tatarakowa; Zaporębie; Powojowa; Sasanek; Wrzosowa; Chałupki,gen. Michała Karaszewicza-Tokarzewskiego; Branicka; Kąkolowa; Rumiankowa; Plastusia; Edwarda Szymańskiego; Truskawkowa; Nawłoci; Kłosowa; Deszczowa; Ostrów; Tatarakowa; Zaporębie; Powojowa; Sasanek; Wrzosowa; Chałupki,17,492,50.057769,20.134903
+31-987,Jeziorko; Spławy; Rusiecka; Spokojna; Wiatraczna; Glinik; Za Górą; Wiązowa,Jeziorko; Spławy; Rusiecka; Spokojna; Wiatraczna; Glinik; Za Górą; Wiązowa,8,151,50.085244,20.116651
+31-988,Orłowskiego; Pysońce; Braci Polskich; Łozińskiego; Kalwińska; Drożyska; Igołomska; Węgrzynowicka; Glinik; Zaradna; Sawy-Calińskiego; Wróżenicka; Karaszewicza-Tokarzewskiego; Kościelnicka; Nadwodna; Szlifierska; Wyciąska; Zagościniec; Bystronia; Jaskrowa; Jeziorko; Kontryma; Kosów; Ostrówka; Plac Marii Turzymy; Skoczylasa; Ostafina; Plażowa; Podbiałowa; Pysocice; Rusiecka; Sajakówka; Stopki; Wiatraczna,Aleksandra Orłowskiego; Pysońce; Braci Polskich; Władysława Łozińskiego; Kalwińska; Drożyska; Igołomska; Węgrzynowicka; Glinik; Zaradna; Józefa Sawy-Calińskiego; Wróżenicka; Kościelnicka; Nadwodna; Szlifierska; Wyciąska; Zagościniec; gen. Michała Karaszewicza-Tokarzewskiego; Bolesława Kontryma; Jana Stanisława Bystronia; Jaskrowa; Jeziorko; Kosów; Ostrówka; Plac Marii Turzymy; Władysława Skoczylasa; Andrzeja Stopki; Józefa Ostafina; Plażowa; Podbiałowa; Pysocice; Rusiecka; Sajakówka; Wiatraczna,34,176,50.092591,20.144137
+31-989,Rzepakowa; Ubeliny; Karaszewicza-Tokarzewskiego,Rzepakowa; Ubeliny; gen. Michała Karaszewicza-Tokarzewskiego,3,124,50.056874,20.158602
+31-990,Glinik; Wadowska; Za Ogrodem; Jaskrowa; Zagościniec; Zawielgusie; Żonkilowa; Kosów; Kulinowskiej; Organki; Mycielskiego; Willowe; Wodocza,Glinik; Wadowska; Za Ogrodem; Jaskrowa; Zagościniec; Zawielgusie; Żonkilowa; Kosów; Organki; Zofii Kulinowskiej; Andrzeja Mycielskiego; Osiedle Willowe; Wodocza,13,398,50.100357,20.123087
+31-991,Odmętowa,Odmętowa,1,8,50.058563,20.04078
+31-992,Węgrzynowicka,Węgrzynowicka,1,79,50.106183,20.152221
+31-997,Wróżenicka; Pod Gajem,Wróżenicka; Pod Gajem,2,81,50.113107,20.186728
+31-998,Igołomska; Brzeska; Drożyska; Wyciąska; Wiatra; Bartnicza; Nadwodna; Tymiankowa; Podstawie; Siejówka; Ciekowiec; Betonowa; Szlifierska; Trzcinowa; Wiązowa; Biwakowa; Sulisława; Kontryma; Wiewiórcza; Tarasowa; Zakępie; Ziemska; Plac Marii Turzymy; Plażowa; Czeczeńska; Morgi; Jaglana; Prawocheńskiego; Przylasek; Sitowiny; Uziembły; Flame; Ostrówka; Sajakówka; Barwinkowa; Braci Polskich; Kalwińska; Luzara; Pysońce; Węgrzynowicka,Igołomska; Brzeska; Drożyska; Wyciąska; Narcyza Wiatra; Bartnicza; Nadwodna; Tymiankowa; Podstawie; Siejówka; Ciekowiec; Betonowa; Szlifierska; Trzcinowa; Wiązowa; Biwakowa; Sulisława; Bolesława Kontryma; Wiewiórcza; Tarasowa; Zakępie; Ziemska; Plac Marii Turzymy; Plażowa; Czeczeńska; Morgi; Henryka Uziembły; Jaglana; Przylasek; Romana Prawocheńskiego; Sitowiny; Henryka Flame; Ostrówka; Sajakówka; Barwinkowa; Braci Polskich; Kalwińska; Pysońce; Węgrzynowicka; ks. Mariana Luzara,40,999,50.066106,20.179029
+31-999,Pysocice; Sawy-Calińskiego; Godebskiego; Stopki; Kościelnicka; Bystronia; Skoczylasa; Lasowisko; Kuśnierska; Dybowskiego; Irzykowskiego; Jasełkowa; Ostafina; Figlewicza; Pankiewicza; Soczyny; Hektary; Płoszczyny; Barwna; Wittiga; Kolędnicza; Wodzickich; Orłowskiego; Podbiałowa; Glinik; Kulikowskiej; Morstina; Pasterska; Bruśnicka; Waligórskiego; Betlejemska; Łozińskiego; Braci Polskich; Kalwińska,Pysocice; Józefa Sawy-Calińskiego; Cypriana Godebskiego; Andrzeja Stopki; Kościelnicka; Jana Stanisława Bystronia; Władysława Skoczylasa; Lasowisko; Kuśnierska; Benedykta Dybowskiego; Jasełkowa; Karola Irzykowskiego; Józefa Ostafina; ks. Kazimierza Figlewicza; Józefa Pankiewicza; Soczyny; Hektary; Płoszczyny; Barwna; Edwarda Wittiga; Kolędnicza; Wodzickich; Aleksandra Orłowskiego; Podbiałowa; Glinik; Ludwika Hieronima Morstina; Marceliny Kulikowskiej; Pasterska; Andrzeja Waligórskiego; Bruśnicka; Betlejemska; Władysława Łozińskiego; Braci Polskich; Kalwińska,34,852,50.101723,20.14774

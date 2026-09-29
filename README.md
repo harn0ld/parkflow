@@ -88,6 +88,26 @@ Wynik w `data/agg/`: `agg_strefy`, `agg_grupy`, `agg_parkomaty`, `agg_parkomaty_
 `agg_stali`, `agg_kalibracja_czasow`, `kody_zbiorcze`. Opis kolumn: `docs/kontrakt-agregatow.md`.
 Pipeline czyta dane referencyjne z `data/` (`--data` zmienia katalog).
 
+### 2.3a. Kraków
+
+Kraków ma własny katalog `data/krakow/` (kody, parkomaty ZDMK, cennik, galerie) i agregaty w
+`data/krakow/agg/`. Grupy MCC i wykluczenia nazw są wspólne (`data/`). Źródła i ograniczenia:
+`docs/research/krakow-spp.md` (numer parkomatu w Visa mają tylko sektory A3 i A13).
+
+```bash
+PARKFLOW_DRIVER_MEMORY=8g .venv/bin/python -m pipeline.extract_lodz \
+  datasprint_sample_data.parquet data/interim/krakow_all.parquet --miasto krakow
+PARKFLOW_DRIVER_MEMORY=8g .venv/bin/python -m pipeline.aggregate \
+  data/interim/krakow_all.parquet data/krakow/agg --miasto krakow
+
+# dane referencyjne Krakowa (tylko do odbudowy)
+.venv/bin/python scripts/zbuduj_kody.py --miasto krakow
+.venv/bin/python scripts/zbuduj_parkomaty_krakow.py          # parkomaty.xml ZDMK → parkomaty.csv, spp_kody.csv
+.venv/bin/python scripts/zbuduj_zasieg_parkomatow.py --miasto krakow
+```
+
+Gdy są agregaty Krakowa, w pasku bocznym aplikacji pojawia się wybór miasta.
+
 ### 2.4. Dane referencyjne (tylko gdy trzeba je odbudować)
 
 Są w repo; odbudowujesz je tylko po zmianie źródeł. Kolejność ma znaczenie:

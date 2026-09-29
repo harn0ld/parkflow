@@ -12,6 +12,7 @@ STATUSY = {
     "mapa_2024_wstawka": "z mapy ZDiT (VI 2024), wstawka Bałucki Rynek",
     "wspolrzedne_zdit": "współrzędne ZDiT",
     "lokalizacja nieznana": "lokalizacja nieznana",
+    "wspolrzedne_zdmk": "współrzędne ZDMK (X 2024)",
 }
 PROMIEN_MAX_M = 220  # promień koła największej komórki popytu w całej tabeli
 

@@ -128,3 +128,33 @@ def test_kody_spp_to_kody_z_parkomatem():
     })
     r = P.kody_spp(p)
     assert r.values.tolist() == [["90-001", 2], ["90-002", 1]]
+
+
+ZDMK_XML = """﻿<?xml version="1.0" encoding="utf-8"?>
+<folder>
+<placemark>
+        <name>Sektor A13</name>
+        <card>zbliżeniowa</card>
+        <model>Solari SPAZIO EVO</model>
+        <parkingmeter>0042</parkingmeter>
+        <address>ul. Szlak 5-7</address>
+        <coordinates><latitude>50.0704</latitude><longitude>19.9336</longitude></coordinates>
+</placemark>
+<placemark>
+        <name>Sektor C7</name>
+        <card>brak</card>
+        <model>Flowbird STRADA PAL</model>
+        <parkingmeter>3058</parkingmeter>
+        <address>ul. Kalwaryjska 1</address>
+        <coordinates><latitude>50.0441</latitude><longitude>19.9460</longitude></coordinates>
+</placemark>
+</folder>"""
+
+
+def test_parsuj_zdmk_numer_bez_zer_i_podstrefa_z_sektora():
+    df = P.parsuj_zdmk(ZDMK_XML)
+    assert df["numer"].tolist() == ["42", "3058"]
+    assert df["sektor"].tolist() == ["A13", "C7"]
+    assert df["podstrefa"].tolist() == ["A", "C"]
+    assert df.loc[1, ["adres", "model", "karta"]].tolist() == ["ul. Kalwaryjska 1", "Flowbird STRADA PAL", "brak"]
+    assert df.loc[0, ["lat", "lon"]].tolist() == [50.0704, 19.9336]

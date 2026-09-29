@@ -4,6 +4,8 @@ datasprint_sample_data.parquet
 datasprint*/
 *datasprint*.parquet
 data/interim/
+# Surowe PRG (GUGiK, pobierane przez scripts/zbuduj_kody.py)
+data/raw/prg/
 
 # Wyniki Sparka i metadane
 spark-warehouse/

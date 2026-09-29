@@ -18,7 +18,10 @@ Wyjście:
                   wielotransakcyjnych vs czas domyślny grupy; grupy z ≥ 30 kartami.
 
 Użycie:
-    python -m pipeline.aggregate <lodz_all.parquet> <katalog_wyjściowy> [--data data]
+    python -m pipeline.aggregate <lodz_all.parquet> <katalog_wyjściowy> [--miasto krakow] [--data KATALOG]
+
+`--data` to dane referencyjne miasta (domyślnie katalog miasta z `parkflow.miasta`); grupy MCC
+i wykluczenia nazw, jeśli ich tam brak, są brane ze wspólnego `data/`.
 """
 
 import argparse
@@ -30,6 +33,7 @@ from datetime import date
 from pyspark.sql import Column, DataFrame, SparkSession, Window
 from pyspark.sql import functions as F
 
+from parkflow.miasta import DANE, LODZ, MIASTA, Miasto
 from pipeline.spark import get_spark
 
 MIN_CARDS = 30
@@ -65,7 +69,6 @@ FUEL_MCC = [5541, 5542]
 MANUAL_ENTRY_MODES = ["Manual key entry", "COF"]
 # channel_flg: e-commerce, płatności cykliczne, zamówienia pocztowe/telefoniczne.
 REMOTE_CHANNELS = ["eci", "recur", "moto"]
-SPP_METER = r"^SPP LODZ\s+(\d+[A-Z]?)"
 
 
 @dataclass
@@ -77,16 +80,23 @@ class Reference:
     spp_codes: list[str] | None = None  # kody pocztowe obecnej SPP (opcjonalnie)
     excluded_codes: list[str] = field(default_factory=list)  # kody galerii z własnym parkingiem
     meter_reach: DataFrame | None = None  # numer, kod_pocztowy: kody ~500 m od parkomatu (opcjonalnie)
+    meter_pattern: str = LODZ.parkomat_regex  # mrch_nm_raw → numer parkomatu SPP (grupa 1)
+    resident_lau: str | None = LODZ.lau_ulgi  # lau_enr ze stawką ulgową; None = wszyscy bez ulgi
+    foreign_parking: str | None = None  # nazwy 7523 z innych miast rozliczane pod kodami miasta
 
 
-def load_reference(spark: SparkSession, data_dir: str) -> Reference:
-    def csv_df(name: str) -> DataFrame | None:
+def load_reference(spark: SparkSession, data_dir: str, miasto: Miasto = LODZ, shared_dir: str = str(DANE)) -> Reference:
+    def path_of(name: str, shared: bool = False) -> str:
         path = os.path.join(data_dir, name)
+        return os.path.join(shared_dir, name) if shared and not os.path.exists(path) else path
+
+    def csv_df(name: str, shared: bool = False) -> DataFrame | None:
+        path = path_of(name, shared)
         if not os.path.exists(path):
             return None
         return spark.read.csv(path, header=True, inferSchema=True)
 
-    with open(os.path.join(data_dir, "wykluczenia.csv"), newline="") as f:
+    with open(path_of("wykluczenia.csv", shared=True), newline="") as f:
         exclusions = [row["wzorzec"] for row in csv.DictReader(f)]
     spp = csv_df("spp_kody.csv")
     excluded = csv_df("wykluczenia_kody.csv")
@@ -107,13 +117,16 @@ def load_reference(spark: SparkSession, data_dir: str) -> Reference:
         reach = reach.select(F.upper(F.col("numer").cast("string")).alias("numer"),
                              F.col("kod_pocztowy").cast("string").alias("kod_pocztowy"))
     return Reference(
-        mcc_groups=csv_df("mcc_groups.csv").select("mcc", "grupa", "czas_domyslny_min"),
+        mcc_groups=csv_df("mcc_groups.csv", shared=True).select("mcc", "grupa", "czas_domyslny_min"),
         tariff=csv_df("cennik_spp.csv"),
         exclusions=exclusions,
         meters=meters,
         spp_codes=[r["kod_pocztowy"] for r in spp.collect()] if spp is not None else None,
         excluded_codes=[r["kod_pocztowy"] for r in excluded.collect()] if excluded is not None else [],
         meter_reach=reach,
+        meter_pattern=miasto.parkomat_regex,
+        resident_lau=miasto.lau_ulgi,
+        foreign_parking=miasto.parkingi_obce,
     )
 
 
@@ -152,13 +165,15 @@ def _minutes_between(a: Column, b: Column) -> Column:
 def _parking(tx: DataFrame, ref: Reference) -> DataFrame:
     """Wszystkie opłaty 7523 (także cp_flag = 0) z minutami dla parkomatów SPP.
 
-    Minuty: kwota / 0,92 → cennik z dnia transakcji, podstrefy parkomatu i ulgi (`lau_enr = LODZ`),
+    Minuty: kwota / 0,92 → cennik z dnia transakcji, podstrefy parkomatu i ulgi (`lau_enr = ref.resident_lau`),
     odwrócone naliczanie proporcjonalne (zał. 4 § 1 ust. 4). Wiersze cennika z `podzial = 2024`
     (okres I, przed reformą) dotyczą podstref z mapy 2024 (`podstrefa_2024`: A, B, C = Fabryczna,
     D = Bałucki Rynek), pozostałe — obecnych podstref A/B/C.
     """
     p = tx.where(F.col("mrch_catg_cd") == 7523)
-    meter_id = F.regexp_extract(F.upper(F.col("mrch_nm_raw")), SPP_METER, 1)
+    if ref.foreign_parking:
+        p = p.where(~F.upper(F.coalesce(F.col("mrch_nm_raw"), F.lit(""))).rlike(ref.foreign_parking))
+    meter_id = F.regexp_extract(F.upper(F.trim(F.col("mrch_nm_raw"))), ref.meter_pattern, 1)
     p = p.withColumn("parkomat", F.when(meter_id != "", meter_id))
     if ref.meters is not None:
         p = p.join(
@@ -181,7 +196,8 @@ def _parking(tx: DataFrame, ref: Reference) -> DataFrame:
         .withColumn("podstrefa", F.coalesce(F.col("podstrefa"), from_letter))
         .withColumn("podstrefa_2024", F.coalesce(
             F.col("podstrefa_2024"), F.when(letter.isin("A", "B", "C", "D"), letter)))
-        .withColumn("ulga", F.when(F.upper(F.trim(F.col("lau_enr"))) == "LODZ", 1).otherwise(0))
+        .withColumn("ulga", F.when(F.upper(F.trim(F.col("lau_enr"))) == ref.resident_lau, 1).otherwise(0)
+                    if ref.resident_lau else F.lit(0))
         .withColumn("kwota_pln", F.round(F.col("cs_tran_amt").cast("double") / AMOUNT_FACTOR, 2))
     )
     division = F.col("podzial").cast("int") if "podzial" in ref.tariff.columns else F.lit(2025)
@@ -337,7 +353,7 @@ def build_aggregates(
         F.col("kod").isin(*ref.spp_codes) if ref.spp_codes is not None else F.lit(None).cast("boolean")
     )
 
-    # Współczynnik kierowców: odsetek par karta×dzień przyjezdnych z opłatą parkingową w Łodzi.
+    # Współczynnik kierowców: odsetek par karta×dzień przyjezdnych z opłatą parkingową w mieście.
     d_zone = visits.groupBy("kod", "sezon", "grupa").agg(
         (F.countDistinct(F.when(F.col("kierowca") == 1, F.struct("card", "day")))
          / F.countDistinct("card", "day")).alias("d_strefa")
@@ -519,10 +535,12 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("src")
     ap.add_argument("dst")
-    ap.add_argument("--data", default="data")
+    ap.add_argument("--miasto", default=LODZ.id, choices=sorted(MIASTA))
+    ap.add_argument("--data", default=None, help="dane referencyjne (domyślnie katalog miasta)")
     args = ap.parse_args()
-    spark = get_spark("parkflow-aggregate")
-    ref = load_reference(spark, args.data)
+    miasto = MIASTA[args.miasto]
+    spark = get_spark(f"parkflow-aggregate-{miasto.id}")
+    ref = load_reference(spark, args.data or str(miasto.katalog), miasto)
     os.makedirs(args.dst, exist_ok=True)
     for name, df in build_aggregates(spark.read.parquet(args.src), ref).items():
         # Agregaty są małe: jeden plik .parquet zamiast katalogu Sparka.

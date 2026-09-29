@@ -20,6 +20,7 @@ Single-context: `CONTEXT.md` + `docs/adr/` w katalogu głównym. See `docs/agent
 
 - `SPEC.md`: decyzje projektowe z uzasadnieniem (źródło prawdy).
 - `docs/research/lodz-spp.md`: cennik SPP w 3 okresach, podstrefy, granice, parkomaty, punkty kontrolne, źródła.
+- `docs/research/krakow-spp.md`: Kraków („lite”): parkomaty ZDMK z XML, cennik A/B/C, które opłaty w Visa mają numer parkomatu (tylko sektory A3, A13), SPP innych miast pod krakowskimi kodami.
 - `docs/research/visa-dane.md`: interpretacja kolumn Visa, współczynnik 0,92, transakcje parkingowe, karty kierowców, pułapki filtrów.
 - `docs/polityka-parkflow-v0.md`: oryginalny dokument koncepcyjny (historyczny, SPEC go zastępuje).
 - `data/raw/zdit/`: mapa parkomatów JPG, XLSX z 9 współrzędnymi, mapa granic SPP, oryginalny ZIP z Open Data.

@@ -147,7 +147,7 @@ function tooltip({ object }) {
 // Podkład jak w mapie pydeck (map_style="light"): wektorowy Positron z CARTO.
 const mapa = new maplibregl.Map({
   container: "mapa", style: "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json",
-  center: [19.46, 51.765], zoom: 12.2, pitch: 45, bearing: -12, maxPitch: 60,
+  center: [D.srodek[1], D.srodek[0]], zoom: D.zoom, pitch: 45, bearing: -12, maxPitch: 60,
 });
 const nakladka = new MapboxOverlay({ layers: [warstwaSektorow()], getTooltip: tooltip });
 mapa.addControl(nakladka);

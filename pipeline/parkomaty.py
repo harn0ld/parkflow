@@ -23,6 +23,7 @@ STATUS_MAPA = "mapa_2024"  # kropka z mapy, georeferencja afiniczna
 STATUS_WSTAWKA = "mapa_2024_wstawka"  # wstawka Rynek Bałucki, osobna transformacja
 STATUS_ZDIT = "wspolrzedne_zdit"  # współrzędne z XLSX ZDiT (Legionów)
 STATUS_NIEZNANA = "lokalizacja nieznana"  # ID z danych Visa, którego nie ma na mapie
+STATUS_ZDMK = "wspolrzedne_zdmk"  # Kraków: współrzędne z parkomaty.xml ZDMK
 
 _DO_2180 = Transformer.from_crs(4326, 2180, always_xy=True)
 _DO_4326 = Transformer.from_crs(2180, 4326, always_xy=True)
@@ -164,3 +165,30 @@ def kody_spp(parkomaty: pd.DataFrame) -> pd.DataFrame:
         z.groupby("kod_pocztowy").size().rename("parkomaty").reset_index()
         .sort_values("kod_pocztowy").reset_index(drop=True)
     )
+
+
+# ---------- Kraków: parkomaty.xml ZDMK ----------
+
+def parsuj_zdmk(tresc: str | bytes) -> pd.DataFrame:
+    """parkomaty.xml ZDMK (mapa parkomatów Krakowa) → numer, sektor, podstrefa, adres, model, karta, lat, lon.
+
+    Numer bez zer wiodących („0001” → „1”), jak w danych Visa („PARKOMAT 3058”).
+    Podstrefa to litera sektora („Sektor A13” → A).
+    """
+    import xml.etree.ElementTree as ET
+
+    def tekst(el, sciezka: str) -> str:
+        return (el.findtext(sciezka) or "").strip()
+
+    if isinstance(tresc, str):
+        tresc = tresc.lstrip("\ufeff")  # plik ZDMK zaczyna się od BOM
+    wiersze = []
+    for pm in ET.fromstring(tresc).iter("placemark"):
+        sektor = re.sub(r"(?i)^sektor\s+", "", tekst(pm, "name"))
+        wiersze.append({
+            "numer": tekst(pm, "parkingmeter").lstrip("0") or "0", "sektor": sektor,
+            "podstrefa": sektor[:1].upper() or None, "adres": tekst(pm, "address"),
+            "model": tekst(pm, "model"), "karta": tekst(pm, "card"),
+            "lat": float(tekst(pm, "coordinates/latitude")), "lon": float(tekst(pm, "coordinates/longitude")),
+        })
+    return pd.DataFrame(wiersze)

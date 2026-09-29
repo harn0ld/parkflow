@@ -4,7 +4,7 @@ import streamlit as st
 
 from app.kontekst import ETYKIETY_BLOKOW, ETYKIETY_SEZONOW, NAZWY_USLUG, Kontekst
 from app.ustawienia import KODY_UKRYTE
-from parkflow.dane import KODY_ULICE, kody_wylaczone, wczytaj_kody_ulice
+from parkflow.dane import kody_wylaczone, wczytaj_kody_ulice
 from parkflow.rekomendacje import rekomendacje
 
 TYTUL = "Rekomendacje parkingowe"
@@ -24,8 +24,8 @@ def render(ctx: Kontekst) -> None:
     if wynik.empty:
         st.info("Brak sektorów P3/P4 z wystarczającymi danymi w wybranym sezonie i godzinach.")
         return
-    if KODY_ULICE.exists():
-        ulice = wczytaj_kody_ulice().set_index("kod")["ulice"]
+    if ctx.miasto.kody_ulice.exists():
+        ulice = wczytaj_kody_ulice(ctx.miasto.kody_ulice).set_index("kod")["ulice"]
         wynik["ulice"] = wynik["kod"].map(ulice).fillna("")
     else:
         wynik["ulice"] = ""

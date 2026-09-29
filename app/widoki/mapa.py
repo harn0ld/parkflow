@@ -1,4 +1,4 @@
-"""Widok: mapa kodów pocztowych Łodzi pokolorowanych poziomem P (ticket 02).
+"""Widok: mapa kodów pocztowych miasta pokolorowanych poziomem P (ticket 02).
 
 Warstwa bazowa: polygony kodów z data/kody.geojson (PRG, scripts/zbuduj_kody.py).
 Kolejne warstwy (parkomaty, zmierzony popyt, stali bywalcy) dopisuje się do `WARSTWY`
@@ -7,6 +7,7 @@ każdy obiekt warstwy ma pola `tytul`, `tresc`, `uwaga` (zbuduj je funkcją `pol
 """
 
 import json
+from pathlib import Path
 from collections.abc import Callable
 from dataclasses import dataclass
 
@@ -18,13 +19,12 @@ from app.kontekst import (CURB_SENSITIVE, ETYKIETY_BLOKOW, ETYKIETY_SEZONOW, KOL
                           TYPY_WIZYT, WNIOSKI_TYPOW, Kontekst,
                           NAZWY_USLUG)
 from app.widoki import mapa_warstwy, przeplyw, wyliczenia
-from parkflow.dane import KODY_GEOJSON, KODY_ULICE, kody_wylaczone, wczytaj_kody_ulice
+from parkflow.dane import kody_wylaczone, wczytaj_kody_ulice
 from parkflow.mapa import WYLACZONY, ZA_MALO, stan_kodow
 from parkflow.model import POZIOMY
 
 TYTUL = "Mapa"
 
-WIDOK_LODZI = pdk.ViewState(latitude=51.765, longitude=19.46, zoom=11.3, pitch=0)
 ALFA_POZIOMU = 170
 ALFA_ZA_MALO = 45  # „za mało danych” = P1 zgodnie z modelem, ale blado
 ALFA_WYLACZONY = 150
@@ -106,14 +106,27 @@ def pola_tooltipa(tytul: str, wiersze: dict[str, object] | None = None, uwaga: s
             "podtytul": "", "naglowek_taryfy": "", "taryfa": "", "naglowek_uslug": "", "uslugi": ""}
 
 
-@st.cache_data
-def _kody_geojson() -> dict:
-    return json.loads(KODY_GEOJSON.read_text())
+def widok(ctx: Kontekst) -> pdk.ViewState:
+    lat, lon = ctx.miasto.srodek
+    return pdk.ViewState(latitude=lat, longitude=lon, zoom=ctx.miasto.zoom, pitch=0)
 
 
 @st.cache_data
-def _kody_ulice():
-    return wczytaj_kody_ulice(KODY_ULICE).set_index("kod")
+def _wczytaj_geojson(plik: str) -> dict:
+    return json.loads(Path(plik).read_text())
+
+
+@st.cache_data
+def _wczytaj_ulice(plik: str):
+    return wczytaj_kody_ulice(plik).set_index("kod")
+
+
+def _kody_geojson(ctx: Kontekst) -> dict:
+    return _wczytaj_geojson(str(ctx.miasto.kody_geojson))
+
+
+def _kody_ulice(ctx: Kontekst):
+    return _wczytaj_ulice(str(ctx.miasto.kody_ulice))
 
 
 @st.cache_data
@@ -154,8 +167,8 @@ def kody_z_typami(ctx: Kontekst, typy: list[str], minimum_pct: float, wszystkie:
 
 def warstwa_kodow(ctx: Kontekst, wybrane_kody: set[str] | None = None) -> tuple[pdk.Layer, pd.DataFrame]:
     """GeoJsonLayer kodów pokolorowanych poziomem P dla ctx.sezon i ctx.blok + tabela stanu kodów."""
-    gj = _kody_geojson()
-    ulice = _kody_ulice()
+    gj = _kody_geojson(ctx)
+    ulice = _kody_ulice(ctx)
     kody = [f["properties"]["kod"] for f in gj["features"]]
     stan = stan_kodow(kody, ctx.komorki, _wylaczone(str(ctx.agregaty.katalog))).set_index("kod")
     # Na razie pokazujemy wyłącznie kody oznaczone jako SPP, bez bufora.
@@ -221,8 +234,8 @@ def _legenda() -> str:
 
 def render(ctx: Kontekst) -> None:
     st.subheader(f"Mapa poziomów P · {ETYKIETY_SEZONOW[ctx.sezon]} · przedział godzinowy {ETYKIETY_BLOKOW[ctx.blok]}")
-    if not KODY_GEOJSON.exists() or not KODY_ULICE.exists():
-        st.info("Brak data/kody.geojson lub data/kody_ulice.csv — uruchom `python scripts/zbuduj_kody.py`.")
+    if not ctx.miasto.kody_geojson.exists() or not ctx.miasto.kody_ulice.exists():
+        st.info(f"Brak kody.geojson lub kody_ulice.csv — uruchom `python scripts/zbuduj_kody.py --miasto {ctx.miasto.id}`.")
         return
 
     with st.expander("Filtry typów wizyt", expanded=True):
@@ -257,9 +270,9 @@ def render(ctx: Kontekst) -> None:
         help="Suwak i przycisk ▶ przesuwają godzinę; sektory płynnie przechodzą między blokami 7–10, 10–13, 13–16, 16–19.",
     )
     if odtwarzanie:
-        nazwy = _kody_ulice()["ulice"].to_dict()
+        nazwy = _kody_ulice(ctx)["ulice"].to_dict()
         przeplyw.render(
-            ctx, _kody_geojson()["features"], stan, {k: _skroc(str(v), 4) for k, v in nazwy.items()},
+            ctx, _kody_geojson(ctx)["features"], stan, {k: _skroc(str(v), 4) for k, v in nazwy.items()},
             alfa={"poziom": ALFA_POZIOMU, "za_malo": ALFA_ZA_MALO, "wylaczony": ALFA_WYLACZONY},
         )
         st.caption(
@@ -284,7 +297,7 @@ def render(ctx: Kontekst) -> None:
                     opisy.append(w.opis(ctx))
 
     st.pydeck_chart(pdk.Deck(
-        layers=warstwy, initial_view_state=WIDOK_LODZI, map_style="light",
+        layers=warstwy, initial_view_state=widok(ctx), map_style="light",
         tooltip=TOOLTIP,
     ), height=620)
     st.markdown(_legenda(), unsafe_allow_html=True)
@@ -300,7 +313,7 @@ def render(ctx: Kontekst) -> None:
         "Agregaty nie zawierają nazw lokali ani szczegółowych rodzajów usług w danym kodzie."
     )
 
-    kody_prg = {f["properties"]["kod"] for f in _kody_geojson()["features"]}
+    kody_prg = {f["properties"]["kod"] for f in _kody_geojson(ctx)["features"]}
     brak_na_mapie = sorted(set(ctx.komorki["kod"]) - kody_prg)
     st.caption(
         "Mapa pokazuje tylko kody oznaczone jako SPP; bufor i kody bez oznaczenia SPP są ukryte. "

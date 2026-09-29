@@ -42,7 +42,7 @@ def render(ctx: Kontekst) -> None:
         width="stretch",
     )
     st.caption(
-        "Poziom = percentyl presji wśród wszystkich komórek kod × blok w Łodzi w danym sezonie: "
+        f"Poziom = percentyl presji wśród wszystkich komórek kod × blok w {ctx.miasto.miejscownik} w danym sezonie: "
         "P1 ≤ 40 < P2 ≤ 70 < P3 ≤ 90 < P4. Komórki poniżej 30 unikalnych kart przyjezdnych "
         "dostają P1 z adnotacją „za mało danych”."
     )

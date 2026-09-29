@@ -62,6 +62,8 @@ def render(ctx: Kontekst, features: list[dict], stan: pd.DataFrame, ulice: dict[
         "start": SRODKI_BLOKOW[BLOKI.index(ctx.blok)],
         "kolory": {**{p: list(c) for p, c in KOLORY_POZIOMOW.items()}, "neutralny": list(KOLOR_NEUTRALNY)},
         "alfa": alfa,
+        "srodek": list(ctx.miasto.srodek),
+        "zoom": ctx.miasto.zoom + 0.9,  # widok 3D z pochyleniem potrzebuje bliżej niż płaska mapa
     }
     # `</` w danych zamknąłby <script>; JSON dopuszcza escape `<\/`.
     html = SZABLON.read_text().replace("__DANE__", json.dumps(dane, ensure_ascii=False).replace("</", "<\\/"))

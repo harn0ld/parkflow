@@ -1,17 +1,19 @@
-"""Etap 1: pełny plik Visa → podzbiór Łodzi (poziom karty, zostaje w chronionym środowisku).
+"""Etap 1: pełny plik Visa → podzbiór miasta (poziom karty, zostaje w chronionym środowisku).
 
-Łódź = sklep w Polsce i kod 90-xxx–94-xxx po normalizacji, albo brak poprawnego kodu
-i miasto „LODZ”. Kody 95-xxx odrzucamy (SPEC §2, visa-dane.md).
+Miasto = sklep w Polsce i kod pocztowy z prefiksów miasta po normalizacji, albo brak poprawnego kodu
+i nazwa miasta. Łódź: 90-xxx–94-xxx, 95-xxx to okolice (SPEC §2, visa-dane.md).
+Kraków: 30-xxx–31-xxx, 32-xxx to okolice (Wieliczka, Skawina).
 
 Użycie:
-    python -m pipeline.extract_lodz <wejście.parquet> <wyjście_dir>
+    python -m pipeline.extract_lodz <wejście.parquet> <wyjście_dir> [--miasto krakow]
 """
 
-import sys
+import argparse
 
 from pyspark.sql import Column, DataFrame
 from pyspark.sql import functions as F
 
+from parkflow.miasta import LODZ, MIASTA, Miasto
 from pipeline.spark import get_spark
 
 COLUMNS = [
@@ -43,27 +45,37 @@ def normalize_postal(col: Column) -> Column:
     )
 
 
-def select_lodz(df: DataFrame) -> DataFrame:
+def select_city(df: DataFrame, miasto: Miasto) -> DataFrame:
     postal = normalize_postal(F.col("mrch_postal_code"))
     city = F.upper(F.translate(F.trim(F.col("mrch_city_nm_raw")), "łŁóÓźŹ", "lLoOzZ"))
-    in_lodz_postal = F.substring(postal, 1, 2).isin("90", "91", "92", "93", "94")
-    lodz_city_no_postal = postal.isNull() & city.startswith("LODZ")
+    in_city_postal = F.substring(postal, 1, 2).isin(*miasto.prefiksy_kodow)
+    city_no_postal = postal.isNull() & city.startswith(miasto.nazwa_visa)
     return (
         df.select(*COLUMNS)
         .where(F.col("mrch_ctry_nm") == "POLAND")
         .withColumn("mrch_postal_code", postal)
         .withColumn("pstl_cd_enr", normalize_postal(F.col("pstl_cd_enr")))
-        .where(in_lodz_postal | lodz_city_no_postal)
+        .where(in_city_postal | city_no_postal)
     )
 
 
-def main(src: str, dst: str) -> None:
-    spark = get_spark("parkflow-extract-lodz")
-    out = select_lodz(spark.read.parquet(src))
-    out.repartition(16).write.mode("overwrite").parquet(dst)
-    n = spark.read.parquet(dst).count()
-    print(f"Łódź: {n:,} transakcji → {dst}")
+def select_lodz(df: DataFrame) -> DataFrame:
+    return select_city(df, LODZ)
+
+
+def main() -> None:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("src")
+    ap.add_argument("dst")
+    ap.add_argument("--miasto", default=LODZ.id, choices=sorted(MIASTA))
+    a = ap.parse_args()
+    miasto = MIASTA[a.miasto]
+    spark = get_spark(f"parkflow-extract-{miasto.id}")
+    out = select_city(spark.read.parquet(a.src), miasto)
+    out.repartition(16).write.mode("overwrite").parquet(a.dst)
+    n = spark.read.parquet(a.dst).count()
+    print(f"{miasto.nazwa}: {n:,} transakcji → {a.dst}")
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2])
+    main()

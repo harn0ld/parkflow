@@ -9,15 +9,17 @@ from pathlib import Path
 
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parent.parent
-KATALOG_AGG = ROOT / "data" / "agg"
+from parkflow.miasta import LODZ, ROOT
+
+# Ścieżki Łodzi; pozostałe miasta mają te same nazwy plików w swoim katalogu (parkflow.miasta).
+KATALOG_AGG = LODZ.katalog_agg
 KATALOG_SAMPLE = ROOT / "data" / "sample"
 # Geometrie i ulice kodów z PRG (ticket 02, scripts/zbuduj_kody.py).
-KODY_GEOJSON = ROOT / "data" / "kody.geojson"
-KODY_ULICE = ROOT / "data" / "kody_ulice.csv"
-WYKLUCZENIA_KODY = ROOT / "data" / "wykluczenia_kody.csv"
+KODY_GEOJSON = LODZ.kody_geojson
+KODY_ULICE = LODZ.kody_ulice
+WYKLUCZENIA_KODY = LODZ.wykluczenia_kody
 # Parkomaty SPP z digitalizacji mapy ZDiT (ticket 06, scripts/digitalizuj_parkomaty.py).
-PARKOMATY = ROOT / "data" / "parkomaty.csv"
+PARKOMATY = LODZ.parkomaty
 
 # Kolumny w kolejności pipeline'u → rodzaj typu pandas. `spp` jest nullable: pusta, dopóki
 # pipeline nie dostanie data/spp_kody.csv (ticket 02).
@@ -118,16 +120,18 @@ def kody_wylaczone(katalog: Path | str = KATALOG_AGG) -> dict[str, str]:
     """Kody wyłączone ze stref → opis, do neutralnego oznaczenia na mapie.
 
     Kody zbiorcze (`kody_zbiorcze.parquet` z katalogu agregatów; data/sample go nie ma)
-    i galerie z własnym parkingiem (data/wykluczenia_kody.csv).
+    i galerie z własnym parkingiem (`wykluczenia_kody.csv` w katalogu miasta, czyli nadrzędnym
+    wobec agregatów: data/agg → data/, data/krakow/agg → data/krakow/).
     """
     wynik: dict[str, str] = {}
+    wykluczenia = Path(katalog).parent / WYKLUCZENIA_KODY.name
     plik = Path(katalog) / "kody_zbiorcze.parquet"
     if plik.exists():
         z = pd.read_parquet(plik)
         wynik.update({kod: f"kod zbiorczy: adres rozliczeniowy {f'{n:,}'.replace(',', ' ')} sprzedawców, nie miejsce"
                       for kod, n in zip(z["kod"], z["sprzedawcy"])})
-    if WYKLUCZENIA_KODY.exists():
-        w = pd.read_csv(WYKLUCZENIA_KODY, dtype=str)
+    if wykluczenia.exists():
+        w = pd.read_csv(wykluczenia, dtype=str)
         wynik.update({kod: f"wyłączony ze stref: {nazwa} (duży format z własnym parkingiem)"
                       for kod, nazwa in zip(w["kod_pocztowy"], w["nazwa"])})
     return wynik

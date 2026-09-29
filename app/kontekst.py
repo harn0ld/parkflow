@@ -6,6 +6,7 @@ import pandas as pd
 
 from app.ustawienia import KODY_UKRYTE
 from parkflow.dane import Agregaty
+from parkflow.miasta import LODZ, Miasto
 
 ETYKIETY_SEZONOW = {"lato": "Lato (VI–IX 2025)", "rok_akademicki": "Rok akademicki (X 2025 – VI 2026)"}
 ETYKIETY_BLOKOW = {"07-10": "7–10", "10-13": "10–13", "13-16": "13–16", "16-19": "16–19"}
@@ -53,6 +54,7 @@ class Kontekst:
     tabela: pd.DataFrame  # parkflow.model.tabela_p(agregaty.strefy)
     sezon: str
     blok: str
+    miasto: Miasto = LODZ
 
     @property
     def komorki(self) -> pd.DataFrame:
