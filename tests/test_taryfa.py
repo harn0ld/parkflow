@@ -140,11 +140,10 @@ def strefa(kod, blok, presja, sezon="lato"):
 
 @pytest.fixture
 def tabela():
-    # 20 komórek sezonu: 10-13 presje 1..10, 13-16 presje i − 0,5, z wyjątkiem 90-009 (0,1).
-    # 90-010: P4 w 10-13 i 13-16, 16-19 brak danych (P1). 90-009: P3 w 10-13 (18/20 = 90%), P1 w 13-16.
-    # 90-001: P1 w 10-13, 13-16 i (za mało danych) 16-19.
-    rows = [strefa(f"90-0{i:02d}", "10-13", i) for i in range(1, 11)]
-    rows += [strefa(f"90-0{i:02d}", "13-16", 0.1 if i == 9 else i - 0.5) for i in range(1, 11)]
+    # Progi presji 0,05 / 0,15 / 0,30. 90-010: P4 w 10-13 i 13-16, 16-19 brak danych (P1).
+    # 90-009: P3 w 10-13, P1 w 13-16. 90-001: P1 w 10-13, 13-16 i (za mało danych) 16-19.
+    presje = {"90-001": (0.01, 0.02), "90-005": (0.1, 0.1), "90-009": (0.2, 0.01), "90-010": (1.0, 0.9)}
+    rows = [strefa(kod, blok, p) for kod, pp in presje.items() for blok, p in zip(("10-13", "13-16"), pp)]
     return tabela_p(pd.DataFrame(rows))
 
 

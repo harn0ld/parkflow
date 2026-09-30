@@ -55,7 +55,7 @@
   </div>
 </div>
 <div class="legenda">
-  Presja (percentyl) · wysokość = presja
+  Presja (stałe progi) · wysokość = presja
   <div class="pasek" id="pasek"></div>
   <div class="skala"><span>P1</span><span>P2</span><span>P3</span><span>P4</span></div>
 </div>
@@ -63,11 +63,18 @@
 const D = __DANE__;
 const { MapboxOverlay, GeoJsonLayer } = deck;
 
-// Kolor poziomu w środku jego przedziału percentyli: P1 ≤ 40 < P2 ≤ 70 < P3 ≤ 90 < P4.
-const PRZYSTANKI = [[20, D.kolory.P1], [55, D.kolory.P2], [80, D.kolory.P3], [95, D.kolory.P4]];
+// Presja → skala 0–4 liniowo między stałymi progami (P1 ≤ p0 < P2 ≤ p1 < P3 ≤ p2 < P4; 2·p2 = szczyt skali).
+// Kolor poziomu leży w środku jego przedziału skali.
+const [P0, P1_, P2_] = D.progi, WEZLY = [0, P0, P1_, P2_, 2 * P2_];
+function skala(presja) {
+  for (let i = 1; i < WEZLY.length; i++)
+    if (presja <= WEZLY[i]) return i - 1 + (presja - WEZLY[i - 1]) / (WEZLY[i] - WEZLY[i - 1]);
+  return 4;
+}
+const PRZYSTANKI = [[0.5, D.kolory.P1], [1.5, D.kolory.P2], [2.5, D.kolory.P3], [3.5, D.kolory.P4]];
 const lerp = (a, b, t) => a + (b - a) * t;
 
-function kolorPercentyla(p) {
+function kolorSkali(p) {
   if (p <= PRZYSTANKI[0][0]) return PRZYSTANKI[0][1];
   for (let i = 1; i < PRZYSTANKI.length; i++) {
     const [p0, c0] = PRZYSTANKI[i - 1], [p1, c1] = PRZYSTANKI[i];
@@ -100,7 +107,7 @@ for (const f of D.geojson.features) {
   f.properties.krzywaP = krzywa(D.srodki, p.map(v => v ?? 0));
   f.properties.krzywaA = krzywa(D.srodki, p.map(v => v == null ? D.alfa.za_malo : D.alfa.poziom));
 }
-const wartosc = (pr, h) => ({ p: Math.max(0, Math.min(100, pr.krzywaP(h))), a: pr.krzywaA(h) });
+const wartosc = (pr, h) => ({ p: skala(Math.max(0, pr.krzywaP(h))), a: pr.krzywaA(h) });
 
 const esc = s => String(s).replace(/[&<>"']/g, c => `&#${c.charCodeAt(0)};`);
 const indeksBloku = h => Math.min(D.bloki.length - 1, Math.max(0, Math.floor((h - 7) / 3)));
@@ -119,9 +126,9 @@ function warstwaSektorow() {
     getFillColor: f => {
       if (f.properties.wylaczony) return [...D.kolory.neutralny, D.alfa.wylaczony];
       const { p, a } = odczyt(f);
-      return [...kolorPercentyla(p), a];
+      return [...kolorSkali(p), a];
     },
-    getElevation: f => f.properties.wylaczony ? 0 : Math.pow(odczyt(f).p / 100, 2) * 900,
+    getElevation: f => f.properties.wylaczony ? 0 : Math.pow(odczyt(f).p / 4, 2) * 900,
     material: { ambient: 0.55, diffuse: 0.5, shininess: 20 },
     updateTriggers: { getFillColor: minuty, getElevation: minuty },
     autoHighlight: true, highlightColor: [37, 99, 235, 90],
@@ -161,7 +168,7 @@ D.bloki.forEach((b, i) => {
   blokiEl.appendChild(el);
 });
 document.getElementById("pasek").style.background = "linear-gradient(to right,"
-  + [0, 20, 40, 55, 70, 80, 90, 95, 100].map(p => `rgb(${kolorPercentyla(p).map(Math.round)}) ${p}%`).join(",") + ")";
+  + [0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4].map(p => `rgb(${kolorSkali(p).map(Math.round)}) ${p * 25}%`).join(",") + ")";
 
 function rysuj() {
   document.getElementById("zegar").textContent = zegar(minuty);

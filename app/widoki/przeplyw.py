@@ -14,7 +14,7 @@ import streamlit.components.v1 as components
 
 from app.kontekst import ETYKIETY_BLOKOW, KOLOR_NEUTRALNY, KOLORY_POZIOMOW, Kontekst
 from parkflow.mapa import WYLACZONY, profil_dnia
-from parkflow.model import BLOKI, ZA_MALO_DANYCH
+from parkflow.model import BLOKI, PROGI_PRESJI, ZA_MALO_DANYCH
 
 SZABLON = Path(__file__).resolve().parent.parent / "assets" / "przeplyw.html"
 SRODKI_BLOKOW = [(int(b[:2]) + int(b[3:])) / 2 for b in BLOKI]
@@ -52,7 +52,7 @@ def render(ctx: Kontekst, features: list[dict], stan: pd.DataFrame, ulice: dict[
         }, "properties": {
             "kod": kod, "ulice": ulice.get(kod, ""),
             "wylaczony": bool(stan.at[kod, "stan"] == WYLACZONY), "opis": str(stan.at[kod, "opis"]),
-            "p": [None if pd.isna(v) else round(float(v), 2) for v in p],
+            "p": [None if pd.isna(v) else round(float(v), 4) for v in p],
             "poziomy": poziomy.get(kod, brak),
         }})
     dane = {
@@ -63,6 +63,7 @@ def render(ctx: Kontekst, features: list[dict], stan: pd.DataFrame, ulice: dict[
         "kolory": {**{p: list(c) for p, c in KOLORY_POZIOMOW.items()}, "neutralny": list(KOLOR_NEUTRALNY)},
         "alfa": alfa,
         "srodek": list(ctx.miasto.srodek),
+        "progi": list(PROGI_PRESJI),
         "zoom": ctx.miasto.zoom + 0.9,  # widok 3D z pochyleniem potrzebuje bliżej niż płaska mapa
     }
     # `</` w danych zamknąłby <script>; JSON dopuszcza escape `<\/`.

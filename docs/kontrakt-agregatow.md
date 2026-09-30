@@ -44,7 +44,7 @@ Wiersz istnieje tylko dla grup z ≥ 30 unikalnymi kartami przyjezdnymi (grupy p
 Uwagi:
 - Siatka jest **rzadka**: komórka bez wizyt przyjezdnych nie ma wiersza. Model uzupełnia pełną siatkę kod × 4 bloki × 2 sezony i traktuje brak jako „za mało danych”.
 - `presja` strefy ≠ Σ `presja` z `agg_grupy` (mediana sumy vs suma median, plus grupy < 30 kart). W danych przykładowych jest równa sumie dla prostoty.
-- Kwota transakcji nie wchodzi do presji. Udział Visa w rynku ignorujemy (percentyle są odporne na jednolity mnożnik).
+- Kwota transakcji nie wchodzi do presji. Udział Visa w rynku ignorujemy (SPEC §4.3: przy stałych progach zakładamy podobny udział w miastach i w czasie).
 
 ## `agg_kalibracja_czasow` — grupa usług (kalibracja czasów domyślnych, ticket 05)
 

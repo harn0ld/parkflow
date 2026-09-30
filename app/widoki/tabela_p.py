@@ -42,8 +42,10 @@ def render(ctx: Kontekst) -> None:
         width="stretch",
     )
     st.caption(
-        f"Poziom = percentyl presji wśród wszystkich komórek kod × blok w {ctx.miasto.miejscownik} w danym sezonie: "
-        "P1 ≤ 40 < P2 ≤ 70 < P3 ≤ 90 < P4. Komórki poniżej 30 unikalnych kart przyjezdnych "
+        "Poziom wynika ze stałych progów presji (samochodo-godziny w bloku, tygodniowo), takich samych "
+        "w każdym mieście, sezonie i bloku: P1 ≤ 0,05 < P2 ≤ 0,15 < P3 ≤ 0,30 < P4. "
+        f"Percentyl pokazuje tylko, ile komórek w {ctx.miasto.miejscownik} w tym sezonie ma niższą presję; "
+        "nie wpływa na poziom. Komórki poniżej 30 unikalnych kart przyjezdnych "
         "dostają P1 z adnotacją „za mało danych”."
     )
 

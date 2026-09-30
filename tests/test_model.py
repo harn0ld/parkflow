@@ -27,37 +27,45 @@ def kody(n, prefix="90-0"):
     return [f"{prefix}{i:02d}" for i in range(1, n + 1)]
 
 
-def test_percentyle_40_70_90():
-    # 10 komórek o presji 1..10: percentyle 10%..100% → 4×P1, 3×P2, 2×P3, 1×P4.
-    agg = pd.DataFrame([strefa(k, i) for i, k in enumerate(kody(10), start=1)])
+# Presje na granicach progów 0,05 / 0,15 / 0,30: próg należy do niższego poziomu.
+PRESJE = [0.0, 0.05, 0.051, 0.15, 0.151, 0.30, 0.301, 2.0]
+POZIOMY_PRESJI = ["P1", "P1", "P2", "P2", "P3", "P3", "P4", "P4"]
+
+
+def test_poziom_ze_stalych_progow_presji():
+    agg = pd.DataFrame([strefa(k, p) for k, p in zip(kody(8), PRESJE)])
     got = poziomy(tabela_p(agg))
-    assert [got[k] for k in kody(10)] == ["P1"] * 4 + ["P2"] * 3 + ["P3"] * 2 + ["P4"]
+    assert [got[k] for k in kody(8)] == POZIOMY_PRESJI
 
 
-def test_percentyle_w_obrebie_calej_lodzi_dla_wszystkich_blokow_sezonu():
-    # Bloki nie mają osobnych rankingów: 5 kodów × 2 bloki = 10 komórek jednego sezonu.
-    rows = [strefa(k, i, blok="07-10") for i, k in enumerate(kody(5), start=1)]
-    rows += [strefa(k, i + 5, blok="16-19") for i, k in enumerate(kody(5), start=1)]
+def test_poziom_nie_zalezy_od_innych_komorek():
+    # Ta sama presja daje ten sam poziom niezależnie od reszty miasta (bez normalizacji do rozkładu).
+    sama = poziomy(tabela_p(pd.DataFrame([strefa("90-001", 0.2)])))
+    z_tlumem = poziomy(tabela_p(pd.DataFrame([strefa("90-001", 0.2)] + [strefa(k, 5.0) for k in kody(9, "91-0")])))
+    assert sama["90-001"] == z_tlumem["90-001"] == "P3"
+
+
+def test_sezony_z_tym_samym_progiem():
+    # Rok akademicki ma presję 10× wyższą, więc ma wyższe poziomy — progi są wspólne dla sezonów.
+    rows = [strefa("90-001", 0.02, sezon="lato"), strefa("90-001", 0.2, sezon="rok_akademicki")]
     tab = tabela_p(pd.DataFrame(rows))
-    assert set(poziomy(tab, blok="07-10").values()) == {"P1", "P2"}
-    assert poziomy(tab, blok="16-19") == {"90-001": "P2", "90-002": "P2", "90-003": "P3", "90-004": "P3",
-                                          "90-005": "P4"}
+    assert (poziomy(tab, "lato")["90-001"], poziomy(tab, "rok_akademicki")["90-001"]) == ("P1", "P3")
 
 
-def test_sezony_maja_osobne_rankingi():
-    # Rok akademicki ma presję 100× wyższą, ale jego najniższe komórki i tak są P1.
-    rows = [strefa(k, i, sezon="lato") for i, k in enumerate(kody(10), start=1)]
-    rows += [strefa(k, 100 * i, sezon="rok_akademicki") for i, k in enumerate(kody(10), start=1)]
-    tab = tabela_p(pd.DataFrame(rows))
-    assert poziomy(tab, "lato") == poziomy(tab, "rok_akademicki")
+def test_percentyl_informacyjny_w_miescie_i_sezonie():
+    agg = pd.DataFrame([strefa(k, p) for k, p in zip(kody(4), [0.01, 0.02, 0.03, 0.04])])
+    tab = tabela_p(agg)
+    sel = tab[(tab["blok"] == "10-13") & (tab["sezon"] == "lato")].set_index("kod")
+    assert sel["percentyl"].tolist() == [25.0, 50.0, 75.0, 100.0]
+    assert set(sel["poziom"]) == {"P1"}  # najwyższy percentyl nie podnosi poziomu
 
 
 def test_za_malo_danych_daje_p1_z_adnotacja_i_nie_liczy_sie_do_percentyli():
-    rows = [strefa(k, i) for i, k in enumerate(kody(10), start=1)]
+    rows = [strefa(k, p) for k, p in zip(kody(8), PRESJE)]
     rows += [strefa(k, None) for k in kody(5, prefix="91-0")]
     tab = tabela_p(pd.DataFrame(rows))
     got = poziomy(tab)
-    assert [got[k] for k in kody(10)] == ["P1"] * 4 + ["P2"] * 3 + ["P3"] * 2 + ["P4"]
+    assert [got[k] for k in kody(8)] == POZIOMY_PRESJI
     malo = tab[tab["kod"].str.startswith("91-") & (tab["blok"] == "10-13") & (tab["sezon"] == "lato")]
     assert (malo["poziom"] == "P1").all()
     assert (malo["adnotacja"] == ZA_MALO_DANYCH).all()
@@ -66,8 +74,7 @@ def test_za_malo_danych_daje_p1_z_adnotacja_i_nie_liczy_sie_do_percentyli():
 
 
 def test_komorka_ponizej_30_kart_jest_za_malo_danych_nawet_bez_flagi():
-    rows = [strefa(k, i) for i, k in enumerate(kody(10), start=1)]
-    rows.append(strefa("91-001", 1000, karty=29.0))
+    rows = [strefa("90-010", 1.0), strefa("91-001", 1000, karty=29.0)]
     tab = tabela_p(pd.DataFrame(rows))
     row = tab[(tab["kod"] == "91-001") & (tab["blok"] == "10-13") & (tab["sezon"] == "lato")].iloc[0]
     assert (row["poziom"], row["adnotacja"]) == ("P1", ZA_MALO_DANYCH)
@@ -84,19 +91,20 @@ def test_brakujaca_komorka_to_za_malo_danych_a_tabela_jest_pelna():
     assert tab.loc[tab["kod"] == "90-001", "spp"].eq(True).all()
 
 
-def test_remisy_dostaja_ten_sam_nizszy_poziom():
-    # Sześć zer i 1..4: zera mają percentyl 10% → wszystkie P1.
-    presje = [0, 0, 0, 0, 0, 0, 1, 2, 3, 4]
-    agg = pd.DataFrame([strefa(k, p) for k, p in zip(kody(10), presje)])
-    got = poziomy(tabela_p(agg))
-    assert [got[k] for k in kody(10)] == ["P1"] * 6 + ["P2", "P3", "P3", "P4"]
+def test_remisy_w_percentylu_dostaja_najnizsza_range():
+    # Sześć zer i 4 wyższe: zera mają percentyl 10% (nie 60%).
+    presje = [0, 0, 0, 0, 0, 0, 0.1, 0.2, 0.3, 0.4]
+    tab = tabela_p(pd.DataFrame([strefa(k, p) for k, p in zip(kody(10), presje)]))
+    sel = tab[(tab["blok"] == "10-13") & (tab["sezon"] == "lato")].set_index("kod")
+    assert sel.loc[kody(6), "percentyl"].eq(10.0).all()
+    assert [poziomy(tab)[k] for k in kody(10)] == ["P1"] * 6 + ["P2", "P3", "P3", "P4"]
 
 
 def test_harmonogram_kod_x_blok():
-    rows = [strefa(k, i, blok=b) for b in BLOKI for i, k in enumerate(kody(10), start=1)]
+    rows = [strefa(k, p, blok=b) for b in BLOKI for k, p in zip(kody(8), PRESJE)]
     h = harmonogram(tabela_p(pd.DataFrame(rows)), "lato")
     assert list(h.columns) == list(BLOKI)
-    assert h.loc["90-010"].tolist() == ["P4"] * 4
+    assert h.loc["90-008"].tolist() == ["P4"] * 4
     assert h.loc["90-001", "07-10"] == "P1"
 
 

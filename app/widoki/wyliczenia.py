@@ -67,11 +67,11 @@ def render(ctx: Kontekst) -> None:
         st.write(
             f"Presja: **{komorka['presja']:.3f} samochodo-h**; "
             f"karty przyjezdne: **{int(komorka['karty_przyjezdne'])}**. "
-            f"Percentyl presji: **{s['percentyl']:.2f} → {s['poziom']}**."
+            f"Presja **{komorka['presja']:.3f} → {s['poziom']}**."
         )
         st.caption(
-            "Ranking obejmuje kody i wszystkie bloki godzinowe w wybranym sezonie. "
-            "P1: do 40; P2: powyżej 40 do 70; P3: powyżej 70 do 90; P4: powyżej 90."
+            "Stałe progi presji [samochodo-h]: P1 do 0,05; P2 powyżej 0,05 do 0,15; "
+            "P3 powyżej 0,15 do 0,30; P4 powyżej 0,30. Te same w każdym mieście, sezonie i bloku."
         )
         przes = przesuniecie_okresu(grupa)
         mnozniki = POLITYKA.mnozniki[s["poziom"]]

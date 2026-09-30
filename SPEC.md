@@ -95,18 +95,20 @@ presja[strefa, blok, sezon] = mediana_po_tygodniach(
 - Minimum 30 unikalnych kart przyjezdnych na komórkę w okresie. Poniżej tego komórka dostaje **P1 z adnotacją „za mało danych”**.
 - Bez wygładzania między blokami.
 - Kwota transakcji nie wchodzi do score.
-- Udział Visa w rynku ignorujemy, bo percentyle są odporne na jednolity mnożnik.
+- Udział Visa w rynku ignorujemy. Przy stałych progach (§4.4) to założenie, że udział Visa jest podobny w obu miastach i w czasie; zmiana udziału przesuwa wszystkie presje o ten sam mnożnik, więc progi trzeba by wtedy przeliczyć.
 - **Kalibracja w SPP:** porównanie `presja` z opłaconymi auto-godzinami z parkomatów w tej samej strefie i bloku. Jeśli korelacja < 0,5, w SPP przełączamy się na score z parkomatów, a bufor pokazujemy jako ranking bez rekomendacji.
 
 ### 4.4 Poziomy
-Percentyle presji w obrębie Łodzi, liczone osobno dla każdego sezonu:
+**Stałe progi presji** (samochodo-godziny w bloku, mediana tygodni), takie same w każdym mieście, sezonie i bloku. Poziom sektora nie zależy od tego, jak wypadają inne sektory (bez normalizacji do rozkładu). Zmiana z IX 2026; wcześniej percentyle 40/70/90 w obrębie miasta i sezonu.
 
-| Poziom | Percentyl |
+| Poziom | Presja |
 |---|---|
-| P1 | 0–40 |
-| P2 | 40–70 |
-| P3 | 70–90 |
-| P4 | 90–100 |
+| P1 | ≤ 0,05 |
+| P2 | 0,05–0,15 |
+| P3 | 0,15–0,30 |
+| P4 | > 0,30 |
+
+Progi to okrągłe wartości dobrane raz na danych Łodzi i Krakowa 2025/26 (P1|P2 ≈ mediana, P2|P3 ≈ 80., P3|P4 ≈ 93. percentyl) i odtąd stałe (`PROGI_PRESJI` w `parkflow/model.py`). Skutek: latem więcej sektorów ma P3/P4 niż w roku akademickim. Percentyl zostaje w tabeli tylko informacyjnie.
 
 Po uzyskaniu danych o pojemności (pilotaż) przechodzimy na progi obłożenia 50 / 70 / 85%.
 

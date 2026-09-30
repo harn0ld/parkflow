@@ -10,7 +10,7 @@ def rekomendacje(tabela: pd.DataFrame, grupy: pd.DataFrame, sezon: str, blok: st
     poprawne = tabela.loc[
         tabela["sezon"].eq(sezon) & tabela["spp"].eq(True)
         & ~tabela["za_malo_danych"] & tabela["karty_przyjezdne"].ge(30)
-        & tabela["presja"].notna() & tabela["percentyl"].notna()
+        & tabela["presja"].notna()
         & ~tabela["kod"].isin(wykluczone)
     ]
     wysokie = poprawne.loc[poprawne["poziom"].isin(["P3", "P4"])]
@@ -30,5 +30,5 @@ def rekomendacje(tabela: pd.DataFrame, grupy: pd.DataFrame, sezon: str, blok: st
         for grupa in wynik["grupa"]
     ]
     return wynik.sort_values(
-        ["bloki_wysokiej_presji", "percentyl", "kod"], ascending=[False, False, True]
+        ["bloki_wysokiej_presji", "presja", "kod"], ascending=[False, False, True]
     ).reset_index(drop=True)

@@ -31,7 +31,7 @@ def render(ctx: Kontekst) -> None:
         wynik["ulice"] = ""
     st.caption(
         "Najpierw sektory z wysoką presją w większej liczbie bloków godzinowych, "
-        "potem z wyższym percentylem w aktualnie wybranym bloku. "
+        "potem z wyższą presją w aktualnie wybranym bloku. "
         "Lista uwzględnia tylko SPP i sektory z wystarczającymi danymi."
     )
     st.dataframe(wynik[["kod", "poziom", "bloki_z_danymi", "dzialanie"]].rename(columns={
@@ -43,8 +43,8 @@ def render(ctx: Kontekst) -> None:
     if r["ulice"]:
         st.write(f"**Ulice w sektorze:** {r['ulice']}")
     st.write(
-        f"**Dlaczego ten sektor?** Poziom {r['poziom']} i percentyl presji "
-        f"{r['percentyl']:.1f}. Wysoka presja występuje w {r['bloki_wysokiej_presji']} "
+        f"**Dlaczego ten sektor?** Poziom {r['poziom']} przy presji {r['presja']:.3f} samochodo-h "
+        f"(próg P3 to 0,15, P4 to 0,30). Wysoka presja występuje w {r['bloki_wysokiej_presji']} "
         f"z {r['bloki_z_danymi']} bloków z wystarczającymi danymi (łącznie są 4 bloki). "
         f"W wybranym bloku odnotowano {int(r['karty_przyjezdne'])} kart przyjezdnych."
     )
@@ -66,7 +66,7 @@ def render(ctx: Kontekst) -> None:
             "P3/P4 w co najmniej dwóch blokach tego sezonu wskazuje kandydata do sprawdzenia dodatkowych miejsc. "
             "Przy jednym bloku proponujemy analizę organizacji w godzinach szczytu. "
             "Brak danych w pozostałych blokach nie oznacza niskiej presji. "
-            "Wysoki percentyl jest porównaniem do innych sektorów i bloków, nie pomiarem zajętości parkingu. "
+            "Presja to szacunek samochodo-godzin z kart Visa, a nie pomiar zajętości parkingu. "
             "Ręczne grupy intensywności nie zmieniają tej rekomendacji."
         )
     st.download_button(

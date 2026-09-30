@@ -4,12 +4,13 @@ Czyste funkcje na pandas, bez I/O. Wejście to `agg_strefy` w kontrakcie pipelin
 (docs/kontrakt-agregatow.md).
 
 Reguły:
-- poziom = percentyl presji wśród komórek kod × blok danego sezonu w całej Łodzi
-  (wszystkie bloki razem, każdy sezon osobno): P1 ≤ 40 < P2 ≤ 70 < P3 ≤ 90 < P4;
-- percentyl komórki = odsetek komórek sezonu z presją ≤ jej presji, przy czym remisy dostają
-  najniższą rangę (rank `min`), więc równe presje mają ten sam, niższy poziom;
+- poziom = stałe progi presji (`PROGI_PRESJI`, samochodo-godziny w bloku, mediana tygodni):
+  P1 ≤ 0,05 < P2 ≤ 0,15 < P3 ≤ 0,30 < P4 — ten sam próg w każdym mieście, sezonie i bloku,
+  więc poziom nie zależy od tego, jak wypadają inne sektory (bez normalizacji do rozkładu);
+- `percentyl` zostaje tylko jako informacja (odsetek komórek sezonu w mieście z presją ≤ tej,
+  remisy dostają najniższą rangę); nie wpływa na poziom;
 - komórka z flagą `za_malo_danych`, bez presji, z < 30 kartami albo nieobecna w agregatach
-  dostaje P1 z adnotacją „za mało danych” i nie wchodzi do rankingu;
+  dostaje P1 z adnotacją „za mało danych”;
 - bez wygładzania między blokami.
 """
 
@@ -19,7 +20,9 @@ import pandas as pd
 BLOKI = ("07-10", "10-13", "13-16", "16-19")
 SEZONY = ("lato", "rok_akademicki")
 POZIOMY = ("P1", "P2", "P3", "P4")
-PROGI_PERCENTYLI = (40, 70, 90)
+# Progi presji P1|P2, P2|P3, P3|P4 [samochodo-h w bloku 3 h, tygodniowo, karty Visa]. Okrągłe wartości
+# dobrane raz na danych Łodzi i Krakowa 2025/26 (≈ mediana, 80. i 93. percentyl), potem stałe.
+PROGI_PRESJI = (0.05, 0.15, 0.30)
 MIN_KART = 30
 ZA_MALO_DANYCH = "za mało danych"
 
@@ -45,7 +48,8 @@ def tabela_p(agg_strefy: pd.DataFrame) -> pd.DataFrame:
     """agg_strefy (kod × blok × sezon) → tabela P.
 
     Zwraca po jednym wierszu na kod × sezon × blok (pełna siatka) z kolumnami `KOLUMNY_TABELI_P`:
-    `poziom` P1–P4, `adnotacja` („za mało danych” albo ""), `percentyl` 0–100 (NaN bez danych).
+    `poziom` P1–P4 z progów `PROGI_PRESJI`, `adnotacja` („za mało danych” albo ""),
+    `percentyl` 0–100 w mieście i sezonie (informacyjnie; NaN bez danych).
     """
     df = _pelna_siatka(agg_strefy)
     malo = (
@@ -58,8 +62,7 @@ def tabela_p(agg_strefy: pd.DataFrame) -> pd.DataFrame:
     ok = df[~malo]
     ranga = ok.groupby("sezon")["presja"].rank(method="min")
     n = ok.groupby("sezon")["presja"].transform("size")
-    # Porównanie na liczbach całkowitych: ranga/n ≤ próg/100 ⇔ 100·ranga ≤ próg·n.
-    klasa = sum((100 * ranga > p * n).astype(int) for p in PROGI_PERCENTYLI)
+    klasa = sum((ok["presja"] > p).astype(int) for p in PROGI_PRESJI)
 
     df["percentyl"] = (100 * ranga / n).reindex(df.index)
     df["poziom"] = pd.Series(np.array(POZIOMY)[klasa.to_numpy()], index=ok.index).reindex(df.index).fillna("P1")
