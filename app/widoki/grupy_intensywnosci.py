@@ -3,8 +3,10 @@
 import pandas as pd
 import streamlit as st
 
-from app.kontekst import ETYKIETY_BLOKOW, ETYKIETY_SEZONOW, Kontekst
+from app.kontekst import ETYKIETY_BLOKOW, ETYKIETY_SEZONOW, NAZWY_USLUG, Kontekst
 from parkflow.dane import kody_wylaczone
+from parkflow.model import POZIOMY
+from parkflow.taryfa import POLITYKA, tabela_stawek
 
 TYTUL = "Edycja grup intensywności"
 
@@ -29,14 +31,45 @@ def sprawdz_grupy(grupy: pd.DataFrame) -> pd.DataFrame:
     return wynik
 
 
+# Podgląd pokazuje cenę kolejnych godzin (widać, że pierwsza jest najtańsza); CSV ma pełny zestaw
+# kolumn z parkflow.taryfa.KOLUMNY_STAWEK.
+ETYKIETY_GODZIN = {"godzina_1_zl": "1. godzina [zł]", "godzina_2_zl": "2. godzina [zł]",
+                   "godzina_3_zl": "3. godzina [zł]", "koszt_3h_zl": "Razem 3 h [zł]"}
+
+
+def _zl(v: float) -> str:
+    return f"{v:.2f}".replace(".", ",") + " zł"
+
+
+def stawki_poziomow() -> pd.DataFrame:
+    """Proponowane stawki P1–P4 bez przesunięcia okresu: początek postoju i cena kolejnych godzin."""
+    wiersze = []
+    for poziom in POZIOMY:
+        t = POLITYKA.taryfa(poziom)
+        koszt = [t.koszt(60 * h) for h in range(4)]
+        wiersze.append({"Poziom": poziom, "Początek postoju": opis_startu(t.okres_pref_min, t.cena_pref, t.ryczalt),
+                        **{f"{h}. godzina [zł]": round(koszt[h] - koszt[h - 1], 2) for h in (1, 2, 3)},
+                        "Razem 3 h [zł]": round(koszt[3], 2)})
+    return pd.DataFrame(wiersze)
+
+
+def opis_startu(okres_min: int, cena: float, ryczalt: bool) -> str:
+    """Okres preferencyjny słowami: opłata stała (ryczałt) albo stawka godzinowa."""
+    if ryczalt:
+        return f"{_zl(cena)} za pierwsze {okres_min} min (opłata stała)"
+    return f"{_zl(cena)}/h przez pierwsze {okres_min} min"
+
+
 def sektory_do_edycji(ctx: Kontekst) -> pd.DataFrame:
+    """Sektory SPP z danymi w sezonie i bloku + taryfa wyliczona przez model dla poziomu modelu."""
     k = ctx.komorki
     wykluczone = kody_wylaczone(ctx.agregaty.katalog)
-    return k.loc[
+    sektory = k.loc[
         k["spp"].eq(True) & ~k["za_malo_danych"] & k["presja"].notna()
         & k["karty_przyjezdne"].ge(30) & ~k["kod"].isin(wykluczone),
         ["kod", "sezon", "blok", "poziom", "presja", "percentyl", "karty_przyjezdne"],
     ].sort_values("kod").reset_index(drop=True)
+    return sektory.join(tabela_stawek(sektory, ctx.agregaty.grupy, ctx.sezon, ctx.blok))
 
 
 def przygotuj_eksport(sektory: pd.DataFrame, przypisania: dict[str, str], grupy: pd.DataFrame) -> pd.DataFrame:
@@ -56,6 +89,7 @@ def render(ctx: Kontekst) -> None:
     st.caption(
         "Zmień grupy i przypisania sektorów, a następnie pobierz CSV. "
         "Zmiany obowiązują w tej sesji i nie zmieniają taryf ani wyników modelu na mapie. "
+        "Podgląd i CSV zawierają stawki wyliczone przez model dla poziomu modelu (bez ulgi mieszkańca). "
         "Przed pobraniem pliku zatwierdź edycję przyciskiem pod tabelą."
     )
     if "intensywnosc_grupy" not in st.session_state:
@@ -136,14 +170,39 @@ def render(ctx: Kontekst) -> None:
                     st.session_state.intensywnosc_wersja += 1
                     st.rerun()
 
-        st.markdown("**3. Podgląd zatwierdzonych przypisań i eksport**")
+        st.markdown("**3. Proponowane stawki i eksport**")
+        st.dataframe(stawki_poziomow(), hide_index=True, width="content",
+                     column_config={f"{h}. godzina [zł]": st.column_config.NumberColumn(format="%.2f")
+                                    for h in (1, 2, 3)} | {"Razem 3 h [zł]": st.column_config.NumberColumn(format="%.2f")})
         eksport = przygotuj_eksport(sektory, przypisania, grupy)
         st.caption(
             f"{len(eksport)} sektorów · {int(eksport['zmienione_recznie'].sum())} przypisań innych niż wynik modelu. "
-            "Eksport obejmuje aktualny sezon i blok godzinowy, wraz z nazwami i opisami grup."
+            "Eksport obejmuje aktualny sezon i blok godzinowy, wraz z nazwami i opisami grup "
+            "oraz proponowanymi stawkami. Stawki wynikają z poziomu modelu, nie z ręcznie przypisanej grupy."
         )
-        st.dataframe(eksport[["kod", "poziom_modelu", "grupa_id", "grupa_nazwa", "zmienione_recznie"]],
-                     hide_index=True, width="stretch")
+        podglad = eksport[["kod", "poziom_modelu", "grupa_nazwa", "zmienione_recznie", *ETYKIETY_GODZIN]].copy()
+        podglad.insert(4, "start", [opis_startu(o, c, r) for o, c, r in
+                                    zip(eksport["okres_pref_min"], eksport["cena_pref_zl"], eksport["ryczalt"])])
+        podglad["dominujaca_grupa"] = eksport["dominujaca_grupa"].map(NAZWY_USLUG).fillna("brak danych")
+        st.dataframe(
+            podglad.rename(columns=ETYKIETY_GODZIN), hide_index=True, width="stretch",
+            column_config={
+                "kod": "Sektor", "poziom_modelu": "Poziom modelu", "grupa_nazwa": "Przypisana grupa",
+                "zmienione_recznie": "Zmienione ręcznie", "start": "Początek postoju (okres preferencyjny)",
+                "dominujaca_grupa": "Dominująca grupa usług",
+                **{e: st.column_config.NumberColumn(format="%.2f") for e in ETYKIETY_GODZIN.values()},
+            },
+        )
+        st.caption(
+            "Wszystkie stawki to propozycja modelu, a nie obowiązujący cennik. Początek postoju jest tańszy, "
+            "żeby zachęcić do krótkich wizyt, a kolejne godziny drożeją, żeby zwalniać miejsca. "
+            "Opłata stała (ryczałt, P3 i P4) to jedna kwota za cały okres preferencyjny, np. 1,80 zł za pierwsze 30 min, "
+            "płacona także przy krótszym postoju; po nim płaci się za każdą minutę. Okres preferencyjny jest "
+            "dłuższy lub krótszy o 15 min zależnie od dominującej grupy usług w sektorze. Kwoty bez ulgi mieszkańca. "
+            "Okres preferencyjny trwa najwyżej godzinę. "
+            "CSV zawiera dodatkowo: długość okresu preferencyjnego, stawki godzinowe do 2 h i po 2 h "
+            "oraz koszt 1, 2 i 3 h łącznie."
+        )
         st.download_button(
             "Pobierz przypisania CSV", eksport.to_csv(index=False).encode("utf-8-sig"),
             file_name=f"przypisania_{ctx.sezon}_{ctx.blok}.csv", mime="text/csv",

@@ -118,12 +118,13 @@ P1–P4 **zastępują** podstrefy A/B/C. **S = 6,00 zł** (dzisiejsze B bez ulgi
 
 | | Okres preferencyjny | Cena w okresie pref. | Następnie | Po 2 h |
 |---|---|---|---|---|
-| P1 | 2 h | 3,60 zł/h (0,6·S) | 4,80 zł/h (0,8·S) | 4,80 zł/h |
+| P1 | 1 h | 3,60 zł/h (0,6·S) | 4,80 zł/h (0,8·S) | 4,80 zł/h |
 | P2 | 1 h | 6,00 zł/h (S) | 7,20 zł/h (1,2·S) | 8,40 zł/h (1,4·S) |
 | P3 | 45 min | 3,00 zł za cały okres (0,5·S) | 9,00 zł/h (1,5·S) | 12,00 zł/h (2·S) |
 | P4 | 30 min | 1,80 zł za cały okres (0,3·S) | 12,00 zł/h (2·S) | 18,00 zł/h (3·S) |
 
-- Okres preferencyjny przesuwa się o ±15 min zależnie od dominującej grupy usług w strefie i bloku (krócej dla szybkich usług, dłużej dla usług osobistych i rozrywki).
+- Okres preferencyjny trwa **najwyżej 1 h** (IX 2026: P1 skrócony z 2 h; tańszy początek postoju rekomendujemy tylko na pierwszą godzinę).
+- Okres preferencyjny przesuwa się o ±15 min zależnie od dominującej grupy usług w strefie i bloku (krócej dla szybkich usług, dłużej dla usług osobistych i rozrywki), ale po wydłużeniu nie przekracza 1 h.
 - Ulga mieszkańca: mnożnik ×0,85 na każdym poziomie.
 - Stawka jest blokowana na starcie postoju.
 

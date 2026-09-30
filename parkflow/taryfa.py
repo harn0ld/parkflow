@@ -3,11 +3,11 @@
 Polityka cenowa to dane (`Polityka`, domyślnie `POLITYKA`): stawka bazowa S = 6,00 zł i tabela
 mnożników S dla P1–P4. Taryfa poziomu ma trzy odcinki liczone od startu postoju:
 
-1. okres preferencyjny (P1 2 h, P2 1 h, P3 45 min, P4 30 min): P1/P2 stawka godzinowa
-   naliczana proporcjonalnie, P3/P4 ryczałt „za cały okres” (należny także przy krótszym postoju);
+1. okres preferencyjny (P1 i P2 1 h, P3 45 min, P4 30 min; po przesunięciu najwyżej 1 h):
+   P1/P2 stawka godzinowa naliczana proporcjonalnie, P3/P4 ryczałt „za cały okres” (należny także
+   przy krótszym postoju);
 2. „następnie”: stawka godzinowa od końca okresu preferencyjnego do 2 h postoju;
-3. „po 2 h”: stawka godzinowa od 2 h postoju (albo od końca okresu preferencyjnego, jeśli ten
-   trwa dłużej niż 2 h, np. P1 + 15 min).
+3. „po 2 h”: stawka godzinowa od 2 h postoju.
 
 Naliczanie po okresie preferencyjnym jest proporcjonalne do minut. Stawka jest blokowana na
 starcie postoju: poziom z chwili startu obowiązuje przez cały postój.
@@ -19,7 +19,8 @@ kod × sezon × blok (`agg_grupy`):
   w zapotrzebowaniu na miejsca, a nie liczba klientów); remis → więcej `karty_przyjezdne`,
   potem kolejność alfabetyczna nazwy grupy; brak wierszy (grupy < 30 kart) → brak przesunięcia;
 - skraca o 15 min: `szybkie_uslugi` (czas domyślny wizyty 15 min);
-- wydłuża o 15 min: `uslugi_osobiste` (90 min) i `rozrywka_kultura` (120 min);
+- wydłuża o 15 min: `uslugi_osobiste` (90 min) i `rozrywka_kultura` (120 min), ale nie ponad
+  `max_okres_pref_min` (1 h) — tańszy początek postoju rekomendujemy najwyżej na godzinę;
 - bez zmian: `spozywcze_male`, `handel`, `gastronomia` (w dokumencie v0 „średni okres”).
 
 Przesunięcie zmienia tylko długość okresu preferencyjnego; cena ryczałtu i stawki się nie zmieniają.
@@ -78,13 +79,14 @@ class Taryfa:
 class Polityka:
     stawka_bazowa: float = 6.00
     mnozniki: dict[str, Mnozniki] = field(default_factory=lambda: {
-        "P1": Mnozniki(120, 0.6, False, 0.8, 0.8),
+        "P1": Mnozniki(60, 0.6, False, 0.8, 0.8),
         "P2": Mnozniki(60, 1.0, False, 1.2, 1.4),
         "P3": Mnozniki(45, 0.5, True, 1.5, 2.0),
         "P4": Mnozniki(30, 0.3, True, 2.0, 3.0),
     })
     ulga: float = 0.85
     prog_min: int = 120
+    max_okres_pref_min: int = 60  # okres preferencyjny po przesunięciu nie dłuższy niż 1 h
     przesuniecia: dict[str, int] = field(default_factory=lambda: {
         "szybkie_uslugi": -15,
         "uslugi_osobiste": 15,
@@ -96,7 +98,7 @@ class Polityka:
         s = self.stawka_bazowa * (self.ulga if ulga else 1.0)
         return Taryfa(
             poziom=poziom,
-            okres_pref_min=m.okres_pref_min + przesuniecie_min,
+            okres_pref_min=min(m.okres_pref_min + przesuniecie_min, self.max_okres_pref_min),
             cena_pref=round(m.cena_pref * s, 2),
             ryczalt=m.ryczalt,
             stawka_potem=round(m.potem * s, 2),
@@ -131,6 +133,35 @@ def dominujaca_grupa(agg_grupy: pd.DataFrame, kod: str, sezon: str, blok: str) -
     return str(g["grupa"].iloc[0])
 
 
+KOLUMNY_STAWEK = ["dominujaca_grupa", "okres_pref_min", "ryczalt", "cena_pref_zl", "stawka_potem_zl",
+                  "stawka_po_2h_zl", "godzina_1_zl", "godzina_2_zl", "godzina_3_zl",
+                  "koszt_1h_zl", "koszt_2h_zl", "koszt_3h_zl"]
+
+
+def tabela_stawek(sektory: pd.DataFrame, agg_grupy: pd.DataFrame, sezon: str, blok: str,
+                  polityka: "Polityka" = POLITYKA) -> pd.DataFrame:
+    """Kod + poziom (jeden sezon i blok) → taryfa modelu w złotych, bez ulgi, jak w „Wyliczeniach taryf”.
+
+    Okres preferencyjny przesunięty wg dominującej grupy usług komórki. `cena_pref_zl` to zł/h albo
+    zł za cały okres, gdy `ryczalt`; `stawka_potem_zl` jest pusta, gdy okres preferencyjny trwa do
+    progu 2 h lub dłużej (odcinka „następnie” nie ma). `godzina_N_zl` to cena N-tej godziny postoju
+    (różnica kosztów), `koszt_Nh_zl` — łączny koszt N godzin. Wiersze i indeks jak w `sektory`.
+    """
+    wiersze = []
+    for kod, poziom in zip(sektory["kod"], sektory["poziom"]):
+        grupa = dominujaca_grupa(agg_grupy, kod, sezon, blok)
+        t = polityka.taryfa(poziom, przesuniecie_min=przesuniecie_okresu(grupa, polityka))
+        wiersze.append({
+            "dominujaca_grupa": grupa, "okres_pref_min": t.okres_pref_min, "ryczalt": t.ryczalt,
+            "cena_pref_zl": t.cena_pref,
+            "stawka_potem_zl": t.stawka_potem if t.okres_pref_min < t.prog_min else None,
+            "stawka_po_2h_zl": t.stawka_po_2h,
+            **{f"godzina_{h}_zl": round(t.koszt(60 * h) - t.koszt(60 * (h - 1)), 2) for h in (1, 2, 3)},
+            **{f"koszt_{h}h_zl": round(t.koszt(60 * h), 2) for h in (1, 2, 3)},
+        })
+    return pd.DataFrame(wiersze, columns=KOLUMNY_STAWEK, index=sektory.index)
+
+
 def blok_dla(chwila: datetime) -> str | None:
     """Blok dla chwili (czas lokalny); None poza pn–pt 7–19 (parkowanie bezpłatne)."""
     if chwila.weekday() >= 5 or not GODZINY_SPP[0] <= chwila.hour < GODZINY_SPP[1]:
@@ -147,6 +178,8 @@ def _zl(kwota: float) -> str:
 
 
 def _czas(minuty: int) -> str:
+    if minuty <= 60:
+        return f"{minuty} min"
     h, m = divmod(minuty, 60)
     if h and m:
         return f"{h} h {m} min"

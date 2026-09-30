@@ -14,6 +14,7 @@ from parkflow.taryfa import (
     karta_kierowcy,
     koszt_postoju,
     przesuniecie_okresu,
+    tabela_stawek,
 )
 
 PN_10_30 = datetime(2025, 10, 6, 10, 30)  # poniedziałek
@@ -24,7 +25,7 @@ PN_10_30 = datetime(2025, 10, 6, 10, 30)  # poniedziałek
 def test_polityka_s_6_zl_i_tabela_mnoznikow_ze_specu():
     t = {p: POLITYKA.taryfa(p) for p in ("P1", "P2", "P3", "P4")}
     assert POLITYKA.stawka_bazowa == 6.00
-    assert (t["P1"].okres_pref_min, t["P1"].cena_pref, t["P1"].ryczalt) == (120, 3.60, False)
+    assert (t["P1"].okres_pref_min, t["P1"].cena_pref, t["P1"].ryczalt) == (60, 3.60, False)
     assert (t["P1"].stawka_potem, t["P1"].stawka_po_2h) == (4.80, 4.80)
     assert (t["P2"].okres_pref_min, t["P2"].cena_pref, t["P2"].ryczalt) == (60, 6.00, False)
     assert (t["P2"].stawka_potem, t["P2"].stawka_po_2h) == (7.20, 8.40)
@@ -44,7 +45,7 @@ def test_stawki_skaluja_sie_z_s():
     ("P4", 90, 13.80),   # 1,80 za 30 min + 60 min × 12,00 zł/h
     ("P4", 20, 1.80),    # ryczałt za cały okres, nawet gdy krócej
     ("P4", 150, 28.80),  # 1,80 + 90 min × 12 + 30 min × 18
-    ("P1", 180, 12.00),  # 2 h × 3,60 + 1 h × 4,80
+    ("P1", 180, 13.20),  # 1 h × 3,60 + 2 h × 4,80
     ("P1", 60, 3.60),
     ("P2", 180, 21.60),  # 1 h × 6,00 + 1 h × 7,20 + 1 h × 8,40
     ("P3", 45, 3.00),
@@ -58,7 +59,7 @@ def test_koszt_postoju(poziom, minuty, oczekiwany):
 
 def test_ulga_mieszkanca_085():
     assert koszt_postoju("P4", 90, ulga=True) == pytest.approx(13.80 * 0.85)
-    assert koszt_postoju("P1", 180, ulga=True) == pytest.approx(10.20)
+    assert koszt_postoju("P1", 180, ulga=True) == pytest.approx(13.20 * 0.85)
     assert POLITYKA.taryfa("P3", ulga=True).stawka_potem == pytest.approx(7.65)
 
 
@@ -67,8 +68,11 @@ def test_przesuniecie_okresu_preferencyjnego_w_koszcie():
     assert koszt_postoju("P4", 90, przesuniecie_min=-15) == pytest.approx(1.80 + 15.00)
     # P4 wydłużony do 45 min: 1,80 + 45 min × 12 zł/h.
     assert koszt_postoju("P4", 90, przesuniecie_min=15) == pytest.approx(1.80 + 9.00)
-    # P1 wydłużony do 2 h 15 min: preferencyjna stawka także po 2 h, do końca okresu.
-    assert koszt_postoju("P1", 180, przesuniecie_min=15) == pytest.approx(135 / 60 * 3.60 + 45 / 60 * 4.80)
+    # P1 i P2 nie wydłużają się ponad 1 h: przesunięcie +15 min nic nie zmienia.
+    assert koszt_postoju("P1", 180, przesuniecie_min=15) == koszt_postoju("P1", 180)
+    assert POLITYKA.taryfa("P2", przesuniecie_min=15).okres_pref_min == 60
+    # P1 skrócony do 45 min: 45 min × 3,60 + 135 min × 4,80.
+    assert koszt_postoju("P1", 180, przesuniecie_min=-15) == pytest.approx(2.70 + 10.80)
     # P2 skrócony do 45 min: 45 min × 6 + 75 min × 7,20 + 60 min × 8,40.
     assert koszt_postoju("P2", 180, przesuniecie_min=-15) == pytest.approx(4.50 + 9.00 + 8.40)
 
@@ -175,7 +179,7 @@ def test_karta_kierowcy_przesuniecie_i_ulga(tabela):
 def test_karta_kierowcy_p1_bez_osobnej_stawki_po_2h(tabela):
     k = karta_kierowcy(tabela, pd.DataFrame([]), "90-001", "lato", PN_10_30)
     assert k.komunikat == (
-        "Ta strefa ma teraz poziom P1 (do 19:00). Pierwsze 2 h kosztuje 3,60 zł/h, potem 4,80 zł/h."
+        "Ta strefa ma teraz poziom P1 (do 19:00). Pierwsze 60 min kosztuje 3,60 zł/h, potem 4,80 zł/h."
     )
 
 
@@ -196,3 +200,19 @@ def test_koszty_kolejnych_godzin(tabela):
     # P4: 1,80 + 30 min × 12 = 7,80; potem 12,00; po 2 h 18,00.
     assert k.koszty_godzin(3) == pytest.approx([7.80, 12.00, 18.00])
     assert k.koszty_godzin(3, ulga=True) == pytest.approx([7.80 * 0.85, 12.00 * 0.85, 18.00 * 0.85])
+
+
+def test_tabela_stawek_jak_w_wyliczeniach_z_przesunieciem_wg_dominujacej_grupy():
+    agg = pd.DataFrame([grupa("90-001", "szybkie_uslugi", 2.0), grupa("90-001", "handel", 1.0)])
+    sektory = pd.DataFrame({"kod": ["90-001", "90-002"], "poziom": ["P4", "P1"]}, index=[5, 7])
+    t = tabela_stawek(sektory, agg, "lato", "10-13")
+    assert t.index.tolist() == [5, 7]
+    p4, p1 = t.loc[5].to_dict(), t.loc[7].to_dict()
+    # P4: 30 min − 15 (szybkie usługi), ryczałt 0,3 × 6; potem 2 × 6 do 2 h; po 2 h 3 × 6
+    assert p4 == dict(dominujaca_grupa="szybkie_uslugi", okres_pref_min=15, ryczalt=True, cena_pref_zl=1.80,
+                      stawka_potem_zl=12.00, stawka_po_2h_zl=18.00, godzina_1_zl=10.80, godzina_2_zl=12.00,
+                      godzina_3_zl=18.00, koszt_1h_zl=10.80, koszt_2h_zl=22.80, koszt_3h_zl=40.80)
+    # P1 bez grup ≥ 30 kart: 1 h po 3,60, potem 4,80 zł/h
+    assert pd.isna(p1["dominujaca_grupa"]) and p1["okres_pref_min"] == 60 and not p1["ryczalt"]
+    assert [p1[k] for k in ("cena_pref_zl", "stawka_potem_zl", "stawka_po_2h_zl", "godzina_1_zl", "godzina_2_zl",
+                            "koszt_3h_zl")] == [3.60, 4.80, 4.80, 3.60, 4.80, 13.20]

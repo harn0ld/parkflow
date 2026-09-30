@@ -34,9 +34,8 @@ def render(ctx: Kontekst) -> None:
         "potem z wyższym percentylem w aktualnie wybranym bloku. "
         "Lista uwzględnia tylko SPP i sektory z wystarczającymi danymi."
     )
-    st.dataframe(wynik[["kod", "poziom", "bloki_wysokiej_presji", "bloki_z_danymi", "dzialanie"]].rename(columns={
-        "kod": "Sektor", "poziom": "Poziom", "bloki_wysokiej_presji": "Bloki P3/P4",
-        "bloki_z_danymi": "Bloki z danymi", "dzialanie": "Co sprawdzić",
+    st.dataframe(wynik[["kod", "poziom", "bloki_z_danymi", "dzialanie"]].rename(columns={
+        "kod": "Sektor", "poziom": "Poziom", "bloki_z_danymi": "Bloki z danymi", "dzialanie": "Co sprawdzić",
     }), hide_index=True, width="stretch")
     kod = st.selectbox("Zobacz rekomendację dla sektora", list(wynik["kod"]), key="rekomendacja_kod")
     r = wynik.set_index("kod").loc[kod]
