@@ -1,0 +1,7 @@
+# Aplikacja ma tylko jasny motyw: oprawa (app/assets/oprawa.css) i mapy są projektowane na jasne tło.
+[theme]
+base = "light"
+
+[client]
+# Bez menu ustawień, więc bez przełącznika na ciemny motyw.
+toolbarMode = "minimal"
